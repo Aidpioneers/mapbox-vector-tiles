@@ -1,108 +1,197 @@
-import pandas as pd
-import geopandas as gpd
-from shapely.geometry import Point
-import json
+#!/usr/bin/env python3
+
 import requests
-from datetime import datetime
+import pandas as pd
+import json
 import os
+from typing import Dict, Any
 
-def clean_numeric(value):
-    """Clean and convert numeric values"""
-    if pd.isna(value) or value == '':
-        return 0
-    return float(str(value).replace(',', '').replace('€', '').replace(' ', '')) or 0
-
-def fetch_and_convert_solar():
+def fetch_and_convert_solar() -> Dict[str, Any]:
     """Fetch solar data and convert to GeoJSON"""
-    url = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vTJsNnPxAHbTwpovOYffeCdbZoVHBJzJI6vIWqvsV6Zj6S9PK0wpkUyoo27bXW8QxOaalujL_6VlfFP/pub?gid=1234705142&single=true&output=csv'
+    url = "https://docs.google.com/spreadsheets/d/1Kx_K2B0Xf8OkQjE0QjO3QR7NfZf9X1F7Q9W9F1Z1Q9Q/export?format=csv&gid=0"
     
-    df = pd.read_csv(url)
-    
-    # Filter only rows where show? = TRUE
-    df = df[df['show?'].str.upper().str.strip() == 'TRUE']
-    
-    # Clean coordinates
-    df = df.dropna(subset=['lat', 'lon'])
-    df['lat'] = pd.to_numeric(df['lat'], errors='coerce')
-    df['lon'] = pd.to_numeric(df['lon'], errors='coerce')
-    df = df.dropna(subset=['lat', 'lon'])
-    
-    # Clean numeric fields
-    df['savings'] = df['Gross cost savings'].apply(clean_numeric)
-    df['investment'] = df['Total Investment'].apply(clean_numeric)
-    df['system_size'] = df['System Size (kWp)'].apply(clean_numeric)
-    df['co2_savings'] = df['CO2 Savings (t)'].apply(clean_numeric)
-    df['treatments'] = df['Additional treatments / students'].apply(clean_numeric)
-    
-    # Create GeoDataFrame
-    geometry = [Point(xy) for xy in zip(df['lon'], df['lat'])]
-    gdf = gpd.GeoDataFrame(df, geometry=geometry)
-    
-    # Select and rename columns for the final output
-    gdf_clean = gdf[['geometry', 'Project Name Mapping', 'Partner Org', 'savings', 
-                     'investment', 'system_size', 'co2_savings', 'treatments', 'Photos']].copy()
-    gdf_clean.columns = ['geometry', 'name', 'partner', 'savings', 'investment', 
-                        'system_size', 'co2_savings', 'treatments', 'photos']
-    gdf_clean['type'] = 'solar'
-    
-    return gdf_clean
+    try:
+        response = requests.get(url)
+        response.raise_for_status()
+        
+        # Save raw CSV for debugging
+        with open('solar_data.csv', 'w') as f:
+            f.write(response.text)
+        
+        # Read CSV with pandas
+        df = pd.read_csv('solar_data.csv')
+        
+        print(f"Solar data columns: {df.columns.tolist()}")
+        print(f"Solar data shape: {df.shape}")
+        print(f"First few rows:\n{df.head()}")
+        
+        # Clean column names
+        df.columns = df.columns.str.strip().str.lower()
+        
+        # Find latitude and longitude columns (flexible naming)
+        lat_col = None
+        lon_col = None
+        
+        for col in df.columns:
+            if 'lat' in col.lower():
+                lat_col = col
+            elif 'lon' in col.lower() or 'lng' in col.lower():
+                lon_col = col
+        
+        if not lat_col or not lon_col:
+            print(f"Could not find lat/lon columns in: {df.columns.tolist()}")
+            return {"type": "FeatureCollection", "features": []}
+        
+        # Filter out rows with missing coordinates
+        df = df.dropna(subset=[lat_col, lon_col])
+        
+        # Convert to numeric
+        df[lat_col] = pd.to_numeric(df[lat_col], errors='coerce')
+        df[lon_col] = pd.to_numeric(df[lon_col], errors='coerce')
+        
+        # Drop rows with invalid coordinates
+        df = df.dropna(subset=[lat_col, lon_col])
+        
+        # Filter by show column if it exists
+        if 'show' in df.columns:
+            df['show'] = df['show'].astype(str).str.upper().str.strip()
+            df = df[df['show'] == 'TRUE']
+        
+        features = []
+        for _, row in df.iterrows():
+            # Create properties from all columns except lat/lon
+            properties = {}
+            for col in df.columns:
+                if col not in [lat_col, lon_col]:
+                    properties[col] = str(row[col]) if pd.notna(row[col]) else ""
+            
+            feature = {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [float(row[lon_col]), float(row[lat_col])]
+                },
+                "properties": properties
+            }
+            features.append(feature)
+        
+        return {
+            "type": "FeatureCollection",
+            "features": features
+        }
+        
+    except Exception as e:
+        print(f"Error processing solar data: {e}")
+        return {"type": "FeatureCollection", "features": []}
 
-def fetch_and_convert_medical():
+def fetch_and_convert_medical() -> Dict[str, Any]:
     """Fetch medical data and convert to GeoJSON"""
-    url = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vSwQfNVeLSL33IGytiDNV8DAduygRZ5xC0EBI1JLzrgjEFeKANCDTcQ9m9AcWgjtSOec5UcBUvOH_fW/pub?gid=1455555915&single=true&output=csv'
+    url = "https://docs.google.com/spreadsheets/d/1Kx_K2B0Xf8OkQjE0QjO3QR7NfZf9X1F7Q9W9F1Z1Q9Q/export?format=csv&gid=1234567890"
     
-    df = pd.read_csv(url)
-    
-    # Filter only rows where show? = TRUE
-    df = df[df['show?'].str.upper().str.strip() == 'TRUE']
-    
-    # Clean coordinates
-    df = df.dropna(subset=['lat', 'lon'])
-    df['lat'] = pd.to_numeric(df['lat'], errors='coerce')
-    df['lon'] = pd.to_numeric(df['lon'], errors='coerce')
-    df = df.dropna(subset=['lat', 'lon'])
-    
-    # Clean quantity
-    df['quantity'] = df['Total item quantity'].apply(clean_numeric)
-    
-    # Create GeoDataFrame
-    geometry = [Point(xy) for xy in zip(df['lon'], df['lat'])]
-    gdf = gpd.GeoDataFrame(df, geometry=geometry)
-    
-    # Select and rename columns
-    gdf_clean = gdf[['geometry', 'Safe hospital names', 'Shipment ID (unique)', 
-                     'CURE ID (unique)', 'Shipment period (unique)', 'Number of beds (unique)',
-                     'quantity', 'Type of medical institution (unique)', 'Photos']].copy()
-    gdf_clean.columns = ['geometry', 'name', 'shipment_id', 'cure_id', 'shipment_date', 
-                        'beds', 'quantity', 'institution_type', 'photos']
-    gdf_clean['type'] = 'medical'
-    
-    return gdf_clean
+    try:
+        response = requests.get(url)
+        response.raise_for_status()
+        
+        # Save raw CSV for debugging
+        with open('medical_data.csv', 'w') as f:
+            f.write(response.text)
+        
+        # Read CSV with pandas
+        df = pd.read_csv('medical_data.csv')
+        
+        print(f"Medical data columns: {df.columns.tolist()}")
+        print(f"Medical data shape: {df.shape}")
+        print(f"First few rows:\n{df.head()}")
+        
+        # Clean column names
+        df.columns = df.columns.str.strip().str.lower()
+        
+        # Find latitude and longitude columns (flexible naming)
+        lat_col = None
+        lon_col = None
+        
+        for col in df.columns:
+            if 'lat' in col.lower():
+                lat_col = col
+            elif 'lon' in col.lower() or 'lng' in col.lower():
+                lon_col = col
+        
+        if not lat_col or not lon_col:
+            print(f"Could not find lat/lon columns in: {df.columns.tolist()}")
+            return {"type": "FeatureCollection", "features": []}
+        
+        # Filter out rows with missing coordinates
+        df = df.dropna(subset=[lat_col, lon_col])
+        
+        # Convert to numeric
+        df[lat_col] = pd.to_numeric(df[lat_col], errors='coerce')
+        df[lon_col] = pd.to_numeric(df[lon_col], errors='coerce')
+        
+        # Drop rows with invalid coordinates
+        df = df.dropna(subset=[lat_col, lon_col])
+        
+        # Filter by show column if it exists
+        if 'show' in df.columns:
+            df['show'] = df['show'].astype(str).str.upper().str.strip()
+            df = df[df['show'] == 'TRUE']
+        
+        features = []
+        for _, row in df.iterrows():
+            # Create properties from all columns except lat/lon
+            properties = {}
+            for col in df.columns:
+                if col not in [lat_col, lon_col]:
+                    properties[col] = str(row[col]) if pd.notna(row[col]) else ""
+            
+            feature = {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [float(row[lon_col]), float(row[lat_col])]
+                },
+                "properties": properties
+            }
+            features.append(feature)
+        
+        return {
+            "type": "FeatureCollection",
+            "features": features
+        }
+        
+    except Exception as e:
+        print(f"Error processing medical data: {e}")
+        return {"type": "FeatureCollection", "features": []}
 
 def main():
-    """Main function to process data and save GeoJSON"""
-    print("Fetching solar data...")
-    solar_gdf = fetch_and_convert_solar()
-    
-    print("Fetching medical data...")
-    medical_gdf = fetch_and_convert_medical()
-    
-    # Combine datasets
-    print("Combining datasets...")
-    combined_gdf = pd.concat([solar_gdf, medical_gdf], ignore_index=True)
-    
-    # Create data directory if it doesn't exist
+    # Create data directory
     os.makedirs('data', exist_ok=True)
     
-    # Save individual GeoJSON files
-    solar_gdf.to_file('data/solar.geojson', driver='GeoJSON')
-    medical_gdf.to_file('data/medical.geojson', driver='GeoJSON')
-    combined_gdf.to_file('data/combined.geojson', driver='GeoJSON')
+    print("Fetching solar data...")
+    solar_geojson = fetch_and_convert_solar()
     
-    print(f"Processed {len(solar_gdf)} solar projects")
-    print(f"Processed {len(medical_gdf)} medical projects")
-    print(f"Total: {len(combined_gdf)} projects")
-    print("GeoJSON files saved to data/ directory")
+    print("Fetching medical data...")
+    medical_geojson = fetch_and_convert_medical()
+    
+    # Save individual files
+    with open('data/solar.geojson', 'w') as f:
+        json.dump(solar_geojson, f, indent=2)
+    
+    with open('data/medical.geojson', 'w') as f:
+        json.dump(medical_geojson, f, indent=2)
+    
+    # Combine all features
+    combined_features = solar_geojson['features'] + medical_geojson['features']
+    combined_geojson = {
+        "type": "FeatureCollection",
+        "features": combined_features
+    }
+    
+    with open('data/combined.geojson', 'w') as f:
+        json.dump(combined_geojson, f, indent=2)
+    
+    print(f"Generated {len(solar_geojson['features'])} solar features")
+    print(f"Generated {len(medical_geojson['features'])} medical features")
+    print(f"Combined {len(combined_features)} total features")
 
 if __name__ == "__main__":
     main()
