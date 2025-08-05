@@ -8,7 +8,7 @@ from typing import Dict, Any
 
 def fetch_and_convert_solar() -> Dict[str, Any]:
     """Fetch solar data and convert to GeoJSON"""
-    url = "https://docs.google.com/spreadsheets/d/1Kx_K2B0Xf8OkQjE0QjO3QR7NfZf9X1F7Q9W9F1Z1Q9Q/export?format=csv&gid=0"
+    url = "https://docs.google.com/spreadsheets/d/e/2PACX-1vTJsNnPxAHbTwpovOYffeCdbZoVHBJzJI6vIWqvsV6Zj6S9PK0wpkUyoo27bXW8QxOaalujL_6VlfFP/pub?gid=1234705142&single=true&output=csv"
     
     try:
         response = requests.get(url)
@@ -86,7 +86,7 @@ def fetch_and_convert_solar() -> Dict[str, Any]:
 
 def fetch_and_convert_medical() -> Dict[str, Any]:
     """Fetch medical data and convert to GeoJSON"""
-    url = "https://docs.google.com/spreadsheets/d/1Kx_K2B0Xf8OkQjE0QjO3QR7NfZf9X1F7Q9W9F1Z1Q9Q/export?format=csv&gid=1234567890"
+    url = "https://docs.google.com/spreadsheets/d/e/2PACX-1vSwQfNVeLSL33IGytiDNV8DAduygRZ5xC0EBI1JLzrgjEFeKANCDTcQ9m9AcWgjtSOec5UcBUvOH_fW/pub?gid=1455555915&single=true&output=csv"
     
     try:
         response = requests.get(url)
