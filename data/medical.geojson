@@ -14890,7 +14890,7 @@
         "shipment period (unique)": "Jul-23",
         "type of medical institution (unique)": "Hospital",
         "unique hospital names (eng)": "IDA-B0203042 ! Bulbul PHC2",
-        "safe hospital names": "Hospital 11",
+        "safe hospital names": "Hospital 13",
         "region (unique)": "",
         "full location (unique)": "IDA-B0203042 ! Bulbul PHC2",
         "number of beds (unique)": "",
@@ -14926,7 +14926,7 @@
         "shipment period (unique)": "Jul-23",
         "type of medical institution (unique)": "Hospital",
         "unique hospital names (eng)": "SDI-B0203052 ! Alhakeem PHC center 2 Afrin previously khayr - Afrin",
-        "safe hospital names": "Hospital 12",
+        "safe hospital names": "Hospital 15",
         "region (unique)": "",
         "full location (unique)": "SDI-B0203052 ! Alhakeem PHC center 2 Afrin previously khayr - Afrin",
         "number of beds (unique)": "",
@@ -14962,7 +14962,7 @@
         "shipment period (unique)": "Jul-23",
         "type of medical institution (unique)": "Hospital",
         "unique hospital names (eng)": "IHD-G0703062 ! Azmarin PHC",
-        "safe hospital names": "Hospital 13",
+        "safe hospital names": "Hospital 14",
         "region (unique)": "",
         "full location (unique)": "IHD-G0703062 ! Azmarin PHC",
         "number of beds (unique)": "",
@@ -14982,8 +14982,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.3936,
-          36.2294
+          36.3897,
+          35.8621
         ]
       },
       "properties": {
@@ -14998,7 +14998,7 @@
         "shipment period (unique)": "Jul-23",
         "type of medical institution (unique)": "Hospital",
         "unique hospital names (eng)": "Alameen-G0704004 ! Janudiyeh PHC",
-        "safe hospital names": "Hospital 14",
+        "safe hospital names": "Hospital 12",
         "region (unique)": "",
         "full location (unique)": "Alameen-G0704004 ! Janudiyeh PHC",
         "number of beds (unique)": "",
@@ -15018,8 +15018,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.4447,
-          36.4533
+          36.6236,
+          36.5309
         ]
       },
       "properties": {
@@ -15034,7 +15034,7 @@
         "shipment period (unique)": "Jul-23",
         "type of medical institution (unique)": "Hospital",
         "unique hospital names (eng)": "B0203047 ! Alameen -Sheikh El-Hadid PHC",
-        "safe hospital names": "Hospital 15",
+        "safe hospital names": "Hospital 11",
         "region (unique)": "",
         "full location (unique)": "B0203047 ! Alameen -Sheikh El-Hadid PHC",
         "number of beds (unique)": "",
