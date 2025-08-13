@@ -623,7 +623,7 @@
         ]
       },
       "properties": {
-        "show?": "True",
+        "show?": "False",
         "project id": "",
         "project name": "Ziraah",
         "likelihood of completion": "Low",
