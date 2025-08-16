@@ -657,7 +657,7 @@
         ]
       },
       "properties": {
-        "show?": "False",
+        "show?": "True",
         "project id": "SET04",
         "project name": "Lola",
         "likelihood of completion": "Medium",
