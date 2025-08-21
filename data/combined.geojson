@@ -9384,6 +9384,42 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          31.9422,
+          46.9585
+        ]
+      },
+      "properties": {
+        "show?": "True",
+        "raw data (no line breaks)": "MUNICIPAL NON-PROFIT ENTERPRISE CITY HOSPITAL OF EMERGENCY AND AMBULANCE CARE OF ZAPORIZHZHIA CITY COUNCIL",
+        "shipment id (unique)": "MUA21",
+        "cure id (unique)": "22404",
+        "donor (unique)": "EKFS",
+        "country (unique)": "Ukraine",
+        "distribution number (unique)": "1",
+        "distribution id (unique)": "UHU1_01/25",
+        "shipment period (unique)": "Jan-25",
+        "type of medical institution (unique)": "Hospital",
+        "unique hospital names (eng)": "Municipal Non-Profit Enterprise Mykolaiv Regional Clinical Hospital",
+        "safe hospital names": "Hospital 244",
+        "region (unique)": "Mykolaiv",
+        "full location (unique)": "Municipal Non-Profit Enterprise Mykolaiv Regional Clinical Hospital, Mykolaiv",
+        "number of beds (unique)": "663",
+        "item name eng/ukr (unique)": "Surgical Caps And Hats, Shoe Covers, Cloth Products Not Fitting In Other Items, Cubical Curtains, Masks, surgical, Goggles and Face Protection, Goggles, Masks, and Face Protection, Gowns, Patient (incl. Cloth, Paper Protector, Cover-up), Gowns, Patient (incl. Cloth, Paper Protector, Cover-up), Gowns, Surgical, Non-sterile, Lab Coats And Tunics, Scrub Suits, Surgical, Scrubs, FIG, N-95 Masks, Bandaids, Steristrips, Tape, Transparent Dressings (tegaderm), Specialty Dressings (and All Other Dressings Not Fitting In Other Categories), Post-Mortem Body Bag, Bags, Red, Spill Kits And Isolyszer, Sterilization, Tapes, Indicators, Wraps & Pouches, Buffalo caps, prn adaptors and other iv infusion supplies, vial spikes and adaptators, Needles, Mixed Gauges, Syringes, 3cc, Containers and Labels, Lab, Casting Supplies, Stockinette, Web Roll, Plaster, Fiberglass, Cast Shoes, Cast Heels, Splints, Wraps (including Ace), and Slings, Hose Ted (anti- embolism), Bedpans And Urinals, Diapers, Adult, Feeding Tubes, Bags, Pump Set and Supplies, Nasal Cannulas, Respiratory Supplies, Other, Suction Catheter & Glove Kit, Ventilator Tubing and Supplies, Disinfectant and Skin Cleansing Products, Endoscopy Supplies, Endotracheal Tubes, Ear, Nose & Throat Surgery Packs & Supplies, Orthopedic Surgery Packs and Supplies, Urology Surgery Packs & Supplies, Vascular Surgery Packs & Supplies, Drapes, Sterile, Tracheostomy & Cricothyroidotomy supplies, tubes and kits, Cath Lab (cardiac) Supplies, Suction Canisters & Lids, Urinary Bags (Leg and Bedside) And Urinary Supplies, Urinary Catheters, Trays & Insertion Sets, Otoscope / Ophthalmoscope Wall Mounted AC Powered, Thermometer, Forehead, Thermometer, Patient Digital, Hospital Grade Thermometer, Forehead,105801, Wound Vac Canisters, Wound Vac Dressings, IV Pole, Table, Over Bed, Walker, Adult",
+        "total item quantity": "17377.0",
+        "handover protocol link (unique)": "",
+        "picture link (unique)": "",
+        "item list (eng) (unique)": "Surgical Caps And Hats, Shoe Covers, Cloth Products Not Fitting In Other Items, Cubical Curtains, Masks + 37",
+        "short hospital names (eng)": "Mykolaiv regional clinical hospital",
+        "info box text": "",
+        "landing page link": "",
+        "date last updated: new data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           32.0,
           46.98
         ]
@@ -12120,6 +12156,42 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          36.3602,
+          49.9893
+        ]
+      },
+      "properties": {
+        "show?": "True",
+        "raw data (no line breaks)": "BALAKLIA CLINICAL MULTIPROFESSIONAL HOSPITAL OF INTENSIVE TREATMENT of the Balakliya City Council of Kharkiv Region",
+        "shipment id (unique)": "MUA22",
+        "cure id (unique)": "12416",
+        "donor (unique)": "EKFS",
+        "country (unique)": "Ukraine",
+        "distribution number (unique)": "79",
+        "distribution id (unique)": "CMA79_04/25",
+        "shipment period (unique)": "Apr-25",
+        "type of medical institution (unique)": "Hospital",
+        "unique hospital names (eng)": "Municipal non-profit enterprise Regional Clinical Trauma Hospital",
+        "safe hospital names": "Hospital 253",
+        "region (unique)": "",
+        "full location (unique)": "Municipal non-profit enterprise Regional Clinical Trauma Hospital",
+        "number of beds (unique)": "320",
+        "item name eng/ukr (unique)": "Table/ \u00d0\u00a1\u00d1\u0082\u00d1\u0096\u00d0\u00bb, Resuscitation trolley/ \u00d0\u0092\u00d1\u0096\u00d0\u00b7\u00d0\u00be\u00d0\u00ba \u00d0\u00b4\u00d0\u00bb\u00d1\u008f \u00d0\u00bf\u00d1\u0080\u00d0\u00be\u00d0\u00b2\u00d0\u00b5\u00d0\u00b4\u00d0\u00b5\u00d0\u00bd\u00d0\u00bd\u00d1\u008f \u00d1\u0080\u00d0\u00b5\u00d0\u00b0\u00d0\u00bd\u00d1\u0096\u00d0\u00bc\u00d0\u00b0\u00d1\u0086\u00d1\u0096\u00d0\u00b9\u00d0\u00bd\u00d0\u00b8\u00d1\u0085 \u00d0\u00b7\u00d0\u00b0\u00d1\u0085\u00d0\u00be\u00d0\u00b4\u00d1\u0096\u00d0\u00b2, Document storage cabinet/ \u00d0\u00a8\u00d0\u00b0\u00d1\u0084\u00d0\u00b0 \u00d0\u00b4\u00d0\u00bb\u00d1\u008f \u00d0\u00b7\u00d0\u00b1\u00d0\u00b5\u00d1\u0080\u00d1\u0096\u00d0\u00b3\u00d0\u00b0\u00d0\u00bd\u00d0\u00bd\u00d1\u008f \u00d0\u00b4\u00d0\u00be\u00d0\u00ba\u00d1\u0083\u00d0\u00bc\u00d0\u00b5\u00d0\u00bd\u00d1\u0082\u00d1\u0096\u00d0\u00b2, Laundry trolley/ \u00d0\u0092\u00d1\u0096\u00d0\u00b7\u00d0\u00be\u00d0\u00ba \u00d0\u00b4\u00d0\u00bb\u00d1\u008f \u00d0\u00b1\u00d1\u0096\u00d0\u00bb\u00d0\u00b8\u00d0\u00b7\u00d0\u00bd\u00d0\u00b8, Folding bed/ \u00d0\u00a0\u00d0\u00be\u00d0\u00b7\u00d0\u00ba\u00d0\u00bb\u00d0\u00b0\u00d0\u00b4\u00d0\u00bd\u00d0\u00b5 \u00d0\u00bb\u00d1\u0096\u00d0\u00b6\u00d0\u00ba\u00d0\u00be-\u00d0\u00ba\u00d0\u00b0\u00d1\u0082\u00d0\u00b0\u00d0\u00bb\u00d0\u00ba\u00d0\u00b0, Bedside table/ \u00d0\u00a1\u00d1\u0082\u00d0\u00be\u00d0\u00bb\u00d0\u00b8\u00d0\u00ba \u00d0\u00bf\u00d1\u0080\u00d0\u00b8\u00d0\u00bb\u00d1\u0096\u00d0\u00b6\u00d0\u00ba\u00d0\u00be\u00d0\u00b2\u00d0\u00b8\u00d0\u00b9, Transport trolley/ \u00d0\u009f\u00d0\u00b5\u00d1\u0080\u00d0\u00b5\u00d0\u00b2\u00d1\u0096\u00d0\u00b7\u00d0\u00bd\u00d0\u00b0 \u00d0\u00ba\u00d0\u00b0\u00d1\u0082\u00d0\u00b0\u00d0\u00bb\u00d0\u00ba\u00d0\u00b0, Delivery trolley/ \u00d0\u00a0\u00d0\u00be\u00d0\u00b4\u00d0\u00b8\u00d0\u00bb\u00d1\u008c\u00d0\u00bd\u00d0\u00b0 \u00d0\u00ba\u00d0\u00b0\u00d1\u0082\u00d0\u00b0\u00d0\u00bb\u00d0\u00ba\u00d0\u00b0, Storage cabinet/ \u00d0\u00a2\u00d1\u0083\u00d0\u00bc\u00d0\u00b1\u00d0\u00b0 \u00d0\u00b4\u00d0\u00bb\u00d1\u008f \u00d0\u00b7\u00d0\u00b1\u00d0\u00b5\u00d1\u0080\u00d1\u0096\u00d0\u00b3\u00d0\u00b0\u00d0\u00bd\u00d0\u00bd\u00d1\u008f \u00d1\u0080\u00d0\u00b5\u00d1\u0087\u00d0\u00b5\u00d0\u00b9, Office chair/ \u00d0\u009a\u00d1\u0080\u00d1\u0096\u00d1\u0081\u00d0\u00bb\u00d0\u00be \u00d0\u00be\u00d1\u0084\u00d1\u0096\u00d1\u0081\u00d0\u00bd\u00d0\u00b5, Utility trolley for garbage and various\npurposes/ \u00d0\u00a3\u00d1\u0082\u00d0\u00b8\u00d0\u00bb\u00d1\u0096\u00d1\u0082\u00d0\u00b0\u00d1\u0080\u00d0\u00bd\u00d0\u00b8\u00d0\u00b9 \u00d0\u00b2\u00d1\u0096\u00d0\u00b7\u00d0\u00be\u00d0\u00ba \u00d0\u00b4\u00d0\u00bb\u00d1\u008f \u00d1\u0081\u00d0\u00bc\u00d1\u0096\u00d1\u0082\u00d1\u0082\u00d1\u008f \u00d1\u0082\u00d0\u00b0 \u00d1\u0080\u00d1\u0096\u00d0\u00b7\u00d0\u00bd\u00d0\u00be\u00d0\u00b3\u00d0\u00be\n\u00d0\u00bf\u00d1\u0080\u00d0\u00b8\u00d0\u00b7\u00d0\u00bd\u00d0\u00b0\u00d1\u0087\u00d0\u00b5\u00d0\u00bd\u00d0\u00bd\u00d1\u008f, Reception chair/ \u00d0\u00a1\u00d1\u0082\u00d1\u0096\u00d0\u00bb\u00d0\u00b5\u00d1\u0086\u00d1\u008c \u00d0\u00b4\u00d0\u00bb\u00d1\u008f \u00d0\u00bf\u00d1\u0080\u00d0\u00b8\u00d0\u00b9\u00d0\u00bc\u00d0\u00b0\u00d0\u00bb\u00d1\u008c\u00d0\u00bd\u00d1\u0096, Drip stand/ \u00d0\u00a8\u00d1\u0082\u00d0\u00b0\u00d1\u0082\u00d0\u00b8\u00d0\u00b2 \u00d0\u00bf\u00d1\u0096\u00d0\u00b4 \u00d0\u00ba\u00d1\u0080\u00d0\u00b0\u00d0\u00bf\u00d0\u00b5\u00d0\u00bb\u00d1\u008c\u00d0\u00bd\u00d0\u00b8\u00d1\u0086\u00d1\u008e",
+        "total item quantity": "35.0",
+        "handover protocol link (unique)": "",
+        "picture link (unique)": "",
+        "item list (eng) (unique)": "Table, Resuscitation trolley, Document storage cabinet, Laundry trolley, Folding bed + 6",
+        "short hospital names (eng)": "Regional Clinical Trauma Hospital, Lviv",
+        "info box text": "",
+        "landing page link": "",
+        "date last updated: new data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           34.0669,
           49.605
         ]
@@ -12398,6 +12470,42 @@
         "picture link (unique)": "",
         "item list (eng) (unique)": "Infusion system, Central catheters, Absorbent pads, Sterile coverings, Sheets + 1",
         "short hospital names (eng)": "Lviv city clinical hospital for intensive care",
+        "info box text": "",
+        "landing page link": "",
+        "date last updated: new data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.274,
+          49.9909
+        ]
+      },
+      "properties": {
+        "show?": "True",
+        "raw data (no line breaks)": "BALAKLIA CLINICAL MULTIPROFESSIONAL HOSPITAL OF INTENSIVE TREATMENT of the Balakliya City Council of Kharkiv Region",
+        "shipment id (unique)": "MUA22",
+        "cure id (unique)": "12416",
+        "donor (unique)": "EKFS",
+        "country (unique)": "Ukraine",
+        "distribution number (unique)": "88",
+        "distribution id (unique)": "CMA88_05/25",
+        "shipment period (unique)": "May-25",
+        "type of medical institution (unique)": "Charity organisation",
+        "unique hospital names (eng)": "Charity organisation Hope in Christ",
+        "safe hospital names": "Hospital 262",
+        "region (unique)": "",
+        "full location (unique)": "Charity organisation Hope in Christ",
+        "number of beds (unique)": "0",
+        "item name eng/ukr (unique)": "Otoscope/ophthalmoscope/ \u00d0\u009e\u00d1\u0082\u00d0\u00be\u00d1\u0081\u00d0\u00ba\u00d0\u00be\u00d0\u00bf/\u00d0\u00be\u00d1\u0084\u00d1\u0082\u00d0\u00b0\u00d0\u00bb\u00d1\u008c\u00d0\u00bc\u00d0\u00be\u00d1\u0081\u00d0\u00ba\u00d0\u00be\u00d0\u00bf, Pulse oximeter, battery/ \u00d0\u009f\u00d1\u0083\u00d0\u00bb\u00d1\u008c\u00d1\u0081\u00d0\u00be\u00d0\u00ba\u00d1\u0081\u00d0\u00b8\u00d0\u00bc\u00d0\u00b5\u00d1\u0082\u00d1\u0080 \u00d0\u00b0\u00d0\u00ba\u00d1\u0083\u00d0\u00bc\u00d1\u0083\u00d0\u00bb\u00d1\u008f\u00d1\u0082\u00d0\u00be\u00d1\u0080\u00d0\u00bd\u00d0\u00b8\u00d0\u00b9",
+        "total item quantity": "5.0",
+        "handover protocol link (unique)": "",
+        "picture link (unique)": "",
+        "item list (eng) (unique)": "Otoscope, Pulse oximeter, battery + 1",
+        "short hospital names (eng)": "Hope in Christ, Lviv region",
         "info box text": "",
         "landing page link": "",
         "date last updated: new data": ""
@@ -13118,6 +13226,42 @@
         "picture link (unique)": "",
         "item list (eng) (unique)": "CPAP machine with humidifier, 300 W transformer, Chest drainage tubes and drainage blocks, Suction catheters, Endotracheal tubes + 0",
         "short hospital names (eng)": "City Clinical Hospital \u00e2\u0084\u009625, Kharkiv",
+        "info box text": "",
+        "landing page link": "",
+        "date last updated: new data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.7729,
+          46.5245
+        ]
+      },
+      "properties": {
+        "show?": "True",
+        "raw data (no line breaks)": "66th mobile State hospital State unit A0233",
+        "shipment id (unique)": "MUA22",
+        "cure id (unique)": "12416",
+        "donor (unique)": "EKFS",
+        "country (unique)": "Ukraine",
+        "distribution number (unique)": "110",
+        "distribution id (unique)": "CMA110_06/25",
+        "shipment period (unique)": "Jun-25",
+        "type of medical institution (unique)": "Organisation of a religious community",
+        "unique hospital names (eng)": "Religious community of the Holy Trinity Church of the Odesa Eparchy of the Ukrainian Orthodox Church in Markevycheve village Shyriayiv district Odesa region",
+        "safe hospital names": "Hospital 283",
+        "region (unique)": "",
+        "full location (unique)": "Religious community of the Holy Trinity Church of the Odesa Eparchy of the Ukrainian Orthodox Church in Markevycheve village Shyriayiv district Odesa region",
+        "number of beds (unique)": "0",
+        "item name eng/ukr (unique)": "Gloves n/s p. M No. 1500/ \u00d0\u00a0\u00d1\u0083\u00d0\u00ba\u00d0\u00b0\u00d0\u00b2\u00d0\u00b8\u00d1\u0086\u00d1\u0096 \u00d0\u00bd/\u00d1\u0081 \u00d1\u0080.M \u00e2\u0084\u00961500",
+        "total item quantity": "1199.0",
+        "handover protocol link (unique)": "",
+        "picture link (unique)": "",
+        "item list (eng) (unique)": "Gloves, \u00d0\u00a0\u00d1\u0083\u00d0\u00ba\u00d0\u00b0\u00d0\u00b2\u00d0\u00b8\u00d1\u0086\u00d1\u0096, 2",
+        "short hospital names (eng)": "Regional Clinical Hospital Zhytomyr",
         "info box text": "",
         "landing page link": "",
         "date last updated: new data": ""
