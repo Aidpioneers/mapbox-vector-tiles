@@ -393,8 +393,8 @@
         "partner org": "ForAfrika",
         "country": "Ethiopia \u00f0\u009f\u0087\u00aa\u00f0\u009f\u0087\u00b9",
         "type of institution": "Hospital",
-        "total investment": "122.445,37 \u00e2\u0082\u00ac",
-        "system size (kwp)": "132",
+        "total investment": "107\u00e2\u0080\u00af702",
+        "system size (kwp)": "128",
         "additional treatments / students": "134.609",
         "gross cost savings": "181.722,00 \u00e2\u0082\u00ac",
         "co2 savings (t)": "1.032,20",
@@ -427,8 +427,8 @@
         "partner org": "SAMS",
         "country": "Syria \u00f0\u009f\u0087\u00b8\u00f0\u009f\u0087\u00be",
         "type of institution": "Hospital",
-        "total investment": "80.000,00 \u00e2\u0082\u00ac",
-        "system size (kwp)": "122",
+        "total investment": "60.000,00 \u00e2\u0082\u00ac",
+        "system size (kwp)": "128",
         "additional treatments / students": "19.6",
         "gross cost savings": "431.198,50 \u00e2\u0082\u00ac",
         "co2 savings (t)": "926,67",
@@ -16116,8 +16116,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          42.218,
-          9.57
+          38.3043,
+          14.1138
         ]
       },
       "properties": {
@@ -16152,8 +16152,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          37.47,
-          14.25
+          38.7285,
+          14.121
         ]
       },
       "properties": {
@@ -16188,8 +16188,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          39.471,
-          14.1095
+          38.8826,
+          14.1949
         ]
       },
       "properties": {
@@ -16224,8 +16224,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          39.466,
-          14.2748
+          39.4656,
+          14.2698
         ]
       },
       "properties": {
@@ -16260,8 +16260,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          39.5,
-          14.0333
+          38.9905,
+          13.625
         ]
       },
       "properties": {
@@ -16296,8 +16296,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          39.5667,
-          13.2823
+          39.5979,
+          13.794
         ]
       },
       "properties": {
@@ -16332,8 +16332,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          39.55,
-          12.5215
+          39.5353,
+          12.8821
         ]
       },
       "properties": {
@@ -16368,8 +16368,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          38.331,
-          14.2664
+          37.7807,
+          14.3885
         ]
       },
       "properties": {
@@ -16404,8 +16404,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          39.485,
-          13.5
+          39.4633,
+          13.5478
         ]
       },
       "properties": {
@@ -16440,8 +16440,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          39.4662,
-          14.201
+          38.7272,
+          14.1116
         ]
       },
       "properties": {
@@ -16476,8 +16476,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          39.469,
-          13.4874
+          39.4841,
+          13.4999
         ]
       },
       "properties": {
