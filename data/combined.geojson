@@ -15421,7 +15421,7 @@
         "handover protocol link (unique)": "https://jamintsa-my.sharepoint.com/personal/a_ewoku_forafrika_org/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fa%5Fewoku%5Fforafrika%5Forg%2FDocuments%2FProject%20Cure%20Pictures&p=14&ct=1753348257287&or=OWA%2DNT%2DMail&ga=79, https://jamintsa-my.sharepoint.com/personal/a_ewoku_forafrika_org/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fa%5Fewoku%5Fforafrika%5Forg%2FDocuments%2FProject%20Cure%20Pictures&p=14&ct=1753348257287&or=OWA%2DNT%2DMail&ga=80, https://jamintsa-my.sharepoint.com/personal/a_ewoku_forafrika_org/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fa%5Fewoku%5Fforafrika%5Forg%2FDocuments%2FProject%20Cure%20Pictures&p=14&ct=1753348257287&or=OWA%2DNT%2DMail&ga=81, https://jamintsa-my.sharepoint.com/personal/a_ewoku_forafrika_org/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fa%5Fewoku%5Fforafrika%5Forg%2FDocuments%2FProject%20Cure%20Pictures&p=14&ct=1753348257287&or=OWA%2DNT%2DMail&ga=82, https://jamintsa-my.sharepoint.com/personal/a_ewoku_forafrika_org/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fa%5Fewoku%5Fforafrika%5Forg%2FDocuments%2FProject%20Cure%20Pictures&p=14&ct=1753348257287&or=OWA%2DNT%2DMail&ga=83, https://jamintsa-my.sharepoint.com/personal/a_ewoku_forafrika_org/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fa%5Fewoku%5Fforafrika%5Forg%2FDocuments%2FProject%20Cure%20Pictures&p=14&ct=1753348257287&or=OWA%2DNT%2DMail&ga=84, https://jamintsa-my.sharepoint.com/personal/a_ewoku_forafrika_org/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fa%5Fewoku%5Fforafrika%5Forg%2FDocuments%2FProject%20Cure%20Pictures&p=14&ct=1753348257287&or=OWA%2DNT%2DMail&ga=85, https://jamintsa-my.sharepoint.com/personal/a_ewoku_forafrika_org/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fa%5Fewoku%5Fforafrika%5Forg%2FDocuments%2FProject%20Cure%20Pictures&p=14&ct=1753348257287&or=OWA%2DNT%2DMail&ga=86, https://jamintsa-my.sharepoint.com/personal/a_ewoku_forafrika_org/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fa%5Fewoku%5Fforafrika%5Forg%2FDocuments%2FProject%20Cure%20Pictures&p=14&ct=1753348257287&or=OWA%2DNT%2DMail&ga=87, https://jamintsa-my.sharepoint.com/personal/a_ewoku_forafrika_org/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fa%5Fewoku%5Fforafrika%5Forg%2FDocuments%2FProject%20Cure%20Pictures&p=14&ct=1753348257287&or=OWA%2DNT%2DMail&ga=88, https://jamintsa-my.sharepoint.com/personal/a_ewoku_forafrika_org/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fa%5Fewoku%5Fforafrika%5Forg%2FDocuments%2FProject%20Cure%20Pictures&p=14&ct=1753348257287&or=OWA%2DNT%2DMail&ga=89, https://jamintsa-my.sharepoint.com/personal/a_ewoku_forafrika_org/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fa%5Fewoku%5Fforafrika%5Forg%2FDocuments%2FProject%20Cure%20Pictures&p=14&ct=1753348257287&or=OWA%2DNT%2DMail&ga=90, https://jamintsa-my.sharepoint.com/personal/a_ewoku_forafrika_org/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fa%5Fewoku%5Fforafrika%5Forg%2FDocuments%2FProject%20Cure%20Pictures&p=14&ct=1753348257287&or=OWA%2DNT%2DMail&ga=91, https://jamintsa-my.sharepoint.com/personal/a_ewoku_forafrika_org/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fa%5Fewoku%5Fforafrika%5Forg%2FDocuments%2FProject%20Cure%20Pictures&p=14&ct=1753348257287&or=OWA%2DNT%2DMail&ga=92",
         "picture link (unique)": "",
         "item list (eng) (unique)": "Gauze and all non-sterile dressing, Gloves Non sterile, Goggle , mask and face protection, Sharp containers, Blood drawing supplies + 7",
-        "short hospital names (eng)": "Verteth PHCU, Aleppo",
+        "short hospital names (eng)": "Verteth PHCU, Greater Upper Nile",
         "info box text": "",
         "landing page link": "",
         "date last updated: new data": ""
@@ -16502,6 +16502,726 @@
         "picture link (unique)": "",
         "item list (eng) (unique)": "",
         "short hospital names (eng)": "Mekelle General Hospital",
+        "info box text": "",
+        "landing page link": "",
+        "date last updated: new data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.713,
+          48.922
+        ]
+      },
+      "properties": {
+        "show?": "True",
+        "raw data (no line breaks)": "MUNICIPAL NON-PROFIT ENTERPRISE CITY HOSPITAL OF EMERGENCY AND AMBULANCE CARE OF ZAPORIZHZHIA CITY COUNCIL",
+        "shipment id (unique)": "MUA28",
+        "cure id (unique)": "12438",
+        "donor (unique)": "EKFS (NAK)",
+        "country (unique)": "Ukraine",
+        "distribution number (unique)": "142",
+        "distribution id (unique)": "UHU142_08/25",
+        "shipment period (unique)": "Aug-25",
+        "type of medical institution (unique)": "Hospital",
+        "unique hospital names (eng)": "MUNICIPAL NON-COMMERCIAL ENTERPRISE IVANO-FRANKIVSK REGIONAL CHILDREN'S CLINICAL HOSPITAL OF IVANO-FRANKIVSK REGIONAL COUNCIL",
+        "safe hospital names": "",
+        "region (unique)": "IVANO-FRANKIVSK REGION",
+        "full location (unique)": "MUNICIPAL NON-COMMERCIAL ENTERPRISE IVANO-FRANKIVSK REGIONAL CHILDREN'S CLINICAL HOSPITAL OF IVANO-FRANKIVSK REGIONAL COUNCIL, IVANO-FRANKIVSK REGION",
+        "number of beds (unique)": "",
+        "item name eng/ukr (unique)": "Applicators (wipes) with povidone-iodine/alcohol, Suction jars with lids, Self-fixing bandage, Under-cast padding, assorted, Needles for blood collection, assorted, Endotracheal tubes, assorted, Non-sterile dressings/compresses, assorted, Sterile dressings/bandages, gauze/nonwoven, assorted, General surgical set, sterile, assorted, Disposable drape/sheet, small, Disposable diapers, size S, Disposable diapers, size M, Disposable diapers, assorted, Plasters, assorted, Disposable underpads, assorted, Non-sterile covers, assorted, Sterile covers, assorted, Non-sterile medical gloves, size L, Non-sterile medical gloves, size M, Non-sterile medical gloves, size S, Sterile gloves, assorted, Disinfecting wipes, Disposable systems, assorted, Alcohol wipes, assorted, Tongue depressor, Syringe without needle, 10 ml, Syringe without needle, 12 ml, Syringes 20 ml, Syringes 50 ml, Syringe for enteral feeding, 6 ml, Syringe for enteral feeding, 12 ml, Syringe for enteral feeding, 1 ml, Suture material/threads, assorted, Tracheostomy care consumables set/kit, Auxiliary material for IV infusions (pads), Surgical consumables, assorted, Plaster bandages, assorted, Infant care consumables set/kit, Syringes with tip, Scalpel/scalpel blades, assorted, Staple remover, Spacer, Oxygen humidifier (Bobrov\u00e2\u0080\u0099s jar), Oxygen tube, Connectors, assorted, Injection syringe 30 ml, Sterile dressings/wipes set, Vaseline, Special skin treatment products (lubricant/jelly), Used medical pants and jackets, Towel, Monitor, vital signs, 5 functions (NIBP, Pulse, optional TEMP, SPO2, ECG) / Vital signs monitor, 5 functions (NIBP, pulse, optionally TEMP, SPO2, ECG), Filing cabinet, Stationery (1286313)",
+        "total item quantity": "69167.0",
+        "handover protocol link (unique)": "",
+        "picture link (unique)": "",
+        "item list (eng) (unique)": "",
+        "short hospital names (eng)": "Ivano-frankivsk regional children's hospital",
+        "info box text": "",
+        "landing page link": "",
+        "date last updated: new data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8,
+          48.9866
+        ]
+      },
+      "properties": {
+        "show?": "True",
+        "raw data (no line breaks)": "MUNICIPAL NON-PROFIT ENTERPRISE CITY HOSPITAL OF EMERGENCY AND AMBULANCE CARE OF ZAPORIZHZHIA CITY COUNCIL",
+        "shipment id (unique)": "MUA28",
+        "cure id (unique)": "12438",
+        "donor (unique)": "EKFS (NAK)",
+        "country (unique)": "Ukraine",
+        "distribution number (unique)": "143",
+        "distribution id (unique)": "UHU143_08/25",
+        "shipment period (unique)": "Aug-25",
+        "type of medical institution (unique)": "Hospital",
+        "unique hospital names (eng)": "\u00d0\u009a\u00d0\u009d\u00d0\u009f ''\u00d0\u009e\u00d0\u009a\u00d0\u009b''",
+        "safe hospital names": "",
+        "region (unique)": "IVANO-FRANKIVSK REGION",
+        "full location (unique)": "\u00d0\u009a\u00d0\u009d\u00d0\u009f ''\u00d0\u009e\u00d0\u009a\u00d0\u009b'', IVANO-FRANKIVSK REGION",
+        "number of beds (unique)": "740",
+        "item name eng/ukr (unique)": "Adhesive bandage, various, Applicator with chlorhexidine, Suction catheter, assorted, Suction jars with lids, Disposable shoe covers, Elastic bandage, assorted, Endotracheal tubes, assorted, Protective suits/coveralls, Venous catheter, assorted, Non-sterile dressings/compresses, assorted, Adhesive tape roll, assorted, Sterile dressings/bandages, gauze/nonwoven, assorted, Surgical instruments set, assorted, General surgical set, sterile, assorted, Nasal cannulas, assorted, Orthosis/fixation cuff, Sterilization bags, Disposable diapers, size L, Disposable diapers, size XL, Plasters, assorted, Disposable underpads, assorted, Plaster for fixing urinary catheter, Transparent dressing plaster, Sterile dressings, assorted, Non-sterile covers, assorted, Sterile covers, assorted, Non-sterile medical gloves, size XL, Non-sterile medical gloves, size L, Non-sterile medical gloves, size M, Non-sterile medical gloves, size S, Sterile gloves, assorted, Wipes with chlorhexidine, Urinary catheters, assorted, Urological consumables, assorted, Disposable systems, assorted, Medical thermometer, Disposable gowns, Sterile surgical gown, Disposable cap, Gastric tube, assorted, Suture material/threads, assorted, Orthopedic surgery kits, Tracheostomy care consumables set/kit, Urine bag, Gowns, assorted, Surgical drains, Enteral feeding supplies, assorted, Drainage kits, Disposable endoscope, assorted, Enteral tube, assorted, Breathing trainer, Oxygen masks, Stethoscope, Oxygen tube, Paper, rolls for examination tables in boxes, Containers for trash / biohazard waste, Assorted wipes, Large yellow containers, Various containers",
+        "total item quantity": "27059.0",
+        "handover protocol link (unique)": "",
+        "picture link (unique)": "",
+        "item list (eng) (unique)": "",
+        "short hospital names (eng)": "Okl, Kharkiv",
+        "info box text": "",
+        "landing page link": "",
+        "date last updated: new data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7112,
+          48.7388
+        ]
+      },
+      "properties": {
+        "show?": "True",
+        "raw data (no line breaks)": "Municipal non-profit enterprise Pavlohrad City Hospital No. 1 of the Pavlohrad City Council",
+        "shipment id (unique)": "MUA28",
+        "cure id (unique)": "12438",
+        "donor (unique)": "EKFS (NAK)",
+        "country (unique)": "Ukraine",
+        "distribution number (unique)": "144",
+        "distribution id (unique)": "UHU144_08/25",
+        "shipment period (unique)": "Aug-25",
+        "type of medical institution (unique)": "Hospital",
+        "unique hospital names (eng)": "\u00d0\u009a\u00d0\u009d\u00d0\u009f \u00d0\u0097\u00d0\u00a1\u00d0\u00a0 \"\u00d0\u0097\u00d0\u0090\u00d0\u0091\u00d0\u009e\u00d0\u009b\u00d0\u009e\u00d0\u00a2\u00d0\u0086\u00d0\u0092\u00d0\u00a1\u00d0\u00ac\u00d0\u009a\u00d0\u0090 \u00d0\u0091\u00d0\u0090\u00d0\u0093\u00d0\u0090\u00d0\u00a2\u00d0\u009e\u00d0\u009f\u00d0\u00a0\u00d0\u009e\u00d0\u00a4\u00d0\u0086\u00d0\u009b\u00d0\u00ac\u00d0\u009d\u00d0\u0090 \u00d0\u009b\u00d0\u0086\u00d0\u009a\u00d0\u0090\u00d0\u00a0\u00d0\u009d\u00d0\u00af\"",
+        "safe hospital names": "",
+        "region (unique)": "IVANO-FRANKIVSK REGION",
+        "full location (unique)": "\u00d0\u009a\u00d0\u009d\u00d0\u009f \u00d0\u0097\u00d0\u00a1\u00d0\u00a0 \"\u00d0\u0097\u00d0\u0090\u00d0\u0091\u00d0\u009e\u00d0\u009b\u00d0\u009e\u00d0\u00a2\u00d0\u0086\u00d0\u0092\u00d0\u00a1\u00d0\u00ac\u00d0\u009a\u00d0\u0090 \u00d0\u0091\u00d0\u0090\u00d0\u0093\u00d0\u0090\u00d0\u00a2\u00d0\u009e\u00d0\u009f\u00d0\u00a0\u00d0\u009e\u00d0\u00a4\u00d0\u0086\u00d0\u009b\u00d0\u00ac\u00d0\u009d\u00d0\u0090 \u00d0\u009b\u00d0\u0086\u00d0\u009a\u00d0\u0090\u00d0\u00a0\u00d0\u009d\u00d0\u00af\", IVANO-FRANKIVSK REGION",
+        "number of beds (unique)": "",
+        "item name eng/ukr (unique)": "Adhesive bandage, various, Syringe without needle, 10 ml, Syringes 20 ml, Sterile dressings/bandages, gauze/nonwoven, assorted, Suture material/threads, assorted, Non-sterile dressings/compresses, assorted, Plasters, assorted, Disposable systems, assorted, Suction catheter, assorted, Venous catheter, assorted, Endotracheal tubes, assorted, Sterile dressings, assorted, Under-cast padding, assorted, Urinary catheters, assorted, Urological consumables, assorted, Gynecological kits, Injection syringe 5 ml, Non-sterile covers, assorted, Plaster for fixing urinary catheter, Sterilization bags, Wipes with chlorhexidine, Gynecological mirrors, disposable, assorted, Inhalation supplies, assorted, Enteral feeding supplies, assorted, General surgical set, sterile, assorted, Needles for blood collection, assorted, Compression medical knit bandage, Enteral tube, assorted, Medical thermometer, Surgical drains, Sterile covers, assorted, Orthopedic surgery kits, Cold compresses, Drainage kits, Ice packs, Syringes 50 ml, Auxiliary material for IV infusions (pads), Tracheostomy care consumables set/kit, Gastric tube, assorted, Splint for trauma, AMBU bag, Breathing trainer, Staple remover, Surgical consumables, assorted, Disposable endoscope, assorted, Oxygen tube, Pulse oximeter, Walking belt 1292903, Positioning pillows, CPAP device RESMED, AIRSENSE 10, SN: 23181460693, Transformer, 200 Watt, Transformer, 300 Watt, Transformer, 500 Watt, Transformer, 1,500 Watt, Transformer, 2,000 Watt, Bed Drive, HX5 9JP, SN: 1S191000847A, Bed Medline, MDR107002E, SN: SED21123936, Bed CHG, 5700, SN: 049737, Bed Stryker, Secure II, SN: 0202 15403, Trolley, oxygen cylinder, Waiting chair, Crutches, Examination table Hamilton, n/a, SN: pf0105049 (burgundy), Oxygen cylinder Size E (25\" Ht), Adult walker, Wheelchair, Containers for trash / biohazard waste, Metal rack, Shampoo, Toothbrushes 1 box*72pcs, Mops; disposal bags (garbage bags)",
+        "total item quantity": "7881.0",
+        "handover protocol link (unique)": "",
+        "picture link (unique)": "",
+        "item list (eng) (unique)": "",
+        "short hospital names (eng)": "Zabolotivsk multilevel hospital, Lviv region",
+        "info box text": "",
+        "landing page link": "",
+        "date last updated: new data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.774,
+          48.9222
+        ]
+      },
+      "properties": {
+        "show?": "True",
+        "raw data (no line breaks)": "Municipal non-profit enterprise Pavlohrad City Hospital No. 1 of the Pavlohrad City Council",
+        "shipment id (unique)": "MUA28",
+        "cure id (unique)": "12438",
+        "donor (unique)": "EKFS (NAK)",
+        "country (unique)": "Ukraine",
+        "distribution number (unique)": "145",
+        "distribution id (unique)": "UHU145_08/25",
+        "shipment period (unique)": "Aug-25",
+        "type of medical institution (unique)": "Hospital",
+        "unique hospital names (eng)": "\u00d0\u009a\u00d0\u009d\u00d0\u009f \"\u00d0\u0086\u00d0\u00a4 \u00d0\u009e\u00d0\u009f\u00d0\u00a6 \u00d0\u009e\u00d0\u00a0, \u00d0\u009a\u00d0\u009e\u00d0\u009c\u00d0\u00a3\u00d0\u009d\u00d0\u0090\u00d0\u009b\u00d0\u00ac\u00d0\u009d\u00d0\u0095 \u00d0\u009d\u00d0\u0095\u00d0\u009a\u00d0\u009e\u00d0\u009c\u00d0\u0095\u00d0\u00a0\u00d0\u00a6\u00d0\u0086\u00d0\u0099\u00d0\u009d\u00d0\u0095 \u00d0\u009f\u00d0\u0086\u00d0\u0094\u00d0\u009f\u00d0\u00a0\u00d0\u0098\u00d0\u0084\u00d0\u009c\u00d0\u00a1\u00d0\u00a2\u00d0\u0092\u00d0\u009e \"\u00d0\u0086\u00d0\u0092\u00d0\u0090\u00d0\u009d\u00d0\u009e-\u00d0\u00a4\u00d0\u00a0\u00d0\u0090\u00d0\u009d\u00d0\u009a\u00d0\u0086\u00d0\u0092\u00d0\u00a1\u00d0\u00ac\u00d0\u009a\u00d0\u0098\u00d0\u0099 \u00d0\u009e\u00d0\u0091\u00d0\u009b\u00d0\u0090\u00d0\u00a1\u00d0\u009d\u00d0\u0098\u00d0\u0099 \u00d0\u009f\u00d0\u0095\u00d0\u00a0\u00d0\u0098\u00d0\u009d\u00d0\u0090\u00d0\u00a2\u00d0\u0090\u00d0\u009b\u00d0\u00ac\u00d0\u009d\u00d0\u0098\u00d0\u0099 \u00d0\u00a6\u00d0\u0095\u00d0\u009d\u00d0\u00a2\u00d0\u00a0 \u00d0\u0086\u00d0\u0092\u00d0\u0090\u00d0\u009d\u00d0\u009e-\u00d0\u00a4\u00d0\u00a0\u00d0\u0090\u00d0\u009d\u00d0\u009a\u00d0\u0086\u00d0\u0092\u00d0\u00a1\u00d0\u00ac\u00d0\u009a\u00d0\u009e\u00d0\u0087 \u00d0\u009e\u00d0\u0091\u00d0\u009b\u00d0\u0090\u00d0\u00a1\u00d0\u009d\u00d0\u009e\u00d0\u0087 \u00d0\u00a0\u00d0\u0090\u00d0\u0094\u00d0\u0098\"",
+        "safe hospital names": "",
+        "region (unique)": "IVANO-FRANKIVSK REGION",
+        "full location (unique)": "\u00d0\u009a\u00d0\u009d\u00d0\u009f \"\u00d0\u0086\u00d0\u00a4 \u00d0\u009e\u00d0\u009f\u00d0\u00a6 \u00d0\u009e\u00d0\u00a0, \u00d0\u009a\u00d0\u009e\u00d0\u009c\u00d0\u00a3\u00d0\u009d\u00d0\u0090\u00d0\u009b\u00d0\u00ac\u00d0\u009d\u00d0\u0095 \u00d0\u009d\u00d0\u0095\u00d0\u009a\u00d0\u009e\u00d0\u009c\u00d0\u0095\u00d0\u00a0\u00d0\u00a6\u00d0\u0086\u00d0\u0099\u00d0\u009d\u00d0\u0095 \u00d0\u009f\u00d0\u0086\u00d0\u0094\u00d0\u009f\u00d0\u00a0\u00d0\u0098\u00d0\u0084\u00d0\u009c\u00d0\u00a1\u00d0\u00a2\u00d0\u0092\u00d0\u009e \"\u00d0\u0086\u00d0\u0092\u00d0\u0090\u00d0\u009d\u00d0\u009e-\u00d0\u00a4\u00d0\u00a0\u00d0\u0090\u00d0\u009d\u00d0\u009a\u00d0\u0086\u00d0\u0092\u00d0\u00a1\u00d0\u00ac\u00d0\u009a\u00d0\u0098\u00d0\u0099 \u00d0\u009e\u00d0\u0091\u00d0\u009b\u00d0\u0090\u00d0\u00a1\u00d0\u009d\u00d0\u0098\u00d0\u0099 \u00d0\u009f\u00d0\u0095\u00d0\u00a0\u00d0\u0098\u00d0\u009d\u00d0\u0090\u00d0\u00a2\u00d0\u0090\u00d0\u009b\u00d0\u00ac\u00d0\u009d\u00d0\u0098\u00d0\u0099 \u00d0\u00a6\u00d0\u0095\u00d0\u009d\u00d0\u00a2\u00d0\u00a0 \u00d0\u0086\u00d0\u0092\u00d0\u0090\u00d0\u009d\u00d0\u009e-\u00d0\u00a4\u00d0\u00a0\u00d0\u0090\u00d0\u009d\u00d0\u009a\u00d0\u0086\u00d0\u0092\u00d0\u00a1\u00d0\u00ac\u00d0\u009a\u00d0\u009e\u00d0\u0087 \u00d0\u009e\u00d0\u0091\u00d0\u009b\u00d0\u0090\u00d0\u00a1\u00d0\u009d\u00d0\u009e\u00d0\u0087 \u00d0\u00a0\u00d0\u0090\u00d0\u0094\u00d0\u0098\", IVANO-FRANKIVSK REGION",
+        "number of beds (unique)": "150",
+        "item name eng/ukr (unique)": "Non-sterile medical gloves, size L, Non-sterile medical gloves, size S, Non-sterile dressings/compresses, assorted, Non-sterile medical gloves, size M, Syringe without needle, 10 ml, Syringes 20 ml, Sterile gloves, assorted, Venous catheter, assorted, Infusion extension sets, assorted, Injection syringe 5 ml, Urinary catheters, assorted, Plaster for fixing urinary catheter, Urological consumables, assorted, Plasters, assorted, Sterile dressings, assorted, General surgical set, sterile, assorted, Enteral feeding supplies, assorted, Surgical drains, Wipes with chlorhexidine, Endotracheal tubes, assorted, Disposable gowns, Cold compresses, Gynecological kits, Suction jars with lids, Ice packs, Oxygen tube, Disposable endoscope, assorted, Compression medical knit bandage",
+        "total item quantity": "12212.0",
+        "handover protocol link (unique)": "",
+        "picture link (unique)": "",
+        "item list (eng) (unique)": "",
+        "short hospital names (eng)": "Ivano-frankivsk regional perinatal center",
+        "info box text": "",
+        "landing page link": "",
+        "date last updated: new data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7278,
+          48.9225
+        ]
+      },
+      "properties": {
+        "show?": "True",
+        "raw data (no line breaks)": "Municipal non-profit enterprise Pavlohrad City Hospital No. 1 of the Pavlohrad City Council",
+        "shipment id (unique)": "MUA28",
+        "cure id (unique)": "12438",
+        "donor (unique)": "EKFS (NAK)",
+        "country (unique)": "Ukraine",
+        "distribution number (unique)": "146",
+        "distribution id (unique)": "UHU146_08/25",
+        "shipment period (unique)": "Aug-25",
+        "type of medical institution (unique)": "Hospital",
+        "unique hospital names (eng)": "\u00d0\u009a\u00d0\u009d\u00d0\u009f \"\u00d0\u009f\u00d0\u00a0\u00d0\u0098\u00d0\u009a\u00d0\u0090\u00d0\u00a0\u00d0\u009f\u00d0\u0090\u00d0\u00a2\u00d0\u00a1\u00d0\u00ac\u00d0\u009a\u00d0\u0098\u00d0\u0099 \u00d0\u009a\u00d0\u009b\u00d0\u0086\u00d0\u009d\u00d0\u0086\u00d0\u00a7\u00d0\u009d\u00d0\u0098\u00d0\u0099 \u00d0\u00a6\u00d0\u0095\u00d0\u009d\u00d0\u00a2\u00d0\u00a0 \u00d0\u009f\u00d0\u0090\u00d0\u009b\u00d0\u0086\u00d0\u0090\u00d0\u00a2\u00d0\u0098\u00d0\u0092\u00d0\u009d\u00d0\u009e\u00d0\u0087 \u00d0\u0094\u00d0\u009e\u00d0\u009f\u00d0\u009e\u00d0\u009c\u00d0\u009e\u00d0\u0093\u00d0\u0098 \u00d0\u0086\u00d0\u0092\u00d0\u0090\u00d0\u009d\u00d0\u009e-\u00d0\u00a4\u00d0\u00a0\u00d0\u0090\u00d0\u009d\u00d0\u009a\u00d0\u0086\u00d0\u0092\u00d0\u00a1\u00d0\u00ac\u00d0\u009a\u00d0\u009e\u00d0\u0087 \u00d0\u009e\u00d0\u0091\u00d0\u009b\u00d0\u0090\u00d0\u00a1\u00d0\u009d\u00d0\u009e\u00d0\u0087 \u00d0\u00a0\u00d0\u0090\u00d0\u0094\u00d0\u0098\"",
+        "safe hospital names": "",
+        "region (unique)": "IVANO-FRANKIVSK REGION",
+        "full location (unique)": "\u00d0\u009a\u00d0\u009d\u00d0\u009f \"\u00d0\u009f\u00d0\u00a0\u00d0\u0098\u00d0\u009a\u00d0\u0090\u00d0\u00a0\u00d0\u009f\u00d0\u0090\u00d0\u00a2\u00d0\u00a1\u00d0\u00ac\u00d0\u009a\u00d0\u0098\u00d0\u0099 \u00d0\u009a\u00d0\u009b\u00d0\u0086\u00d0\u009d\u00d0\u0086\u00d0\u00a7\u00d0\u009d\u00d0\u0098\u00d0\u0099 \u00d0\u00a6\u00d0\u0095\u00d0\u009d\u00d0\u00a2\u00d0\u00a0 \u00d0\u009f\u00d0\u0090\u00d0\u009b\u00d0\u0086\u00d0\u0090\u00d0\u00a2\u00d0\u0098\u00d0\u0092\u00d0\u009d\u00d0\u009e\u00d0\u0087 \u00d0\u0094\u00d0\u009e\u00d0\u009f\u00d0\u009e\u00d0\u009c\u00d0\u009e\u00d0\u0093\u00d0\u0098 \u00d0\u0086\u00d0\u0092\u00d0\u0090\u00d0\u009d\u00d0\u009e-\u00d0\u00a4\u00d0\u00a0\u00d0\u0090\u00d0\u009d\u00d0\u009a\u00d0\u0086\u00d0\u0092\u00d0\u00a1\u00d0\u00ac\u00d0\u009a\u00d0\u009e\u00d0\u0087 \u00d0\u009e\u00d0\u0091\u00d0\u009b\u00d0\u0090\u00d0\u00a1\u00d0\u009d\u00d0\u009e\u00d0\u0087 \u00d0\u00a0\u00d0\u0090\u00d0\u0094\u00d0\u0098\", IVANO-FRANKIVSK REGION",
+        "number of beds (unique)": "34",
+        "item name eng/ukr (unique)": "Adhesive bandage, various, Non-sterile medical gloves, size L, Non-sterile medical gloves, size S, Non-sterile medical gloves, size M, Sterile dressings/bandages, gauze/nonwoven, assorted, Sterile gloves, assorted, Non-sterile dressings/compresses, assorted, Disposable gowns, Surgical masks, assorted, Suture material/threads, assorted, Suction catheter, assorted, Plasters, assorted, Sterile dressings, assorted, Urinary catheters, assorted, Disposable systems, assorted, General surgical set, sterile, assorted, Transparent dressing plaster, Non-sterile covers, assorted, Wipes with chlorhexidine, Syringes 20 ml, Surgical drains, Enteral feeding supplies, assorted, Syringes and medicine cups, Injection syringe 5 ml, Disposable diapers, size S, Disposable underpads, assorted, Gastric tube, assorted, Disposable diapers, size M, Sterile covers, assorted, Syringes 50 ml, Tracheostomy care consumables set/kit, Suction jars with lids, Medical thermometer, Auxiliary material for IV infusions (pads), Surgical consumables, assorted, Drainage kits, Pulse oximeter, Staple remover, Stethoscope, Oxygen tube, Medical pants and jackets (used), Blanket, bedding sets (used), Bed linen (assorted) (used), Bedside toilet, Procedure table, Oxygen concentrator Respironics, EverFlo, SN: 0068069, Oxygen concentrator INVACARE, PLATINUM 5 IRC, SN: 09FSZ431359, Laryngoscope, Nebulizer SALTER AIRE EL, 8350-1, SN: KSN190913794, Double IV stand, IV stand, Bedpans; care items (1291432), Shampoo, Patient care wipes, Hygiene products, Assorted wipes",
+        "total item quantity": "10413.0",
+        "handover protocol link (unique)": "",
+        "picture link (unique)": "",
+        "item list (eng) (unique)": "",
+        "short hospital names (eng)": "Prikarpat clinical center palliative care Ivano-Frankivsk region",
+        "info box text": "",
+        "landing page link": "",
+        "date last updated: new data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7246,
+          48.9087
+        ]
+      },
+      "properties": {
+        "show?": "True",
+        "raw data (no line breaks)": "Municipal non-profit enterprise Pavlohrad City Hospital No. 1 of the Pavlohrad City Council",
+        "shipment id (unique)": "MUA28",
+        "cure id (unique)": "12438",
+        "donor (unique)": "EKFS (NAK)",
+        "country (unique)": "Ukraine",
+        "distribution number (unique)": "147",
+        "distribution id (unique)": "UHU147_08/25",
+        "shipment period (unique)": "Aug-25",
+        "type of medical institution (unique)": "Hospital",
+        "unique hospital names (eng)": "\u00d0\u009a\u00d0\u009d\u00d0\u009f \"\u00d0\u00a6\u00d0\u00b5\u00d0\u00bd\u00d1\u0082\u00d1\u0080 \u00d0\u00bf\u00d0\u00b5\u00d1\u0080\u00d0\u00b2\u00d0\u00b8\u00d0\u00bd\u00d0\u00bd\u00d0\u00be\u00d1\u0097 \u00d0\u00bc\u00d0\u00b5\u00d0\u00b4\u00d0\u00b8\u00d1\u0087\u00d0\u00bd\u00d0\u00be\u00d1\u0097 \u00d1\u0096 \u00d0\u00ba\u00d0\u00be\u00d0\u00bd\u00d1\u0081\u00d1\u0083\u00d0\u00bb\u00d1\u008c\u00d1\u0082\u00d0\u00b0\u00d1\u0082\u00d0\u00b8\u00d0\u00b2\u00d0\u00bd\u00d0\u00be-\u00d0\u00b4\u00d1\u0096\u00d0\u00b0\u00d0\u00b3\u00d0\u00bd\u00d0\u00be\u00d1\u0081\u00d1\u0082\u00d0\u00b8\u00d1\u0087\u00d0\u00bd\u00d0\u00be\u00d1\u0097 \u00d0\u00b4\u00d0\u00be\u00d0\u00bf\u00d0\u00be\u00d0\u00bc\u00d0\u00be\u00d0\u00b3\u00d0\u00b8 \u00d0\u0086\u00d0\u00b2\u00d0\u00b0\u00d0\u00bd\u00d0\u00be-\u00d0\u00a4\u00d1\u0080\u00d0\u00b0\u00d0\u00bd\u00d0\u00ba\u00d1\u0096\u00d0\u00b2\u00d1\u0081\u00d1\u008c\u00d0\u00ba\u00d0\u00be\u00d1\u0097 \u00d0\u00bc\u00d1\u0096\u00d1\u0081\u00d1\u008c\u00d0\u00ba\u00d0\u00be\u00d1\u0097 \u00d1\u0080\u00d0\u00b0\u00d0\u00b4\u00d0\u00b8\"",
+        "safe hospital names": "",
+        "region (unique)": "IVANO-FRANKIVSK REGION",
+        "full location (unique)": "\u00d0\u009a\u00d0\u009d\u00d0\u009f \"\u00d0\u00a6\u00d0\u00b5\u00d0\u00bd\u00d1\u0082\u00d1\u0080 \u00d0\u00bf\u00d0\u00b5\u00d1\u0080\u00d0\u00b2\u00d0\u00b8\u00d0\u00bd\u00d0\u00bd\u00d0\u00be\u00d1\u0097 \u00d0\u00bc\u00d0\u00b5\u00d0\u00b4\u00d0\u00b8\u00d1\u0087\u00d0\u00bd\u00d0\u00be\u00d1\u0097 \u00d1\u0096 \u00d0\u00ba\u00d0\u00be\u00d0\u00bd\u00d1\u0081\u00d1\u0083\u00d0\u00bb\u00d1\u008c\u00d1\u0082\u00d0\u00b0\u00d1\u0082\u00d0\u00b8\u00d0\u00b2\u00d0\u00bd\u00d0\u00be-\u00d0\u00b4\u00d1\u0096\u00d0\u00b0\u00d0\u00b3\u00d0\u00bd\u00d0\u00be\u00d1\u0081\u00d1\u0082\u00d0\u00b8\u00d1\u0087\u00d0\u00bd\u00d0\u00be\u00d1\u0097 \u00d0\u00b4\u00d0\u00be\u00d0\u00bf\u00d0\u00be\u00d0\u00bc\u00d0\u00be\u00d0\u00b3\u00d0\u00b8 \u00d0\u0086\u00d0\u00b2\u00d0\u00b0\u00d0\u00bd\u00d0\u00be-\u00d0\u00a4\u00d1\u0080\u00d0\u00b0\u00d0\u00bd\u00d0\u00ba\u00d1\u0096\u00d0\u00b2\u00d1\u0081\u00d1\u008c\u00d0\u00ba\u00d0\u00be\u00d1\u0097 \u00d0\u00bc\u00d1\u0096\u00d1\u0081\u00d1\u008c\u00d0\u00ba\u00d0\u00be\u00d1\u0097 \u00d1\u0080\u00d0\u00b0\u00d0\u00b4\u00d0\u00b8\", IVANO-FRANKIVSK REGION",
+        "number of beds (unique)": "",
+        "item name eng/ukr (unique)": "Syringe needles, assorted, Syringes and medicine cups, Inhalation supplies, assorted, Protective suits/coveralls, Compression medical knit bandage, Urological consumables, assorted, Ice packs, Cold compresses, Endotracheal tubes, assorted, AMBU bag, Gynecological kits, Breathing trainer, Adult bariatric diapers (large), Anti-embolism splints and straps",
+        "total item quantity": "8041.0",
+        "handover protocol link (unique)": "",
+        "picture link (unique)": "",
+        "item list (eng) (unique)": "",
+        "short hospital names (eng)": "Ivano-frankivsk primary care center",
+        "info box text": "",
+        "landing page link": "",
+        "date last updated: new data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.9734,
+          48.8
+        ]
+      },
+      "properties": {
+        "show?": "True",
+        "raw data (no line breaks)": "Municipal non-profit enterprise Pavlohrad City Hospital No. 1 of the Pavlohrad City Council",
+        "shipment id (unique)": "MUA28",
+        "cure id (unique)": "12438",
+        "donor (unique)": "EKFS (NAK)",
+        "country (unique)": "Ukraine",
+        "distribution number (unique)": "148",
+        "distribution id (unique)": "UHU148_08/25",
+        "shipment period (unique)": "Aug-25",
+        "type of medical institution (unique)": "Hospital",
+        "unique hospital names (eng)": "\u00d0\u009a\u00d0\u009d\u00d0\u009f \"\u00d0\u00a2\u00d0\u00bb\u00d1\u0083\u00d0\u00bc\u00d0\u00b0\u00d1\u0086\u00d1\u008c\u00d0\u00ba\u00d0\u00b0 \u00d1\u0086\u00d0\u00b5\u00d0\u00bd\u00d1\u0082\u00d1\u0080\u00d0\u00b0\u00d0\u00bb\u00d1\u008c\u00d0\u00bd\u00d0\u00b0 \u00d0\u00bc\u00d1\u0096\u00d1\u0081\u00d1\u008c\u00d0\u00ba\u00d0\u00b0 \u00d0\u00bb\u00d1\u0096\u00d0\u00ba\u00d0\u00b0\u00d1\u0080\u00d0\u00bd\u00d1\u008f\" \u00d0\u00a2\u00d0\u00bb\u00d1\u0083\u00d0\u00bc\u00d0\u00b0\u00d1\u0086\u00d1\u008c\u00d0\u00ba\u00d0\u00be\u00d1\u0097 \u00d0\u00bc\u00d1\u0096\u00d1\u0081\u00d1\u008c\u00d0\u00ba\u00d0\u00be\u00d1\u0097 \u00d1\u0080\u00d0\u00b0\u00d0\u00b4\u00d0\u00b8 \u00d0\u0086\u00d0\u00b2\u00d0\u00b0\u00d0\u00bd\u00d0\u00be-\u00d0\u00a4\u00d1\u0080\u00d0\u00b0\u00d0\u00bd\u00d0\u00ba\u00d1\u0096\u00d0\u00b2\u00d1\u0081\u00d1\u008c\u00d0\u00ba\u00d0\u00be\u00d0\u00b3\u00d0\u00be \u00d1\u0080\u00d0\u00b0\u00d0\u00b9\u00d0\u00be\u00d0\u00bd\u00d1\u0083 \u00d0\u0086\u00d0\u00b2\u00d0\u00b0\u00d0\u00bd\u00d0\u00be-\u00d0\u00a4\u00d1\u0080\u00d0\u00b0\u00d0\u00bd\u00d0\u00ba\u00d1\u0096\u00d0\u00b2\u00d1\u0081\u00d1\u008c\u00d0\u00ba\u00d0\u00be\u00d1\u0097 \u00d0\u00be\u00d0\u00b1\u00d0\u00bb\u00d0\u00b0\u00d1\u0081\u00d1\u0082\u00d1\u0096",
+        "safe hospital names": "",
+        "region (unique)": "IVANO-FRANKIVSK REGION",
+        "full location (unique)": "\u00d0\u009a\u00d0\u009d\u00d0\u009f \"\u00d0\u00a2\u00d0\u00bb\u00d1\u0083\u00d0\u00bc\u00d0\u00b0\u00d1\u0086\u00d1\u008c\u00d0\u00ba\u00d0\u00b0 \u00d1\u0086\u00d0\u00b5\u00d0\u00bd\u00d1\u0082\u00d1\u0080\u00d0\u00b0\u00d0\u00bb\u00d1\u008c\u00d0\u00bd\u00d0\u00b0 \u00d0\u00bc\u00d1\u0096\u00d1\u0081\u00d1\u008c\u00d0\u00ba\u00d0\u00b0 \u00d0\u00bb\u00d1\u0096\u00d0\u00ba\u00d0\u00b0\u00d1\u0080\u00d0\u00bd\u00d1\u008f\" \u00d0\u00a2\u00d0\u00bb\u00d1\u0083\u00d0\u00bc\u00d0\u00b0\u00d1\u0086\u00d1\u008c\u00d0\u00ba\u00d0\u00be\u00d1\u0097 \u00d0\u00bc\u00d1\u0096\u00d1\u0081\u00d1\u008c\u00d0\u00ba\u00d0\u00be\u00d1\u0097 \u00d1\u0080\u00d0\u00b0\u00d0\u00b4\u00d0\u00b8 \u00d0\u0086\u00d0\u00b2\u00d0\u00b0\u00d0\u00bd\u00d0\u00be-\u00d0\u00a4\u00d1\u0080\u00d0\u00b0\u00d0\u00bd\u00d0\u00ba\u00d1\u0096\u00d0\u00b2\u00d1\u0081\u00d1\u008c\u00d0\u00ba\u00d0\u00be\u00d0\u00b3\u00d0\u00be \u00d1\u0080\u00d0\u00b0\u00d0\u00b9\u00d0\u00be\u00d0\u00bd\u00d1\u0083 \u00d0\u0086\u00d0\u00b2\u00d0\u00b0\u00d0\u00bd\u00d0\u00be-\u00d0\u00a4\u00d1\u0080\u00d0\u00b0\u00d0\u00bd\u00d0\u00ba\u00d1\u0096\u00d0\u00b2\u00d1\u0081\u00d1\u008c\u00d0\u00ba\u00d0\u00be\u00d1\u0097 \u00d0\u00be\u00d0\u00b1\u00d0\u00bb\u00d0\u00b0\u00d1\u0081\u00d1\u0082\u00d1\u0096, IVANO-FRANKIVSK REGION",
+        "number of beds (unique)": "275",
+        "item name eng/ukr (unique)": "Syringe needles, assorted, Sterilization bags, Suction catheter, assorted, Syringes and medicine cups, Urological consumables, assorted, Enteral feeding supplies, assorted, Oxygen tube, Gynecological kits, Endotracheal tubes, assorted, Enteral tube, assorted, Adult bariatric diapers (large), AMBU bag, Ice packs, Cold compresses, Breathing trainer, Disposable endoscope, assorted, Anti-embolism splints and straps, Vaginal speculum, Medical pants and jackets (used), Vinyl cover for bed mattress, Blanket, bedding sets (used), Bed linen (assorted) (used), Walking belt 1292903, Positioning pillows, Laryngoscope, Monitor, clinical, 2-4 functions (NIBP, pulse, optional TEMP & SPO2), Monitor, vital signs, 5 functions (NIBP, pulse, optional TEMP, SPO2, ECG), Transformer, 300 Watt, Transformer, 500 Watt, Transformer, 1,000 Watt, Transformer, 1,500 Watt, Bed CHG, 5700, SN: 049752, Bed Stryker, Std, SN: 1011 17127, Bed Stryker, FL28C, SN: FL28 5343, Bed Stryker, Secure II, SN: 0605 15127, Cane, Trolley, oxygen cylinder, Waiting chair, Crutches, Wooden table, Hoyer lift, Patient transport system (board), Examination table Ritter, 204, SN: v28399 (blue), Oxygen cylinder Size A thru D (5-16\" Ht), Adult walker, Containers for trash / biohazard waste, Procedure table (beige), Disposal bags (garbage bags), Shampoo, Socks assorted (60 pcs)",
+        "total item quantity": "3837.0",
+        "handover protocol link (unique)": "",
+        "picture link (unique)": "",
+        "item list (eng) (unique)": "",
+        "short hospital names (eng)": "Tlumatsk central city hospital Ivano-Frankivsk region",
+        "info box text": "",
+        "landing page link": "",
+        "date last updated: new data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.272,
+          48.5485
+        ]
+      },
+      "properties": {
+        "show?": "True",
+        "raw data (no line breaks)": "Municipal non-profit enterprise Pavlohrad City Hospital No. 1 of the Pavlohrad City Council",
+        "shipment id (unique)": "MUA28",
+        "cure id (unique)": "12438",
+        "donor (unique)": "EKFS (NAK)",
+        "country (unique)": "Ukraine",
+        "distribution number (unique)": "149",
+        "distribution id (unique)": "UHU149_08/25",
+        "shipment period (unique)": "Aug-25",
+        "type of medical institution (unique)": "Hospital",
+        "unique hospital names (eng)": "\u00d0\u009a\u00d0\u009d\u00d0\u009f \"\u00d0\u00a1\u00d0\u00a2\u00d0\u009e\u00d0\u009c\u00d0\u0090\u00d0\u00a2\u00d0\u009e\u00d0\u009b\u00d0\u009e\u00d0\u0093\u00d0\u0086\u00d0\u00a7\u00d0\u009d\u00d0\u0090 \u00d0\u009f\u00d0\u009e\u00d0\u009b\u00d0\u0086\u00d0\u009a\u00d0\u009b\u00d0\u0086\u00d0\u009d\u00d0\u0086\u00d0\u009a\u00d0\u0090 \u00d0\u009a\u00d0\u0090\u00d0\u009b\u00d0\u00a3\u00d0\u00a1\u00d0\u00ac\u00d0\u009a\u00d0\u009e\u00d0\u0087 \u00d0\u009c\u00d0\u0086\u00d0\u00a1\u00d0\u00ac\u00d0\u009a\u00d0\u009e\u00d0\u0087 \u00d0\u00a0\u00d0\u0090\u00d0\u0094\u00d0\u0098\"",
+        "safe hospital names": "",
+        "region (unique)": "IVANO-FRANKIVSK REGION",
+        "full location (unique)": "\u00d0\u009a\u00d0\u009d\u00d0\u009f \"\u00d0\u00a1\u00d0\u00a2\u00d0\u009e\u00d0\u009c\u00d0\u0090\u00d0\u00a2\u00d0\u009e\u00d0\u009b\u00d0\u009e\u00d0\u0093\u00d0\u0086\u00d0\u00a7\u00d0\u009d\u00d0\u0090 \u00d0\u009f\u00d0\u009e\u00d0\u009b\u00d0\u0086\u00d0\u009a\u00d0\u009b\u00d0\u0086\u00d0\u009d\u00d0\u0086\u00d0\u009a\u00d0\u0090 \u00d0\u009a\u00d0\u0090\u00d0\u009b\u00d0\u00a3\u00d0\u00a1\u00d0\u00ac\u00d0\u009a\u00d0\u009e\u00d0\u0087 \u00d0\u009c\u00d0\u0086\u00d0\u00a1\u00d0\u00ac\u00d0\u009a\u00d0\u009e\u00d0\u0087 \u00d0\u00a0\u00d0\u0090\u00d0\u0094\u00d0\u0098\", IVANO-FRANKIVSK REGION",
+        "number of beds (unique)": "",
+        "item name eng/ukr (unique)": "Syringe needles, assorted, Disposable gowns",
+        "total item quantity": "8326.0",
+        "handover protocol link (unique)": "",
+        "picture link (unique)": "",
+        "item list (eng) (unique)": "",
+        "short hospital names (eng)": "Kalush Dental Clinic, Ukraine",
+        "info box text": "",
+        "landing page link": "",
+        "date last updated: new data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7112,
+          48.9277
+        ]
+      },
+      "properties": {
+        "show?": "True",
+        "raw data (no line breaks)": "Municipal non-profit enterprise Pavlohrad City Hospital No. 1 of the Pavlohrad City Council",
+        "shipment id (unique)": "MUA28",
+        "cure id (unique)": "12438",
+        "donor (unique)": "EKFS (NAK)",
+        "country (unique)": "Ukraine",
+        "distribution number (unique)": "150",
+        "distribution id (unique)": "UHU150_08/25",
+        "shipment period (unique)": "Aug-25",
+        "type of medical institution (unique)": "Hospital",
+        "unique hospital names (eng)": "\u00d0\u009a\u00d0\u009d\u00d0\u009f \"\u00d0\u009e\u00d0\u00b1\u00d0\u00bb\u00d0\u00b0\u00d1\u0081\u00d0\u00bd\u00d0\u00b8\u00d0\u00b9 \u00d0\u00ba\u00d0\u00bb\u00d1\u0096\u00d0\u00bd\u00d1\u0096\u00d1\u0087\u00d0\u00bd\u00d0\u00b8\u00d0\u00b9 \u00d1\u0086\u00d0\u00b5\u00d0\u00bd\u00d1\u0082\u00d1\u0080 \u00d0\u00b5\u00d0\u00ba\u00d1\u0081\u00d1\u0082\u00d1\u0080\u00d0\u00b5\u00d0\u00bd\u00d0\u00be\u00d1\u0097 \u00d0\u00bc\u00d0\u00b5\u00d0\u00b4\u00d0\u00b8\u00d1\u0087\u00d0\u00bd\u00d0\u00be\u00d1\u0097 \u00d0\u00b4\u00d0\u00be\u00d0\u00bf\u00d0\u00be\u00d0\u00bc\u00d0\u00be\u00d0\u00b3\u00d0\u00b8 \u00d1\u0082\u00d0\u00b0 \u00d0\u00bc\u00d0\u00b5\u00d0\u00b4\u00d0\u00b8\u00d1\u0086\u00d0\u00b8\u00d0\u00bd\u00d0\u00b8 \u00d0\u00ba\u00d0\u00b0\u00d1\u0082\u00d0\u00b0\u00d1\u0081\u00d1\u0082\u00d1\u0080\u00d0\u00be\u00d1\u0084 \u00d0\u0086\u00d0\u00b2\u00d0\u00b0\u00d0\u00bd\u00d0\u00be-\u00d0\u00a4\u00d1\u0080\u00d0\u00b0\u00d0\u00bd\u00d0\u00ba\u00d1\u0096\u00d0\u00b2\u00d1\u0081\u00d1\u008c\u00d0\u00ba\u00d0\u00be\u00d1\u0097 \u00d0\u00be\u00d0\u00b1\u00d0\u00bb\u00d0\u00b0\u00d1\u0081\u00d0\u00bd\u00d0\u00be\u00d1\u0097 \u00d1\u0080\u00d0\u00b0\u00d0\u00b4\u00d0\u00b8\" (KNP \"OKCEMD ta MK IFOR\"):",
+        "safe hospital names": "",
+        "region (unique)": "IVANO-FRANKIVSK REGION",
+        "full location (unique)": "\u00d0\u009a\u00d0\u009d\u00d0\u009f \"\u00d0\u009e\u00d0\u00b1\u00d0\u00bb\u00d0\u00b0\u00d1\u0081\u00d0\u00bd\u00d0\u00b8\u00d0\u00b9 \u00d0\u00ba\u00d0\u00bb\u00d1\u0096\u00d0\u00bd\u00d1\u0096\u00d1\u0087\u00d0\u00bd\u00d0\u00b8\u00d0\u00b9 \u00d1\u0086\u00d0\u00b5\u00d0\u00bd\u00d1\u0082\u00d1\u0080 \u00d0\u00b5\u00d0\u00ba\u00d1\u0081\u00d1\u0082\u00d1\u0080\u00d0\u00b5\u00d0\u00bd\u00d0\u00be\u00d1\u0097 \u00d0\u00bc\u00d0\u00b5\u00d0\u00b4\u00d0\u00b8\u00d1\u0087\u00d0\u00bd\u00d0\u00be\u00d1\u0097 \u00d0\u00b4\u00d0\u00be\u00d0\u00bf\u00d0\u00be\u00d0\u00bc\u00d0\u00be\u00d0\u00b3\u00d0\u00b8 \u00d1\u0082\u00d0\u00b0 \u00d0\u00bc\u00d0\u00b5\u00d0\u00b4\u00d0\u00b8\u00d1\u0086\u00d0\u00b8\u00d0\u00bd\u00d0\u00b8 \u00d0\u00ba\u00d0\u00b0\u00d1\u0082\u00d0\u00b0\u00d1\u0081\u00d1\u0082\u00d1\u0080\u00d0\u00be\u00d1\u0084 \u00d0\u0086\u00d0\u00b2\u00d0\u00b0\u00d0\u00bd\u00d0\u00be-\u00d0\u00a4\u00d1\u0080\u00d0\u00b0\u00d0\u00bd\u00d0\u00ba\u00d1\u0096\u00d0\u00b2\u00d1\u0081\u00d1\u008c\u00d0\u00ba\u00d0\u00be\u00d1\u0097 \u00d0\u00be\u00d0\u00b1\u00d0\u00bb\u00d0\u00b0\u00d1\u0081\u00d0\u00bd\u00d0\u00be\u00d1\u0097 \u00d1\u0080\u00d0\u00b0\u00d0\u00b4\u00d0\u00b8\" (KNP \"OKCEMD ta MK IFOR\"):, IVANO-FRANKIVSK REGION",
+        "number of beds (unique)": "",
+        "item name eng/ukr (unique)": "Surgical masks, assorted",
+        "total item quantity": "5193.0",
+        "handover protocol link (unique)": "",
+        "picture link (unique)": "",
+        "item list (eng) (unique)": "",
+        "short hospital names (eng)": "Oblast clinical emergency medical center ivano-frankivsk",
+        "info box text": "",
+        "landing page link": "",
+        "date last updated: new data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7039,
+          48.9223
+        ]
+      },
+      "properties": {
+        "show?": "True",
+        "raw data (no line breaks)": "Municipal non-profit enterprise Pavlohrad City Hospital No. 1 of the Pavlohrad City Council",
+        "shipment id (unique)": "MUA28",
+        "cure id (unique)": "12438",
+        "donor (unique)": "EKFS (NAK)",
+        "country (unique)": "Ukraine",
+        "distribution number (unique)": "151",
+        "distribution id (unique)": "UHU151_08/25",
+        "shipment period (unique)": "Aug-25",
+        "type of medical institution (unique)": "Hospital",
+        "unique hospital names (eng)": "\u00d0\u009a\u00d0\u009d\u00d0\u009f \"\u00d0\u009c\u00d0\u0086\u00d0\u00a1\u00d0\u00ac\u00d0\u009a\u00d0\u0090 \u00d0\u009a\u00d0\u009b\u00d0\u0086\u00d0\u009d\u00d0\u0086\u00d0\u00a7\u00d0\u009d\u00d0\u0090 \u00d0\u009b\u00d0\u0086\u00d0\u009a\u00d0\u0090\u00d0\u00a0\u00d0\u009d\u00d0\u00af \u00e2\u0084\u0096 1 \u00d0\u0086\u00d0\u0092\u00d0\u0090\u00d0\u009d\u00d0\u009e-\u00d0\u00a4\u00d0\u00a0\u00d0\u0090\u00d0\u009d\u00d0\u009a\u00d0\u0086\u00d0\u0092\u00d0\u00a1\u00d0\u00ac\u00d0\u009a\u00d0\u009e\u00d0\u0087 \u00d0\u009c\u00d0\u0086\u00d0\u00a1\u00d0\u00ac\u00d0\u009a\u00d0\u009e\u00d0\u0087 \u00d0\u00a0\u00d0\u0090\u00d0\u0094\u00d0\u0098\"",
+        "safe hospital names": "",
+        "region (unique)": "IVANO-FRANKIVSK REGION",
+        "full location (unique)": "\u00d0\u009a\u00d0\u009d\u00d0\u009f \"\u00d0\u009c\u00d0\u0086\u00d0\u00a1\u00d0\u00ac\u00d0\u009a\u00d0\u0090 \u00d0\u009a\u00d0\u009b\u00d0\u0086\u00d0\u009d\u00d0\u0086\u00d0\u00a7\u00d0\u009d\u00d0\u0090 \u00d0\u009b\u00d0\u0086\u00d0\u009a\u00d0\u0090\u00d0\u00a0\u00d0\u009d\u00d0\u00af \u00e2\u0084\u0096 1 \u00d0\u0086\u00d0\u0092\u00d0\u0090\u00d0\u009d\u00d0\u009e-\u00d0\u00a4\u00d0\u00a0\u00d0\u0090\u00d0\u009d\u00d0\u009a\u00d0\u0086\u00d0\u0092\u00d0\u00a1\u00d0\u00ac\u00d0\u009a\u00d0\u009e\u00d0\u0087 \u00d0\u009c\u00d0\u0086\u00d0\u00a1\u00d0\u00ac\u00d0\u009a\u00d0\u009e\u00d0\u0087 \u00d0\u00a0\u00d0\u0090\u00d0\u0094\u00d0\u0098\", IVANO-FRANKIVSK REGION",
+        "number of beds (unique)": "240",
+        "item name eng/ukr (unique)": "Vinyl cover for bed mattress, Blanket, bedding sets (used), Bed linen (assorted) (used), Walking belt 1292903, Positioning pillows, Cane, Transformer, 1,500 Watt, Transformer, 200 Watt, Waiting chair, Stool, Transformer, 500 Watt, Crutches, Examination light MIDMARK, 152-001 RITTER, SN: TGB019140, Otoscope / ophthalmoscope Welch Allyn, Transformer, 300 Watt, Transformer, 1,000 Watt, Transformer, 2,000 Watt, Bed Invacare, 53011vc, SN: 22jla000808, Bed N/A, N/A, SN: N/A, Bed Drive, 15030, SN: 1S230604250A, Bed CDG, 5700, SN: 048111, Bed CHG, N/A, SN: N/A, Bedside toilet, Adult scale (large), Vinyl cover for bed mattress, Blanket, bedding sets (used), Bed linen (assorted) (used), Stationery (folders, etc.) (1259938), White table (48.5*44.5*75), Shampoo, Toothbrushes 1 box*72 pcs, Mops; disposal bags (garbage bags)",
+        "total item quantity": "188.0",
+        "handover protocol link (unique)": "",
+        "picture link (unique)": "",
+        "item list (eng) (unique)": "",
+        "short hospital names (eng)": "Ivano-frankivsk city clinical hospital 1",
+        "info box text": "",
+        "landing page link": "",
+        "date last updated: new data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.905,
+          48.922
+        ]
+      },
+      "properties": {
+        "show?": "True",
+        "raw data (no line breaks)": "Municipal non-profit enterprise Pavlohrad City Hospital No. 1 of the Pavlohrad City Council",
+        "shipment id (unique)": "MUA28",
+        "cure id (unique)": "12438",
+        "donor (unique)": "EKFS (NAK)",
+        "country (unique)": "Ukraine",
+        "distribution number (unique)": "152",
+        "distribution id (unique)": "UHU152_08/25",
+        "shipment period (unique)": "Aug-25",
+        "type of medical institution (unique)": "Hospital",
+        "unique hospital names (eng)": "\u00d0\u009a\u00d0\u009d\u00d0\u009f \"\u00d0\u00a6\u00d0\u0086\u00d0\u0097 \u00d0\u0086\u00d0\u00a4 \u00d0\u009e\u00d0\u00a0, \u00d0\u009a\u00d0\u00be\u00d0\u00bc\u00d1\u0083\u00d0\u00bd\u00d0\u00b0\u00d0\u00bb\u00d1\u008c\u00d0\u00bd\u00d0\u00b5 \u00d0\u00bd\u00d0\u00b5\u00d0\u00ba\u00d0\u00be\u00d0\u00bc\u00d0\u00b5\u00d1\u0080\u00d1\u0086\u00d1\u0096\u00d0\u00b9\u00d0\u00bd\u00d0\u00b5 \u00d0\u00bf\u00d1\u0096\u00d0\u00b4\u00d0\u00bf\u00d1\u0080\u00d0\u00b8\u00d1\u0094\u00d0\u00bc\u00d1\u0081\u00d1\u0082\u00d0\u00b2\u00d0\u00be \"\u00d0\u00a6\u00d0\u00b5\u00d0\u00bd\u00d1\u0082\u00d1\u0080 \u00d1\u0096\u00d0\u00bd\u00d1\u0084\u00d0\u00b5\u00d0\u00ba\u00d1\u0086\u00d1\u0096\u00d0\u00b9\u00d0\u00bd\u00d0\u00b8\u00d1\u0085 \u00d0\u00b7\u00d0\u00b0\u00d1\u0085\u00d0\u00b2\u00d0\u00be\u00d1\u0080\u00d1\u008e\u00d0\u00b2\u00d0\u00b0\u00d0\u00bd\u00d1\u008c \u00d0\u0086\u00d0\u00b2\u00d0\u00b0\u00d0\u00bd\u00d0\u00be-\u00d0\u00a4\u00d1\u0080\u00d0\u00b0\u00d0\u00bd\u00d0\u00ba\u00d1\u0096\u00d0\u00b2\u00d1\u0081\u00d1\u008c\u00d0\u00ba\u00d0\u00be\u00d1\u0097 \u00d0\u00be\u00d0\u00b1\u00d0\u00bb\u00d0\u00b0\u00d1\u0081\u00d0\u00bd\u00d0\u00be\u00d1\u0097 \u00d1\u0080\u00d0\u00b0\u00d0\u00b4\u00d0\u00b8,",
+        "safe hospital names": "",
+        "region (unique)": "IVANO-FRANKIVSK REGION",
+        "full location (unique)": "\u00d0\u009a\u00d0\u009d\u00d0\u009f \"\u00d0\u00a6\u00d0\u0086\u00d0\u0097 \u00d0\u0086\u00d0\u00a4 \u00d0\u009e\u00d0\u00a0, \u00d0\u009a\u00d0\u00be\u00d0\u00bc\u00d1\u0083\u00d0\u00bd\u00d0\u00b0\u00d0\u00bb\u00d1\u008c\u00d0\u00bd\u00d0\u00b5 \u00d0\u00bd\u00d0\u00b5\u00d0\u00ba\u00d0\u00be\u00d0\u00bc\u00d0\u00b5\u00d1\u0080\u00d1\u0086\u00d1\u0096\u00d0\u00b9\u00d0\u00bd\u00d0\u00b5 \u00d0\u00bf\u00d1\u0096\u00d0\u00b4\u00d0\u00bf\u00d1\u0080\u00d0\u00b8\u00d1\u0094\u00d0\u00bc\u00d1\u0081\u00d1\u0082\u00d0\u00b2\u00d0\u00be \"\u00d0\u00a6\u00d0\u00b5\u00d0\u00bd\u00d1\u0082\u00d1\u0080 \u00d1\u0096\u00d0\u00bd\u00d1\u0084\u00d0\u00b5\u00d0\u00ba\u00d1\u0086\u00d1\u0096\u00d0\u00b9\u00d0\u00bd\u00d0\u00b8\u00d1\u0085 \u00d0\u00b7\u00d0\u00b0\u00d1\u0085\u00d0\u00b2\u00d0\u00be\u00d1\u0080\u00d1\u008e\u00d0\u00b2\u00d0\u00b0\u00d0\u00bd\u00d1\u008c \u00d0\u0086\u00d0\u00b2\u00d0\u00b0\u00d0\u00bd\u00d0\u00be-\u00d0\u00a4\u00d1\u0080\u00d0\u00b0\u00d0\u00bd\u00d0\u00ba\u00d1\u0096\u00d0\u00b2\u00d1\u0081\u00d1\u008c\u00d0\u00ba\u00d0\u00be\u00d1\u0097 \u00d0\u00be\u00d0\u00b1\u00d0\u00bb\u00d0\u00b0\u00d1\u0081\u00d0\u00bd\u00d0\u00be\u00d1\u0097 \u00d1\u0080\u00d0\u00b0\u00d0\u00b4\u00d0\u00b8,, IVANO-FRANKIVSK REGION",
+        "number of beds (unique)": "210",
+        "item name eng/ukr (unique)": "Women's items (care products) (1292453), Containers for trash / biohazard waste, Carts (black with red) for trash, Disposal bags (garbage bags), Shampoo, Socks assorted (210 pcs), Toothbrushes 1 box*72 pcs, Bedside toilet, Double IV stand, IV stand, Oxygen cylinder Size A thru D (5-16\" Ht), Oxygen cylinder Size E (25\" Ht)",
+        "total item quantity": "60.0",
+        "handover protocol link (unique)": "",
+        "picture link (unique)": "",
+        "item list (eng) (unique)": "",
+        "short hospital names (eng)": "\u00d0\u00a6\u00d0\u00b5\u00d0\u00bd\u00d1\u0082\u00d1\u0080 \u00d1\u0096\u00d0\u00bd\u00d1\u0084\u00d0\u00b5\u00d0\u00ba\u00d1\u0086\u00d1\u0096\u00d0\u00b9\u00d0\u00bd\u00d0\u00b8\u00d1\u0085 \u00d0\u00b7\u00d0\u00b0\u00d1\u0085\u00d0\u00b2\u00d0\u00be\u00d1\u0080\u00d1\u008e\u00d0\u00b2\u00d0\u00b0\u00d0\u00bd\u00d1\u008c \u00d0\u0086\u00d0\u00b2\u00d0\u00b0\u00d0\u00bd\u00d0\u00be-\u00d0\u00a4\u00d1\u0080\u00d0\u00b0\u00d0\u00bd\u00d0\u00ba\u00d1\u0096\u00d0\u00b2\u00d1\u0081\u00d1\u008c\u00d0\u00ba\u00d0\u00be\u00d1\u0097 \u00d0\u00be\u00d0\u00b1\u00d0\u00bb\u00d0\u00b0\u00d1\u0081\u00d0\u00bd\u00d0\u00be\u00d1\u0097 \u00d1\u0080\u00d0\u00b0\u00d0\u00b4\u00d0\u00b8",
+        "info box text": "",
+        "landing page link": "",
+        "date last updated: new data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.5,
+          49.5894
+        ]
+      },
+      "properties": {
+        "show?": "True",
+        "raw data (no line breaks)": "Municipal non-profit enterprise Pavlohrad City Hospital No. 1 of the Pavlohrad City Council",
+        "shipment id (unique)": "MUA29",
+        "cure id (unique)": "32420",
+        "donor (unique)": "NAK (B2C Marathon & Henkel)",
+        "country (unique)": "Ukraine",
+        "distribution number (unique)": "153",
+        "distribution id (unique)": "UHU153_08/25",
+        "shipment period (unique)": "Aug-25",
+        "type of medical institution (unique)": "Hospital",
+        "unique hospital names (eng)": "Municipal Enterprise \"Poltava Regional Clinical Hospital named after N.V. Sklifosovsky of the Poltava Regional Council\"",
+        "safe hospital names": "",
+        "region (unique)": "Poltava, Poltava Oblast, Ukraine",
+        "full location (unique)": "Municipal Enterprise \"Poltava Regional Clinical Hospital named after N.V. Sklifosovsky of the Poltava Regional Council\", Poltava, Poltava Oblast, Ukraine",
+        "number of beds (unique)": "1082",
+        "item name eng/ukr (unique)": "Bed Linens And Towels, Surgical Caps And Hats, Shoe Covers, Gloves, Non-sterile, Gloves, Sterile, Gowns, Isolation Level 1 and Level 2, Gowns, Isolation or Biohazard, Level 3 and Level 4, Gowns, Patient (incl. Cloth, Paper Protector, Cover-up), Gowns, Surgical, Non-sterile, Lab Coats And Tunics, Scrub Suits, Surgical, Scrubs, Figs Tops and Bottoms (X-S and Small), Scrubs, Figs Tops and Bottoms (Medium), Scrubs, Figs Tops and Bottoms (Large), Scrubs, Figs Tops and Bottoms (XL and Bigger)), 2x2, 4x4, Abd Sterile Dressings, Bandaids, Steristrips, Tape, Transparent Dressings (tegaderm), Dressing Change Kits, Laceration Trays, Wound Care Kits, Gauze and All Other Non Sterile Dressings, Kerlix/Kling Dressing, Specialty Dressings (and All Other Dressings Not Fitting In Other Categories), Bags, Red, Spill Kits And Isolyszer, Liners, Trash Can, Laundry & Plastic Bags, Mopheads, Sharps Containers, Send Only w/ Lids, Sterilization, Tapes, Indicators, Wraps & Pouches, Buffalo Caps, Prn Adaptors And Other IV Infusion Supplies, Vial Spikes And Adaptors, IV Catheters/ Including Huber, Butterfly, Fistula, IV Extension & Secondary Tubing, Blood Drawing Supplies (Vacutainer Holders & Needles, Butterflies, Lancets, Tourniquets), Baby and birthing supplies, Feminine Supplies - (including Pads, Belts, Perineal Wash, Sitz Baths, Activities Of Daily Living Aids (including Dressing Aids), Pt Supplies, Casting Supplies, Stockinette, Web Roll, Plaster, Fiberglass, Cast Shoes, Cast Heels, Pads, Wedges, Positioning Pillows, Splints, Wraps (including Ace), and Slings, Hose Ted (anti- embolism), Braces, Applicator Swabs (Q-Tips), Tongue Depressors, Cotton Balls, Bedpans And Urinals, Containers, Basins, Emesis, Water Mugs, Pitchers, Glassware, Diapers, Adult, Feeding Tubes, Bags, Pump Set and Supplies, Patient Supplies (Soaps, Shampoos, Mouthwash, Toothpaste, Belonging Bags),slippers, Underpads, (Chux and Blue Pads), Nasal Cannulas, Respiratory Supplies, Other, Alcohol and Betadine Pads & Swabs, Alcohol and Betadine Pads & Swabs, Scrub Brushes and Skin Prep Sets, Chest Tubes and Drainage Units, Drains, Surgical, including Penrose and Suction Types, Endotracheal Tubes/, General Surgery Packs and Supplies, OB/GYN Surgery Packs & Supplies, Orthopedic Surgery Packs & Supplies, Drapes, Sterile, Tracheostomy & Cricothyroidotomy supplies, tubes and kits/, Drapes, Non-sterile/\u00d0\u00a8\u00d1\u0082\u00d0\u00be\u00d1\u0080\u00d0\u00b8 \u00d0\u00bd\u00d0\u00b5\u00d1\u0081\u00d1\u0082\u00d0\u00b5\u00d1\u0080\u00d0\u00b8\u00d0\u00bb\u00d1\u008c\u00d0\u00bd\u00d1\u0096, Irrigation Syringes, Tubes and Trays, including Tur/urinary Irrigation Setups, Nasal Gastric & Gastric Lavage Tubes & Kits Nasal, Suction Canisters & Lids, Suction Catheter, Tips, Tubings & Connectors, Sutures and Suture Removal Kit, Staplers and Staple Removal Kits, Urinary Bags (Leg and Bedside) And Urinary Supplies, Urinary Catheters, Trays & Insertion Sets, CPAP Supplies, CPAP Unit W/ Humidifier, Laryngoscope, Lab Supply Kit, General Lab Supplies, O2 Sensors, Nellcor Max, Oxygen Tank Regulator, Pump, IV, Pump, IV Tubing, Reflex Hammer, Speculum, Non Disposable, Vaginal, Disposable Speculum, Suction Machine / Low Pressure / Portable/\u00d0\u0092\u00d1\u0081\u00d0\u00bc\u00d0\u00be\u00d0\u00ba\u00d1\u0082\u00d1\u0083\u00d0\u00b2\u00d0\u00b0\u00d0\u00bb\u00d1\u008c\u00d0\u00bd\u00d0\u00b0 \u00d0\u00bc\u00d0\u00b0\u00d1\u0088\u00d0\u00b8\u00d0\u00bd\u00d0\u00b0, Surgical Shavers/\u00d0\u00a5\u00d1\u0096\u00d1\u0080\u00d1\u0083\u00d1\u0080\u00d0\u00b3\u00d1\u0096\u00d1\u0087\u00d0\u00bd\u00d1\u0096 \u00d0\u00b1\u00d1\u0080\u00d0\u00b8\u00d1\u0082\u00d0\u00b2\u00d0\u00b8, Transformer, 200 Watt, Transformer, 1,500 watts, Bed, ICU, Cart, Utility, Trash, Misc., Cart, Oxygen Cylinder, Chair, Waiting Room, Commode, Bedside, File Cabinet, Gurney, IV Pole, Vinyl Bed Surface, Mayo Stand, Paper, Exam Table Rolls in Boxes, Pillow, Scale, Adult, Step Stool, Stool, Exam, Surgical Instrument Kit, Suture Set, Surgical Instrument Kit, General, Surgical Instrument Kit, Delivery, Surgical Instrument Kit, Ortho, Surgical Instrument Kit, Surgical Staplers, Table, Treatment, Tank, Oxygen Size E (25\" Ht), Walker, Adult, Wheelchair Transport Unit, Wheelchair, Adult",
+        "total item quantity": "67926.0",
+        "handover protocol link (unique)": "",
+        "picture link (unique)": "",
+        "item list (eng) (unique)": "",
+        "short hospital names (eng)": "Poltava regional clinical hospital, Poltava",
+        "info box text": "",
+        "landing page link": "",
+        "date last updated: new data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.5,
+          49.59
+        ]
+      },
+      "properties": {
+        "show?": "True",
+        "raw data (no line breaks)": "Municipal non-profit enterprise Pavlohrad City Hospital No. 1 of the Pavlohrad City Council",
+        "shipment id (unique)": "MUA29",
+        "cure id (unique)": "32420",
+        "donor (unique)": "NAK (B2C Marathon & Henkel)",
+        "country (unique)": "Ukraine",
+        "distribution number (unique)": "154",
+        "distribution id (unique)": "UHU154_08/25",
+        "shipment period (unique)": "Aug-25",
+        "type of medical institution (unique)": "Hospital",
+        "unique hospital names (eng)": "Municipal Enterprise \"Poltava Regional Clinical Hospital named after N.V. Sklifosovsky of the Poltava Regional Council\" (for the Center of Specialized Pediatric Care)",
+        "safe hospital names": "",
+        "region (unique)": "Poltava, Poltava Oblast, Ukraine",
+        "full location (unique)": "Municipal Enterprise \"Poltava Regional Clinical Hospital named after N.V. Sklifosovsky of the Poltava Regional Council\" (for the Center of Specialized Pediatric Care), Poltava, Poltava Oblast, Ukraine",
+        "number of beds (unique)": "118",
+        "item name eng/ukr (unique)": "Office Supplies, ALL, Bed Linens And Towels, Gloves, Non-sterile, Scrubs, Figs Tops and Bottoms (X-S and Small), Scrubs, Figs Tops and Bottoms (Medium), Scrubs, Figs Tops and Bottoms (Large), 2x2, 4x4, Abd Sterile Dressings, Bags, Red, Spill Kits And Isolyszer, Sharps Containers, Send Only w/ Lids, Sterilization, Tapes, Indicators, Wraps & Pouches, Buffalo caps, prn adaptors and other iv infusion supplies, vial spikes and adaptators, Syringes, 5cc & 6cc, Syringes, 30cc and 60cc, Baby and birthing supplies, Diapers and Wipes, Pads, Wedges, Positioning Pillows, Diapers, Adult, Feeding Tubes, Bags, Pump Set and Supplies, Paper Supplies, Towels, Cups, Napkins, Toilet Paper, Dishes, Patient Supplies (Soaps, Shampoos, Mouthwash, Toothpaste, Belonging Bags),slippers, Nebulizer Supplies, Monitor, Clinical, 2 -4 function (NIBP, Pulse, optional TEMP & SPO2), Nebulizer, Thermometer, Forehead, Thermometer, Patient Digital or Oral, Crutches, Crutches, Pediatric, Desk, Hoyer Lift, Scale, Infant, Trash / Biohazard Waste Cans, Wheelchair Transport Unit",
+        "total item quantity": "10427.0",
+        "handover protocol link (unique)": "",
+        "picture link (unique)": "",
+        "item list (eng) (unique)": "",
+        "short hospital names (eng)": "Poltava regional clinical hospital, Ukraine",
+        "info box text": "",
+        "landing page link": "",
+        "date last updated: new data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.5,
+          49.585
+        ]
+      },
+      "properties": {
+        "show?": "True",
+        "raw data (no line breaks)": "Municipal non-profit enterprise Pavlohrad City Hospital No. 1 of the Pavlohrad City Council",
+        "shipment id (unique)": "MUA29",
+        "cure id (unique)": "32420",
+        "donor (unique)": "NAK (B2C Marathon & Henkel)",
+        "country (unique)": "Ukraine",
+        "distribution number (unique)": "155",
+        "distribution id (unique)": "UHU155_08/25",
+        "shipment period (unique)": "Aug-25",
+        "type of medical institution (unique)": "Hospital",
+        "unique hospital names (eng)": "Municipal Enterprise \"Poltava Regional Clinical Oncological Dispensary of the Poltava Regional Council\"",
+        "safe hospital names": "",
+        "region (unique)": "Poltava, Poltava Oblast, Ukraine",
+        "full location (unique)": "Municipal Enterprise \"Poltava Regional Clinical Oncological Dispensary of the Poltava Regional Council\", Poltava, Poltava Oblast, Ukraine",
+        "number of beds (unique)": "413",
+        "item name eng/ukr (unique)": "Bed Linens And Towels, Surgical Caps And Hats, Shoe Covers, Gloves, Non-sterile, Goggles and Face Protection, Gowns, Isolation or Biohazard, Level 3 and Level 4, Gowns, Surgical, Non-sterile, Lab Coats And Tunics, Scrub Suits, Surgical, 2x2, 4x4, Abd Sterile Dressings, Bandaids, Steristrips, Tape, Transparent Dressings (tegaderm), Gauze and All Other Non Sterile Dressings, Specialty Dressings (and All Other Dressings Not Fitting In Other Categories), Bags, Red, Spill Kits And Isolyszer, Sharps Containers, Send Only w/ Lids, Buffalo caps, prn adaptors and other iv infusion supplies, vial spikes and adaptators, IV Catheters/ Including Huber, Butterfly, Fistula, IV Extension & Secondary Tubing, IV Primary Tubing, Including Blood Tubing, Needles, Mixed Gauges, Syringes, 5cc & 6cc, Syringes, 10cc & 12cc, Syringes, 30cc and 60cc, Blood Drawing Supplies (Vacutainer Holders & Needles, Butterflies, Lancets, Tourniquets), Feminine Supplies - (including Pads, Belts, Perineal Wash, Sitz Baths, Activities Of Daily Living Aids (including Dressing Aids), Pt Supplies, Admission Kits, Bedpans And Urinals, Containers, Basins, Emesis, Water Mugs, Pitchers, Glassware, Diapers, Adult, Feeding Tubes, Bags, Pump Set and Supplies, Patient Supplies (Soaps, Shampoos, Mouthwash, Toothpaste, Belonging Bags),slippers, Underpads, (Chux and Blue Pads), Nasal Cannulas, Oxygen Masks and Tubing, Respiratory Supplies, Other, Suction Catheter & Glove Kit, Scrub Brushes and Skin Prep Sets, Endotracheal Tubes/, General Surgery Packs and Supplies, Drapes, Sterile, Tracheostomy & Cricothyroidotomy supplies, tubes and kits/, Drapes, Non-sterile/\u00d0\u00a8\u00d1\u0082\u00d0\u00be\u00d1\u0080\u00d0\u00b8 \u00d0\u00bd\u00d0\u00b5\u00d1\u0081\u00d1\u0082\u00d0\u00b5\u00d1\u0080\u00d0\u00b8\u00d0\u00bb\u00d1\u008c\u00d0\u00bd\u00d1\u0096, Irrigation Syringes, Tubes and Trays, including Tur/urinary Irrigation Setups, Suction Canisters & Lids, Suction Catheter, Tips, Tubings & Connectors, Urinary Bags (Leg and Bedside) And Urinary Supplies, Urinary Catheters, Trays & Insertion Sets, Lab Supply Kits, Lab Supply Kit, Tubes, Lab Supply Kit, Abg Syringes & Culture Supplies, Pump, IV, Pump, IV Tubing, Transformer, 500 Watt",
+        "total item quantity": "46547.0",
+        "handover protocol link (unique)": "",
+        "picture link (unique)": "",
+        "item list (eng) (unique)": "",
+        "short hospital names (eng)": "Poltava regional clinical oncological dispensary",
+        "info box text": "",
+        "landing page link": "",
+        "date last updated: new data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8934,
+          49.58
+        ]
+      },
+      "properties": {
+        "show?": "True",
+        "raw data (no line breaks)": "Municipal non-profit enterprise Pavlohrad City Hospital No. 1 of the Pavlohrad City Council",
+        "shipment id (unique)": "MUA29",
+        "cure id (unique)": "32420",
+        "donor (unique)": "NAK (B2C Marathon & Henkel)",
+        "country (unique)": "Ukraine",
+        "distribution number (unique)": "156",
+        "distribution id (unique)": "UHU156_08/25",
+        "shipment period (unique)": "Aug-25",
+        "type of medical institution (unique)": "Hospital",
+        "unique hospital names (eng)": "Municipal Enterprise \"Poltava Regional Center for Emergency Medical Care and Disaster Medicine of the Poltava Regional Council\"",
+        "safe hospital names": "",
+        "region (unique)": "Poltava, Poltava Oblast, Ukraine",
+        "full location (unique)": "Municipal Enterprise \"Poltava Regional Center for Emergency Medical Care and Disaster Medicine of the Poltava Regional Council\", Poltava, Poltava Oblast, Ukraine",
+        "number of beds (unique)": "100",
+        "item name eng/ukr (unique)": "Bed Linens And Towels, Surgical Caps And Hats, Shoe Covers, Gloves, Non-sterile, Gloves, Sterile, Masks, surgical, Goggles and Face Protection, Gowns, Isolation Level 1 and Level 2, Gowns, Isolation or Biohazard, Level 3 and Level 4, Gowns, Patient (incl. Cloth, Paper Protector, Cover-up), Gowns, Surgical, Non-sterile, Lab Coats And Tunics, Scrub Suits, Surgical, N-95 Masks, 2x2, 4x4, Abd Sterile Dressings, Gauze and All Other Non Sterile Dressings, Buffalo caps, prn adaptors and other iv infusion supplies, vial spikes and adaptators, IV Primary Tubing, Including Blood Tubing, Needles, Mixed Gauges, Syringes, 10cc & 12cc, Activities Of Daily Living Aids (including Dressing Aids), Pt Supplies, Casting Supplies, Stockinette, Web Roll, Plaster, Fiberglass, Cast Shoes, Cast Heels, Diapers, Adult, Underpads, (Chux and Blue Pads), Respiratory Supplies, Other, Ambu Bags, Orthopedic Surgery Packs & Supplies, Drapes, Sterile, Drapes, Non-sterile/\u00d0\u00a8\u00d1\u0082\u00d0\u00be\u00d1\u0080\u00d0\u00b8 \u00d0\u00bd\u00d0\u00b5\u00d1\u0081\u00d1\u0082\u00d0\u00b5\u00d1\u0080\u00d0\u00b8\u00d0\u00bb\u00d1\u008c\u00d0\u00bd\u00d1\u0096, Irrigation Syringes, Tubes and Trays, including Tur/urinary Irrigation Setups, Light, Exam, Oximeter, Pulse, Battery Operated, Pump, IV Tubing, Sphygmomanometer, Aneroid, Hand Held, Stethoscope",
+        "total item quantity": "18600.0",
+        "handover protocol link (unique)": "",
+        "picture link (unique)": "",
+        "item list (eng) (unique)": "",
+        "short hospital names (eng)": "Poltava regional center for emergency medical care",
+        "info box text": "",
+        "landing page link": "",
+        "date last updated: new data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.507,
+          49.5885
+        ]
+      },
+      "properties": {
+        "show?": "True",
+        "raw data (no line breaks)": "Municipal non-profit enterprise Pavlohrad City Hospital No. 1 of the Pavlohrad City Council",
+        "shipment id (unique)": "MUA29",
+        "cure id (unique)": "32420",
+        "donor (unique)": "NAK (B2C Marathon & Henkel)",
+        "country (unique)": "Ukraine",
+        "distribution number (unique)": "157",
+        "distribution id (unique)": "UHU157_08/25",
+        "shipment period (unique)": "Aug-25",
+        "type of medical institution (unique)": "Hospital",
+        "unique hospital names (eng)": "Municipal Enterprise \"Poltava Regional Clinical Tuberculosis Dispensary of the Poltava Regional Council\"",
+        "safe hospital names": "",
+        "region (unique)": "Poltava, Poltava Oblast, Ukraine",
+        "full location (unique)": "Municipal Enterprise \"Poltava Regional Clinical Tuberculosis Dispensary of the Poltava Regional Council\", Poltava, Poltava Oblast, Ukraine",
+        "number of beds (unique)": "232",
+        "item name eng/ukr (unique)": "Bed Linens And Towels, Surgical Caps And Hats, Shoe Covers, Masks, surgical, Goggles and Face Protection, Gowns, Isolation Level 1 and Level 2, Gowns, Isolation or Biohazard, Level 3 and Level 4, Gowns, Patient (incl. Cloth, Paper Protector, Cover-up), Lab Coats And Tunics, Scrub Suits, Surgical, N-95 Masks, 2x2, 4x4, Abd Sterile Dressings, Bandaids, Steristrips, Tape, Transparent Dressings (tegaderm), Syringes, 30cc and 60cc, Blood Drawing Supplies (Vacutainer Holders & Needles, Butterflies, Lancets, Tourniquets), Underpads, (Chux and Blue Pads), Oxygen Masks and Tubing, Drapes, Sterile, Drapes, Non-sterile/\u00d0\u00a8\u00d1\u0082\u00d0\u00be\u00d1\u0080\u00d0\u00b8 \u00d0\u00bd\u00d0\u00b5\u00d1\u0081\u00d1\u0082\u00d0\u00b5\u00d1\u0080\u00d0\u00b8\u00d0\u00bb\u00d1\u008c\u00d0\u00bd\u00d1\u0096",
+        "total item quantity": "8869.0",
+        "handover protocol link (unique)": "",
+        "picture link (unique)": "",
+        "item list (eng) (unique)": "",
+        "short hospital names (eng)": "Poltava regional clinical tuberculosis dispensary",
+        "info box text": "",
+        "landing page link": "",
+        "date last updated: new data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.6763,
+          49.425
+        ]
+      },
+      "properties": {
+        "show?": "True",
+        "raw data (no line breaks)": "Municipal non-profit enterprise Pavlohrad City Hospital No. 1 of the Pavlohrad City Council",
+        "shipment id (unique)": "MUA30",
+        "cure id (unique)": "42418",
+        "donor (unique)": "EKFS (NAK)",
+        "country (unique)": "Ukraine",
+        "distribution number (unique)": "158",
+        "distribution id (unique)": "UHU158_08/25",
+        "shipment period (unique)": "Aug-25",
+        "type of medical institution (unique)": "Hospital",
+        "unique hospital names (eng)": "Municipal Non-Commercial Enterprise \"Zhashkiv Multidisciplinary Hospital\" of the Zhashkiv City Council.",
+        "safe hospital names": "",
+        "region (unique)": "",
+        "full location (unique)": "Municipal Non-Commercial Enterprise \"Zhashkiv Multidisciplinary Hospital\" of the Zhashkiv City Council.",
+        "number of beds (unique)": "145",
+        "item name eng/ukr (unique)": "Cloth Products Not Fitting In Other Items, Cubical Curtains, Goggles and Face Protection, Gowns, Patient (incl. Cloth, Paper Protector, Cover-up), Gowns, Isolation Level 1 and Level 2, Gowns, Isolation or Biohazard, Level 3 and Level 4, Gowns, Patient (incl. Cloth, Paper Protector, Cover-up), Gowns, Surgical, Non-sterile, Lab Coats And Tunics, Scrub Suits, Surgical, Scrubs, FIG, Scrubs, Figs Tops and Bottoms (X-S and Small), N-95 Masks, KN95 - Masks, Bags, Red, Spill Kits And Isolyszer, Sterilization, Tapes, Indicators, Wraps & Pouches, IV Extension & Secondary Tubing, IV Primary Tubing, Including Blood Tubing, Syringes, 1 cc/tb, Syringes, 1 cc/tb, Blood Drawing Supplies (Vacutainer Holders & Needles, Butterflies, Lancets, Tourniquets), Baby and birthing supplies, Feminine Supplies - (including Pads, Belts, Perineal Wash, Sitz Baths), Activities Of Daily Living Aids (including Dressing Aids), Pt Supplies, Casting Supplies, Stockinette, Web Roll, Plaster, Fiberglass, Cast Shoes, Cast Heels, Pads, Wedges, Positioning Pillows, Splints, Wraps (including Ace), and Slings, Hose Ted (anti embolism), Feeding Tubes, Bags, Pump Set and Supplies, Paper Supplies, Towels, Cups, Napkins, Toilet Paper, Dishes, Patient Supplies (Soaps, Shampoos, Mouthwash, Toothpaste, Belonging Bags), slippers, Nebulizer Supplies, Respiratory Supplies, Other, Suction Catheter & Glove Kit, Scrub Brushes and Skin Prep Sets /, Chest Tubes and Drainage Units, Chest Tubes and Drainage Unites, General Surgery Packs & Supplies, General Surgery Packs and Supplies, OB/GYN Surgery Packs & Supplies, Orthopedic Surgery Packs and Supplies, Tracheostomy & Cricothyroidotomy Supplies, Tubes & Kits, Tracheostomy & Cricothyroidotomy supplies, tubes and kits, Drapes, Non-sterile, Irrigation Syringes, Tubes and Trays, including Tur/urinary Irrigation Setups, Nasal Gastric & Gastric Lavage Tubes & Kits Nasal, Suction Canisters & Lids, Urinary Catheters, Trays & Insertion Sets, Concentrator, Oxygen, CPAP Supplies, Light, Exam, Lab Supply Kit, Abg Syringes & Culture Supplies, Oxygen Tank Regulator, Air Mattress, Pump, IV Tubing, Surgical Shavers, Surgical Shaver Heads, Transformer, 200 Wat, Transformer, 300 watt, Back Board, Bed, Home Healthcare, Cane, Forearm, Other, Cart, Oxygen Cylinder, Commode, Bedside, Crutches, Pediatric, IV Pole, Stool, Exam, Surgical Instrument Kit, General, Tank, Oxygen Size A thru D (5 - 16\" Ht), Tank, Oxygen Size E (25\" Ht), Transfer Board, Walker, Adult, Wheelchair, Special Needs, Wheelchair, Adult, Feeding Tubes, Bags, Syringe and Supplies, Bags, Red, Spill Kits And Isolyszer, Underpads, (Chux and Blue Pads), Cloth Products",
+        "total item quantity": "141.0",
+        "handover protocol link (unique)": "",
+        "picture link (unique)": "",
+        "item list (eng) (unique)": "",
+        "short hospital names (eng)": "Zhashkiv multidisciplinary hospital, Zhashkiv",
+        "info box text": "",
+        "landing page link": "",
+        "date last updated: new data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.832,
+          49.4862
+        ]
+      },
+      "properties": {
+        "show?": "True",
+        "raw data (no line breaks)": "Municipal non-profit enterprise Pavlohrad City Hospital No. 1 of the Pavlohrad City Council",
+        "shipment id (unique)": "MUA30",
+        "cure id (unique)": "42418",
+        "donor (unique)": "EKFS (NAK)",
+        "country (unique)": "Ukraine",
+        "distribution number (unique)": "159",
+        "distribution id (unique)": "UHU159_08/25",
+        "shipment period (unique)": "Aug-25",
+        "type of medical institution (unique)": "Hospital",
+        "unique hospital names (eng)": "Municipal Non-Commercial Enterprise \"Kamianka Multidisciplinary Hospital\" of the Kamianka City Council.",
+        "safe hospital names": "",
+        "region (unique)": "",
+        "full location (unique)": "Municipal Non-Commercial Enterprise \"Kamianka Multidisciplinary Hospital\" of the Kamianka City Council.",
+        "number of beds (unique)": "114",
+        "item name eng/ukr (unique)": "Office Supplies, ALL, Surgical Caps And Hats, Shoe Covers, Cloth Products Not Fitting In Other Items, Cubical Curtains, Gloves, Non-sterile, Gloves, Non-sterile, Gloves, Sterile, Masks, surgical, Goggles and Face Protection, Gowns, Patient (incl. Cloth, Paper Protector, Cover-up), Gowns, Isolation Level 1 and Level 2, Gowns, Isolation or Biohazard, Level 3 and Level 4, Gowns, Surgical, Non-sterile, Gowns, Surgical, Sterile, Gowns, Surgical, Sterile, Lab Coats And Tunics, Scrub Suits, Surgical, Scrubs, FIG, Scrubs, Figs Tops and Bottoms (X-S and Small), N-95 Masks, 2x2, 4x4, Abd Sterile Dressings, 2x2, 4x4, Abd Sterile Dressings, Bandaids, Steristrips, Tape, Transparent Dressings (tegaderm), Gauze and All Other Non Sterile Dressings, Specialty Dressings (and All Other Dressings Not Fitting In Other Categories), Disinfectant, Non-Patient; Also Sterilization Products & Sprays (Cidex, Etc), Liners, Trash Can, Laundry & Plastic Bags, Mopheads, IV Catheters/ Including Huber, Butterfly, Fistula, IV Extension & Secondary Tubing, IV Extension & Secondary Tubing, IV Primary Tubing, Including Blood Tubing, Needles, Mixed Gauges, Needles, Mixed Gauges, Syringes, 3cc, Syringes, 3cc, Syringes, 5cc & 6cc, Syringes, 5cc & 6cc, Syringes, 10cc & 12cc, Syringes, 20cc, Syringes, 30cc and 60cc, Medication Cups, Spoons and Labels, Pill Crushers, Counters, Holders for Tubex Syringes, Diapers and Wipes, Casting Supplies, Stockinette, Web Roll, Plaster, Fiberglass, Cast Shoes, Cast Heels, Splints, Wraps (including Ace), and Slings, Hose Ted (anti embolism), Bedpans And Urinals, Containers, Basins, Emesis, Water Mugs, Pitchers, Glassware, Diapers, Adult, Feeding Tubes, Bags, Pump Set and Supplies, Paper Supplies, Towels, Cups, Napkins, Toilet Paper, Dishes, Underpads, (Chux and Blue Pads), Oxygen Masks and Tubing, Alcohol and Betadine Pads & Swabs, Disinfectant and Skin Cleansing Products / 7,5% Povidone-Iodine Scrub antiseptic non-sterile solution 118ml \u00d1\u0082\u00d0\u00b0 DYNA-HEX 2 solution 118ml), Disinfectant and Skin Cleansing Products, Skin Specialities, (Barriers, Protectors, Gels, Ointments) Skin Adhesive Remover, KY Jelly, Chest Tubes and Drainage Units, Drains, Surgical, including Penrose and Suction Types, OB/GYN Surgery Packs & Supplies (Lithotomy drape pack 4 sterile), OB/GYN Surgery Packs & Supplies, Drapes, Sterile (SurgiFlip II, Tracheostomy & Cricothyroidotomy Supplies, Tubes & Kits, Tracheostomy & Cricothyroidotomy supplies, tubes and kits, Irrigation Syringes, Tubes and Trays, including Tur/urinary Irrigation Setups, Nasal Gastric & Gastric Lavage Tubes & Kits Nasal, Scalpels/Blades, Surgical Marking Pens, Suction Canisters & Lids, Suction Catheter, Tips, Tubings & Connectors, Suction Catheter, Tips, Tubings & Connectors, Sutures and Suture Removal Kit, Urinary Bags (Leg and Bedside) And Urinary Supplies, Laryngoscope, Lab Supply Kit, Vacutainer Tubes, Lab Supply Kit, Tubes, Monitor, Clinical, 2 -4 function (NIBP, Pulse, optional TEMP & SPO2), Nebulizer, Oximeter, Pulse, Battery Operated, Pump, IV, Disposable Speculum, Stethoscope, Disposable, Adult Blood Pressure Unit, Battery Operated, Suction Machine / Low Pressure / Portable, Thermometer, Forehead, Thermometer, Patient Digital or Oral, Transformer, 500 Watt, Transformer, 1,500 watts, Bed, ICU, Hospital Sleeper Sofa, Chair, Office, Chair, Waiting Room, Commode, Bedside, Vinyl Bed Surface, Paper, Exam Table Rolls in Boxes, Scale, Adult, Electric, Table, Exam, Table, Treatment, Trash / Biohazard Waste Cans, Underpads, (Chux and Blue Pads), Masks, surgical, Monitor, Clinical, 2 -4 function",
+        "total item quantity": "527.0",
+        "handover protocol link (unique)": "",
+        "picture link (unique)": "",
+        "item list (eng) (unique)": "",
+        "short hospital names (eng)": "Kamianka multidisciplinary hospital, Kamianka",
+        "info box text": "",
+        "landing page link": "",
+        "date last updated: new data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.3,
+          49.3595
+        ]
+      },
+      "properties": {
+        "show?": "True",
+        "raw data (no line breaks)": "Municipal non-profit enterprise Pavlohrad City Hospital No. 1 of the Pavlohrad City Council",
+        "shipment id (unique)": "MUA30",
+        "cure id (unique)": "42418",
+        "donor (unique)": "EKFS (NAK)",
+        "country (unique)": "Ukraine",
+        "distribution number (unique)": "160",
+        "distribution id (unique)": "UHU160_08/25",
+        "shipment period (unique)": "Aug-25",
+        "type of medical institution (unique)": "Hospital",
+        "unique hospital names (eng)": "Municipal Non-Commercial Enterprise \"Lysianka Territorial Hospital\" of the Lysianka Settlement Council of Cherkasy Oblast.",
+        "safe hospital names": "",
+        "region (unique)": "",
+        "full location (unique)": "Municipal Non-Commercial Enterprise \"Lysianka Territorial Hospital\" of the Lysianka Settlement Council of Cherkasy Oblast.",
+        "number of beds (unique)": "111",
+        "item name eng/ukr (unique)": "Cloth Products Not Fitting In Other Items, Cubical Curtains, Goggles and Face Protection, Gowns, Patient (incl. Cloth, Paper Protector, Cover-up), Gowns, Isolation Level 1 and Level 2, Gowns, Isolation or Biohazard, Level 3 and Level 4, Gowns, Patient (incl. Cloth, Paper Protector, Cover-up), Gowns, Surgical, Non-sterile, Lab Coats And Tunics, Scrub Suits, Surgical, Scrubs, FIG, Scrubs, Figs Tops and Bottoms (X-S and Small), N-95 Masks, KN95 - Masks, KN95 - Masks, Bags, Red, Spill Kits And Isolyszer, Sterilization, Tapes, Indicators, Wraps & Pouches, Buffalo caps, prn adaptors and other iv infusion supplies, vial spikes and adaptators, IV Extension & Secondary Tubing, Syringes, 1 cc/tb, Syringes, 1 cc/tb, Blood Drawing Supplies (Vacutainer Holders & Needles, Butterflies, Lancets, Tourniquets), Baby and birthing supplies, Feminine Supplies - (including Pads, Belts, Perineal Wash, Sitz Baths), Activities Of Daily Living Aids (including Dressing Aids), Pt Supplies, Casting Supplies, Stockinette, Web Roll, Plaster, Fiberglass, Cast Shoes, Cast Heels, Pads, Wedges, Positioning Pillows, Splints, Wraps (including Ace), and Slings, Hose Ted (anti embolism), Braces, Applicator Swabs (Q-Tips), Tongue Depressors, Cotton Balls, Feeding Tubes, Bags, Pump Set and Supplies, Paper Supplies, Towels, Cups, Napkins, Toilet Paper, Dishes, Patient Supplies (Soaps, Shampoos, Mouthwash, Toothpaste, Belonging Bags), slippers, Nebulizer Supplies, Respiratory Supplies, Other, Suction Catheter & Glove Kit, Scrub Brushes and Skin Prep Sets /, Chest Tubes and Drainage Units, Chest Tubes and Drainage Unites, Drains, Surgical, including Penrose and Suction Types, General Surgery Packs & Supplies, General Surgery Packs and Supplies, OB/GYN Surgery Packs & Supplies, Orthopedic Surgery Packs and Supplies, Tracheostomy & Cricothyroidotomy Supplies, Tubes & Kits, Tracheostomy & Cricothyroidotomy supplies, tubes and kits, Drapes, Non-sterile, Irrigation Syringes, Tubes and Trays, including Tur/urinary Irrigation Setups, Nasal Gastric & Gastric Lavage Tubes & Kits Nasal, Suction Canisters & Lids, Urinary Catheters, Trays & Insertion Sets, Concentrator, Oxygen, CPAP Supplies, Light, Exam, Lab Supply Kits, Lab Supply Kit, Abg Syringes & Culture Supplies, Oxygen Tank Regulator, Air Mattress, Surgical Shavers, Surgical Shaver Heads, Transformer, 200 Wat, Transformer, 300 watt, Bed, Home Healthcare, Cane, Forearm, Other, Cart, Utility, Trash, Misc., Commode, Bedside, Crutches, Pediatric, Hoyer Lift, IV Pole, Patient Transfer System, Pillow, Stool, Exam, Surgical Instrument Kit, Delivery, Tank, Oxygen Size E (25\" Ht), Walker, Adult, Wheelchair, Special Needs, Wheelchair, Adult, Transfer Board /, Oxygen Masks and Tubing /, Drains, Surgical /, Aspiration catheters and connectors, Suction Catheter, Tips, Tubing and Connectors",
+        "total item quantity": "150.0",
+        "handover protocol link (unique)": "",
+        "picture link (unique)": "",
+        "item list (eng) (unique)": "",
+        "short hospital names (eng)": "Lysianka territorial hospital, Cherkasy oblast",
+        "info box text": "",
+        "landing page link": "",
+        "date last updated: new data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.1284,
+          48.9075
+        ]
+      },
+      "properties": {
+        "show?": "True",
+        "raw data (no line breaks)": "Municipal non-profit enterprise Pavlohrad City Hospital No. 1 of the Pavlohrad City Council",
+        "shipment id (unique)": "MUA30",
+        "cure id (unique)": "42418",
+        "donor (unique)": "EKFS (NAK)",
+        "country (unique)": "Ukraine",
+        "distribution number (unique)": "161",
+        "distribution id (unique)": "UHU161_08/25",
+        "shipment period (unique)": "Aug-25",
+        "type of medical institution (unique)": "Hospital",
+        "unique hospital names (eng)": "Municipal Non-Commercial Enterprise \"Brothers M.S. and O.S. Kolomiichenko Hospital\" of the Shpola City Council United Territorial Community.",
+        "safe hospital names": "",
+        "region (unique)": "",
+        "full location (unique)": "Municipal Non-Commercial Enterprise \"Brothers M.S. and O.S. Kolomiichenko Hospital\" of the Shpola City Council United Territorial Community.",
+        "number of beds (unique)": "210",
+        "item name eng/ukr (unique)": "Office Supplies, ALL, Cloth Products Not Fitting In Other Items, Cubical Curtains, Goggles and Face Protection, Gowns, Patient (incl. Cloth, Paper Protector, Cover-up), Gowns, Isolation Level 1 and Level 2, Gowns, Isolation or Biohazard, Level 3 and Level 4, Gowns, Surgical, Non-sterile, Lab Coats And Tunics, Scrub Suits, Surgical, Scrubs, FIG, Scrubs, Figs Tops and Bottoms (X-S and Small), N-95 Masks, KN95 - Masks, Bags, Red, Spill Kits And Isolyszer, Sterilization, Tapes, Indicators, Wraps & Pouches, Buffalo caps, prn adaptors and other iv infusion supplies, vial spikes and adaptators, IV Extension & Secondary Tubing, IV Primary Tubing, Including Blood Tubing, Syringes, 1 cc/tb, Syringes, 1 cc/tb, Blood Drawing Supplies (Vacutainer Holders & Needles, Butterflies, Lancets, Tourniquets), Pads, Wedges, Positioning Pillows, Splints, Wraps (including Ace), and Slings, Hose Ted (anti embolism), Applicator Swabs (Q-Tips), Tongue Depressors, Cotton Balls, Feeding Tubes, Bags, Pump Set and Supplies, Paper Supplies, Towels, Cups, Napkins, Toilet Paper, Dishes, Patient Supplies (Soaps, Shampoos, Mouthwash, Toothpaste, Belonging Bags), slippers, Respiratory Supplies, Other, Suction Catheter & Glove Kit, Scrub Brushes and Skin Prep Sets /, Chest Tubes and Drainage Unites, Drains, Surgical, including Penrose and Suction Types, General Surgery Packs and Supplies, Orthopedic Surgery Packs and Supplies, Tracheostomy & Cricothyroidotomy Supplies, Tubes & Kits, Tracheostomy & Cricothyroidotomy supplies, tubes and kits, Drapes, Non-sterile, Irrigation Syringes, Tubes and Trays, including Tur/urinary Irrigation Setups, Nasal Gastric & Gastric Lavage Tubes & Kits Nasal, Suction Canisters & Lids, Urinary Catheters, Trays & Insertion Sets, Concentrator, Oxygen, Lab Supply Kits, Air Mattress, Stethoscope, Transformer, 200 Wat, Transformer, 300 watt, Bed, Home Healthcare, Cane, Forearm, Other, Cart, Oxygen Cylinder, Commode, Bedside, Desk, File Cabinet, IV Pole, Vinyl Bed Surface, Pillow, Tank, Oxygen Size A thru D (5 - 16\" Ht), Wheelchair Transport Unit, Suction Catheter, Tips, Tubings & Connectors",
+        "total item quantity": "109.0",
+        "handover protocol link (unique)": "",
+        "picture link (unique)": "",
+        "item list (eng) (unique)": "",
+        "short hospital names (eng)": "Brothers Kolomiichenko Hospital, Shpola City Council",
         "info box text": "",
         "landing page link": "",
         "date last updated: new data": ""
