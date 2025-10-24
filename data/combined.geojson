@@ -491,7 +491,7 @@
         "project id": "SUG02",
         "project name": "P4T Secondary School",
         "likelihood of completion": "Certain",
-        "stage": "II. System Design & MoU",
+        "stage": "III. Final Design",
         "partner org": "P4T",
         "country": "Uganda \u00f0\u009f\u0087\u00ba\u00f0\u009f\u0087\u00ac",
         "type of institution": "School",
@@ -729,7 +729,7 @@
         "project id": "SET03",
         "project name": "Homosha",
         "likelihood of completion": "Certain",
-        "stage": "V. Procurement",
+        "stage": "VI. Documentation",
         "partner org": "Pharo Foundation",
         "country": "Ethiopia \u00f0\u009f\u0087\u00aa\u00f0\u009f\u0087\u00b9",
         "type of institution": "School",
@@ -10320,8 +10320,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.1234,
-          47.0915
+          35.2274,
+          47.839
         ]
       },
       "properties": {
@@ -10536,8 +10536,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          38.9,
-          48.71
+          37.8232,
+          48.0034
         ]
       },
       "properties": {
@@ -10608,8 +10608,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.1812,
-          47.121
+          35.2432,
+          47.7851
         ]
       },
       "properties": {
@@ -10644,8 +10644,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.1445,
-          47.1
+          35.179,
+          47.8189
         ]
       },
       "properties": {
