@@ -4547,7 +4547,7 @@
         ]
       },
       "properties": {
-        "show?": "True",
+        "show?": "False",
         "raw data (no line breaks)": "SI IPOG NAM. ACAD. E.M.LUKYANOVA NAMS UKRAINE",
         "shipment id (unique)": "MUA16",
         "cure id (unique)": "MedWish",
@@ -6491,7 +6491,7 @@
         ]
       },
       "properties": {
-        "show?": "True",
+        "show?": "False",
         "raw data (no line breaks)": "MAKARIV MULTIDISCIPLINARY INTENSIVE CARE HOSPITAL OF MAKARIV VILLAGE COUNCIL",
         "shipment id (unique)": "MUA17, MUA18",
         "cure id (unique)": "MAP, 72306",
@@ -6599,7 +6599,7 @@
         ]
       },
       "properties": {
-        "show?": "True",
+        "show?": "False",
         "raw data (no line breaks)": "CITY CHILDRENS CLINICAL HOSPITAL NO. 19 OF THE KHARKIV CITY COUNCIL",
         "shipment id (unique)": "MUA17, MUA18",
         "cure id (unique)": "MAP, 72306",
@@ -6815,7 +6815,7 @@
         ]
       },
       "properties": {
-        "show?": "True",
+        "show?": "False",
         "raw data (no line breaks)": "CITY CHILDRENS CLINICAL HOSPITAL NO. 19 OF THE KHARKIV CITY COUNCIL",
         "shipment id (unique)": "MUA17, MUA18",
         "cure id (unique)": "MAP, 72306",
