@@ -6491,7 +6491,7 @@
         ]
       },
       "properties": {
-        "show?": "True",
+        "show?": "False",
         "raw data (no line breaks)": "MAKARIV MULTIDISCIPLINARY INTENSIVE CARE HOSPITAL OF MAKARIV VILLAGE COUNCIL",
         "shipment id (unique)": "MUA17, MUA18",
         "cure id (unique)": "MAP, 72306",
