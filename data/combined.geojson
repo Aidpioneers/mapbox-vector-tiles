@@ -763,7 +763,7 @@
         "project id": "SET03",
         "project name": "Assosa",
         "likelihood of completion": "Certain",
-        "stage": "II. System Design & MoU",
+        "stage": "VI. Documentation",
         "partner org": "Pharo Foundation",
         "country": "Ethiopia \u00f0\u009f\u0087\u00aa\u00f0\u009f\u0087\u00b9",
         "type of institution": "",
@@ -796,7 +796,7 @@
         "show?": "False",
         "project id": "",
         "project name": "Mandulis Aparanga",
-        "likelihood of completion": "Medium",
+        "likelihood of completion": "Low",
         "stage": "II. System Design & MoU",
         "partner org": "Mandulis Energy",
         "country": "Uganda \u00f0\u009f\u0087\u00ba\u00f0\u009f\u0087\u00ac",
@@ -830,7 +830,7 @@
         "show?": "False",
         "project id": "",
         "project name": "Mandulis Oruka",
-        "likelihood of completion": "Medium",
+        "likelihood of completion": "Low",
         "stage": "II. System Design & MoU",
         "partner org": "Mandulis Energy",
         "country": "Uganda \u00f0\u009f\u0087\u00ba\u00f0\u009f\u0087\u00ac",
@@ -864,7 +864,7 @@
         "show?": "False",
         "project id": "",
         "project name": "Mandulis Koch Lii",
-        "likelihood of completion": "Medium",
+        "likelihood of completion": "Low",
         "stage": "II. System Design & MoU",
         "partner org": "Mandulis Energy",
         "country": "Uganda \u00f0\u009f\u0087\u00ba\u00f0\u009f\u0087\u00ac",
@@ -898,7 +898,7 @@
         "show?": "False",
         "project id": "",
         "project name": "Mandulis Wii Anaka",
-        "likelihood of completion": "Medium",
+        "likelihood of completion": "Low",
         "stage": "II. System Design & MoU",
         "partner org": "Mandulis Energy",
         "country": "Uganda \u00f0\u009f\u0087\u00ba\u00f0\u009f\u0087\u00ac",
@@ -13632,12 +13632,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          33.1,
-          46.6426
+          32.6153,
+          46.6424
         ]
       },
       "properties": {
-        "show?": "False",
+        "show?": "True",
         "raw data (no line breaks)": "State INSTITUTION MAIN MEDICAL CENTER OF THE MINISTRY OF INTERNAL AFFAIRS OF UKRAINE",
         "shipment id (unique)": "MUA20",
         "cure id (unique)": "32403",

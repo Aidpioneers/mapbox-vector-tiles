@@ -12714,12 +12714,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          33.1,
-          46.6426
+          32.6153,
+          46.6424
         ]
       },
       "properties": {
-        "show?": "False",
+        "show?": "True",
         "raw data (no line breaks)": "State INSTITUTION MAIN MEDICAL CENTER OF THE MINISTRY OF INTERNAL AFFAIRS OF UKRAINE",
         "shipment id (unique)": "MUA20",
         "cure id (unique)": "32403",
