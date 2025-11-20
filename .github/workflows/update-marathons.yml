@@ -1,0 +1,32 @@
+name: Update Marathons GeoJSON
+
+on:
+  schedule:
+    - cron: '0 6 * * *'  # 6 AM daily
+  workflow_dispatch:  # Manual trigger button
+
+jobs:
+  update-geojson:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+          
+      - name: Install dependencies
+        run: pip install requests pandas
+          
+      - name: Run conversion script
+        run: python scripts/update-marathon-data.py
+          
+      - name: Commit and push if changed
+        run: |
+          git config --global user.name 'GitHub Action'
+          git config --global user.email 'action@github.com'
+          git add data/marathons.geojson
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update marathons GeoJSON" && git push)
