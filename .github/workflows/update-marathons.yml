@@ -25,7 +25,7 @@ jobs:
           
       - name: Run conversion script
         run: |
-          python scripts/csv_to_geojson.py
+          python scripts/update-marathon-data.py
           
       - name: Commit and push if changed
         run: |
