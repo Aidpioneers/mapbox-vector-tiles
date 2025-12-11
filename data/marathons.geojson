@@ -1,4 +1,761 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3488,
+          48.8534
+        ]
+      },
+      "properties": {
+        "Year": "2026",
+        "Agency": "Run for Charity",
+        "City": "Paris",
+        "Name": "Hoka Half Marathon Paris ",
+        "Full / Half": "Half Marathon",
+        "Date": "8 Mar 2026",
+        "Sign up deadlines": "28/11/2025",
+        "Availability (Comments)": "",
+        "Landing Page": "",
+        "Google Ads": "",
+        "Comments": "",
+        "Total Purchased": "5.0",
+        "Slots Taken": "0.0",
+        "Available": "5",
+        "## Comments": "",
+        "Landing Page\ncolor = status of Google Ads": "https://www.aidpioneers.com/miami-marathon-2026"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.191788,
+          25.761681
+        ]
+      },
+      "properties": {
+        "Year": "2026",
+        "Agency": "Realbuzz",
+        "City": "Miami",
+        "Name": "Miami Marathon",
+        "Full / Half": "Full Marathon",
+        "Date": "1 Feb 2026",
+        "Sign up deadlines": "03/12/2025",
+        "Availability (Comments)": "",
+        "Landing Page": "",
+        "Google Ads": "",
+        "Comments": "",
+        "Total Purchased": "",
+        "Slots Taken": "",
+        "Available": "0",
+        "## Comments": "To be bought from Realbuzz",
+        "Landing Page\ncolor = status of Google Ads": "https://www.aidpioneers.com/lisbon-marathon-2026"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.188267,
+          55.953251
+        ]
+      },
+      "properties": {
+        "Year": "2026",
+        "Agency": "Run for Charity",
+        "City": "Edinburgh",
+        "Name": "Edinburgh Marathon",
+        "Full / Half": "Full Marathon",
+        "Date": "24 May 2026",
+        "Sign up deadlines": "12/01/2026",
+        "Availability (Comments)": "",
+        "Landing Page": "",
+        "Google Ads": "",
+        "Comments": "",
+        "Total Purchased": "5.0",
+        "Slots Taken": "",
+        "Available": "5",
+        "## Comments": "",
+        "Landing Page\ncolor = status of Google Ads": "https://www.aidpioneers.com/rome-marathon-2026"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.58333,
+          52.28333
+        ]
+      },
+      "properties": {
+        "Year": "2026",
+        "Agency": "Run for Charity",
+        "City": "Warwick",
+        "Name": "Warwick Half Marathon",
+        "Full / Half": "Half Marathon",
+        "Date": "1 Feb 2026",
+        "Sign up deadlines": "12/01/2026",
+        "Availability (Comments)": "",
+        "Landing Page": "",
+        "Google Ads": "",
+        "Comments": "",
+        "Total Purchased": "",
+        "Slots Taken": "",
+        "Available": "0",
+        "## Comments": "",
+        "Landing Page\ncolor = status of Google Ads": "https://www.aidpioneers.com/barcelona-marathon-2026"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.139337,
+          38.722252
+        ]
+      },
+      "properties": {
+        "Year": "2026",
+        "Agency": "Realbuzz",
+        "City": "Lisbon",
+        "Name": "Lisbon Half Marathon",
+        "Full / Half": "Half Marathon",
+        "Date": "8 Mar 2026",
+        "Sign up deadlines": "24/01/2026",
+        "Availability (Comments)": "",
+        "Landing Page": "",
+        "Google Ads": "",
+        "Comments": "",
+        "Total Purchased": "",
+        "Slots Taken": "",
+        "Available": "0",
+        "## Comments": "",
+        "Landing Page\ncolor = status of Google Ads": "https://www.aidpioneers.com/prague-marathon-2026"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3488,
+          48.8534
+        ]
+      },
+      "properties": {
+        "Year": "2026",
+        "Agency": "Run for Charity",
+        "City": "Paris",
+        "Name": "Paris Marathon",
+        "Full / Half": "Full Marathon",
+        "Date": "12 Apr 2026",
+        "Sign up deadlines": "02/02/2026",
+        "Availability (Comments)": "",
+        "Landing Page": "",
+        "Google Ads": "",
+        "Comments": "",
+        "Total Purchased": "5.0",
+        "Slots Taken": "2.0",
+        "Available": "3",
+        "## Comments": "",
+        "Landing Page\ncolor = status of Google Ads": "https://www.aidpioneers.com/berlin-marathon-2026"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4378,
+          50.075538
+        ]
+      },
+      "properties": {
+        "Year": "2026",
+        "Agency": "Realbuzz",
+        "City": "Prague",
+        "Name": "Prague Half Marathon",
+        "Full / Half": "Half Marathon",
+        "Date": "28 Mar 2026",
+        "Sign up deadlines": "12/02/2026",
+        "Availability (Comments)": "15",
+        "Landing Page": "",
+        "Google Ads": "",
+        "Comments": "",
+        "Total Purchased": "",
+        "Slots Taken": "",
+        "Available": "0",
+        "## Comments": "",
+        "Landing Page\ncolor = status of Google Ads": "https://www.aidpioneers.com/prague-marathon-2026"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.568337,
+          55.676097
+        ]
+      },
+      "properties": {
+        "Year": "2026",
+        "Agency": "Realbuzz",
+        "City": "Copenhagen",
+        "Name": "Copenhagen Marathon",
+        "Full / Half": "Full Marathon",
+        "Date": "10 May 2026",
+        "Sign up deadlines": "15/02/2026",
+        "Availability (Comments)": "",
+        "Landing Page": "",
+        "Google Ads": "",
+        "Comments": "",
+        "Total Purchased": "15.0",
+        "Slots Taken": "0.0",
+        "Available": "15",
+        "## Comments": "",
+        "Landing Page\ncolor = status of Google Ads": "https://www.aidpioneers.com/copenhagen-marathon-2026"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.127758,
+          51.507351
+        ]
+      },
+      "properties": {
+        "Year": "2026",
+        "Agency": "Run for Charity",
+        "City": "London",
+        "Name": "London Half Marathon TREK",
+        "Full / Half": "Half Marathon",
+        "Date": "1 Mar 2026",
+        "Sign up deadlines": "16/02/2026",
+        "Availability (Comments)": "",
+        "Landing Page": "",
+        "Google Ads": "",
+        "Comments": "",
+        "Total Purchased": "",
+        "Slots Taken": "",
+        "Available": "0",
+        "## Comments": "",
+        "Landing Page\ncolor = status of Google Ads": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.496365,
+          41.902783
+        ]
+      },
+      "properties": {
+        "Year": "2026",
+        "Agency": "Realbuzz",
+        "City": "Rome",
+        "Name": "Run Rome Marathon",
+        "Full / Half": "Full Marathon",
+        "Date": "15 Mar 2026",
+        "Sign up deadlines": "24/02/2026",
+        "Availability (Comments)": "",
+        "Landing Page": "",
+        "Google Ads": "",
+        "Comments": "",
+        "Total Purchased": "",
+        "Slots Taken": "",
+        "Available": "0",
+        "## Comments": "To be bought from Realbuzz",
+        "Landing Page\ncolor = status of Google Ads": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.404954,
+          52.520008
+        ]
+      },
+      "properties": {
+        "Year": "2026",
+        "Agency": "Realbuzz",
+        "City": "Berlin",
+        "Name": "Berlin Half Marathon",
+        "Full / Half": "Half Marathon",
+        "Date": "29 Mar 2026",
+        "Sign up deadlines": "24/02/2026",
+        "Availability (Comments)": "",
+        "Landing Page": "",
+        "Google Ads": "",
+        "Comments": "",
+        "Total Purchased": "35.0",
+        "Slots Taken": "0.0",
+        "Available": "35",
+        "## Comments": "",
+        "Landing Page\ncolor = status of Google Ads": "https://www.aidpioneers.com/berlin-marathon-2026"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.15899,
+          41.38879
+        ]
+      },
+      "properties": {
+        "Year": "2026",
+        "Agency": "Run for Charity",
+        "City": "Barcelona",
+        "Name": "Barcelona Marathon",
+        "Full / Half": "Full Marathon",
+        "Date": "15 Mar 2026",
+        "Sign up deadlines": "",
+        "Availability (Comments)": "",
+        "Landing Page": "",
+        "Google Ads": "",
+        "Comments": "",
+        "Total Purchased": "",
+        "Slots Taken": "",
+        "Available": "0",
+        "## Comments": "",
+        "Landing Page\ncolor = status of Google Ads": "https://www.aidpioneers.com/prague-marathon-2026"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.549077,
+          53.800755
+        ]
+      },
+      "properties": {
+        "Year": "2026",
+        "Agency": "Run for Charity",
+        "City": "Leeds",
+        "Name": "Leeds Marathon",
+        "Full / Half": "Full Marathon",
+        "Date": "10 May 2026",
+        "Sign up deadlines": "30/04/2026",
+        "Availability (Comments)": "",
+        "Landing Page": "",
+        "Google Ads": "",
+        "Comments": "",
+        "Total Purchased": "5.0",
+        "Slots Taken": "0.0",
+        "Available": "5",
+        "## Comments": "",
+        "Landing Page\ncolor = status of Google Ads": "https://www.aidpioneers.com/copenhagen-marathon-2026"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.127758,
+          51.507351
+        ]
+      },
+      "properties": {
+        "Year": "2026",
+        "Agency": "Run for Charity",
+        "City": "London",
+        "Name": "London Landmarks Half Marathon",
+        "Full / Half": "Half Marathon",
+        "Date": "12 Apr 2026",
+        "Sign up deadlines": "",
+        "Availability (Comments)": "",
+        "Landing Page": "",
+        "Google Ads": "",
+        "Comments": "",
+        "Total Purchased": "",
+        "Slots Taken": "",
+        "Available": "0",
+        "## Comments": "",
+        "Landing Page\ncolor = status of Google Ads": "https://www.aidpioneers.com/copenhagen-marathon-2026"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.185924,
+          45.465422
+        ]
+      },
+      "properties": {
+        "Year": "2026",
+        "Agency": "Run for Charity",
+        "City": "Milan",
+        "Name": "Wizz Air Milano Marathon",
+        "Full / Half": "Full Marathon",
+        "Date": "12 Apr 2026",
+        "Sign up deadlines": "28/02/2026",
+        "Availability (Comments)": "",
+        "Landing Page": "",
+        "Google Ads": "",
+        "Comments": "",
+        "Total Purchased": "5.0",
+        "Slots Taken": "0.0",
+        "Available": "5",
+        "## Comments": "",
+        "Landing Page\ncolor = status of Google Ads": "https://www.aidpioneers.com/berlin-marathon-2026"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.373819,
+          48.208174
+        ]
+      },
+      "properties": {
+        "Year": "2026",
+        "Agency": "Realbuzz",
+        "City": "Vienna",
+        "Name": "Vienna Marathon",
+        "Full / Half": "Full Marathon",
+        "Date": "19 Apr 2026",
+        "Sign up deadlines": "",
+        "Availability (Comments)": "",
+        "Landing Page": "",
+        "Google Ads": "",
+        "Comments": "",
+        "Total Purchased": "",
+        "Slots Taken": "",
+        "Available": "0",
+        "## Comments": "",
+        "Landing Page\ncolor = status of Google Ads": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.373819,
+          48.208174
+        ]
+      },
+      "properties": {
+        "Year": "2026",
+        "Agency": "Realbuzz",
+        "City": "Vienna",
+        "Name": "Vienna City Marathon",
+        "Full / Half": "Full Marathon",
+        "Date": "19 Apr 2026",
+        "Sign up deadlines": "",
+        "Availability (Comments)": "",
+        "Landing Page": "",
+        "Google Ads": "",
+        "Comments": "",
+        "Total Purchased": "",
+        "Slots Taken": "",
+        "Available": "0",
+        "## Comments": "",
+        "Landing Page\ncolor = status of Google Ads": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.373819,
+          48.208174
+        ]
+      },
+      "properties": {
+        "Year": "2026",
+        "Agency": "Realbuzz",
+        "City": "Vienna",
+        "Name": "Vienna Half Marathon",
+        "Full / Half": "Half Marathon",
+        "Date": "19 Apr 2026",
+        "Sign up deadlines": "",
+        "Availability (Comments)": "",
+        "Landing Page": "",
+        "Google Ads": "",
+        "Comments": "",
+        "Total Purchased": "",
+        "Slots Taken": "",
+        "Available": "0",
+        "## Comments": "",
+        "Landing Page\ncolor = status of Google Ads": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4378,
+          50.075538
+        ]
+      },
+      "properties": {
+        "Year": "2026",
+        "Agency": "Realbuzz",
+        "City": "Prague",
+        "Name": "RunCzech Prague Marathon",
+        "Full / Half": "Full Marathon",
+        "Date": "3 May 2026",
+        "Sign up deadlines": "",
+        "Availability (Comments)": "",
+        "Landing Page": "",
+        "Google Ads": "",
+        "Comments": "",
+        "Total Purchased": "",
+        "Slots Taken": "",
+        "Available": "0",
+        "## Comments": "",
+        "Landing Page\ncolor = status of Google Ads": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.568337,
+          55.676097
+        ]
+      },
+      "properties": {
+        "Year": "2026",
+        "Agency": "Realbuzz",
+        "City": "Copenhagen",
+        "Name": "Copenhagen Half Marathon",
+        "Full / Half": "Half Marathon",
+        "Date": "20 Sep 2026",
+        "Sign up deadlines": "",
+        "Availability (Comments)": "",
+        "Landing Page": "",
+        "Google Ads": "",
+        "Comments": "",
+        "Total Purchased": "",
+        "Slots Taken": "",
+        "Available": "0",
+        "## Comments": "",
+        "Landing Page\ncolor = status of Google Ads": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.404954,
+          52.520008
+        ]
+      },
+      "properties": {
+        "Year": "2026",
+        "Agency": "Realbuzz",
+        "City": "Berlin",
+        "Name": "Berlin Marathon",
+        "Full / Half": "Full Marathon",
+        "Date": "27 Sep 2026",
+        "Sign up deadlines": "",
+        "Availability (Comments)": "",
+        "Landing Page": "",
+        "Google Ads": "",
+        "Comments": "",
+        "Total Purchased": "",
+        "Slots Taken": "",
+        "Available": "0",
+        "## Comments": "",
+        "Landing Page\ncolor = status of Google Ads": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.17909,
+          51.481583
+        ]
+      },
+      "properties": {
+        "Year": "2026",
+        "Agency": "Realbuzz",
+        "City": "Cardiff",
+        "Name": "Cardiff Half Marathon",
+        "Full / Half": "Half Marathon",
+        "Date": "4 Oct 2026",
+        "Sign up deadlines": "",
+        "Availability (Comments)": "",
+        "Landing Page": "",
+        "Google Ads": "",
+        "Comments": "",
+        "Total Purchased": "",
+        "Slots Taken": "",
+        "Available": "0",
+        "## Comments": "",
+        "Landing Page\ncolor = status of Google Ads": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.629798,
+          41.878114
+        ]
+      },
+      "properties": {
+        "Year": "2026",
+        "Agency": "Realbuzz",
+        "City": "Chicago",
+        "Name": "Chicago Marathon",
+        "Full / Half": "Full Marathon",
+        "Date": "11 Oct 2026",
+        "Sign up deadlines": "",
+        "Availability (Comments)": "sold out",
+        "Landing Page": "",
+        "Google Ads": "",
+        "Comments": "",
+        "Total Purchased": "",
+        "Slots Taken": "",
+        "Available": "0",
+        "## Comments": "",
+        "Landing Page\ncolor = status of Google Ads": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.26031,
+          53.349805
+        ]
+      },
+      "properties": {
+        "Year": "2026",
+        "Agency": "Realbuzz",
+        "City": "Dublin",
+        "Name": "Irish Life Dublin Marathon",
+        "Full / Half": "Full Marathon",
+        "Date": "25 Oct 2026",
+        "Sign up deadlines": "",
+        "Availability (Comments)": "",
+        "Landing Page": "",
+        "Google Ads": "",
+        "Comments": "",
+        "Total Purchased": "",
+        "Slots Taken": "",
+        "Available": "0",
+        "## Comments": "",
+        "Landing Page\ncolor = status of Google Ads": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.895168,
+          52.370216
+        ]
+      },
+      "properties": {
+        "Year": "2026",
+        "Agency": "Run for Charity",
+        "City": "Amsterdam",
+        "Name": "Amsterdam Marathon",
+        "Full / Half": "Full Marathon",
+        "Date": "25 Oct 2026",
+        "Sign up deadlines": "",
+        "Availability (Comments)": "",
+        "Landing Page": "",
+        "Google Ads": "",
+        "Comments": "",
+        "Total Purchased": "",
+        "Slots Taken": "",
+        "Available": "0",
+        "## Comments": "",
+        "Landing Page\ncolor = status of Google Ads": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.37739,
+          39.4697
+        ]
+      },
+      "properties": {
+        "Year": "2026",
+        "Agency": "Realbuzz",
+        "City": "Valencia",
+        "Name": "Valencia Half Marathon",
+        "Full / Half": "Half Marathon",
+        "Date": "25 Oct 2026",
+        "Sign up deadlines": "",
+        "Availability (Comments)": "",
+        "Landing Page": "",
+        "Google Ads": "",
+        "Comments": "",
+        "Total Purchased": "",
+        "Slots Taken": "",
+        "Available": "0",
+        "## Comments": "",
+        "Landing Page\ncolor = status of Google Ads": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.727539,
+          37.98381
+        ]
+      },
+      "properties": {
+        "Year": "2026",
+        "Agency": "Realbuzz",
+        "City": "Athens",
+        "Name": "Athens Marathon",
+        "Full / Half": "Full Marathon",
+        "Date": "8 Nov 2026",
+        "Sign up deadlines": "",
+        "Availability (Comments)": "",
+        "Landing Page": "",
+        "Google Ads": "",
+        "Comments": "",
+        "Total Purchased": "",
+        "Slots Taken": "",
+        "Available": "0",
+        "## Comments": "",
+        "Landing Page\ncolor = status of Google Ads": ""
+      }
+    }
+  ]
 }
