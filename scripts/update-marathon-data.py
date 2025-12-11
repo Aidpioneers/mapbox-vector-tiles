@@ -89,7 +89,7 @@ def main():
     geojson_data = fetch_and_convert_to_geojson()
     
     # Save to file
-    output_path = 'public/marathons.geojson'
+    output_path = 'data/marathons.geojson'
     os.makedirs(os.path.dirname(output_path), exist_ok=True)
     
     with open(output_path, 'w', encoding='utf-8') as f:
