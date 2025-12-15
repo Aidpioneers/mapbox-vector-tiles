@@ -644,35 +644,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -87.629798,
-          41.878114
-        ]
-      },
-      "properties": {
-        "Year": "2026",
-        "Agency": "Realbuzz",
-        "City": "Chicago",
-        "ISO3": "USA",
-        "Name": "Chicago Marathon",
-        "Full / Half": "Full Marathon",
-        "Date": "11 Oct 2026",
-        "Sign up deadlines": "",
-        "Availability (Comments)": "none",
-        "Landing Page": "",
-        "Google Ads": "",
-        "Comments": "",
-        "Total Purchased": "",
-        "Slots Taken": "",
-        "Available": "0",
-        "## Comments (not visible on map)": "",
-        "Landing Page\ncolor = status of Google Ads": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -6.26031,
           53.349805
         ]
