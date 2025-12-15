@@ -35,35 +35,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.191788,
-          25.761681
-        ]
-      },
-      "properties": {
-        "Year": "2026",
-        "Agency": "Realbuzz",
-        "City": "Miami",
-        "ISO3": "USA",
-        "Name": "Miami Marathon",
-        "Full / Half": "Full Marathon",
-        "Date": "1 Feb 2026",
-        "Sign up deadlines": "03/12/2025",
-        "Availability (Comments)": "none",
-        "Landing Page": "",
-        "Google Ads": "",
-        "Comments": "",
-        "Total Purchased": "",
-        "Slots Taken": "",
-        "Available": "0",
-        "## Comments (not visible on map)": "",
-        "Landing Page\ncolor = status of Google Ads": "https://www.aidpioneers.com/lisbon-marathon-2026"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -3.188267,
           55.953251
         ]
