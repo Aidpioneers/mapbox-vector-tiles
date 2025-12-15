@@ -16946,6 +16946,302 @@
         "landing page link": "",
         "date last updated: new data": ""
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.61,
+          49.5574
+        ]
+      },
+      "properties": {
+        "show?": "True",
+        "raw data (no line breaks)": "RESEARCH INSTITUTE OF TRAUMATOLOGY AND ORTHOPEDICS DONETSK NATIONAL MEDICAL UNIVERSITY",
+        "shipment id (unique)": "MUA32",
+        "cure id (unique)": "22428",
+        "freight forwarder": "SEKO",
+        "donor (unique)": "EKFS",
+        "country (unique)": "Ukraine",
+        "distribution number (unique)": "162",
+        "distribution id (unique)": "UHU162_10/25",
+        "shipment period (unique)": "Oct-25",
+        "type of medical institution (unique)": "Hospital",
+        "unique hospital names (eng)": "Ternopil Regional Clinical Hospital",
+        "safe hospital names": "Hospital 277",
+        "region (unique)": "Ternopil Oblast",
+        "full location (unique)": "Ternopil Regional Clinical Hospital, Ternopil Oblast",
+        "number of beds (unique)": "1000",
+        "item name eng/ukr (unique)": "Office Supplies, ALL, Bed Linens And Towels, Surgical Caps And Hats, Shoe Covers, Cloth Products Not Fitting In Other Items, Cubical Curtains, Gloves, Non-sterile, Gloves, Sterile, Goggles, Masks, And Face Protection, Masks, surgical, Masks, surgical, Masks, procedure, Goggles, Masks, and Face Protection, Gowns, Patient (incl. Cloth, Paper Protector, Cover-up), Gowns, Isolation Level 1 and Level 2, Gowns, Isolation or Biohazard, Level 3 and Level 4, Gowns, Surgical, Non-sterile, Gowns, Surgical, Sterile, Gowns, Surgical, Sterile, Lab Coats And Tunics, Scrub Suits, Surgical, Scrubs, FIG, Scrubs, Figs Tops and Bottoms (X-S and Small), Scrubs, Figs Tops and Bottoms (XL and Bigger)), N-95 Masks, KN95 - Masks, Dental Supplies, 2x2, 4x4, Abd Sterile Dressings, Bandaids, Steristrips, Tape, Transparent Dressings (tegaderm), Bandaids, Steristrips, Tape, Transparent Dressings (tegaderm), Dressing Change Kits, Laceration Trays, Wound Care Kits, Gauze And All Other Non Sterile Dressings, Gauze and All Other Non Sterile Dressings, Kerlix/Kling Dressing, Specialty Dressings (and All Other Dressings Not Fitting In Other Categories), Post-Mortem Body Bag, Bags, Red, Spill Kits And Isolyszer, Disinfectant, Non-Patient, Disinfectant, Non-Patient; Also Sterilization Products & Sprays (Cidex, Etc), Sterilization, Tapes, Indicators, Wraps & Pouches, Sterilization, Tapes, Indicators, Wraps & Pouches, Buffalo Caps, Prn Adaptors And Other IV Infusion Supplies, Vial Spikes And Adaptors, Buffalo caps, prn adaptors and other iv infusion supplies, vial spikes and adaptators, Central, Percutaneous Lines, IV Catheters/ Including Huber, Butterfly, Fistula, IV Extension & Secondary Tubing, IV Extension & Secondary Tubing, IV Start Kits & Sets, Needles, Mixed Gauges, Syringes, 1 cc/tb, Syringes, 3cc, Syringes, 10cc & 12cc, Syringes, 20cc, Blood Drawing Supplies (Vacutainer Holders & Needles, Butterflies, Lancets, Tourniquets), Blood Drawing Supplies (Vacutainer Holders & Needles, Butterflies, Lancets, Tourniquets), Medication Cups, Spoons and Labels, Pill Crushers, Counters, Holders for Tubex Syringes, Medication Cups, Spoons and Labels, Pill Crushers, Counters, Holders for Tubex Syringes, Baby and birthing supplies, Feminine Supplies - (including Pads, Belts, Perineal Wash, Sitz Baths), Splints, Wraps (including Ace), and Slings, Hose Ted (anti- embolism), Braces, Applicator Swabs (Q-Tips), Tongue Depressors, Cotton Balls, Diapers, Adult, Ear, Eye and Nose Supplies: Bulb Syringes, Eye Glasses, Nasal Speculums, Feeding Tubes, Bags, Pump Sets and Supplies, Feeding Tubes, Bags, Pump Set and Supplies, Ostomy (Colostomy, Ileostomy, Urostomy) Supplies, including Pouches, Adhesives, Etc, Patient Supplies (Soaps, Shampoos, Mouthwash, Toothpaste, Belonging Bags),slippers, Patient Supplies (Soaps, Shampoos, Mouthwash, Toothpaste, Belonging Bags),slippers, Protectors, Egg Crate Mattresses, Sheepskin & Heel Boots, Rectal Supplies, including Enema Sets, Rectal Tubes, Long Swabs, Etc, Underpads, (Chux and Blue Pads), Underpads, (Chux and Blue Pads), Nasal Cannulas, Nebulizer Supplies, Respiratory Supplies, Other, Suction Catheter & Glove Kits, Ventilator Tubing and Supplies, Alcohol and Betadine Pads & Swabs, Disinfectant and Skin Cleansing Products, Skin Specialties, (Barriers, Protectors, Gels, Ointments),\nSkin Adhesive Remover, KY Jelly, Scrub Brushes and Skin Prep Sets, Anesthesia Circuit Sets, Anesthesia Facemasks, Ambu Bags, Chest Tubes and Drainage Units, Drains, Surgical, including Penrose and Suction Types, Drains, Surgical, including Penrose and Suction Types, Endotracheal Tubes, Epidural / Spinal Needles and Kits, Ear, Nose & Throat Surgery Packs & Supplies, Eye Surgery Packs & Supplies, General Surgery Packs & Supplies, OB/GYN Surgery Packs & Supplies, Orthopedic Surgery Packs and Supplies, Urology Surgery Packs & Supplies, Urology Surgery Packs & Supplies, Vascular Surgery Packs & Supplies, Vascular Surgery Packs & Supplies, Drapes, Sterile, Drapes, Sterile, Tracheostomy & Cricothyroidotomy supplies, tubes and kits, Anesthesia Oral & Nasal Airways, Anesthesia Laryngeal Mask Airway, lma, Anesthesia Stylets & Bougies, Irrigation Syringes, Tubes and Trays, including Tur/urinary Irrigation Setups, Irrigation Syringes, Tubes and Trays, including Tur/urinary Irrigation Setups, Nasal Gastric & Gastric Lavage Tubes & Kits, Scalpels/Blades, Surgical Marking Pens, Suction Canisters & Lids, Suction Canisters & Lids, Suction Catheter, Tips, Tubings & Connectors, Urinary Bags (Leg and Bedside) And Urinary Supplies, Urinary Catheters, Trays & Insertion Sets, Cold Therapy Unit / Portable, CPAP Supplies, CPAP Unit W/ Humidifier, Head Lamp, Laryngoscope, Light Source, Light, Exam, Lab Supply Kit, Tubes, Nebulizer, Otoscope Covers/Tips, Otoscope / Ophthalmoscope Wall Mounted AC Powered, Oximeter, Pulse, Battery Operated, Otoscope and Ophthalmoscope, Rechargable Nickel Battery- Powered, Pump, Anti Embolism Extremity Pump, Pump, SCD Sleeves, Flowtron, Pump, Syringe, Infuser, Pump, Lymph Assist, Reflex Hammer, Speculum, Non Disposable, Vaginal, Sphygmomanometer, Wall Mount, Sphygmomanometer Cuffs, Sphygmomanometer, Aneroid, Hand Held, Disposable Speculum, Stethoscope, Stethoscope, Disposable, Adult Blood Pressure Unit, Battery Operated, Thermometer, Patient Digital or Oral, Hospital Grade Thermometer, Forehead,105801, Clinic Grade Thermometer, Forehead,105800, Transformer, 200 Watt, Transformer, 500 Watt, Transformer, 2,000 watt, Bed, ICU, Cane, Forearm, Other, Cart, Crash, Cart, Linen, Cart, Utility, Trash, Misc., Cart, Oxygen Cylinder, Chair, Office, Chair, Waiting Room, Commode, Bedside, Crutches, C.U.R.E. Kits for Kids, MSD Postnatal Kits, File Cabinet, IV Pole, Vinyl Bed Surface, Patient Recliner, Scale, Adult, Scale, Adult, Electric, Stacking Storage Bins, Step Stool, Stool, Exam, Shelving / Storage, Surgical Instrument Kit, Arthrex, Surgical Instrument Kit, Suture Set, Surgical Instrument Kit, General, Surgical Instrument Kit, Delivery, Surgical Instrument Kit, Ortho, Surgical Instrument Kit, Minor, Surgical Instrument Kit, Circumcision Set, Surgical Instrument Kit, Tracheostomy, Table, Exam, Trash / Biohazard Waste Cans, Walker, Adult, Wheelchair Transport Unit, Wheelchair, Pediatric, Wheelchair, Special Needs, Wheelchair, Adult",
+        "total item quantity": "167466.0",
+        "handover protocol link (unique)": "",
+        "picture link (unique)": "",
+        "item list (eng) (unique)": "",
+        "short hospital names (eng)": "",
+        "info box text": "",
+        "landing page link": "",
+        "date last updated: new data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.7879,
+          46.589
+        ]
+      },
+      "properties": {
+        "show?": "True",
+        "raw data (no line breaks)": "RESEARCH INSTITUTE OF TRAUMATOLOGY AND ORTHOPEDICS DONETSK NATIONAL MEDICAL UNIVERSITY",
+        "shipment id (unique)": "MUA34",
+        "cure id (unique)": "62416",
+        "freight forwarder": "SEKO",
+        "donor (unique)": "EKFS",
+        "country (unique)": "Ukraine",
+        "distribution number (unique)": "163",
+        "distribution id (unique)": "UHU163_10/25",
+        "shipment period (unique)": "Oct-25",
+        "type of medical institution (unique)": "Hospital",
+        "unique hospital names (eng)": "Odesa Clinical Regional Hospital",
+        "safe hospital names": "Hospital 278",
+        "region (unique)": "Odesa Oblast",
+        "full location (unique)": "Odesa Clinical Regional Hospital, Odesa Oblast",
+        "number of beds (unique)": "1000",
+        "item name eng/ukr (unique)": "Surgical Caps And Hats, Shoe Covers, Gloves, Non-sterile, Gloves, Non-sterile, Gloves, Sterile, Gloves, Sterile, Masks, surgical, Goggles and Face Protection, Masks, procedure, Gowns, Patient (incl. Cloth, Paper Protector, Cover-up), Gowns, Isolation Level 1 and Level 2, Gowns, Patient (incl. Cloth, Paper Protector, Cover-up), Gowns, Surgical, Non-sterile, Gowns, Surgical, Sterile, Lab Coats And Tunics, Scrub Suits, Surgical, Scrubs, Figs Tops and Bottoms (X-S and Small), Scrubs, Figs Tops and Bottoms (Medium), Scrubs, Figs Tops and Bottoms (Large), N-95 Masks, N-95 Masks, Dental Supplies, Dental Supplies, 2x2, 4x4, Abd Sterile Dressings, Bandaids, Steristrips, Tape, Transparent Dressings (tegaderm), Gauze and All Other Non Sterile Dressings, Kerlix/kling Dressings, Kerlix/Kling Dressing, Specialty Dressings (and All Other Dressings Not Fitting In Other Categories), Bags, Red, Spill Kits And Isolyszer, Liners, Trash Can, Laundry & Plastic Bags, Mopheads, Sharps Containers, Send Only w/ Lids, Sterilization, Tapes, Indicators, Wraps & Pouches, Sterilization, Tapes, Indicators, Wraps & Pouches, Buffalo caps, prn adaptors and other iv infusion supplies, vial spikes and adaptators, Central Percutaneous Lines, IV Catheters/ Including Huber, Butterfly, Fistula, IV Extension & Secondary Tubing, IV Extension & Secondary Tubing, IV Primary Tubing, Including Blood Tubing, IV Primary Tubing, Including Blood Tubing, Needles, Mixed Gauges, Syringes, 5cc & 6cc, Syringes, 10cc & 12cc, Syringes, 30cc and 60cc, Syringes, Insulin, Blood Drawing Supplies (Vacutainer Holders & Needles, Butterflies, Lancets, Tourniquets), Containers and Labels, Lab, Medication Cups, Spoons and Labels, Pill Crushers, Counters, Holders for Tubex Syringes, Baby and birthing supplies, Casting Supplies, Stockinette, Web Roll, Plaster, Fiberglass, Cast Shoes, Cast Heels, Casting Supplies, Stockinette, Web Roll, Plaster, Fiberglass, Cast Shoes, Cast Heels, Pads, Wedges, Positioning Pillows, Splints, Wraps (including Ace), and Slings, Hose Ted (anti- embolism), Braces, Applicator Swabs (Q-Tips), Tongue Depressors, Cotton Balls, Diapers, Adult, Ear, Eye and Nose Supplies: Bulb Syringes, Eye Glasses, Nasal Speculums, Feeding Tubes, Bags, Pump Sets and Supplies, Feeding Tubes, Bags, Pump Set and Supplies, Ostomy (Colostomy, Ileostomy, Urostomy) Supplies, including Pouches, Adhesives, Etc), Paper Supplies, Towels, Cups, Napkins, Toilet Paper, Dishes, Patient Supplies (Soaps, Shampoos, Mouthwash, Toothpaste, Belonging Bags),slippers, Patient Supplies (Soaps, Shampoos, Mouthwash, Toothpaste, Belonging Bags),slippers, Protectors, Egg Crate Mattresses, Sheepskin & Heel Boots, Rectal Supplies, including Enema Sets, Rectal Tubes, Long Swabs, Etc, Rectal Supplies, including Enema Sets, Rectal Tubes, Long Swabs, Etc, Underpads, (Chux and Blue Pads), Nasal Cannulas, Nasal Cannulas, Oxygen Masks and Tubing, Respiratory Supplies, Other, Suction Catheter & Glove Kit, Ventilator Tubing and Supplies, Alcohol and Betadine Pads & Swabs, Alcohol and Betadine Pads & Swabs, Skin Specialities, (Barriers, Protectors, Gels, Ointments),\nSkin Adhesive Remover, KY Jelly, Anesthesia Circuit Sets, Anesthesia Facemasks, Anesthesia Facemasks, Ambu Bags, Chest Tubes and Drainage Units, Endotracheal Tubes, Ear, Nose & Throat Surgery Packs & Supplies, Ear, Nose & Throat Surgery Packs & Supplies, Eye Surgery Packs & Supplies, General Surgery Packs & Supplies, General Surgery Packs and Supplies, OB/GYN Surgery Packs & Supplies, Orthopedic Surgery Packs & Supplies, Orthopedic Surgery Packs and Supplies, Urology Surgery Packs & Supplies, Vascular Surgery Packs & Supplies, Drapes, Sterile, Tracheostomy & Cricothyroidotomy supplies, tubes and kits, Anesthesia Stylets & Bougies, Drapes, Non-sterile, Irrigation Syringes, Tubes and Trays, including Tur/urinary Irrigation Setups, Irrigation Syringes, Tubes and Trays, including Tur/urinary Irrigation Setups, Suction Catheter, Tips, Tubings & Connectors, Sutures and Suture Removal Kit, Staplers and Staple Removal Kits, Urinary Bags (Leg and Bedside) and Urinary Supplies, Urinary Bags (Leg and Bedside) And Urinary Supplies, Urinary Catheters, Trays & Insertion Sets, Urinary Catheters, Trays & Insertion Sets, Centrifuge, Lab, Cold Therapy Unit / Portable, CPAP Supplies, CPAP Unit W/ Humidifier, Stryker Head Lamp, Battery Operated, Humidifier, Whole Room Air Mist, Laryngoscope, Light, Exam, Monitor, Clinical, 2 -4 function (NIBP, Pulse, optional TEMP & SPO2), Nebulizer, Nerve Stimulator, Patient Worn, Tens Unit, Otoscope / Ophthalmoscope Wall Mounted AC Powered, Oximeter, Pulse, Battery Operated, Pump, Breast, Pump, Lymph Assist, Reflex Hammer, Speculum, Non Disposable, Vaginal, Sphygmomanometer, Wall Mount, Sphygmomanometer, Aneroid, Hand Held, Sphygmomanometer, Floor Or Roll Stand Model, Stethoscope, Stethoscope, Disposable, Adult Blood Pressure Unit, Battery Operated, Suction Machine / Low Pressure / Portable, Therapy Unit, Heat (Heating Pad), Thermometer, Forehead, Thermometer, Patient Digital or Oral, Clinic Grade Thermometer, Forehead,105800, Transformer, 200 Watt, Transformer, 200 Watt, Transformer, 300 watt, Transformer, 300 watt, Transformer, 1,000 Watt, Transformer, 1,500 watts, View Box, X-Rray, Bed, ICU, Cane, Forearm, Other, Cane, Quad, Cart, Crash, Cart, Linen, Cart, Medication, Cart, Oxygen Cylinder, Cart, Stainless Steel, Case Cart, Chair, Blood Drawing, Chair, Waiting Room, Crutches, MSD Postnatal Kits, Desk, File Cabinet, Vinyl Bed Surface, Patient Recliner, Scale, Adult, Scale, Infant, Stacking Storage Bins, Surgical Instrument Kit, Suture Set, Surgical Instrument Kit, Abdominal Hysterectomy, Surgical Instrument Kit, General, Surgical Instrument Kit, Vaginal Hysterectomy, Surgical Instrument Kit, Delivery, Surgical Instrument Kit, Ortho, Surgical Instrument Kit, Minor, Surgical Instrument Kit, C-section, Surgical Instrument Kit, Tracheostomy, Table, Exam, Table, Exam, Electric, Table, Treatment, Walker, Adult, Wheelchair Transport Unit, Wheelchair, Special Needs, Wheelchair, Adult",
+        "total item quantity": "434464.0",
+        "handover protocol link (unique)": "",
+        "picture link (unique)": "",
+        "item list (eng) (unique)": "",
+        "short hospital names (eng)": "",
+        "info box text": "",
+        "landing page link": "",
+        "date last updated: new data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.3442,
+          50.7577
+        ]
+      },
+      "properties": {
+        "show?": "True",
+        "raw data (no line breaks)": "RESEARCH INSTITUTE OF TRAUMATOLOGY AND ORTHOPEDICS DONETSK NATIONAL MEDICAL UNIVERSITY",
+        "shipment id (unique)": "MUA33",
+        "cure id (unique)": "52429",
+        "freight forwarder": "SEKO",
+        "donor (unique)": "EKFS (Henkel)",
+        "country (unique)": "Ukraine",
+        "distribution number (unique)": "164",
+        "distribution id (unique)": "UHU164_10/25",
+        "shipment period (unique)": "Oct-25",
+        "type of medical institution (unique)": "Hospital",
+        "unique hospital names (eng)": "Volyn Regional Clinical Hospital of the Volyn Regional Council",
+        "safe hospital names": "Hospital 279",
+        "region (unique)": "Lutsk, Volyn Oblast, Ukraine",
+        "full location (unique)": "Volyn Regional Clinical Hospital of the Volyn Regional Council, Lutsk, Volyn Oblast, Ukraine",
+        "number of beds (unique)": "995",
+        "item name eng/ukr (unique)": "Gloves, Non-sterile, Alcohol and betadine wipes and swabs, Paper supplies, towels, cups, napkins, toilet paper, dishes, Ostomy (Colostomy, Ileostomy, Urostomy) Supplies, including Pouches, Adhesives, Etc, Plasters, sterilizing strips, tapes, transparent dressings, Medication cups, spoons and labels, pill boxes, counters, holders, Disinfectant wipes (24), Diapers, Adult, Gauze and all other non-sterile dressings, Surgical caps and hats, shoe covers, Sterilization, tapes, indicators, wrappers and bags, Syringes, Insulin, Blood collection supplies (vacuum container holders and needles, lancets, tourniquets), Patient Supplies (Soaps, Shampoos, Mouthwash, Toothpaste, Belonging Bags),slippers, Syringes, 5cc & 6cc, Underpads, Pads, garbage cans, linen bags and plastic bags (nozzles for swabs), Disinfectant wipes (24), Containers, basins, emetics, water jugs, jugs, glassware, IV extension and secondary tubing, Oxygen masks and tubing, Containers and labels, laboratory, Suction Catheter & Glove Kit, Patient gowns (incl. fabric, paper protective cover, capes), Feeding Tubes, Bags, Pump Set and Supplies, Fabric items not suitable for other items, curtains, Gloves, sterile, Buffalo caps, Pb adapters and other IV supplies, spikes and, Blue pants, Surgical sterile gowns, Splints, Wraps (including Ace), and Slings, Hose Ted (anti- embolism), Laboratory Kit, Syringes for Blood Tests, Bed linens and towels, Syringes, 30cc and 60cc, Ear, Nose & Throat Surgery Packs & Supplies, Eye Surgery Packs & Supplies, Oral and nasal airway anesthesia, Laboratory gowns and tunics, surgical suits, surgical, Drapes, Sterile, Syringes, 3cc, Central, percutaneous lines, Surgical drains, including Penrose and suction drains, Urinary Catheters, Trays & Insertion Sets, Goggles and Face Protection, Respiratory supplies, other, Pads, wedges, positioning pillows, Accessories for CPAP 4 2, Laryngeal mask, airways, IMA, Anesthesia Facemasks, Anesthesia stylets and bougies, Otoscope Caps/Tips, Anesthesia Circuit Sets, Kerlix/Kling Dressing, Braces, Bedpans And Urinals, Orthopedic surgical kits and supplies, Scrub brushes and skin preparation kits, Tracheostomy and cricothyroidotomy supplies, tubes and kits, Storage containers, Chest tubes and drainage units, Walker, Adult, Crutches, Electric bed, Bed, ICU, General surgery kits and supplies, Transformer, 200 Watt, IV pole, Vinyl bed surface, Table, exam, Bedside table, Wheelchair Transport Unit, Surgical Instrument Kit, Suture Set, Centrifuge, Lab, Cold Therapy Unit / Portable, CPAP Unit W/ Humidifier, Laboratory equipment sets, Laboratory equipment set, test tubes, Laboratory equipment set, general laboratory equipment, box., Hand-Held Otoscope Supplies, Otoscope / Ophthalmoscope Wall Mounted AC Powered, Oximeter, Pulse Monitor, Electrical Outlet, Ophthalmoscope, Suction Machine / Low Pressure / Portable, Surgical Razors, Transformer, 1,000 Watt, Transformer, 1,500 watts, Transformer, 2,000 watt, Surgical chair, ENT procedure, Scale, Adult, Electric, Surgical Instrument Kit, Suture Set, Abdominal hysterectomy surgical instrument set, Surgical instrument set, general, Delivery surgical instrument set, Thoracic surgery surgical instrument set, Set of surgical instruments, Dissection packages, Urinary Bags (Leg and Bedside) And Urinary Supplies",
+        "total item quantity": "51134.0",
+        "handover protocol link (unique)": "",
+        "picture link (unique)": "",
+        "item list (eng) (unique)": "",
+        "short hospital names (eng)": "",
+        "info box text": "",
+        "landing page link": "",
+        "date last updated: new data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.3789,
+          50.7637
+        ]
+      },
+      "properties": {
+        "show?": "True",
+        "raw data (no line breaks)": "RESEARCH INSTITUTE OF TRAUMATOLOGY AND ORTHOPEDICS DONETSK NATIONAL MEDICAL UNIVERSITY",
+        "shipment id (unique)": "MUA33",
+        "cure id (unique)": "52429",
+        "freight forwarder": "SEKO",
+        "donor (unique)": "EKFS (Henkel)",
+        "country (unique)": "Ukraine",
+        "distribution number (unique)": "165",
+        "distribution id (unique)": "UHU165_10/25",
+        "shipment period (unique)": "Oct-25",
+        "type of medical institution (unique)": "Hospital",
+        "unique hospital names (eng)": "Volyn Regional Territorial Medical Association for the Protection of Motherhood and Childhood of the Volyn Regional Council",
+        "safe hospital names": "Hospital 280",
+        "region (unique)": "Lutsk, Volyn Region, Ukraine",
+        "full location (unique)": "Volyn Regional Territorial Medical Association for the Protection of Motherhood and Childhood of the Volyn Regional Council, Lutsk, Volyn Region, Ukraine",
+        "number of beds (unique)": "191",
+        "item name eng/ukr (unique)": "Gloves, Non-sterile, Alcohol and betadine wipes and swabs, Patient gowns (incl. fabric, paper protective cover, capes), Plasters, sterilizing strips, tapes, transparent dressings, Paper supplies, towels, cups, napkins, toilet paper, dishes, Disinfectant wipes (24), Surgical caps and hats, shoe covers, Sterilization, tapes, indicators, wrappers and bags, Patient Supplies (Soaps, Shampoos, Mouthwash, Toothpaste, Belonging Bags),slippers, Syringes, 5cc & 6cc, Infant and childbirth supplies, Gauze and all other non-sterile dressings, Scrub brushes and skin preparation kits, Pads, garbage cans, linen bags and plastic bags (nozzles for swabs), IV extension and secondary tubing, Underpads, Oxygen masks and tubing, Suction Catheter & Glove Kit, Fabric items not suitable for other items, curtains, Sterile gloves, Blue pants, Obstetrics/gynecology surgical kits and supplies, Bed linens and towels, Syringes, 30cc and 60cc, Special dressings (and all other dressings not included in other categories), Surgical sterile gowns, Splints, Wraps (including Ace), and Slings, Hose Ted (anti- embolism), Ear, Nose & Throat Surgery Packs & Supplies, Surgery kits and supplies eye, Oral and nasal airway anesthesia, Laboratory gowns and tunics, surgical suits, surgical, Feeding Tubes, Bags, Pump Set and Supplies, Goggles and Face Protection, Buffalo caps, Pb adapters and other IV supplies, spikes and, Drapes, Sterile, Central, percutaneous lines, Respiratory supplies, other, Pads, wedges, positioning pillows, Accessories for CPAP 4 2, Anesthesia face masks, Anesthesia stylets and bougies, Urinary catheters, trays and administration sets, Anesthesia Circuit Sets, Speculum, Disposable, Vaginal, Nebulizer Supplies, Laryngeal mask, airways, IMA, Orthopedic surgical kits and supplies, Thermometer, Digital or Oral for Patients, Hospital Grade Thermometer, Forehead 105801, Clinic Grade Thermometer, Forehead,105800, Storage containers, Chest tubes and drainage units, Crutches, Pediatric, Transformer, 200 Watt, Transformer, 1,500 watts, IV pole, Vinyl bed surface, Bedside table, General Surgery Packs and Supplies, Cold Therapy Unit / Portable, CPAP Unit W/ Humidifier, Vital Signs Monitor, 5 Functions (NIPB, Pulse, TEMP, SPO2, UKG), Surgical Razors, Cradle with basket, Scale, Infant, Surgical instrument set, vaginal hysterectomy surgical instrument set, Cesarean section surgical instrument set, Wheelchair transport unit, Children's wheelchair",
+        "total item quantity": "43768.0",
+        "handover protocol link (unique)": "",
+        "picture link (unique)": "",
+        "item list (eng) (unique)": "",
+        "short hospital names (eng)": "",
+        "info box text": "",
+        "landing page link": "",
+        "date last updated: new data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.3103,
+          50.7514
+        ]
+      },
+      "properties": {
+        "show?": "True",
+        "raw data (no line breaks)": "RESEARCH INSTITUTE OF TRAUMATOLOGY AND ORTHOPEDICS DONETSK NATIONAL MEDICAL UNIVERSITY",
+        "shipment id (unique)": "MUA33",
+        "cure id (unique)": "52429",
+        "freight forwarder": "SEKO",
+        "donor (unique)": "EKFS (Henkel)",
+        "country (unique)": "Ukraine",
+        "distribution number (unique)": "166",
+        "distribution id (unique)": "UHU166_10/25",
+        "shipment period (unique)": "Oct-25",
+        "type of medical institution (unique)": "Hospital",
+        "unique hospital names (eng)": "Volyn Regional Infectious Diseases Hospital of the Volyn Regional Council",
+        "safe hospital names": "Hospital 281",
+        "region (unique)": "Lutsk, Volyn Region, Ukraine",
+        "full location (unique)": "Volyn Regional Infectious Diseases Hospital of the Volyn Regional Council, Lutsk, Volyn Region, Ukraine",
+        "number of beds (unique)": "75",
+        "item name eng/ukr (unique)": "Gloves, Non-sterile, Patient gowns (incl. fabric, paper protective cover, capes), Alcohol and betadine wipes and swabs, Paper supplies, towels, cups, napkins, toilet paper, dishes, Plasters, sterilizing strips, tapes, transparent dressings, Diapers, Adult, Surgical caps and hats, shoe covers, Sterilization, tapes, indicators, wrappers and bags, Syringes, Insulin, Syringes, 5cc & 6cc, Gauze and all other non-sterile dressings, Underpads, Pads, garbage cans, linen bags and plastic bags (nozzles for swabs), Disinfectant wipes (24), Containers, basins, emetics, water jugs, jugs, glassware, Surgical masks, IV extension and secondary tubing, Patient Supplies (Soaps, Shampoos, Mouthwash, Toothpaste, Belonging Bags),slippers, Feeding Tubes, Bags, Pump Set and Supplies, Oxygen masks and tubing, Fabric items not suitable for other items, curtains, Bed linens and towels, Suction Catheter & Glove Kit, Blue pants, Special dressings (and all other dressings not included in other categories), Laboratory gowns and tunics, surgical suits, surgical, Goggles and Face Protection, Buffalo caps, Pb adapters and other IV supplies, spikes and, Drapes, Sterile, Splints, Wraps (including Ace), and Slings, Hose Ted (anti- embolism), Respiratory supplies, other, Pads, wedges, positioning pillows, Accessories for CPAP 4 2, Anesthesia face masks, Urinary Catheters, Trays & Insertion Sets, Surgical sterile gowns, Anesthesia Circuit Sets, Bedpans And Urinals, Nebulizer Supplies, Laryngeal mask, airways, IMA, Orthopedic surgical kits and supplies, Hospital Grade Thermometer, Forehead 105801, Clinical Grade Thermometer, Forehead 105800, Storage containers, Chest tubes and drainage units, Walker, Adult, Concentrator, Oxygen, CPAP Unit W/ Humidifier, Transformer, 1,500 watts, IV pole, Vinyl bed surface, Cold Therapy Unit / Portable, Laryngoscope, Monitor, Clinical, 2-4 Functions, Oximeter, Pulse Monitor, Electrical Outlet, Stethoscope, Transformer, 200 Watt, Bedside table",
+        "total item quantity": "33571.0",
+        "handover protocol link (unique)": "",
+        "picture link (unique)": "",
+        "item list (eng) (unique)": "",
+        "short hospital names (eng)": "",
+        "info box text": "",
+        "landing page link": "",
+        "date last updated: new data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.3873,
+          50.7681
+        ]
+      },
+      "properties": {
+        "show?": "True",
+        "raw data (no line breaks)": "RESEARCH INSTITUTE OF TRAUMATOLOGY AND ORTHOPEDICS DONETSK NATIONAL MEDICAL UNIVERSITY",
+        "shipment id (unique)": "MUA33",
+        "cure id (unique)": "52429",
+        "freight forwarder": "SEKO",
+        "donor (unique)": "EKFS (Henkel)",
+        "country (unique)": "Ukraine",
+        "distribution number (unique)": "167",
+        "distribution id (unique)": "UHU167_10/25",
+        "shipment period (unique)": "Oct-25",
+        "type of medical institution (unique)": "Hospital",
+        "unique hospital names (eng)": "Volyn Regional Psychiatric Hospital",
+        "safe hospital names": "Hospital 282",
+        "region (unique)": "Lypyny, Lutsk Region, Volyn Oblast, Ukraine",
+        "full location (unique)": "Volyn Regional Psychiatric Hospital, Lypyny, Lutsk Region, Volyn Oblast, Ukraine",
+        "number of beds (unique)": "630",
+        "item name eng/ukr (unique)": "Gloves, Non-sterile, Alcohol and betadine wipes and swabs, Paper supplies, towels, cups, napkins, toilet paper, dishes, Patient gowns (incl. fabric, paper protective cover, capes), Diapers, Adult, Surgical caps and hats, shoe covers, Containers, basins, emetics, water jugs, jugs, glassware, Plasters, sterilizing strips, tapes, transparent dressings, Sterilization, tapes, indicators, wrappers and bags, Patient Supplies (Soaps, Shampoos, Mouthwash, Toothpaste, Belonging Bags),slippers, Underpads, Gauze and all other non-sterile dressings, Pads, garbage cans, linen bags and plastic bags (nozzles for swabs), Disinfectant wipes (24), Fabric items not suitable for other items, curtains, Bed linens and towels, Special dressings (and all other dressings not included in other categories), Feeding Tubes, Bags, Pump Set and Supplies, Laboratory gowns and tunics, surgical suits, surgical, Pads, wedges, positioning pillows, Splints, Wraps (including Ace), and Slings, Hose Ted (anti- embolism), Underbed vessels and urinals, Urinary Catheters, Trays & Insertion Sets, Surgical sterile gowns, Storage containers, Vinyl bed surface, Walker, Adult, Vipap device, Vipap device with humidifier, CPAP Unit W/ Humidifier, Laryngoscope, Transformer 1000W, Transformer, 1,500 watts, IV pole, Bedside table",
+        "total item quantity": "31640.0",
+        "handover protocol link (unique)": "",
+        "picture link (unique)": "",
+        "item list (eng) (unique)": "",
+        "short hospital names (eng)": "",
+        "info box text": "",
+        "landing page link": "",
+        "date last updated: new data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2878,
+          50.752
+        ]
+      },
+      "properties": {
+        "show?": "True",
+        "raw data (no line breaks)": "POLYSKA CENTRAL HOSPITAL OF POLYSKA VILLAGE COUNCIL ",
+        "shipment id (unique)": "MUA33",
+        "cure id (unique)": "52429",
+        "freight forwarder": "SEKO",
+        "donor (unique)": "EKFS (Henkel)",
+        "country (unique)": "Ukraine",
+        "distribution number (unique)": "168",
+        "distribution id (unique)": "UHU168_10/25",
+        "shipment period (unique)": "Oct-25",
+        "type of medical institution (unique)": "Hospital",
+        "unique hospital names (eng)": "Volyn Regional Hospital of War Veterans of the Volyn Regional Council",
+        "safe hospital names": "Hospital 283",
+        "region (unique)": "Lutsk, Volyn Region",
+        "full location (unique)": "Volyn Regional Hospital of War Veterans of the Volyn Regional Council, Lutsk, Volyn Region",
+        "number of beds (unique)": "170",
+        "item name eng/ukr (unique)": "Gloves, Non-sterile, Alcohol and betadine wipes and swabs, Patient gowns (incl. fabric, paper protective cover, capes), Plasters, sterilizing strips, tapes, transparent dressings, Paper supplies, towels, cups, napkins, toilet paper, dishes, Diapers, Adult, Surgical caps and hats, shoe covers, Sterilization, tapes, indicators, wrappers and bags, Gauze and all other non-sterile dressings, Scrub brushes and skin preparation kits, Disinfectant wipes (24), Containers, basins, emetics, water jugs, jugs, glassware, Patient Supplies (Soaps, Shampoos, Mouthwash, Toothpaste, Belonging Bags),slippers, Underpads, Sterile gloves, Pads, garbage cans, linen bags and plastic bags (nozzles for swabs), Fabric items not suitable for other items, curtains, Suction Catheter & Glove Kit, Blue pants, IV extension and secondary tubing, Special dressings (and all other dressings not included in other categories), Splints, Wraps (including Ace), and Slings, Hose Ted (anti- embolism), Feeding Tubes, Bags, Pump Set and Supplies, Oxygen masks and tubing, Drapes, Sterile, Bed linens and towels, Surgical sterile gowns, Laboratory gowns and tunics, surgical suits, surgical, Goggles and Face Protection, Pads, wedges, positioning pillows, Accessories for CPAP 4 2, Underbed vessels and urinals, Kerlix/Kling Dressing, Urinary Bags (Leg and Bedside) And Urinary Supplies, Urinary Catheters, Trays & Insertion Sets, Trolley, linen, Laryngeal mask, airways, IMA, Anesthesia Circuit Sets, Storage containers, Cane, Forearm, Other, Walker, Adult, Cane, Quad bike, Crutches, Wheelchair, Adult, Trolley, oxygen cylinder, IV pole, Bedside table, General Surgery Packs and Supplies, CPAP Unit W/ Humidifier, 500W Transformer, Transformer, 1,500 watts, File cabinet, Wheelchair transport unit",
+        "total item quantity": "31423.0",
+        "handover protocol link (unique)": "",
+        "picture link (unique)": "",
+        "item list (eng) (unique)": "",
+        "short hospital names (eng)": "",
+        "info box text": "",
+        "landing page link": "",
+        "date last updated: new data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.3235,
+          50.7514
+        ]
+      },
+      "properties": {
+        "show?": "True",
+        "raw data (no line breaks)": "POLYSKA CENTRAL HOSPITAL OF POLYSKA VILLAGE COUNCIL ",
+        "shipment id (unique)": "MUA33",
+        "cure id (unique)": "52429",
+        "freight forwarder": "SEKO",
+        "donor (unique)": "EKFS (Henkel)",
+        "country (unique)": "Ukraine",
+        "distribution number (unique)": "169",
+        "distribution id (unique)": "UHU169_10/25",
+        "shipment period (unique)": "Oct-25",
+        "type of medical institution (unique)": "",
+        "unique hospital names (eng)": "Volyn Regional Center for Emergency Medical Care and Disaster Medicine of the Volyn Regional Council",
+        "safe hospital names": "Hospital 284",
+        "region (unique)": "Lutsk, Volyn Region",
+        "full location (unique)": "Volyn Regional Center for Emergency Medical Care and Disaster Medicine of the Volyn Regional Council, Lutsk, Volyn Region",
+        "number of beds (unique)": "",
+        "item name eng/ukr (unique)": "Patient gowns (incl. fabric, paper protective cover, capes), Bags, red, pouring sets and isolators, Aspiration containers and covers, First aid kits, Protectors, Egg Crate Mattresses, Sheepskin & Heel Boots, Splints, Wraps (including Ace), and Slings, Hose Ted (anti- embolism), Aspiration catheter, tips, tubes and connectors, Laryngeal mask, airways, IMA, Transformer, 1,500 watts, Tracheostomy and cricothyroidotomy supplies, tubes and kits, Vipap device, CPAP Unit W/ Humidifier, Headlamp on batteries, Laryngoscope, Light, exam, 50W Transformer, Transformer 1000W",
+        "total item quantity": "758.0",
+        "handover protocol link (unique)": "",
+        "picture link (unique)": "",
+        "item list (eng) (unique)": "",
+        "short hospital names (eng)": "",
+        "info box text": "",
+        "landing page link": "",
+        "date last updated: new data": ""
+      }
     }
   ]
 }
