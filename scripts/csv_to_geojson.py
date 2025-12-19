@@ -88,16 +88,18 @@ def fetch_and_convert_medical() -> Dict[str, Any]:
     """Fetch medical data and convert to GeoJSON"""
     url = "https://docs.google.com/spreadsheets/d/e/2PACX-1vSwQfNVeLSL33IGytiDNV8DAduygRZ5xC0EBI1JLzrgjEFeKANCDTcQ9m9AcWgjtSOec5UcBUvOH_fW/pub?gid=1455555915&single=true&output=csv"
     
-    try:
+        try:
+        from io import StringIO
         response = requests.get(url)
         response.raise_for_status()
         
-        # Save raw CSV for debugging
-        with open('medical_data.csv', 'w') as f:
-            f.write(response.text)
-        
-        # Read CSV with pandas
-        df = pd.read_csv('medical_data.csv')
+        # Read CSV directly with proper handling
+        df = pd.read_csv(
+            StringIO(response.text),
+            encoding='utf-8',
+            quotechar='"',
+            on_bad_lines='warn'
+        )
         
         print(f"Medical data columns: {df.columns.tolist()}")
         print(f"Medical data shape: {df.shape}")
