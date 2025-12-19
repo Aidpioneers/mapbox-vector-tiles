@@ -14791,7 +14791,7 @@
         "short hospital names (eng)": "Maternity specialized hospital, Aleppo region",
         "info box text": "",
         "landing page link": "",
-        "date last updated: new data": ""
+        "date last updated: new data": "unsure to find it "
       }
     },
     {
@@ -14799,8 +14799,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.8441,
-          36.2773
+          34.3674,
+          6.4746
         ]
       },
       "properties": {
@@ -14836,8 +14836,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.6288,
-          35.9302
+          33.5002,
+          4.7743
         ]
       },
       "properties": {
@@ -14873,8 +14873,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.6714,
-          36.0128
+          33.5673,
+          4.76
         ]
       },
       "properties": {
@@ -14910,8 +14910,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.4488,
-          36.1357
+          33.9696,
+          6.6612
         ]
       },
       "properties": {
