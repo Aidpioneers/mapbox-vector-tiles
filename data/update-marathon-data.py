@@ -12,7 +12,7 @@ import sys
 from datetime import datetime
 
 # Google Sheets CSV URL
-GOOGLE_SHEET_URL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vSDhMx8shcqFiqMKjLnrC0NNhV3b_kNCyn7FfpT0IYd8gPJf0VnKtgkGSmtJRWzbTaLR1LtSeMnmwny/pub?gid=190506599&single=true&output=csv"
+GOOGLE_SHEET_URL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vSDhMx8shcqFiqMKjLnrC0NNhV3b_kNCyn7FfpT0IYd8gPJf0VnKtgkGSmtJRWzbTaLR1LtSeMnmwny/pub?gid=730702317&single=true&output=csv"
 
 def clean_coordinate(coord_str):
     """Clean and convert coordinate string to float."""
