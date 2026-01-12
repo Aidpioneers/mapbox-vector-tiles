@@ -11,7 +11,7 @@
         ]
       },
       "properties": {
-        "Show": "True",
+        "show?": "True",
         "Year": "2026",
         "Agency": "Run for Charity",
         "City": "Paris",
@@ -41,7 +41,7 @@
         ]
       },
       "properties": {
-        "Show": "False",
+        "show?": "False",
         "Year": "2026",
         "Agency": "Run for Charity",
         "City": "Edinburgh",
@@ -71,7 +71,7 @@
         ]
       },
       "properties": {
-        "Show": "True",
+        "show?": "True",
         "Year": "2026",
         "Agency": "Run for Charity",
         "City": "Cambridge",
@@ -101,7 +101,7 @@
         ]
       },
       "properties": {
-        "Show": "False",
+        "show?": "False",
         "Year": "2026",
         "Agency": "Realbuzz",
         "City": "Lisbon",
@@ -131,7 +131,7 @@
         ]
       },
       "properties": {
-        "Show": "True",
+        "show?": "True",
         "Year": "2026",
         "Agency": "Run for Charity",
         "City": "Paris",
@@ -161,7 +161,7 @@
         ]
       },
       "properties": {
-        "Show": "False",
+        "show?": "False",
         "Year": "2026",
         "Agency": "Realbuzz",
         "City": "Prague",
@@ -191,7 +191,7 @@
         ]
       },
       "properties": {
-        "Show": "True",
+        "show?": "True",
         "Year": "2026",
         "Agency": "Realbuzz",
         "City": "Copenhagen",
@@ -221,7 +221,7 @@
         ]
       },
       "properties": {
-        "Show": "False",
+        "show?": "False",
         "Year": "2026",
         "Agency": "Run for Charity",
         "City": "London",
@@ -251,7 +251,7 @@
         ]
       },
       "properties": {
-        "Show": "True",
+        "show?": "True",
         "Year": "2026",
         "Agency": "Realbuzz",
         "City": "Rome",
@@ -281,7 +281,7 @@
         ]
       },
       "properties": {
-        "Show": "False",
+        "show?": "False",
         "Year": "2026",
         "Agency": "Run for Charity",
         "City": "Barcelona",
@@ -311,7 +311,7 @@
         ]
       },
       "properties": {
-        "Show": "True",
+        "show?": "True",
         "Year": "2026",
         "Agency": "Realbuzz",
         "City": "Berlin",
@@ -341,7 +341,7 @@
         ]
       },
       "properties": {
-        "Show": "True",
+        "show?": "True",
         "Year": "2026",
         "Agency": "Run for Charity",
         "City": "Milan",
@@ -371,7 +371,7 @@
         ]
       },
       "properties": {
-        "Show": "True",
+        "show?": "True",
         "Year": "2026",
         "Agency": "Run for Charity",
         "City": "Amsterdam",
@@ -401,7 +401,7 @@
         ]
       },
       "properties": {
-        "Show": "True",
+        "show?": "True",
         "Year": "2026",
         "Agency": "Run for Charity",
         "City": "Amsterdam",
@@ -431,7 +431,7 @@
         ]
       },
       "properties": {
-        "Show": "True",
+        "show?": "True",
         "Year": "2026",
         "Agency": "Run for Charity",
         "City": "Amsterdam",
@@ -461,7 +461,7 @@
         ]
       },
       "properties": {
-        "Show": "False",
+        "show?": "False",
         "Year": "2026",
         "Agency": "Run for Charity",
         "City": "London",
@@ -491,7 +491,7 @@
         ]
       },
       "properties": {
-        "Show": "False",
+        "show?": "False",
         "Year": "2026",
         "Agency": "Realbuzz",
         "City": "Vienna",
@@ -521,7 +521,7 @@
         ]
       },
       "properties": {
-        "Show": "False",
+        "show?": "False",
         "Year": "2026",
         "Agency": "Realbuzz",
         "City": "Vienna",
@@ -551,7 +551,7 @@
         ]
       },
       "properties": {
-        "Show": "False",
+        "show?": "False",
         "Year": "2026",
         "Agency": "Realbuzz",
         "City": "Vienna",
@@ -581,7 +581,7 @@
         ]
       },
       "properties": {
-        "Show": "True",
+        "show?": "True",
         "Year": "2026",
         "Agency": "Realbuzz",
         "City": "Prague",
@@ -611,7 +611,7 @@
         ]
       },
       "properties": {
-        "Show": "False",
+        "show?": "False",
         "Year": "2026",
         "Agency": "Realbuzz",
         "City": "Copenhagen",
