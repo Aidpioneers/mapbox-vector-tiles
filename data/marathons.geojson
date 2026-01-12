@@ -6,36 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.352222,
-          48.856613
-        ]
-      },
-      "properties": {
-        "show?": "True",
-        "Year": "2026",
-        "Agency": "Run for Charity",
-        "City": "Paris",
-        "ISO3": "FRA",
-        "Name": "Hoka Half Marathon Paris ",
-        "Full / Half": "Half Marathon",
-        "Date": "8 Mar 2026",
-        "Sign up deadlines": "28/11/2025",
-        "Availability (Comments)": "tickets available ",
-        "Landing Page": "",
-        "Google Ads": "",
-        "Comments": "",
-        "Total Purchased": "5",
-        "Slots Taken": "0.0",
-        "Available": "5",
-        "## Comments (not visible on map)": "",
-        "Landing Page\ncolor = status of Google Ads": "https://www.aidpioneers.com/miami-marathon-2026"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           0.121817,
           52.205337
         ]
@@ -58,7 +28,7 @@
         "Slots Taken": "0.0",
         "Available": "5",
         "## Comments (not visible on map)": "",
-        "Landing Page\ncolor = status of Google Ads": "https://www.aidpioneers.com/berlin-marathon-2026"
+        "Landing Page\ncolor = status of Google Ads": ""
       }
     },
     {
@@ -88,7 +58,7 @@
         "Slots Taken": "2.0",
         "Available": "3",
         "## Comments (not visible on map)": "",
-        "Landing Page\ncolor = status of Google Ads": "https://www.aidpioneers.com/copenhagen-marathon-2026"
+        "Landing Page\ncolor = status of Google Ads": ""
       }
     },
     {
@@ -118,7 +88,7 @@
         "Slots Taken": "0.0",
         "Available": "15",
         "## Comments (not visible on map)": "",
-        "Landing Page\ncolor = status of Google Ads": ""
+        "Landing Page\ncolor = status of Google Ads": "https://www.aidpioneers.com/copenhagen-marathon-2026"
       }
     },
     {
@@ -178,7 +148,7 @@
         "Slots Taken": "0.0",
         "Available": "35",
         "## Comments (not visible on map)": "",
-        "Landing Page\ncolor = status of Google Ads": "https://www.aidpioneers.com/copenhagen-marathon-2026"
+        "Landing Page\ncolor = status of Google Ads": ""
       }
     },
     {
@@ -208,7 +178,7 @@
         "Slots Taken": "0.0",
         "Available": "5",
         "## Comments (not visible on map)": "",
-        "Landing Page\ncolor = status of Google Ads": "https://www.aidpioneers.com/copenhagen-marathon-2026"
+        "Landing Page\ncolor = status of Google Ads": ""
       }
     },
     {
@@ -328,7 +298,7 @@
         "Slots Taken": "",
         "Available": "0",
         "## Comments (not visible on map)": "",
-        "Landing Page\ncolor = status of Google Ads": ""
+        "Landing Page\ncolor = status of Google Ads": "https://www.aidpioneers.com/prague-marathon-2026"
       }
     }
   ]
