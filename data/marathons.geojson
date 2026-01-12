@@ -36,36 +36,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -9.139337,
-          38.722252
-        ]
-      },
-      "properties": {
-        "show?": "False",
-        "Year": "2026",
-        "Agency": "Run for Charity",
-        "City": "Edinburgh",
-        "ISO3": "PRT",
-        "Name": "Edinburgh Half Marathon ",
-        "Full / Half": "Half Marathon",
-        "Date": "24 May 2026",
-        "Sign up deadlines": "13/01/2026",
-        "Availability (Comments)": "to be determined",
-        "Landing Page": "",
-        "Google Ads": "",
-        "Comments": "",
-        "Total Purchased": "5",
-        "Slots Taken": "0.0",
-        "Available": "5",
-        "## Comments (not visible on map)": "",
-        "Landing Page\ncolor = status of Google Ads": "https://www.aidpioneers.com/prague-marathon-2026"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           0.121817,
           52.205337
         ]
@@ -89,36 +59,6 @@
         "Available": "5",
         "## Comments (not visible on map)": "",
         "Landing Page\ncolor = status of Google Ads": "https://www.aidpioneers.com/berlin-marathon-2026"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          14.4378,
-          50.075538
-        ]
-      },
-      "properties": {
-        "show?": "False",
-        "Year": "2026",
-        "Agency": "Realbuzz",
-        "City": "Lisbon",
-        "ISO3": "CZE",
-        "Name": "Lisbon Half Marathon",
-        "Full / Half": "Half Marathon",
-        "Date": "8 Mar 2026",
-        "Sign up deadlines": "24/01/2026",
-        "Availability (Comments)": "to be determined",
-        "Landing Page": "",
-        "Google Ads": "",
-        "Comments": "",
-        "Total Purchased": "0",
-        "Slots Taken": "0.0",
-        "Available": "0",
-        "## Comments (not visible on map)": "",
-        "Landing Page\ncolor = status of Google Ads": "https://www.aidpioneers.com/prague-marathon-2026"
       }
     },
     {
@@ -156,36 +96,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.127758,
-          51.507351
-        ]
-      },
-      "properties": {
-        "show?": "False",
-        "Year": "2026",
-        "Agency": "Realbuzz",
-        "City": "Prague",
-        "ISO3": "GBR",
-        "Name": "Prague Half Marathon",
-        "Full / Half": "Half Marathon",
-        "Date": "28 Mar 2026",
-        "Sign up deadlines": "12/02/2026",
-        "Availability (Comments)": "to be determined",
-        "Landing Page": "",
-        "Google Ads": "",
-        "Comments": "",
-        "Total Purchased": "",
-        "Slots Taken": "",
-        "Available": "0",
-        "## Comments (not visible on map)": "",
-        "Landing Page\ncolor = status of Google Ads": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           12.568337,
           55.676098
         ]
@@ -216,36 +126,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.404954,
-          52.520008
-        ]
-      },
-      "properties": {
-        "show?": "False",
-        "Year": "2026",
-        "Agency": "Run for Charity",
-        "City": "London",
-        "ISO3": "DEU",
-        "Name": "London Half Marathon TREK",
-        "Full / Half": "Half Marathon",
-        "Date": "1 Mar 2026",
-        "Sign up deadlines": "16/02/2026",
-        "Availability (Comments)": "tickets available ",
-        "Landing Page": "",
-        "Google Ads": "",
-        "Comments": "",
-        "Total Purchased": "5",
-        "Slots Taken": "0.0",
-        "Available": "5",
-        "## Comments (not visible on map)": "",
-        "Landing Page\ncolor = status of Google Ads": "https://www.aidpioneers.com/berlin-marathon-2026"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           12.496366,
           41.902783
         ]
@@ -269,36 +149,6 @@
         "Available": "#VALUE!",
         "## Comments (not visible on map)": "",
         "Landing Page\ncolor = status of Google Ads": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.15899,
-          41.38879
-        ]
-      },
-      "properties": {
-        "show?": "False",
-        "Year": "2026",
-        "Agency": "Run for Charity",
-        "City": "Barcelona",
-        "ISO3": "ESP",
-        "Name": "Barcelona Marathon",
-        "Full / Half": "Full Marathon",
-        "Date": "15 Mar 2026",
-        "Sign up deadlines": "",
-        "Availability (Comments)": "to be determined",
-        "Landing Page": "",
-        "Google Ads": "",
-        "Comments": "",
-        "Total Purchased": "",
-        "Slots Taken": "",
-        "Available": "0",
-        "## Comments (not visible on map)": "",
-        "Landing Page\ncolor = status of Google Ads": "https://www.aidpioneers.com/prague-marathon-2026"
       }
     },
     {
@@ -456,126 +306,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.404954,
-          52.520008
-        ]
-      },
-      "properties": {
-        "show?": "False",
-        "Year": "2026",
-        "Agency": "Run for Charity",
-        "City": "London",
-        "ISO3": "DEU",
-        "Name": "London Landmarks Half Marathon",
-        "Full / Half": "Half Marathon",
-        "Date": "12 Apr 2026",
-        "Sign up deadlines": "",
-        "Availability (Comments)": "to be determined",
-        "Landing Page": "",
-        "Google Ads": "",
-        "Comments": "",
-        "Total Purchased": "0",
-        "Slots Taken": "0.0",
-        "Available": "0",
-        "## Comments (not visible on map)": "",
-        "Landing Page\ncolor = status of Google Ads": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.17909,
-          51.481583
-        ]
-      },
-      "properties": {
-        "show?": "False",
-        "Year": "2026",
-        "Agency": "Realbuzz",
-        "City": "Vienna",
-        "ISO3": "GBR",
-        "Name": "Vienna Marathon",
-        "Full / Half": "Full Marathon",
-        "Date": "19 Apr 2026",
-        "Sign up deadlines": "",
-        "Availability (Comments)": "tickets available ",
-        "Landing Page": "",
-        "Google Ads": "",
-        "Comments": "",
-        "Total Purchased": "",
-        "Slots Taken": "",
-        "Available": "0",
-        "## Comments (not visible on map)": "",
-        "Landing Page\ncolor = status of Google Ads": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.26031,
-          53.349805
-        ]
-      },
-      "properties": {
-        "show?": "False",
-        "Year": "2026",
-        "Agency": "Realbuzz",
-        "City": "Vienna",
-        "ISO3": "IRL",
-        "Name": "Vienna City Marathon",
-        "Full / Half": "Full Marathon",
-        "Date": "19 Apr 2026",
-        "Sign up deadlines": "",
-        "Availability (Comments)": "to be determined",
-        "Landing Page": "",
-        "Google Ads": "",
-        "Comments": "",
-        "Total Purchased": "",
-        "Slots Taken": "",
-        "Available": "0",
-        "## Comments (not visible on map)": "",
-        "Landing Page\ncolor = status of Google Ads": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.895168,
-          52.370216
-        ]
-      },
-      "properties": {
-        "show?": "False",
-        "Year": "2026",
-        "Agency": "Realbuzz",
-        "City": "Vienna",
-        "ISO3": "NLD",
-        "Name": "Vienna Half Marathon",
-        "Full / Half": "Half Marathon",
-        "Date": "19 Apr 2026",
-        "Sign up deadlines": "",
-        "Availability (Comments)": "to be determined",
-        "Landing Page": "",
-        "Google Ads": "",
-        "Comments": "",
-        "Total Purchased": "",
-        "Slots Taken": "",
-        "Available": "0",
-        "## Comments (not visible on map)": "",
-        "Landing Page\ncolor = status of Google Ads": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           14.4378,
           50.075538
         ]
@@ -589,36 +319,6 @@
         "Name": "RunCzech Prague Marathon",
         "Full / Half": "Full Marathon",
         "Date": "3 May 2026",
-        "Sign up deadlines": "",
-        "Availability (Comments)": "to be determined",
-        "Landing Page": "",
-        "Google Ads": "",
-        "Comments": "",
-        "Total Purchased": "",
-        "Slots Taken": "",
-        "Available": "0",
-        "## Comments (not visible on map)": "",
-        "Landing Page\ncolor = status of Google Ads": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          23.727539,
-          37.98381
-        ]
-      },
-      "properties": {
-        "show?": "False",
-        "Year": "2026",
-        "Agency": "Realbuzz",
-        "City": "Copenhagen",
-        "ISO3": "GRC",
-        "Name": "Copenhagen Half Marathon",
-        "Full / Half": "Half Marathon",
-        "Date": "20 Sep 2026",
         "Sign up deadlines": "",
         "Availability (Comments)": "to be determined",
         "Landing Page": "",
