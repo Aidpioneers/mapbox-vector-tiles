@@ -23,9 +23,9 @@
         "Availability (Comments)": "tickets available ",
         "Google Ads": "",
         "Comments": "",
-        "Total Purchased": "5.0",
-        "Slots Taken": "0.0",
-        "Available": "5.0",
+        "Total Purchased": "5",
+        "Slots Taken": "0",
+        "Available": "5",
         "## Comments (not visible on map)": "",
         "Landing Page": "https://www.aidpioneers.com/cambridge-marathon-2026"
       }
@@ -52,9 +52,9 @@
         "Availability (Comments)": "tickets available ",
         "Google Ads": "",
         "Comments": "",
-        "Total Purchased": "5.0",
-        "Slots Taken": "2.0",
-        "Available": "3.0",
+        "Total Purchased": "5",
+        "Slots Taken": "2",
+        "Available": "3",
         "## Comments (not visible on map)": "",
         "Landing Page": "https://www.aidpioneers.com/paris-marathon-2026"
       }
@@ -81,9 +81,9 @@
         "Availability (Comments)": "limited availability",
         "Google Ads": "",
         "Comments": "",
-        "Total Purchased": "15.0",
-        "Slots Taken": "0.0",
-        "Available": "15.0",
+        "Total Purchased": "15",
+        "Slots Taken": "0",
+        "Available": "15",
         "## Comments (not visible on map)": "",
         "Landing Page": "https://www.aidpioneers.com/copenhagen-marathon-2026"
       }
@@ -110,9 +110,9 @@
         "Availability (Comments)": "limited availability",
         "Google Ads": "",
         "Comments": "",
-        "Total Purchased": "5.0",
-        "Slots Taken": "0.0",
-        "Available": "5.0",
+        "Total Purchased": "5",
+        "Slots Taken": "0",
+        "Available": "5",
         "## Comments (not visible on map)": "",
         "Landing Page": "https://www.aidpioneers.com/rome-marathon-2026"
       }
@@ -139,9 +139,9 @@
         "Availability (Comments)": "tickets available ",
         "Google Ads": "",
         "Comments": "",
-        "Total Purchased": "5.0",
-        "Slots Taken": "0.0",
-        "Available": "5.0",
+        "Total Purchased": "5",
+        "Slots Taken": "0",
+        "Available": "5",
         "## Comments (not visible on map)": "",
         "Landing Page": "https://www.aidpioneers.com/berlin-marathon-2026"
       }
@@ -168,9 +168,9 @@
         "Availability (Comments)": "tickets available ",
         "Google Ads": "",
         "Comments": "",
-        "Total Purchased": "5.0",
-        "Slots Taken": "0.0",
-        "Available": "5.0",
+        "Total Purchased": "5",
+        "Slots Taken": "0",
+        "Available": "5",
         "## Comments (not visible on map)": "",
         "Landing Page": "https://www.aidpioneers.com/milan-marathon-2026"
       }
@@ -197,9 +197,9 @@
         "Availability (Comments)": "tickets available ",
         "Google Ads": "",
         "Comments": "",
-        "Total Purchased": "5.0",
-        "Slots Taken": "0.0",
-        "Available": "5.0",
+        "Total Purchased": "5",
+        "Slots Taken": "0",
+        "Available": "5",
         "## Comments (not visible on map)": "",
         "Landing Page": "https://www.aidpioneers.com/newcastle-marathon-2026"
       }
@@ -226,9 +226,9 @@
         "Availability (Comments)": "tickets available ",
         "Google Ads": "",
         "Comments": "",
-        "Total Purchased": "5.0",
-        "Slots Taken": "0.0",
-        "Available": "5.0",
+        "Total Purchased": "5",
+        "Slots Taken": "0",
+        "Available": "5",
         "## Comments (not visible on map)": "",
         "Landing Page": "https://www.aidpioneers.com/leeds-marathon-2026"
       }
@@ -255,9 +255,9 @@
         "Availability (Comments)": "tickets available ",
         "Google Ads": "",
         "Comments": "",
-        "Total Purchased": "5.0",
-        "Slots Taken": "0.0",
-        "Available": "5.0",
+        "Total Purchased": "5",
+        "Slots Taken": "0",
+        "Available": "5",
         "## Comments (not visible on map)": "",
         "Landing Page": "https://www.aidpioneers.com/amsterdam-marathon-2026"
       }
@@ -284,9 +284,9 @@
         "Availability (Comments)": "tickets available ",
         "Google Ads": "",
         "Comments": "",
-        "Total Purchased": "5.0",
-        "Slots Taken": "0.0",
-        "Available": "5.0",
+        "Total Purchased": "5",
+        "Slots Taken": "0",
+        "Available": "5",
         "## Comments (not visible on map)": "",
         "Landing Page": "https://www.aidpioneers.com/amsterdam-marathon-2026"
       }
@@ -313,9 +313,9 @@
         "Availability (Comments)": "tickets available ",
         "Google Ads": "",
         "Comments": "",
-        "Total Purchased": "5.0",
-        "Slots Taken": "0.0",
-        "Available": "5.0",
+        "Total Purchased": "5",
+        "Slots Taken": "0",
+        "Available": "5",
         "## Comments (not visible on map)": "",
         "Landing Page": "https://www.aidpioneers.com/amsterdam-marathon-2026"
       }
@@ -342,40 +342,11 @@
         "Availability (Comments)": "tickets available ",
         "Google Ads": "",
         "Comments": "",
-        "Total Purchased": "",
-        "Slots Taken": "",
-        "Available": "0.0",
+        "Total Purchased": "#REF!",
+        "Slots Taken": "#REF!",
+        "Available": "#REF!",
         "## Comments (not visible on map)": "",
         "Landing Page": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.1734,
-          41.3851
-        ]
-      },
-      "properties": {
-        "show?": "True",
-        "Year": "2026",
-        "Agency": "Run for Charity",
-        "City": "Barcelona",
-        "ISO3": "NLD",
-        "Name": "Barcelona Marathon",
-        "Full / Half": "Full Marathon",
-        "Date": "15 Mar 2026",
-        "Sign up deadlines": "",
-        "Availability (Comments)": "limited availability",
-        "Google Ads": "",
-        "Comments": "",
-        "Total Purchased": "",
-        "Slots Taken": "",
-        "Available": "0.0",
-        "## Comments (not visible on map)": "",
-        "Landing Page": "https://www.aidpioneers.com/barcelona-marathon-2026"
       }
     },
     {
@@ -397,12 +368,12 @@
         "Full / Half": "Full Marathon",
         "Date": "3 May 2026",
         "Sign up deadlines": "",
-        "Availability (Comments)": "",
+        "Availability (Comments)": "limited availability",
         "Google Ads": "",
         "Comments": "",
         "Total Purchased": "",
         "Slots Taken": "",
-        "Available": "",
+        "Available": "0",
         "## Comments (not visible on map)": "",
         "Landing Page": "https://www.aidpioneers.com/prague-marathon-2026"
       }
@@ -426,7 +397,7 @@
         "Full / Half": "Half Marathon",
         "Date": "4 Oct 2026",
         "Sign up deadlines": "",
-        "Availability (Comments)": "",
+        "Availability (Comments)": "limited availability",
         "Google Ads": "",
         "Comments": "",
         "Total Purchased": "",
@@ -450,12 +421,12 @@
         "Year": "2026",
         "Agency": "Realbuzz",
         "City": "Dublin",
-        "ISO3": "IRL",
+        "ISO3": "NLD",
         "Name": "Irish Life Dublin Marathon",
         "Full / Half": "Full Marathon",
         "Date": "25 Oct 2026",
         "Sign up deadlines": "",
-        "Availability (Comments)": "",
+        "Availability (Comments)": "tickets available ",
         "Google Ads": "",
         "Comments": "",
         "Total Purchased": "",
@@ -479,12 +450,12 @@
         "Year": "2026",
         "Agency": "Realbuzz",
         "City": "Valencia",
-        "ISO3": "ESP",
+        "ISO3": "IRL",
         "Name": "Valencia Half Marathon",
         "Full / Half": "Half Marathon",
         "Date": "25 Oct 2026",
         "Sign up deadlines": "",
-        "Availability (Comments)": "",
+        "Availability (Comments)": "tickets available ",
         "Google Ads": "",
         "Comments": "",
         "Total Purchased": "",
@@ -513,7 +484,7 @@
         "Full / Half": "Full Marathon",
         "Date": "6 Dec 2026",
         "Sign up deadlines": "",
-        "Availability (Comments)": "",
+        "Availability (Comments)": "limited availability",
         "Google Ads": "",
         "Comments": "",
         "Total Purchased": "",
