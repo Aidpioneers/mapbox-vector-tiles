@@ -12,7 +12,7 @@
       },
       "properties": {
         "show?": "True",
-        "Year": "2026",
+        "Year": "2026.0",
         "Agency": "Run for Charity",
         "City": "Cambridge",
         "ISO3": "GBR",
@@ -41,7 +41,7 @@
       },
       "properties": {
         "show?": "True",
-        "Year": "2026",
+        "Year": "2026.0",
         "Agency": "Run for Charity",
         "City": "Paris",
         "ISO3": "ITA",
@@ -70,7 +70,7 @@
       },
       "properties": {
         "show?": "True",
-        "Year": "2026",
+        "Year": "2026.0",
         "Agency": "Realbuzz",
         "City": "Copenhagen",
         "ISO3": "ESP",
@@ -99,7 +99,7 @@
       },
       "properties": {
         "show?": "True",
-        "Year": "2026",
+        "Year": "2026.0",
         "Agency": "Realbuzz",
         "City": "Rome",
         "ISO3": "DEU",
@@ -128,7 +128,7 @@
       },
       "properties": {
         "show?": "True",
-        "Year": "2026",
+        "Year": "2026.0",
         "Agency": "Realbuzz",
         "City": "Berlin",
         "ISO3": "FRA",
@@ -157,7 +157,7 @@
       },
       "properties": {
         "show?": "True",
-        "Year": "2026",
+        "Year": "2026.0",
         "Agency": "Run for Charity",
         "City": "Milan",
         "ISO3": "ITA",
@@ -186,7 +186,7 @@
       },
       "properties": {
         "show?": "True",
-        "Year": "2026",
+        "Year": "2026.0",
         "Agency": "Run for Charity",
         "City": "Newcastle",
         "ISO3": "GBR",
@@ -215,7 +215,7 @@
       },
       "properties": {
         "show?": "True",
-        "Year": "2026",
+        "Year": "2026.0",
         "Agency": "Run for Charity",
         "City": "Leeds",
         "ISO3": "CZE",
@@ -244,7 +244,7 @@
       },
       "properties": {
         "show?": "True",
-        "Year": "2026",
+        "Year": "2026.0",
         "Agency": "Run for Charity",
         "City": "Amsterdam",
         "ISO3": "DNK",
@@ -273,7 +273,7 @@
       },
       "properties": {
         "show?": "True",
-        "Year": "2026",
+        "Year": "2026.0",
         "Agency": "Run for Charity",
         "City": "Amsterdam",
         "ISO3": "GBR",
@@ -302,7 +302,7 @@
       },
       "properties": {
         "show?": "True",
-        "Year": "2026",
+        "Year": "2026.0",
         "Agency": "Run for Charity",
         "City": "Amsterdam",
         "ISO3": "GBR",
@@ -331,7 +331,7 @@
       },
       "properties": {
         "show?": "True",
-        "Year": "2026",
+        "Year": "2026.0",
         "Agency": "Run for Charity",
         "City": "Oxford",
         "ISO3": "GBR",
@@ -360,7 +360,7 @@
       },
       "properties": {
         "show?": "True",
-        "Year": "2026",
+        "Year": "2026.0",
         "Agency": "Realbuzz",
         "City": "Prague",
         "ISO3": "NLD",
@@ -389,7 +389,7 @@
       },
       "properties": {
         "show?": "True",
-        "Year": "2026",
+        "Year": "2026.0",
         "Agency": "Realbuzz",
         "City": "Cardiff",
         "ISO3": "NLD",
@@ -418,7 +418,7 @@
       },
       "properties": {
         "show?": "True",
-        "Year": "2026",
+        "Year": "2026.0",
         "Agency": "Realbuzz",
         "City": "Dublin",
         "ISO3": "NLD",
@@ -447,14 +447,14 @@
       },
       "properties": {
         "show?": "True",
-        "Year": "2026",
+        "Year": "2026.0",
         "Agency": "Realbuzz",
         "City": "Valencia",
         "ISO3": "IRL",
         "Name": "Valencia Half Marathon",
         "Full / Half": "Half Marathon",
         "Date": "25 Oct 2026",
-        "Sign up deadlines": "",
+        "Sign up deadlines": "28/08/2026",
         "Availability (Comments)": "tickets available ",
         "Google Ads": "",
         "Comments": "",
@@ -476,14 +476,14 @@
       },
       "properties": {
         "show?": "True",
-        "Year": "2026",
+        "Year": "2026.0",
         "Agency": "Realbuzz",
         "City": "Valencia",
         "ISO3": "ESP",
         "Name": "Valencia Marathon",
         "Full / Half": "Full Marathon",
         "Date": "6 Dec 2026",
-        "Sign up deadlines": "",
+        "Sign up deadlines": "01/05/2026",
         "Availability (Comments)": "limited availability",
         "Google Ads": "",
         "Comments": "",
