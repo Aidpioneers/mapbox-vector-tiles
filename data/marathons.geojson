@@ -6,64 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.3522,
-          48.8566
-        ]
-      },
-      "properties": {
-        "show?": "True",
-        "Year": "2026.0",
-        "Agency": "Run for Charity",
-        "City": "Paris",
-        "ISO3": "GBR",
-        "Name": "Paris Marathon",
-        "Full / Half": "Full Marathon",
-        "Date": "12 Apr 2026",
-        "Sign up deadlines": "02/02/2026",
-        "Availability (Comments)": "tickets available ",
-        "Google Ads": "",
-        "Comments": "",
-        "Total Purchased": "#REF!",
-        "Slots Taken": "#REF!",
-        "Available": "#REF!",
-        "## Comments (not visible on map)": "",
-        "Landing Page": "https://www.aidpioneers.com/paris-marathon-2026"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.5683,
-          55.6761
-        ]
-      },
-      "properties": {
-        "show?": "True",
-        "Year": "2026.0",
-        "Agency": "Realbuzz",
-        "City": "Copenhagen",
-        "ISO3": "ITA",
-        "Name": "Copenhagen Marathon",
-        "Full / Half": "Full Marathon",
-        "Date": "10 May 2026",
-        "Sign up deadlines": "15/02/2026",
-        "Availability (Comments)": "tickets available ",
-        "Google Ads": "",
-        "Comments": "",
-        "Total Purchased": "5",
-        "Slots Taken": "2",
-        "Available": "3",
-        "## Comments (not visible on map)": "",
-        "Landing Page": "https://www.aidpioneers.com/copenhagen-marathon-2026"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           12.52222,
           41.856613
         ]
@@ -73,17 +15,17 @@
         "Year": "2026.0",
         "Agency": "Realbuzz",
         "City": "Rome",
-        "ISO3": "ESP",
+        "ISO3": "GBR",
         "Name": "Run Rome Marathon",
         "Full / Half": "Full Marathon",
         "Date": "15 Mar 2026",
         "Sign up deadlines": "24/02/2026",
-        "Availability (Comments)": "limited availability",
+        "Availability (Comments)": "tickets available ",
         "Google Ads": "",
         "Comments": "",
-        "Total Purchased": "15",
-        "Slots Taken": "0",
-        "Available": "15",
+        "Total Purchased": "#REF!",
+        "Slots Taken": "#REF!",
+        "Available": "#REF!",
         "## Comments (not visible on map)": "",
         "Landing Page": "https://www.aidpioneers.com/rome-marathon-2026"
       }
@@ -102,12 +44,12 @@
         "Year": "2026.0",
         "Agency": "Realbuzz",
         "City": "Berlin",
-        "ISO3": "DEU",
+        "ISO3": "ITA",
         "Name": "Berlin Half Marathon",
         "Full / Half": "Half Marathon",
         "Date": "29 Mar 2026",
         "Sign up deadlines": "24/02/2026",
-        "Availability (Comments)": "limited availability",
+        "Availability (Comments)": "tickets available ",
         "Google Ads": "",
         "Comments": "",
         "Total Purchased": "5",
@@ -115,6 +57,35 @@
         "Available": "5",
         "## Comments (not visible on map)": "",
         "Landing Page": "https://www.aidpioneers.com/berlin-marathon-2026"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3522,
+          48.8566
+        ]
+      },
+      "properties": {
+        "show?": "True",
+        "Year": "2026.0",
+        "Agency": "Run for Charity",
+        "City": "Paris",
+        "ISO3": "ESP",
+        "Name": "Paris Marathon",
+        "Full / Half": "Full Marathon",
+        "Date": "12 Apr 2026",
+        "Sign up deadlines": "02/02/2026",
+        "Availability (Comments)": "limited availability",
+        "Google Ads": "",
+        "Comments": "",
+        "Total Purchased": "35",
+        "Slots Taken": "0",
+        "Available": "35",
+        "## Comments (not visible on map)": "",
+        "Landing Page": "https://www.aidpioneers.com/paris-marathon-2026"
       }
     },
     {
@@ -131,17 +102,17 @@
         "Year": "2026.0",
         "Agency": "Run for Charity",
         "City": "Milan",
-        "ISO3": "FRA",
+        "ISO3": "DEU",
         "Name": "Wizz Air Milano Marathon",
         "Full / Half": "Full Marathon",
         "Date": "12 Apr 2026",
         "Sign up deadlines": "27/02/2026",
-        "Availability (Comments)": "tickets available ",
+        "Availability (Comments)": "limited availability",
         "Google Ads": "",
         "Comments": "",
         "Total Purchased": "5",
-        "Slots Taken": "0",
-        "Available": "5",
+        "Slots Taken": "2",
+        "Available": "3",
         "## Comments (not visible on map)": "",
         "Landing Page": "https://www.aidpioneers.com/milan-marathon-2026"
       }
@@ -180,6 +151,64 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          14.4378,
+          50.0755
+        ]
+      },
+      "properties": {
+        "show?": "True",
+        "Year": "2026.0",
+        "Agency": "Realbuzz",
+        "City": "Prague",
+        "ISO3": "GBR",
+        "Name": "RunCzech Prague Marathon",
+        "Full / Half": "Full Marathon",
+        "Date": "3 May 2026",
+        "Sign up deadlines": "",
+        "Availability (Comments)": "tickets available ",
+        "Google Ads": "",
+        "Comments": "",
+        "Total Purchased": "",
+        "Slots Taken": "",
+        "Available": "0",
+        "## Comments (not visible on map)": "",
+        "Landing Page": "https://www.aidpioneers.com/prague-marathon-2026"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5683,
+          55.6761
+        ]
+      },
+      "properties": {
+        "show?": "True",
+        "Year": "2026.0",
+        "Agency": "Realbuzz",
+        "City": "Copenhagen",
+        "ISO3": "CZE",
+        "Name": "Copenhagen Marathon",
+        "Full / Half": "Full Marathon",
+        "Date": "10 May 2026",
+        "Sign up deadlines": "15/02/2026",
+        "Availability (Comments)": "tickets available ",
+        "Google Ads": "",
+        "Comments": "",
+        "Total Purchased": "15",
+        "Slots Taken": "0",
+        "Available": "15",
+        "## Comments (not visible on map)": "",
+        "Landing Page": "https://www.aidpioneers.com/copenhagen-marathon-2026"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.5491,
           53.8008
         ]
@@ -189,7 +218,7 @@
         "Year": "2026.0",
         "Agency": "Run for Charity",
         "City": "Leeds",
-        "ISO3": "GBR",
+        "ISO3": "DNK",
         "Name": "Leeds Marathon",
         "Full / Half": "Full Marathon",
         "Date": "10 May 2026",
@@ -209,86 +238,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.9041,
-          52.3676
+          -3.1791,
+          51.4816
         ]
       },
       "properties": {
         "show?": "True",
         "Year": "2026.0",
-        "Agency": "Run for Charity",
-        "City": "Amsterdam",
-        "ISO3": "CZE",
-        "Name": "Amsterdam Marathon (Area A)",
-        "Full / Half": "Full Marathon",
-        "Date": "18 Oct 2026",
-        "Sign up deadlines": "27/07/2026",
-        "Availability (Comments)": "tickets available ",
-        "Google Ads": "",
-        "Comments": "",
-        "Total Purchased": "5",
-        "Slots Taken": "0",
-        "Available": "5",
-        "## Comments (not visible on map)": "",
-        "Landing Page": "https://www.aidpioneers.com/amsterdam-marathon-2026"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.9041,
-          52.3676
-        ]
-      },
-      "properties": {
-        "show?": "True",
-        "Year": "2026.0",
-        "Agency": "Run for Charity",
-        "City": "Amsterdam",
-        "ISO3": "DNK",
-        "Name": "Amsterdam Marathon (Area B)",
-        "Full / Half": "Full Marathon",
-        "Date": "18 Oct 2026",
-        "Sign up deadlines": "27/07/2026",
-        "Availability (Comments)": "tickets available ",
-        "Google Ads": "",
-        "Comments": "",
-        "Total Purchased": "5",
-        "Slots Taken": "0",
-        "Available": "5",
-        "## Comments (not visible on map)": "",
-        "Landing Page": "https://www.aidpioneers.com/amsterdam-marathon-2026"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.9041,
-          52.3676
-        ]
-      },
-      "properties": {
-        "show?": "True",
-        "Year": "2026.0",
-        "Agency": "Run for Charity",
-        "City": "Amsterdam",
+        "Agency": "Realbuzz",
+        "City": "Cardiff",
         "ISO3": "GBR",
-        "Name": "Amsterdam Half Marathon ",
+        "Name": "Cardiff Half Marathon",
         "Full / Half": "Half Marathon",
-        "Date": "18 Oct 2026",
-        "Sign up deadlines": "27/07/2026",
+        "Date": "4 Oct 2026",
+        "Sign up deadlines": "",
         "Availability (Comments)": "tickets available ",
         "Google Ads": "",
         "Comments": "",
-        "Total Purchased": "5",
-        "Slots Taken": "0",
-        "Available": "5",
+        "Total Purchased": "",
+        "Slots Taken": "",
+        "Available": "0",
         "## Comments (not visible on map)": "",
-        "Landing Page": "https://www.aidpioneers.com/amsterdam-marathon-2026"
+        "Landing Page": ""
       }
     },
     {
@@ -325,20 +296,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.4378,
-          50.0755
+          4.9041,
+          52.3676
         ]
       },
       "properties": {
         "show?": "True",
         "Year": "2026.0",
-        "Agency": "Realbuzz",
-        "City": "Prague",
+        "Agency": "Run for Charity",
+        "City": "Amsterdam",
         "ISO3": "GBR",
-        "Name": "RunCzech Prague Marathon",
+        "Name": "Amsterdam Marathon (Area A)",
         "Full / Half": "Full Marathon",
-        "Date": "3 May 2026",
-        "Sign up deadlines": "",
+        "Date": "18 Oct 2026",
+        "Sign up deadlines": "27/07/2026",
         "Availability (Comments)": "tickets available ",
         "Google Ads": "",
         "Comments": "",
@@ -346,7 +317,7 @@
         "Slots Taken": "#REF!",
         "Available": "#REF!",
         "## Comments (not visible on map)": "",
-        "Landing Page": "https://www.aidpioneers.com/prague-marathon-2026"
+        "Landing Page": "https://www.aidpioneers.com/amsterdam-marathon-2026"
       }
     },
     {
@@ -354,28 +325,57 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.1791,
-          51.4816
+          4.9041,
+          52.3676
         ]
       },
       "properties": {
         "show?": "True",
         "Year": "2026.0",
-        "Agency": "Realbuzz",
-        "City": "Cardiff",
+        "Agency": "Run for Charity",
+        "City": "Amsterdam",
         "ISO3": "NLD",
-        "Name": "Cardiff Half Marathon",
+        "Name": "Amsterdam Marathon (Area B)",
+        "Full / Half": "Full Marathon",
+        "Date": "18 Oct 2026",
+        "Sign up deadlines": "27/07/2026",
+        "Availability (Comments)": "limited availability",
+        "Google Ads": "",
+        "Comments": "",
+        "Total Purchased": "5",
+        "Slots Taken": "0",
+        "Available": "5",
+        "## Comments (not visible on map)": "",
+        "Landing Page": "https://www.aidpioneers.com/amsterdam-marathon-2026"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9041,
+          52.3676
+        ]
+      },
+      "properties": {
+        "show?": "True",
+        "Year": "2026.0",
+        "Agency": "Run for Charity",
+        "City": "Amsterdam",
+        "ISO3": "NLD",
+        "Name": "Amsterdam Half Marathon ",
         "Full / Half": "Half Marathon",
-        "Date": "4 Oct 2026",
-        "Sign up deadlines": "",
+        "Date": "18 Oct 2026",
+        "Sign up deadlines": "27/07/2026",
         "Availability (Comments)": "limited availability",
         "Google Ads": "",
         "Comments": "",
         "Total Purchased": "",
         "Slots Taken": "",
-        "Available": "0",
+        "Available": "",
         "## Comments (not visible on map)": "",
-        "Landing Page": ""
+        "Landing Page": "https://www.aidpioneers.com/amsterdam-marathon-2026"
       }
     },
     {
@@ -397,7 +397,7 @@
         "Full / Half": "Full Marathon",
         "Date": "25 Oct 2026",
         "Sign up deadlines": "",
-        "Availability (Comments)": "limited availability",
+        "Availability (Comments)": "tickets available ",
         "Google Ads": "",
         "Comments": "",
         "Total Purchased": "",
@@ -421,7 +421,7 @@
         "Year": "2026.0",
         "Agency": "Realbuzz",
         "City": "Valencia",
-        "ISO3": "NLD",
+        "ISO3": "IRL",
         "Name": "Valencia Half Marathon",
         "Full / Half": "Half Marathon",
         "Date": "25 Oct 2026",
@@ -450,12 +450,12 @@
         "Year": "2026.0",
         "Agency": "Realbuzz",
         "City": "Valencia",
-        "ISO3": "IRL",
+        "ISO3": "ESP",
         "Name": "Valencia Marathon",
         "Full / Half": "Full Marathon",
         "Date": "6 Dec 2026",
         "Sign up deadlines": "01/05/2026",
-        "Availability (Comments)": "tickets available ",
+        "Availability (Comments)": "limited availability",
         "Google Ads": "",
         "Comments": "",
         "Total Purchased": "",
