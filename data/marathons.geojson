@@ -354,35 +354,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.4378,
-          50.0755
-        ]
-      },
-      "properties": {
-        "show?": "True",
-        "Year": "2026.0",
-        "Agency": "Realbuzz",
-        "City": "Prague",
-        "ISO3": "NLD",
-        "Name": "RunCzech Prague Marathon",
-        "Full / Half": "Full Marathon",
-        "Date": "3 May 2026",
-        "Sign up deadlines": "",
-        "Availability (Comments)": "limited availability",
-        "Google Ads": "",
-        "Comments": "",
-        "Total Purchased": "",
-        "Slots Taken": "",
-        "Available": "",
-        "## Comments (not visible on map)": "",
-        "Landing Page": "https://www.aidpioneers.com/prague-marathon-2026"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -3.1791,
           51.4816
         ]
@@ -397,12 +368,12 @@
         "Full / Half": "Half Marathon",
         "Date": "4 Oct 2026",
         "Sign up deadlines": "",
-        "Availability (Comments)": "tickets available ",
+        "Availability (Comments)": "limited availability",
         "Google Ads": "",
         "Comments": "",
-        "Total Purchased": "",
-        "Slots Taken": "",
-        "Available": "",
+        "Total Purchased": "5",
+        "Slots Taken": "0",
+        "Available": "5",
         "## Comments (not visible on map)": "",
         "Landing Page": ""
       }
@@ -421,12 +392,12 @@
         "Year": "2026.0",
         "Agency": "Realbuzz",
         "City": "Dublin",
-        "ISO3": "IRL",
+        "ISO3": "NLD",
         "Name": "Irish Life Dublin Marathon",
         "Full / Half": "Full Marathon",
         "Date": "25 Oct 2026",
         "Sign up deadlines": "",
-        "Availability (Comments)": "tickets available ",
+        "Availability (Comments)": "limited availability",
         "Google Ads": "",
         "Comments": "",
         "Total Purchased": "",
