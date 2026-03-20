@@ -918,6 +918,63 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          37.85313881477813,
+          7.331978669686666
+        ]
+      },
+      "properties": {
+        "show?": "True",
+        "necessary to fundraise?": "True",
+        "likelihood of completion": "Certain",
+        "project id": "SET06",
+        "project name": "Angacha",
+        "responsible": "Girmay",
+        "status": "Funding (48k) secured from SR + 12k and customs from Weema + Dirk Kasten 20k --> Procurement table from Girmay ",
+        "stage": "VI. Documentation",
+        "partner org": "Weema International",
+        "country": "Ethiopia \u00f0\u009f\u0087\u00aa\u00f0\u009f\u0087\u00b9",
+        "type of institution": "Hospital",
+        "total investment": "102.546,34 \u00e2\u0082\u00ac",
+        "local quote": "-",
+        "discount": "",
+        "system size (kwp)": "65",
+        "battery size (kwh)": "120,00",
+        "solar surface (m2)": "360,00",
+        "solar surface (tennis courts)": "1,84",
+        "annual electricity demand (mwh)": "37,95",
+        "annual electricity yield (mwh)": "119,28",
+        "solar ratio (%)": "68,70%",
+        "final design": "20251126_Angacha Hospital 64.8KW PV Project-Report.pdf",
+        "catchment": "131.560",
+        "number of patients per month": "1.200,00",
+        "number of students p.a.": "not applicable",
+        "number of beds": "27",
+        "average treatment cost per patient": "6,17",
+        "average tuition cost per student": "",
+        "annual diesel cost": "3.159,89 \u00e2\u0082\u00ac",
+        "devices burnt previously?": "No",
+        "medicine not cooled?": "Yes",
+        "additional treatments / students": "37.159",
+        "gross cost savings": "114.635,50 \u00e2\u0082\u00ac",
+        "co2 savings (t)": "275,25",
+        "geolocation": "7.331978669686666, 37.853138814778134",
+        "difference to envisioned budget": "5.282,30",
+        "month of installation": "",
+        "project name mapping": "SDA Clinic Mekele, Hospital",
+        "landing page link": "",
+        "wechselrichter": "",
+        "info box text": "",
+        "uganda info box text": "",
+        "uganda extra metric": "",
+        "uganda patient numbers": "",
+        "photos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           36.57693878808522,
           34.45636237360371
         ]
