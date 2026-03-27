@@ -31,7 +31,7 @@
         "handover_protocol_link_unique": "",
         "picture_link_unique": "",
         "item_list_eng_unique": "Crutches, Patient lift, Walking cane, Anesthesia Laryngeal Mask Airway, Elastic bandages + 146",
-        "short_hospital_names_eng": "Unit A2923",
+        "short_hospital_names_eng": "State Unit A2923",
         "info_box_text": "Interactive overview of medical-aid deliveries to hospitals. Hover for the name, click for full details, filter by Shipment ID or Shipment Date. Marker size reflects the relative quantity delivered. \n\nNote that 'Number of beds' is a metric used to reflect the size of the receiving medical institution. ",
         "landing_page_link": "https://www.aidpioneers.com/medical-procurement",
         "date_last_updated_new_data": ""
@@ -42,8 +42,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.0,
-          49.8423
+          34.55,
+          48.524
         ]
       },
       "properties": {
@@ -66,8 +66,8 @@
         "total_item_quantity": "1.0",
         "handover_protocol_link_unique": "",
         "picture_link_unique": "",
-        "item_list_eng_unique": "Medical suit, Chux, Ambu bag, Batteries, Canister for used needles + 35",
-        "short_hospital_names_eng": "State Medical Clinical Center, Western Region",
+        "item_list_eng_unique": "Syringe, needle + 1",
+        "short_hospital_names_eng": "Verkhniprodnipro Center of Primary Medical Aid",
         "info_box_text": "",
         "landing_page_link": "",
         "date_last_updated_new_data": ""
@@ -114,8 +114,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          30.5161,
-          50.45
+          24.0,
+          49.8423
         ]
       },
       "properties": {
@@ -138,8 +138,8 @@
         "total_item_quantity": "5767.0",
         "handover_protocol_link_unique": "",
         "picture_link_unique": "",
-        "item_list_eng_unique": "Anesthesia Laryngeal Mask Airway, Chux, Drapes, Feminine Supplies, Gloves + 43",
-        "short_hospital_names_eng": "Ipog Nam. Acad. E.m.lukyanova Nams, Kyiv",
+        "item_list_eng_unique": "Medical suit, Chux, Ambu bag, Batteries, Canister for used needles + 35",
+        "short_hospital_names_eng": "State Medical Clinical Center, Western Region",
         "info_box_text": "",
         "landing_page_link": "",
         "date_last_updated_new_data": ""
@@ -150,8 +150,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.2,
-          47.8385
+          32.1,
+          49.444
         ]
       },
       "properties": {
@@ -174,8 +174,8 @@
         "total_item_quantity": "11415.0",
         "handover_protocol_link_unique": "",
         "picture_link_unique": "",
-        "item_list_eng_unique": "Fluid warmer, Intraosseos device, IV Catheters, Light for procedures, Medical suit + 70",
-        "short_hospital_names_eng": "City Hospital of Emergency Care Zaporizhzhia",
+        "item_list_eng_unique": "Medical suit, Surgical mask, Gloves, Non-sterile, Sterile alcohol pads + 7",
+        "short_hospital_names_eng": "Regional State Veterinary Laboratory Cherkassy Region",
         "info_box_text": "",
         "landing_page_link": "",
         "date_last_updated_new_data": ""
@@ -258,8 +258,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.983,
-          48.464
+          30.515,
+          50.45
         ]
       },
       "properties": {
@@ -282,8 +282,8 @@
         "total_item_quantity": "8879.0",
         "handover_protocol_link_unique": "",
         "picture_link_unique": "",
-        "item_list_eng_unique": "Medical suit, Bed with mattress, Chux, Diapers, Adult + 5",
-        "short_hospital_names_eng": "Dnipropsychiatric care hospital, Dnipropetrovsk region",
+        "item_list_eng_unique": "Medical suit, Surgical mask, Gloves, Non-sterile, Sterile alcohol pads + 6",
+        "short_hospital_names_eng": "Central state testing laboratory kyiv region",
         "info_box_text": "",
         "landing_page_link": "",
         "date_last_updated_new_data": ""
@@ -294,8 +294,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          32.2623,
-          48.5
+          31.9924,
+          46.9756
         ]
       },
       "properties": {
@@ -318,8 +318,8 @@
         "total_item_quantity": "26338.0",
         "handover_protocol_link_unique": "",
         "picture_link_unique": "",
-        "item_list_eng_unique": "Blanket, Drapes, Gloves, Gowns, Intraosseos device + 23",
-        "short_hospital_names_eng": "Research Institute of Traumatology and Orthopedics, Donetsk",
+        "item_list_eng_unique": "Surgical Caps And Hats, Shoe Covers, Masks, Gowns, Lab Coats And Tunics + 35",
+        "short_hospital_names_eng": "Mykolaiv regional phthisiopulmonology medical center",
         "info_box_text": "",
         "landing_page_link": "",
         "date_last_updated_new_data": ""
@@ -330,7 +330,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          30.516,
+          30.5161,
           50.45
         ]
       },
@@ -354,8 +354,8 @@
         "total_item_quantity": "159562.0",
         "handover_protocol_link_unique": "",
         "picture_link_unique": "",
-        "item_list_eng_unique": "Chlorine Applicator, Drapes, Emergency Trauma Dressing (ETD), Gowns Patient, Gowns, +30",
-        "short_hospital_names_eng": "Main medical center of ministry of internal affairs, kyiv",
+        "item_list_eng_unique": "Anesthesia Laryngeal Mask Airway, Chux, Drapes, Feminine Supplies, Gloves + 43",
+        "short_hospital_names_eng": "Ipog Nam. Acad. E.m.lukyanova Nams, Kyiv",
         "info_box_text": "",
         "landing_page_link": "",
         "date_last_updated_new_data": ""
@@ -366,8 +366,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          30.5167,
-          50.45
+          30.295,
+          50.2575
         ]
       },
       "properties": {
@@ -390,8 +390,8 @@
         "total_item_quantity": "8178.0",
         "handover_protocol_link_unique": "",
         "picture_link_unique": "",
-        "item_list_eng_unique": "Antiseptic Arederma, Bed, Blood pressure meter, Chlorine Applicator, Drain + 135",
-        "short_hospital_names_eng": "Health Care Center, Lviv region",
+        "item_list_eng_unique": "Needles, Gloves, Sterile surgical gowns, Syringes 30ml and 60ml, Syringes 3ml + 1",
+        "short_hospital_names_eng": "Korostyshiv Central District Hospital, Zhytomyr region",
         "info_box_text": "",
         "landing_page_link": "",
         "date_last_updated_new_data": ""
@@ -402,8 +402,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          30.7243,
-          46.477
+          32.0,
+          46.988
         ]
       },
       "properties": {
@@ -426,8 +426,8 @@
         "total_item_quantity": "16068.0",
         "handover_protocol_link_unique": "",
         "picture_link_unique": "",
-        "item_list_eng_unique": "Blood pressure meter, Medical suit, Oxymeter, Pulse, Passive clip sling + 9",
-        "short_hospital_names_eng": "Onmedu multidisciplinary medical center, Odesa",
+        "item_list_eng_unique": "Surgical Caps And Hats, Shoe Covers, Cubical Curtains, Masks, Goggles + 15",
+        "short_hospital_names_eng": "Mykolaiv regional mental health center",
         "info_box_text": "",
         "landing_page_link": "",
         "date_last_updated_new_data": ""
@@ -438,8 +438,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.25,
-          49.9865
+          35.2,
+          47.8385
         ]
       },
       "properties": {
@@ -462,8 +462,8 @@
         "total_item_quantity": "6153.0",
         "handover_protocol_link_unique": "",
         "picture_link_unique": "",
-        "item_list_eng_unique": "Drapes, Droppers and components, Electrosurgical pencil, Gloves, Gowns + 9",
-        "short_hospital_names_eng": "V.t. zaytsev institute of general and emergency surgery",
+        "item_list_eng_unique": "Fluid warmer, Intraosseos device, IV Catheters, Light for procedures, Medical suit + 70",
+        "short_hospital_names_eng": "City Hospital of Emergency Care Zaporizhzhia",
         "info_box_text": "",
         "landing_page_link": "",
         "date_last_updated_new_data": ""
@@ -474,8 +474,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.248,
-          49.988
+          32.0,
+          46.975
         ]
       },
       "properties": {
@@ -498,8 +498,8 @@
         "total_item_quantity": "4283.0",
         "handover_protocol_link_unique": "",
         "picture_link_unique": "",
-        "item_list_eng_unique": "Bed, Gowns, Surgical, Non-sterile, IV Pole + 6",
-        "short_hospital_names_eng": "Institute of Children and Adolescents Health, Kyiv",
+        "item_list_eng_unique": "Crutches, Hydiene products, MIX medical supplies, Sterilizer, SUNITIZER + 2",
+        "short_hospital_names_eng": "Mykolaiv regional clinical hospital of war veterans",
         "info_box_text": "",
         "landing_page_link": "",
         "date_last_updated_new_data": ""
@@ -510,8 +510,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          30.5166,
-          50.447
+          30.5,
+          50.448
         ]
       },
       "properties": {
@@ -534,8 +534,8 @@
         "total_item_quantity": "39402.0",
         "handover_protocol_link_unique": "",
         "picture_link_unique": "",
-        "item_list_eng_unique": "Blood pressure monitor, Chux, Drapes, Gloves, Incubator-Isolette + 12",
-        "short_hospital_names_eng": "Kyiv City Center for Reproductive Medicine",
+        "item_list_eng_unique": "Sponge for wound vac, Surgery table, Dressings, Electrosurgical pencil, Endotracheal tube + 29",
+        "short_hospital_names_eng": "Alexandrivska Clinical Hospital, Kyiv",
         "info_box_text": "",
         "landing_page_link": "",
         "date_last_updated_new_data": ""
@@ -582,8 +582,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          30.077,
-          50.65
+          32.295,
+          48.1163
         ]
       },
       "properties": {
@@ -606,8 +606,8 @@
         "total_item_quantity": "14712.0",
         "handover_protocol_link_unique": "",
         "picture_link_unique": "",
-        "item_list_eng_unique": "Chlorine Applicator, Emergency Trauma Dressing (ETD), Gloves, Non-sterile, Gloves, Sterile, Gowns, Surgical, Sterile + 4",
-        "short_hospital_names_eng": "Makariv multidisciplinary intensive care hospital",
+        "item_list_eng_unique": "Surgical Caps And Hats, Shoe Covers, Cubical Curtains, Masks, Gowns + 30",
+        "short_hospital_names_eng": "Pervomaisk central city hospital, mykolaiv region",
         "info_box_text": "",
         "landing_page_link": "",
         "date_last_updated_new_data": ""
@@ -618,8 +618,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.25,
-          49.9925
+          36.9845,
+          49.0176
         ]
       },
       "properties": {
@@ -642,8 +642,8 @@
         "total_item_quantity": "8726.0",
         "handover_protocol_link_unique": "",
         "picture_link_unique": "",
-        "item_list_eng_unique": "Ambu bag, Bed, Blanket, Chlorine Applicator, Crib + 12",
-        "short_hospital_names_eng": "City children's clinical hospital no. 19, Kharkiv",
+        "item_list_eng_unique": "Generator Diesel, Antiseptic Wipes, Blood pressure meter, Chlorine Applicator, Chux + 68",
+        "short_hospital_names_eng": "Central City Hospital, Izium City",
         "info_box_text": "",
         "landing_page_link": "",
         "date_last_updated_new_data": ""
@@ -654,8 +654,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.2035,
-          47.8221
+          26.0,
+          49.691
         ]
       },
       "properties": {
@@ -678,8 +678,8 @@
         "total_item_quantity": "5649.0",
         "handover_protocol_link_unique": "",
         "picture_link_unique": "",
-        "item_list_eng_unique": "Chlorine Applicator, Crutches, Drapes, Droppers and components, Emergency Trauma Dressing (ETD) + 59",
-        "short_hospital_names_eng": "Municipal hospital 8 zaporizhzhia city council",
+        "item_list_eng_unique": "Drapes, Gloves, OR Towel Box, Urology Supplies Box, Gauze + 40",
+        "short_hospital_names_eng": "Krasylivsk multiprofile hospital, Khmelnytsky region",
         "info_box_text": "",
         "landing_page_link": "",
         "date_last_updated_new_data": ""
@@ -870,8 +870,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.9738,
-          49.586
+          30.405,
+          50.5371
         ]
       },
       "properties": {
@@ -894,8 +894,8 @@
         "total_item_quantity": "5931.0",
         "handover_protocol_link_unique": "",
         "picture_link_unique": "",
-        "item_list_eng_unique": "Antifungal foam, Antiseptic Arederma with probiotic 150 ml, Chlorine Applicator, Drapes, Non-sterile, Dressings + 14",
-        "short_hospital_names_eng": "Balaklia clinical multiprofessional hospital, Kharkiv region",
+        "item_list_eng_unique": "Wheelchair, Urology Supplies Box, Gowns, Surgical, Sterile, Gowns, Surgical, Non-sterile + 12",
+        "short_hospital_names_eng": "Polyska Central Hospital, Polyska Region",
         "info_box_text": "",
         "landing_page_link": "",
         "date_last_updated_new_data": ""
