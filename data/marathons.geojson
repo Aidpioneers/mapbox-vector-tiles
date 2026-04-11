@@ -11,7 +11,7 @@
         ]
       },
       "properties": {
-        "show?": "True",
+        "show?": "False",
         "Year": "2026.0",
         "Agency": "Realbuzz",
         "City": "Berlin",
@@ -40,7 +40,7 @@
         ]
       },
       "properties": {
-        "show?": "True",
+        "show?": "False",
         "Year": "2026.0",
         "Agency": "Realbuzz",
         "City": "Copenhagen",
@@ -69,7 +69,7 @@
         ]
       },
       "properties": {
-        "show?": "True",
+        "show?": "False",
         "Year": "2026.0",
         "Agency": "Realbuzz",
         "City": "Rome",
@@ -98,7 +98,7 @@
         ]
       },
       "properties": {
-        "show?": "True",
+        "show?": "False",
         "Year": "2026.0",
         "Agency": "Run for Charity",
         "City": "Milan",
@@ -161,8 +161,8 @@
         "Agency": "Run for Charity",
         "City": "Leeds",
         "ISO3": "ITA",
-        "Name": "Leeds Marathon",
-        "Full / Half": "Full Marathon",
+        "Name": "Leeds Half Marathon",
+        "Full / Half": "Half Marathon",
         "Date": "10 May 2026",
         "Sign up deadlines": "30/04/2026",
         "Availability (Comments)": "tickets available ",
@@ -330,7 +330,7 @@
         ]
       },
       "properties": {
-        "show?": "True",
+        "show?": "False",
         "Year": "2026.0",
         "Agency": "Realbuzz",
         "City": "Valencia",
@@ -367,7 +367,7 @@
         "Name": "Cardiff Half Marathon",
         "Full / Half": "Half Marathon",
         "Date": "4 Oct 2026",
-        "Sign up deadlines": "",
+        "Sign up deadlines": "03/08/2026",
         "Availability (Comments)": "limited availability",
         "Google Ads": "",
         "Comments": "",
@@ -388,7 +388,7 @@
         ]
       },
       "properties": {
-        "show?": "True",
+        "show?": "False",
         "Year": "2026.0",
         "Agency": "Realbuzz",
         "City": "Dublin",
