@@ -16416,6 +16416,1194 @@
         "landing_page_link": "",
         "date_last_updated_new_data": ""
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9903,
+          13.6253
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MET02",
+        "cure_id_unique": "",
+        "freight_forwarder": "Airlink",
+        "donor_unique": "Dirk Kasten / Harambee Collective",
+        "country_unique": "Ethiopia",
+        "distribution_number_unique": "12",
+        "distribution_id_unique": "THB12_09/25",
+        "shipment_period_unique": "Sep-26",
+        "type_of_medical_institution_unique": "General Hospital",
+        "unique_hospital_names_eng": "Abi Adi General Hospital",
+        "safe_hospital_names": "",
+        "region_unique": "Tigray",
+        "full_location_unique": "Abi Adi Town, Central Zone, Tembien Woreda",
+        "number_of_beds_unique": "",
+        "item_name_engukr_unique": "Anesthesia Airway Kits, Hospital Bed Mattresses, Infant Admission Stands, Linens â Hand Towels",
+        "total_item_quantity": "9.0",
+        "handover_protocol_link_unique": "Harambee Collective_Project_Report_Update March 3 2026 (1).docx",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "Abi Adi General Hospital",
+        "info_box_text": "",
+        "landing_page_link": "",
+        "date_last_updated_new_data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.5206,
+          13.241
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MET02",
+        "cure_id_unique": "",
+        "freight_forwarder": "Airlink",
+        "donor_unique": "Dirk Kasten / Harambee Collective",
+        "country_unique": "Ethiopia",
+        "distribution_number_unique": "13",
+        "distribution_id_unique": "THB13_09/25",
+        "shipment_period_unique": "Sep-26",
+        "type_of_medical_institution_unique": "Primary Hospital",
+        "unique_hospital_names_eng": "Adigudem Primary Hospital",
+        "safe_hospital_names": "",
+        "region_unique": "Tigray",
+        "full_location_unique": "Adigudem, Southern Zone, Adigudem Woreda",
+        "number_of_beds_unique": "",
+        "item_name_engukr_unique": "Exam Tables â Outpatient",
+        "total_item_quantity": "1.0",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "Adigudem Primary Hospital",
+        "info_box_text": "",
+        "landing_page_link": "",
+        "date_last_updated_new_data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.53,
+          12.93
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MET02",
+        "cure_id_unique": "",
+        "freight_forwarder": "Airlink",
+        "donor_unique": "Dirk Kasten / Harambee Collective",
+        "country_unique": "Ethiopia",
+        "distribution_number_unique": "14",
+        "distribution_id_unique": "THB14_09/25",
+        "shipment_period_unique": "Sep-26",
+        "type_of_medical_institution_unique": "Primary Hospital",
+        "unique_hospital_names_eng": "Adishuhu Primary Hospital",
+        "safe_hospital_names": "",
+        "region_unique": "Tigray",
+        "full_location_unique": "Adishuhu, Southern Zone, Emba Alaje Woreda",
+        "number_of_beds_unique": "",
+        "item_name_engukr_unique": "Exam Tables â Outpatient, Stretcher Mattresses, Stretcher Sheets, Stretchers",
+        "total_item_quantity": "4.0",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "Adishuhu Primary Hospital",
+        "info_box_text": "",
+        "landing_page_link": "",
+        "date_last_updated_new_data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.8912,
+          14.1671
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MET02",
+        "cure_id_unique": "",
+        "freight_forwarder": "Airlink",
+        "donor_unique": "Dirk Kasten / Harambee Collective",
+        "country_unique": "Ethiopia",
+        "distribution_number_unique": "15",
+        "distribution_id_unique": "THB15_09/25",
+        "shipment_period_unique": "Sep-26",
+        "type_of_medical_institution_unique": "General Hospital",
+        "unique_hospital_names_eng": "Adwa General Hospital",
+        "safe_hospital_names": "",
+        "region_unique": "Tigray",
+        "full_location_unique": "Adwa Town, Central Zone",
+        "number_of_beds_unique": "",
+        "item_name_engukr_unique": "Anesthesia Airway Kits, Cardiology Monitoring & Resting Electrodes, ECG Machines, Surgical Drapes, Surgical Gowns, Surgical Microscopes",
+        "total_item_quantity": "11.0",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "Adwa General Hospital",
+        "info_box_text": "",
+        "landing_page_link": "",
+        "date_last_updated_new_data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9,
+          14.15
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MET02",
+        "cure_id_unique": "",
+        "freight_forwarder": "Airlink",
+        "donor_unique": "Dirk Kasten / Harambee Collective",
+        "country_unique": "Ethiopia",
+        "distribution_number_unique": "16",
+        "distribution_id_unique": "THB16_09/25",
+        "shipment_period_unique": "Sep-26",
+        "type_of_medical_institution_unique": "Primary Hospital",
+        "unique_hospital_names_eng": "Ahferom Meles Primary Hospital",
+        "safe_hospital_names": "",
+        "region_unique": "Tigray",
+        "full_location_unique": "Ahferom, Central Zone",
+        "number_of_beds_unique": "",
+        "item_name_engukr_unique": "Centrifuge, Surgical Bowls & Trays, Surgical Drapes, Surgical Gowns, Suction Machines",
+        "total_item_quantity": "8.0",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "Ahferom Meles Primary Hospital",
+        "info_box_text": "",
+        "landing_page_link": "",
+        "date_last_updated_new_data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.87,
+          14.08
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MET02",
+        "cure_id_unique": "",
+        "freight_forwarder": "Airlink",
+        "donor_unique": "Dirk Kasten / Harambee Collective",
+        "country_unique": "Ethiopia",
+        "distribution_number_unique": "17",
+        "distribution_id_unique": "THB17_09/25",
+        "shipment_period_unique": "Sep-26",
+        "type_of_medical_institution_unique": "OR Block",
+        "unique_hospital_names_eng": "Ahsea OR Block",
+        "safe_hospital_names": "",
+        "region_unique": "Tigray",
+        "full_location_unique": "Ahsea, Central Zone",
+        "number_of_beds_unique": "",
+        "item_name_engukr_unique": "Surgical Basins",
+        "total_item_quantity": "1.0",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "Ahsea OR Block",
+        "info_box_text": "",
+        "landing_page_link": "",
+        "date_last_updated_new_data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.5603,
+          12.4176
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MET02",
+        "cure_id_unique": "",
+        "freight_forwarder": "Airlink",
+        "donor_unique": "Dirk Kasten / Harambee Collective",
+        "country_unique": "Ethiopia",
+        "distribution_number_unique": "18",
+        "distribution_id_unique": "THB18_09/25",
+        "shipment_period_unique": "Sep-26",
+        "type_of_medical_institution_unique": "General Hospital",
+        "unique_hospital_names_eng": "Alamata General Hospital",
+        "safe_hospital_names": "",
+        "region_unique": "Tigray",
+        "full_location_unique": "Alamata Town, Southern Zone, Raya Azebo Woreda",
+        "number_of_beds_unique": "",
+        "item_name_engukr_unique": "Anoscopes, Autoclave, Cardiology Monitoring & Resting Electrodes, Surgical Kits, Surgical Bowls & Trays",
+        "total_item_quantity": "5.0",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "Alamata General Hospital",
+        "info_box_text": "",
+        "landing_page_link": "",
+        "date_last_updated_new_data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.47,
+          13.509
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MET01",
+        "cure_id_unique": "62410",
+        "freight_forwarder": "Flexport",
+        "donor_unique": "Dirk Kasten / Harambee Collective",
+        "country_unique": "Ethiopia",
+        "distribution_number_unique": "9, 19",
+        "distribution_id_unique": "THB9_08/25",
+        "shipment_period_unique": "Aug-26",
+        "type_of_medical_institution_unique": "Comprehensive Specialized Hospital",
+        "unique_hospital_names_eng": "Ayder Comprehensive Specialized Hospital",
+        "safe_hospital_names": "",
+        "region_unique": "Ayder Subcity, Mekelle Town, Mekelle Zone,",
+        "full_location_unique": "",
+        "number_of_beds_unique": "",
+        "item_name_engukr_unique": "ICU Beds, Colposcope on Stand, Laparoscopic Tower",
+        "total_item_quantity": "9.0",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "Ayder Comprehensive Specialized Hospital",
+        "info_box_text": "",
+        "landing_page_link": "",
+        "date_last_updated_new_data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.78,
+          14.4
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MET02",
+        "cure_id_unique": "",
+        "freight_forwarder": "Airlink",
+        "donor_unique": "Dirk Kasten / Harambee Collective",
+        "country_unique": "Ethiopia",
+        "distribution_number_unique": "20",
+        "distribution_id_unique": "THB20_09/25",
+        "shipment_period_unique": "Sep-26",
+        "type_of_medical_institution_unique": "Primary Hospital",
+        "unique_hospital_names_eng": "Birshwa Primary Hospital",
+        "safe_hospital_names": "",
+        "region_unique": "Tigray",
+        "full_location_unique": "Rama, Central Zone, Rama Adi Arbaete Woreda",
+        "number_of_beds_unique": "",
+        "item_name_engukr_unique": "Hospital Bed Mattresses",
+        "total_item_quantity": "5.0",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "Birshwa Primary Hospital",
+        "info_box_text": "",
+        "landing_page_link": "",
+        "date_last_updated_new_data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.73,
+          14.27
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MET02",
+        "cure_id_unique": "",
+        "freight_forwarder": "Airlink",
+        "donor_unique": "Dirk Kasten / Harambee Collective",
+        "country_unique": "Ethiopia",
+        "distribution_number_unique": "21",
+        "distribution_id_unique": "THB21_09/25",
+        "shipment_period_unique": "Sep-26",
+        "type_of_medical_institution_unique": "Primary Hospital",
+        "unique_hospital_names_eng": "Dewhan Primary Hospital",
+        "safe_hospital_names": "",
+        "region_unique": "Tigray",
+        "full_location_unique": "Dewhan, Eastern Zone, Irob District",
+        "number_of_beds_unique": "",
+        "item_name_engukr_unique": "B/P Machines, Blood Pressure Cuffs",
+        "total_item_quantity": "3.0",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "Dewhan Primary Hospital",
+        "info_box_text": "",
+        "landing_page_link": "",
+        "date_last_updated_new_data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7,
+          14.1
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MET02",
+        "cure_id_unique": "",
+        "freight_forwarder": "Airlink",
+        "donor_unique": "Dirk Kasten / Harambee Collective",
+        "country_unique": "Ethiopia",
+        "distribution_number_unique": "22",
+        "distribution_id_unique": "THB22_09/25",
+        "shipment_period_unique": "Sep-26",
+        "type_of_medical_institution_unique": "Primary Hospital",
+        "unique_hospital_names_eng": "Dr. Tsegay Primary Hospital",
+        "safe_hospital_names": "",
+        "region_unique": "Tigray",
+        "full_location_unique": "Fatsi, Eastern Zone, Gulomekheda Woreda",
+        "number_of_beds_unique": "",
+        "item_name_engukr_unique": "B/P Machines, Blood Pressure Cuffs",
+        "total_item_quantity": "4.0",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "Dr. Tsegay Primary Hospital",
+        "info_box_text": "",
+        "landing_page_link": "",
+        "date_last_updated_new_data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.07,
+          14.0414
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MET02",
+        "cure_id_unique": "",
+        "freight_forwarder": "Airlink",
+        "donor_unique": "Dirk Kasten / Harambee Collective",
+        "country_unique": "Ethiopia",
+        "distribution_number_unique": "23",
+        "distribution_id_unique": "THB23_09/25",
+        "shipment_period_unique": "Sep-26",
+        "type_of_medical_institution_unique": "Primary Hospital",
+        "unique_hospital_names_eng": "Edaga Arbi Primary Hospital",
+        "safe_hospital_names": "",
+        "region_unique": "Tigray",
+        "full_location_unique": "Edaga Arbi, Central Zone, Edaga Arbi Woreda",
+        "number_of_beds_unique": "",
+        "item_name_engukr_unique": "B/P Machines, Blood Pressure Cuffs, Surgical Drapes, Surgical Gowns, Surgical Towels, Vital Signs Kits",
+        "total_item_quantity": "10.0",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "Edaga Arbi Primary Hospital",
+        "info_box_text": "",
+        "landing_page_link": "",
+        "date_last_updated_new_data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.1842,
+          13.9494
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MET02",
+        "cure_id_unique": "",
+        "freight_forwarder": "Airlink",
+        "donor_unique": "Dirk Kasten / Harambee Collective",
+        "country_unique": "Ethiopia",
+        "distribution_number_unique": "24",
+        "distribution_id_unique": "THB24_09/25",
+        "shipment_period_unique": "Sep-26",
+        "type_of_medical_institution_unique": "Primary Hospital",
+        "unique_hospital_names_eng": "Endabaguna Primary Hospital",
+        "safe_hospital_names": "",
+        "region_unique": "Tigray",
+        "full_location_unique": "Endabaguna, NorthWestern Zone",
+        "number_of_beds_unique": "",
+        "item_name_engukr_unique": "B/P Machines, Blood Pressure Cuffs",
+        "total_item_quantity": "4.0",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "Endabaguna Primary Hospital",
+        "info_box_text": "",
+        "landing_page_link": "",
+        "date_last_updated_new_data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.48,
+          13.45
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MET02",
+        "cure_id_unique": "",
+        "freight_forwarder": "Airlink",
+        "donor_unique": "Dirk Kasten / Harambee Collective",
+        "country_unique": "Ethiopia",
+        "distribution_number_unique": "25",
+        "distribution_id_unique": "THB25_09/25",
+        "shipment_period_unique": "Sep-26",
+        "type_of_medical_institution_unique": "Primary Hospital",
+        "unique_hospital_names_eng": "Firemnatos Primary Hospital",
+        "safe_hospital_names": "",
+        "region_unique": "Tigray",
+        "full_location_unique": "Firemnatos, Mekelle Zone",
+        "number_of_beds_unique": "",
+        "item_name_engukr_unique": "B/P Machines, Blood Pressure Cuffs, Linens â Washcloths, Mobility Carts, Pillow Cases, Pillows, Vital Signs Kits",
+        "total_item_quantity": "12.0",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "Firemnatos Primary Hospital",
+        "info_box_text": "",
+        "landing_page_link": "",
+        "date_last_updated_new_data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.4295,
+          13.9796
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MET02",
+        "cure_id_unique": "",
+        "freight_forwarder": "Airlink",
+        "donor_unique": "Dirk Kasten / Harambee Collective",
+        "country_unique": "Ethiopia",
+        "distribution_number_unique": "26",
+        "distribution_id_unique": "THB26_09/25",
+        "shipment_period_unique": "Sep-26",
+        "type_of_medical_institution_unique": "Primary Hospital",
+        "unique_hospital_names_eng": "Firesemaetat Primary Hospital",
+        "safe_hospital_names": "",
+        "region_unique": "Tigray",
+        "full_location_unique": "Hawzen, Eastern Zone, Hawzen District",
+        "number_of_beds_unique": "",
+        "item_name_engukr_unique": "Linens â Washcloths",
+        "total_item_quantity": "1.0",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "Firesemaetat Primary Hospital",
+        "info_box_text": "",
+        "landing_page_link": "",
+        "date_last_updated_new_data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.55,
+          13.88
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MET02",
+        "cure_id_unique": "",
+        "freight_forwarder": "Airlink",
+        "donor_unique": "Dirk Kasten / Harambee Collective",
+        "country_unique": "Ethiopia",
+        "distribution_number_unique": "27",
+        "distribution_id_unique": "THB27_09/25",
+        "shipment_period_unique": "Sep-26",
+        "type_of_medical_institution_unique": "Primary Hospital",
+        "unique_hospital_names_eng": "Fireweyni Primary Hospital",
+        "safe_hospital_names": "",
+        "region_unique": "Tigray",
+        "full_location_unique": "Fireweyni, Eastern Zone, Saesie Tseada Emba Woreda",
+        "number_of_beds_unique": "",
+        "item_name_engukr_unique": "CPAP Kits, Linens â Pillows, Linens â Towels, Linens â Washcloths, Surgical Drapes, Surgical Gowns",
+        "total_item_quantity": "11.0",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "Fireweyni Primary Hospital",
+        "info_box_text": "",
+        "landing_page_link": "",
+        "date_last_updated_new_data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.1667,
+          13.65
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MET02",
+        "cure_id_unique": "",
+        "freight_forwarder": "Airlink",
+        "donor_unique": "Dirk Kasten / Harambee Collective",
+        "country_unique": "Ethiopia",
+        "distribution_number_unique": "28",
+        "distribution_id_unique": "THB28_09/25",
+        "shipment_period_unique": "Sep-26",
+        "type_of_medical_institution_unique": "Primary Hospital",
+        "unique_hospital_names_eng": "Hagereselam Primary Hospital",
+        "safe_hospital_names": "",
+        "region_unique": "Tigray",
+        "full_location_unique": "Hagereselam Town, Southeastern Zone, Degua-Tembien Woreda",
+        "number_of_beds_unique": "",
+        "item_name_engukr_unique": "Exam Tables â Outpatient, Stretcher Mattresses, Stretcher Sheets, Stretchers",
+        "total_item_quantity": "4.0",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "Hagereselam Primary Hospital",
+        "info_box_text": "",
+        "landing_page_link": "",
+        "date_last_updated_new_data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.545,
+          13.4769
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MET02",
+        "cure_id_unique": "",
+        "freight_forwarder": "Airlink",
+        "donor_unique": "Dirk Kasten / Harambee Collective",
+        "country_unique": "Ethiopia",
+        "distribution_number_unique": "29",
+        "distribution_id_unique": "THB29_09/25",
+        "shipment_period_unique": "Sep-26",
+        "type_of_medical_institution_unique": "Primary Hospital",
+        "unique_hospital_names_eng": "Hewo Primary Hospital",
+        "safe_hospital_names": "",
+        "region_unique": "Tigray",
+        "full_location_unique": "Quiha, Mekelle Zone, Quiha Subcity",
+        "number_of_beds_unique": "",
+        "item_name_engukr_unique": "Stretchers",
+        "total_item_quantity": "1.0",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "Hewo Primary Hospital",
+        "info_box_text": "",
+        "landing_page_link": "",
+        "date_last_updated_new_data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.5118,
+          12.5206
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MET02",
+        "cure_id_unique": "",
+        "freight_forwarder": "Airlink",
+        "donor_unique": "Dirk Kasten / Harambee Collective",
+        "country_unique": "Ethiopia",
+        "distribution_number_unique": "30",
+        "distribution_id_unique": "THB30_09/25",
+        "shipment_period_unique": "Sep-26",
+        "type_of_medical_institution_unique": "General Hospital",
+        "unique_hospital_names_eng": "Korem General Hospital",
+        "safe_hospital_names": "",
+        "region_unique": "Tigray",
+        "full_location_unique": "Korem Town, Southern Zone, Korem Woreda",
+        "number_of_beds_unique": "",
+        "item_name_engukr_unique": "Mayo Stands, Ultrasound Machines",
+        "total_item_quantity": "2.0",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "Korem General Hospital",
+        "info_box_text": "",
+        "landing_page_link": "",
+        "date_last_updated_new_data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.475,
+          13.51
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MET02",
+        "cure_id_unique": "",
+        "freight_forwarder": "Airlink",
+        "donor_unique": "Dirk Kasten / Harambee Collective",
+        "country_unique": "Ethiopia",
+        "distribution_number_unique": "31",
+        "distribution_id_unique": "THB31_09/25",
+        "shipment_period_unique": "Sep-26",
+        "type_of_medical_institution_unique": "Primary Hospital",
+        "unique_hospital_names_eng": "Lekatit 11 Primary Hospital",
+        "safe_hospital_names": "",
+        "region_unique": "Tigray",
+        "full_location_unique": "Lekatit 11, Mekelle Zone, Adihaki Subcity",
+        "number_of_beds_unique": "",
+        "item_name_engukr_unique": "Exam Tables â Outpatient",
+        "total_item_quantity": "1.0",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "Lekatit 11 Primary Hospital",
+        "info_box_text": "",
+        "landing_page_link": "",
+        "date_last_updated_new_data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.5333,
+          12.7833
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MET02",
+        "cure_id_unique": "",
+        "freight_forwarder": "Airlink",
+        "donor_unique": "Dirk Kasten / Harambee Collective",
+        "country_unique": "Ethiopia",
+        "distribution_number_unique": "32",
+        "distribution_id_unique": "THB32_09/25",
+        "shipment_period_unique": "Sep-26",
+        "type_of_medical_institution_unique": "General Hospital",
+        "unique_hospital_names_eng": "Lemlem Karl General Hospital",
+        "safe_hospital_names": "",
+        "region_unique": "Tigray",
+        "full_location_unique": "Maychew, Southern Zone, Maychew Town",
+        "number_of_beds_unique": "",
+        "item_name_engukr_unique": "Anesthesia Airway Kits, Cardiology Monitoring & Resting Electrodes, CPAP Kits, Patient Monitors, Sequential Compression Devices",
+        "total_item_quantity": "5.0",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "Lemlem Karl General Hospital",
+        "info_box_text": "",
+        "landing_page_link": "",
+        "date_last_updated_new_data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.9147,
+          14.405
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MET02",
+        "cure_id_unique": "",
+        "freight_forwarder": "Airlink",
+        "donor_unique": "Dirk Kasten / Harambee Collective",
+        "country_unique": "Ethiopia",
+        "distribution_number_unique": "33",
+        "distribution_id_unique": "THB33_09/25",
+        "shipment_period_unique": "Sep-26",
+        "type_of_medical_institution_unique": "General Hospital",
+        "unique_hospital_names_eng": "Maiani General Hospital",
+        "safe_hospital_names": "",
+        "region_unique": "Tigray",
+        "full_location_unique": "Sheraro Town, North Western Zone",
+        "number_of_beds_unique": "",
+        "item_name_engukr_unique": "Centrifuge, Chest Tube Kits, Colostomy Kits, CPAP Kits, Patient Monitors, Surgical Drapes, Surgical Gowns, Surgical Scalpels & Blades",
+        "total_item_quantity": "14.0",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "Maiani General Hospital",
+        "info_box_text": "",
+        "landing_page_link": "",
+        "date_last_updated_new_data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.6441,
+          12.7992
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MET02",
+        "cure_id_unique": "",
+        "freight_forwarder": "Airlink",
+        "donor_unique": "Dirk Kasten / Harambee Collective",
+        "country_unique": "Ethiopia",
+        "distribution_number_unique": "35",
+        "distribution_id_unique": "THB35_09/25",
+        "shipment_period_unique": "Sep-26",
+        "type_of_medical_institution_unique": "Primary Hospital",
+        "unique_hospital_names_eng": "Mekoni Primary Hospital",
+        "safe_hospital_names": "",
+        "region_unique": "Tigray",
+        "full_location_unique": "Mekoni Town, Southern Zone, Mekhoni Woreda",
+        "number_of_beds_unique": "",
+        "item_name_engukr_unique": "OR Table, Surgical Drapes, Surgical Gowns",
+        "total_item_quantity": "6.0",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "Mekoni Primary Hospital",
+        "info_box_text": "",
+        "landing_page_link": "",
+        "date_last_updated_new_data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.733,
+          13.867
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MET02",
+        "cure_id_unique": "",
+        "freight_forwarder": "Airlink",
+        "donor_unique": "Dirk Kasten / Harambee Collective",
+        "country_unique": "Ethiopia",
+        "distribution_number_unique": "36",
+        "distribution_id_unique": "THB36_09/25",
+        "shipment_period_unique": "Sep-26",
+        "type_of_medical_institution_unique": "Primary Hospital",
+        "unique_hospital_names_eng": "MuluAssefa Primary Hospital",
+        "safe_hospital_names": "",
+        "region_unique": "Tigray",
+        "full_location_unique": "Atsbi, Eastern Zone, Atsbi Endasellasie Woreda",
+        "number_of_beds_unique": "",
+        "item_name_engukr_unique": "Exam Tables â Outpatient, Surgical Instruments",
+        "total_item_quantity": "2.0",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "MuluAssefa Primary Hospital",
+        "info_box_text": "",
+        "landing_page_link": "",
+        "date_last_updated_new_data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.545,
+          13.4769
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MET02",
+        "cure_id_unique": "",
+        "freight_forwarder": "Airlink",
+        "donor_unique": "Dirk Kasten / Harambee Collective",
+        "country_unique": "Ethiopia",
+        "distribution_number_unique": "37",
+        "distribution_id_unique": "THB37_09/25",
+        "shipment_period_unique": "Sep-26",
+        "type_of_medical_institution_unique": "General Hospital",
+        "unique_hospital_names_eng": "Quiha General Hospital",
+        "safe_hospital_names": "",
+        "region_unique": "Tigray",
+        "full_location_unique": "Quiha, Mekelle Zone, Quiha Subcity",
+        "number_of_beds_unique": "",
+        "item_name_engukr_unique": "Audiometer, Ophthalmic Blades, Vision Tester",
+        "total_item_quantity": "3.0",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "Quiha General Hospital",
+        "info_box_text": "",
+        "landing_page_link": "",
+        "date_last_updated_new_data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.2,
+          13.183
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MET02",
+        "cure_id_unique": "",
+        "freight_forwarder": "Airlink",
+        "donor_unique": "Dirk Kasten / Harambee Collective",
+        "country_unique": "Ethiopia",
+        "distribution_number_unique": "38",
+        "distribution_id_unique": "THB38_09/25",
+        "shipment_period_unique": "Sep-26",
+        "type_of_medical_institution_unique": "Primary Hospital",
+        "unique_hospital_names_eng": "Samre Primary Hospital",
+        "safe_hospital_names": "",
+        "region_unique": "Tigray",
+        "full_location_unique": "Samre Town, South Eastern Zone",
+        "number_of_beds_unique": "",
+        "item_name_engukr_unique": "Stretchers",
+        "total_item_quantity": "1.0",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "Samre Primary Hospital",
+        "info_box_text": "",
+        "landing_page_link": "",
+        "date_last_updated_new_data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.483,
+          14.117
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MET02",
+        "cure_id_unique": "",
+        "freight_forwarder": "Airlink",
+        "donor_unique": "Dirk Kasten / Harambee Collective",
+        "country_unique": "Ethiopia",
+        "distribution_number_unique": "39",
+        "distribution_id_unique": "THB39_09/25",
+        "shipment_period_unique": "Sep-26",
+        "type_of_medical_institution_unique": "Primary Hospital",
+        "unique_hospital_names_eng": "Selekleka Primary Hospital",
+        "safe_hospital_names": "",
+        "region_unique": "Tigray",
+        "full_location_unique": "Selekleka, NorthWestern Zone, Laelay Koraro Woreda",
+        "number_of_beds_unique": "",
+        "item_name_engukr_unique": "Stretchers",
+        "total_item_quantity": "1.0",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "Selekleka Primary Hospital",
+        "info_box_text": "",
+        "landing_page_link": "",
+        "date_last_updated_new_data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.7285,
+          14.1203
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MET02",
+        "cure_id_unique": "",
+        "freight_forwarder": "Airlink",
+        "donor_unique": "Dirk Kasten / Harambee Collective",
+        "country_unique": "Ethiopia",
+        "distribution_number_unique": "40",
+        "distribution_id_unique": "THB40_09/25",
+        "shipment_period_unique": "Sep-26",
+        "type_of_medical_institution_unique": "General Hospital",
+        "unique_hospital_names_eng": "St. Mary General Hospital",
+        "safe_hospital_names": "",
+        "region_unique": "Tigray",
+        "full_location_unique": "Axum City, Central Zone",
+        "number_of_beds_unique": "",
+        "item_name_engukr_unique": "Anesthesia Airway Kits, CPAP Kits, ECG Machines, Patient Monitors, Portable Video Laryngoscope, Pulse Oximeters, Respiratory â Lung Clearance, Sequential Compression Devices",
+        "total_item_quantity": "9.0",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "St. Mary General Hospital",
+        "info_box_text": "",
+        "landing_page_link": "",
+        "date_last_updated_new_data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.3039,
+          14.1142
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MET02",
+        "cure_id_unique": "",
+        "freight_forwarder": "Airlink",
+        "donor_unique": "Dirk Kasten / Harambee Collective",
+        "country_unique": "Ethiopia",
+        "distribution_number_unique": "41",
+        "distribution_id_unique": "THB41_09/25",
+        "shipment_period_unique": "Sep-26",
+        "type_of_medical_institution_unique": "General Hospital",
+        "unique_hospital_names_eng": "Suhul General Hospital",
+        "safe_hospital_names": "",
+        "region_unique": "Tigray",
+        "full_location_unique": "Shire Town, North Western Zone",
+        "number_of_beds_unique": "",
+        "item_name_engukr_unique": "Electrocautery Machine, Surgical Gowns, Surgical Instruments",
+        "total_item_quantity": "6.0",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "Suhul General Hospital",
+        "info_box_text": "",
+        "landing_page_link": "",
+        "date_last_updated_new_data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.5974,
+          13.7935
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MET02",
+        "cure_id_unique": "",
+        "freight_forwarder": "Airlink",
+        "donor_unique": "Dirk Kasten / Harambee Collective",
+        "country_unique": "Ethiopia",
+        "distribution_number_unique": "42",
+        "distribution_id_unique": "THB42_09/25",
+        "shipment_period_unique": "Sep-26",
+        "type_of_medical_institution_unique": "General Hospital",
+        "unique_hospital_names_eng": "Wukro General Hospital",
+        "safe_hospital_names": "",
+        "region_unique": "Tigray",
+        "full_location_unique": "Wukro Town, Eastern Zone, Wukro",
+        "number_of_beds_unique": "",
+        "item_name_engukr_unique": "Anesthesia Airway Kits, Colostomy Kits, Surgical Drapes, Surgical Gowns",
+        "total_item_quantity": "10.0",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "Wukro General Hospital",
+        "info_box_text": "",
+        "landing_page_link": "",
+        "date_last_updated_new_data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.5939,
+          14.1236
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MET02",
+        "cure_id_unique": "",
+        "freight_forwarder": "Airlink",
+        "donor_unique": "Dirk Kasten / Harambee Collective",
+        "country_unique": "Ethiopia",
+        "distribution_number_unique": "43",
+        "distribution_id_unique": "THB43_09/25",
+        "shipment_period_unique": "Sep-26",
+        "type_of_medical_institution_unique": "Primary Hospital",
+        "unique_hospital_names_eng": "Wukromaray Primary Hospital",
+        "safe_hospital_names": "",
+        "region_unique": "Tigray",
+        "full_location_unique": "Wukro Maray, Central Zone, Tahtay Maychew Woreda",
+        "number_of_beds_unique": "",
+        "item_name_engukr_unique": "Exam Tables â Outpatient",
+        "total_item_quantity": "1.0",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "Wukromaray Primary Hospital",
+        "info_box_text": "",
+        "landing_page_link": "",
+        "date_last_updated_new_data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.0,
+          13.2833
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MET02",
+        "cure_id_unique": "",
+        "freight_forwarder": "Airlink",
+        "donor_unique": "Dirk Kasten / Harambee Collective",
+        "country_unique": "Ethiopia",
+        "distribution_number_unique": "44",
+        "distribution_id_unique": "THB44_09/25",
+        "shipment_period_unique": "Sep-26",
+        "type_of_medical_institution_unique": "Primary Hospital",
+        "unique_hospital_names_eng": "Yechila Primary Hospital",
+        "safe_hospital_names": "",
+        "region_unique": "Tigray",
+        "full_location_unique": "Yechila, Central Zone, Abergele Yechila Woreda",
+        "number_of_beds_unique": "",
+        "item_name_engukr_unique": "Exam Tables â Outpatient",
+        "total_item_quantity": "1.0",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "Yechila Primary Hospital",
+        "info_box_text": "",
+        "landing_page_link": "",
+        "date_last_updated_new_data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.47,
+          13.49
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MET02",
+        "cure_id_unique": "",
+        "freight_forwarder": "Airlink",
+        "donor_unique": "Dirk Kasten / Harambee Collective",
+        "country_unique": "Ethiopia",
+        "distribution_number_unique": "45",
+        "distribution_id_unique": "THB45_09/25",
+        "shipment_period_unique": "Sep-26",
+        "type_of_medical_institution_unique": "Specialized Care Centre",
+        "unique_hospital_names_eng": "Freminatos Centre for the Elderly, Orphans & Mentally Disabled",
+        "safe_hospital_names": "",
+        "region_unique": "Tigray",
+        "full_location_unique": "Central Tigray / Mekelle",
+        "number_of_beds_unique": "",
+        "item_name_engukr_unique": "B/P Machines, Linens â Blankets, Linens â Pillows, Linens â Towels, Linens â Washcloths, Mobility Carts, Physical Therapy Tables, Pillow Cases, Pulse Oximeters, Stretchers, Stretcher Mattresses, Stretcher Sheets, Vital Signs Kits",
+        "total_item_quantity": "24.0",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "Freminatos Centre for the Elderly, Orphans & Mentally Disabled",
+        "info_box_text": "",
+        "landing_page_link": "",
+        "date_last_updated_new_data": ""
+      }
     }
   ]
 }
