@@ -1096,7 +1096,7 @@
       "properties": {
         "show": "TRUE",
         "necessary_to_fundraise": "False",
-        "likelihood_of_completion": "Certain",
+        "likelihood_of_completion": "Installed",
         "project_id": "SET03a",
         "project_name": "Homosha",
         "responsible": "RaphaÃ«l",
