@@ -1038,7 +1038,7 @@
       },
       "properties": {
         "show": "TRUE",
-        "necessary_to_fundraise": "True",
+        "necessary_to_fundraise": "False",
         "likelihood_of_completion": "Certain",
         "project_id": "SET07",
         "project_name": "Mudula High School",
