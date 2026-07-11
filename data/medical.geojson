@@ -13816,7 +13816,7 @@
         "shipment_id_unique": "MSS01",
         "cure_id_unique": "72311",
         "freight_forwarder": "Flexport",
-        "donor_unique": "For Afrika",
+        "donor_unique": "ForAfrika",
         "donor_logos": "https://drive.google.com/file/d/1fkoZlQu7dVUAD9IDY4n-8qIzvtgKOy7J/view?usp=drive_link",
         "country_unique": "South Sudan",
         "distribution_number_unique": "1",
@@ -13853,7 +13853,7 @@
         "shipment_id_unique": "MSS01",
         "cure_id_unique": "72311",
         "freight_forwarder": "Flexport",
-        "donor_unique": "For Afrika",
+        "donor_unique": "ForAfrika",
         "donor_logos": "https://drive.google.com/file/d/1fkoZlQu7dVUAD9IDY4n-8qIzvtgKOy7J/view?usp=drive_link",
         "country_unique": "South Sudan",
         "distribution_number_unique": "2",
@@ -13890,7 +13890,7 @@
         "shipment_id_unique": "MSS01",
         "cure_id_unique": "72311",
         "freight_forwarder": "Flexport",
-        "donor_unique": "For Afrika",
+        "donor_unique": "ForAfrika",
         "donor_logos": "https://drive.google.com/file/d/1fkoZlQu7dVUAD9IDY4n-8qIzvtgKOy7J/view?usp=drive_link",
         "country_unique": "South Sudan",
         "distribution_number_unique": "3",
@@ -13927,7 +13927,7 @@
         "shipment_id_unique": "MSS01",
         "cure_id_unique": "72311",
         "freight_forwarder": "Flexport",
-        "donor_unique": "For Afrika",
+        "donor_unique": "ForAfrika",
         "donor_logos": "https://drive.google.com/file/d/1fkoZlQu7dVUAD9IDY4n-8qIzvtgKOy7J/view?usp=drive_link",
         "country_unique": "South Sudan",
         "distribution_number_unique": "4",
@@ -13964,7 +13964,7 @@
         "shipment_id_unique": "MSS01",
         "cure_id_unique": "72311",
         "freight_forwarder": "Flexport",
-        "donor_unique": "For Afrika",
+        "donor_unique": "ForAfrika",
         "donor_logos": "https://drive.google.com/file/d/1fkoZlQu7dVUAD9IDY4n-8qIzvtgKOy7J/view?usp=drive_link",
         "country_unique": "South Sudan",
         "distribution_number_unique": "5",
@@ -14001,7 +14001,7 @@
         "shipment_id_unique": "MSS01",
         "cure_id_unique": "72311",
         "freight_forwarder": "Flexport",
-        "donor_unique": "For Afrika",
+        "donor_unique": "ForAfrika",
         "donor_logos": "https://drive.google.com/file/d/1fkoZlQu7dVUAD9IDY4n-8qIzvtgKOy7J/view?usp=drive_link",
         "country_unique": "South Sudan",
         "distribution_number_unique": "6",
@@ -18089,6 +18089,265 @@
         "picture_link_unique": "",
         "item_list_eng_unique": "",
         "short_hospital_names_eng": "Freminatos Centre for the Elderly, Orphans & Mentally Disabled",
+        "info_box_text": "",
+        "landing_page_link": "",
+        "date_last_updated_new_data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.6697,
+          35.6365
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MSY06",
+        "cure_id_unique": "72501",
+        "freight_forwarder": "SEKO",
+        "donor_unique": "Dirk Kasten / Humedica",
+        "donor_logos": "https://drive.google.com/file/d/1jo7h_ms5ZgBoTYB8Ozx5t9UNjYIaAJei/view?usp=drive_link",
+        "country_unique": "Syria",
+        "distribution_number_unique": "39",
+        "distribution_id_unique": "HiH39_04/26",
+        "shipment_period_unique": "Apr-26",
+        "type_of_medical_institution_unique": "Clinics",
+        "unique_hospital_names_eng": "Maaret al-Numan Clinics",
+        "safe_hospital_names": "",
+        "region_unique": "Idleb - Maaret el-Numan",
+        "full_location_unique": "",
+        "number_of_beds_unique": "",
+        "item_name_engukr_unique": "Gloves Surgical_Size 8_Sterile, Gloves Examination_Small_Latex Non Sterile, Gloves Examination_Large_Vinyl Non Sterile, Gloves Examination_X Large_Nitrile Non Sterile, Gloves Surgical_Size 7.5_Sterile, C.U.R.E Kit For Kids, Patient Monitor, Microscope, Surgical Suction Device, Nebulizer 110V, Infrared Thermometer, Thermometer, Timer, Pulse Oximeter, Length Scale_Height Board_Baby,Child,Adult, Manual Wheelchair, Holder Serum, Trash Can, Sick Dining Table, Wet Wipes",
+        "total_item_quantity": "13233.0",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "",
+        "info_box_text": "",
+        "landing_page_link": "",
+        "date_last_updated_new_data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7234,
+          34.7268
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MSY06",
+        "cure_id_unique": "72501",
+        "freight_forwarder": "SEKO",
+        "donor_unique": "Dirk Kasten / Humedica",
+        "donor_logos": "https://drive.google.com/file/d/1jo7h_ms5ZgBoTYB8Ozx5t9UNjYIaAJei/view?usp=drive_link",
+        "country_unique": "Syria",
+        "distribution_number_unique": "40",
+        "distribution_id_unique": "HiH40_05/26",
+        "shipment_period_unique": "May-26",
+        "type_of_medical_institution_unique": "Health Directorate",
+        "unique_hospital_names_eng": "Homs Health Directorate",
+        "safe_hospital_names": "",
+        "region_unique": "Homs",
+        "full_location_unique": "",
+        "number_of_beds_unique": "",
+        "item_name_engukr_unique": "Gown Isolation_Size L_Disposable Non-Sterile, Gown Isolation_Size XL_Disposable Non-Sterile, Gown Surgical_Size L_Disposable Non Sterile, Gown Surgical_Size X L_Disposable Non Sterile, Face Shield, Suction Catheter_CH 14, Suction Catheter_CH 18, Safety Needle_23 G, Safety Needle_25 G, Safety Needle_25 G, Nasal Cannula_Adult, Nasal Cannula_Children, Syringe_1 ML, Anesthesia Breathing Circuit_Close, Mask Oxygen_Adult, Anesthesia Face Mask-Adult, Resuscitator , Hand-Operated-Silicone Bag , Silicone Face Mask , Oxygen Reservoir And Tubing_Adult_",
+        "total_item_quantity": "2394.0",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "",
+        "info_box_text": "",
+        "landing_page_link": "",
+        "date_last_updated_new_data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.6558,
+          36.1206
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MSY06",
+        "cure_id_unique": "72501",
+        "freight_forwarder": "SEKO",
+        "donor_unique": "Dirk Kasten / Humedica",
+        "donor_logos": "https://drive.google.com/file/d/1jo7h_ms5ZgBoTYB8Ozx5t9UNjYIaAJei/view?usp=drive_link",
+        "country_unique": "Syria",
+        "distribution_number_unique": "40",
+        "distribution_id_unique": "HiH40_05/26",
+        "shipment_period_unique": "May-26",
+        "type_of_medical_institution_unique": "PHC",
+        "unique_hospital_names_eng": "Kafr Aruq PHC",
+        "safe_hospital_names": "",
+        "region_unique": "Idleb - Kafr Aruq",
+        "full_location_unique": "",
+        "number_of_beds_unique": "",
+        "item_name_engukr_unique": "Gloves Examination_Small_Latex Non Sterile, Gloves Examination_Large_Vinyl Non Sterile, Gauze Swabs_5 Ã 5 CM_Non-Sterile, First aid pack, Transformer, Transformer, Thermometer, Dry Sterilizer, Bed Sheet",
+        "total_item_quantity": "7214.0",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "",
+        "info_box_text": "",
+        "landing_page_link": "",
+        "date_last_updated_new_data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7397,
+          36.1344
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MSY06",
+        "cure_id_unique": "72501",
+        "freight_forwarder": "SEKO",
+        "donor_unique": "Dirk Kasten / Humedica",
+        "donor_logos": "https://drive.google.com/file/d/1jo7h_ms5ZgBoTYB8Ozx5t9UNjYIaAJei/view?usp=drive_link",
+        "country_unique": "Syria",
+        "distribution_number_unique": "40",
+        "distribution_id_unique": "HiH40_05/26",
+        "shipment_period_unique": "May-26",
+        "type_of_medical_institution_unique": "Hospital",
+        "unique_hospital_names_eng": "Al-Andalus Hospital",
+        "safe_hospital_names": "",
+        "region_unique": "Idleb - Batabu",
+        "full_location_unique": "",
+        "number_of_beds_unique": "",
+        "item_name_engukr_unique": "Kit Catheter Change, Consumables Kit",
+        "total_item_quantity": "21.0",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "",
+        "info_box_text": "",
+        "landing_page_link": "",
+        "date_last_updated_new_data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7697,
+          36.2144
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MSY06",
+        "cure_id_unique": "72501",
+        "freight_forwarder": "SEKO",
+        "donor_unique": "Dirk Kasten / Humedica",
+        "donor_logos": "https://drive.google.com/file/d/1jo7h_ms5ZgBoTYB8Ozx5t9UNjYIaAJei/view?usp=drive_link",
+        "country_unique": "Syria",
+        "distribution_number_unique": "40, 41, 42, 43",
+        "distribution_id_unique": "HiH40_05/26",
+        "shipment_period_unique": "May-26",
+        "type_of_medical_institution_unique": "Hospital",
+        "unique_hospital_names_eng": "Al-Quds Hospital",
+        "safe_hospital_names": "",
+        "region_unique": "Idleb - Dana",
+        "full_location_unique": "",
+        "number_of_beds_unique": "",
+        "item_name_engukr_unique": "Gown Isolation_Size L_Disposable Non-Sterile, Gown Surgical_Size L_Disposable Non Sterile, Gloves Examination_Large_Vinyl Non Sterile, Gloves Examination_X Large_Vinyl Non Sterile, Gloves Examination_Small_Vinyl Non Sterile, Mask Oxygen_Adult, Anesthesia Face Mask-Adult, Gown Surgical_Size L_Disposable Sterile, Resuscitator , Hand-Operated-Silicone Bag , Silicone Face Mask , Oxygen Reservoir And Tubing_Adult_, Gauze Swabs_5 Ã 5 CM_Non-Sterile, ECG Electrode, Electro Surgical Pencil, Drape Surgical_100 Ã 230 CM_Disposable Non Sterile, Syringe_3 ML, First aid pack, Gown Isolation_Size XL_Disposable Non-Sterile, Cold Therapy Unit Portable, Cold Therapy Unit Portable, Cold Therapy Unit Portable, Cpap, Cpap, Cpap, Cpap, Syringe Pump, Transformer, Transformer, Transformer, Transformer, Transformer, Transformer, Oxygen Conserver, Infrared Thermometer, Timer, CAST SAW, Sphygmomanometer, Wood Bed, Bed Sheet, Pillow Cover, Curtains",
+        "total_item_quantity": "11969.0",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "",
+        "info_box_text": "",
+        "landing_page_link": "",
+        "date_last_updated_new_data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.6864,
+          36.3111
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MSY06",
+        "cure_id_unique": "72501",
+        "freight_forwarder": "SEKO",
+        "donor_unique": "Dirk Kasten / Humedica",
+        "donor_logos": "https://drive.google.com/file/d/1jo7h_ms5ZgBoTYB8Ozx5t9UNjYIaAJei/view?usp=drive_link",
+        "country_unique": "Syria",
+        "distribution_number_unique": "43, 44",
+        "distribution_id_unique": "HiH43_05/26",
+        "shipment_period_unique": "May-26",
+        "type_of_medical_institution_unique": "Hospital",
+        "unique_hospital_names_eng": "Atmah Hospital for Children And Maternity",
+        "safe_hospital_names": "",
+        "region_unique": "Idleb - Atmah",
+        "full_location_unique": "",
+        "number_of_beds_unique": "",
+        "item_name_engukr_unique": "Gown Isolation_Size L_Disposable Non-Sterile, Gown Isolation_Size XL_Disposable Non-Sterile, Gown Surgical_Size L_Disposable Non Sterile, Gown Surgical_Size X L_Disposable Non Sterile, Suction Catheter_CH 10_, Suction Catheter_CH 8_, Hypodermic Needle_G 23_, Iv Cannula_G 20_, Iv Cannula_G 22_, Iv Cannula_G 22_, Iv Cannula_G 18_, Syringe_5 ML_, Syringe_10 ML_, Povidone_Iodine Solution 10 %_, Syringe_3 ML_, Gloves Surgical_Size 8_Sterile, Gloves Examination_Small_Latex Non Sterile, Gloves Examination_Large_Vinyl Non Sterile, Gloves Examination_Large_Nitrile Non Sterile, Gloves Examination_Large_Latex Non Sterile, Gloves Examination_X Large_Nitrile Non Sterile, Gloves Examination_Medium_Nitrile Non Sterile, Gloves Examination_Small_Nitrile Non Sterile, Gloves Surgical_Size 7_Sterile, Drape Surgical_45*45 CM_Disposable Sterile, Drape Surgical_150 Ã 240 CM_Disposable Non Sterile, Gown Surgical_Size L_Disposable Sterile, Electro Surgical Pencil, Drape Surgical_100 Ã 230 CM_Disposable Non Sterile, First aid pack__, Gown Isolation_Size XL_Disposable Non-Sterile, Gown Isolation_Size L_Disposable Non-Sterile, Patient Monitor, Patient Monitor, Syringe Pump, Transformer, Transformer, Transformer, Transformer, Transformer, Transformer, Centrifuge, Nebulizer 110V, Oxygen Conserver, Infrared Thermometer, Ear Thermometer, Thermometer, Thermometer, Stethoscope, Timer, Pulse Oximeter, Sphygmomanometer, Length Scale_Height Board, Wood Bed, Office Chair, Holder Serum , Phlebotomy Chair, Trash Can, Bed Sheet, Pillow Cover, Curtains, Sick Dining Table, Couch",
+        "total_item_quantity": "29305.0",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "",
+        "info_box_text": "",
+        "landing_page_link": "",
+        "date_last_updated_new_data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1612,
+          36.2012
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MSY06",
+        "cure_id_unique": "72501",
+        "freight_forwarder": "SEKO",
+        "donor_unique": "Dirk Kasten / Humedica",
+        "donor_logos": "https://drive.google.com/file/d/1jo7h_ms5ZgBoTYB8Ozx5t9UNjYIaAJei/view?usp=drive_link",
+        "country_unique": "Syria",
+        "distribution_number_unique": "44, 45",
+        "distribution_id_unique": "HiH44_05/26",
+        "shipment_period_unique": "May-26",
+        "type_of_medical_institution_unique": "Health Directorate",
+        "unique_hospital_names_eng": "Aleppo Health DÄ±rectorate",
+        "safe_hospital_names": "",
+        "region_unique": "Aleppo",
+        "full_location_unique": "",
+        "number_of_beds_unique": "",
+        "item_name_engukr_unique": "Gown Isolation_Size L_Disposable Non-Sterile, Gown Isolation_Size XL_Disposable Non-Sterile, Gown Surgical_Size L_Disposable Non Sterile, Gown Surgical_Size X L_Disposable Non Sterile, Suction tube, Face Shield, Suction Catheter_CH 14, Suction Catheter_CH 18, Safety Needle_23 G, Safety Needle_25 G, Safety Needle_25 G, Safety Needle_27 G, Safety Needle_30 G, Hypodermic Needle_G 27, Hypodermic Needle_G 20, Hypodermic Needle_G 25, Nasal Cannula_Adult, Iv Cannula_G 20, Syringe_1 ML, Syringe_1 ML, Syringe-Without Needle_5 ML, Syringe-Without Needle_20 ML, Anesthesia Breathing Circuit_Close, Plaster Silk_3.8 CM Ã 13.7 M_Roll, Gloves Examination_Small_Latex Non Sterile, Mask Oxygen_Adult, Anesthesia Face Mask-Adult, Resuscitator , Hand-Operated-Silicone Bag , Silicone Face Mask , Oxygen Reservoir And Tubing_Adult_, Syringe-Without Needle_10 ML, Hypodermic Needle_G 25",
+        "total_item_quantity": "10882.0",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "",
         "info_box_text": "",
         "landing_page_link": "",
         "date_last_updated_new_data": ""
