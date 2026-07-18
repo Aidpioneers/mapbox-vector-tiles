@@ -18352,6 +18352,2374 @@
         "landing_page_link": "",
         "date_last_updated_new_data": ""
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.04,
+          48.4675
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MUA36",
+        "cure_id_unique": "52510",
+        "freight_forwarder": "SEKO",
+        "donor_unique": "Porticus & B2C",
+        "donor_logos": "https://drive.google.com/file/d/1fuozKbX9i8gGst9fO4YbPo-ffDBJ1TLp/view?usp=sharing",
+        "country_unique": "Ukraine",
+        "distribution_number_unique": "230, 234, 267, 277, 293",
+        "distribution_id_unique": "Razom230_02/26",
+        "shipment_period_unique": "Feb-26",
+        "type_of_medical_institution_unique": "Charitable Organization",
+        "unique_hospital_names_eng": "NGO \"Rotary Club \"Dnipro City\"",
+        "safe_hospital_names": "",
+        "region_unique": "",
+        "full_location_unique": "",
+        "number_of_beds_unique": "",
+        "item_name_engukr_unique": "Vital sign Monitor, Overbed (Tray) Table, Infant Diapers, Tonometer, Wet wipes (pack), Commode Seats, Gloves non-sterile, Wheelchair, Adult Pampers, surgical sutures, Bandages and dressings",
+        "total_item_quantity": "241.0",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "",
+        "info_box_text": "",
+        "landing_page_link": "",
+        "date_last_updated_new_data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.04,
+          48.4675
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MUA36",
+        "cure_id_unique": "52510",
+        "freight_forwarder": "SEKO",
+        "donor_unique": "Porticus & B2C",
+        "donor_logos": "https://drive.google.com/file/d/1fuozKbX9i8gGst9fO4YbPo-ffDBJ1TLp/view?usp=sharing",
+        "country_unique": "Ukraine",
+        "distribution_number_unique": "231",
+        "distribution_id_unique": "Razom231_02/26",
+        "shipment_period_unique": "Feb-26",
+        "type_of_medical_institution_unique": "Hospital",
+        "unique_hospital_names_eng": "MUNICIPAL NON-PROFIT SOCIETY \"DNIPROPETROVSK REGIONAL HOSPITAL FOR WAR VETERANS\" OF DNIPROPETROVSK REGIONAL COUNCIL\"",
+        "safe_hospital_names": "",
+        "region_unique": "",
+        "full_location_unique": "",
+        "number_of_beds_unique": "",
+        "item_name_engukr_unique": "Shoe covers, Cotton applicators, Disinfectant and Skin Cleansing Products, Waste-Disposal Units, Sharps, Biohazard Bags and boxes, Stacking Storage Bins, Fleece Throw Blanket, Patient Transfer Sheet, office chair, Stand, Mayo, W/ Tray, Bedside Table",
+        "total_item_quantity": "24.0",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "",
+        "info_box_text": "",
+        "landing_page_link": "",
+        "date_last_updated_new_data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.8667,
+          48.5167
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MUA36",
+        "cure_id_unique": "52510",
+        "freight_forwarder": "SEKO",
+        "donor_unique": "Porticus & B2C",
+        "donor_logos": "https://drive.google.com/file/d/1fuozKbX9i8gGst9fO4YbPo-ffDBJ1TLp/view?usp=sharing",
+        "country_unique": "Ukraine",
+        "distribution_number_unique": "232",
+        "distribution_id_unique": "Razom232_02/26",
+        "shipment_period_unique": "Feb-26",
+        "type_of_medical_institution_unique": "Hospital",
+        "unique_hospital_names_eng": "KNP \"PAVLOGRAD CITY HOSPITAL No. 1\" OF PAVLOGRAD CITY COUNCIL",
+        "safe_hospital_names": "",
+        "region_unique": "",
+        "full_location_unique": "",
+        "number_of_beds_unique": "",
+        "item_name_engukr_unique": "Ð¡ontactless thermometer, Disinfectant and Skin Cleansing Products, Biohazard Bags and boxes, Stacking Storage Bins, Chair visitors, Plastic bowl, General surgery kit, Exam Table Paper Rolls, Operating drape, Adult Pampers, Absorbent patient pads, Voltage converter 2000W, Fleece Throw Blanket, Patient Transfer Sheet, Enteral Feeding Supplies, Gloves Latex Free, Powder Free S, Gloves (sterile), Sterile Gowns, Thermometer Digital, Centrifuge, Hygiene kit adult (female), Preoperative skin preparation, Waste-Disposal Units, Sharps, nebulizer kit, Disposable scalpels, Infant Diapers, Lab supplies, Disposable cups",
+        "total_item_quantity": "10516.0",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "",
+        "info_box_text": "",
+        "landing_page_link": "",
+        "date_last_updated_new_data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.8967,
+          48.5911
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MUA36",
+        "cure_id_unique": "52510",
+        "freight_forwarder": "SEKO",
+        "donor_unique": "Porticus & B2C",
+        "donor_logos": "https://drive.google.com/file/d/1fuozKbX9i8gGst9fO4YbPo-ffDBJ1TLp/view?usp=sharing",
+        "country_unique": "Ukraine",
+        "distribution_number_unique": "233",
+        "distribution_id_unique": "Razom233_02/26",
+        "shipment_period_unique": "Feb-26",
+        "type_of_medical_institution_unique": "Hospital",
+        "unique_hospital_names_eng": "KNP \"PAVLOGRAD CENTRAL DISTRICT HOSPITAL\" OF VERBKIVSK VILLAGE COUNCIL",
+        "safe_hospital_names": "",
+        "region_unique": "",
+        "full_location_unique": "",
+        "number_of_beds_unique": "",
+        "item_name_engukr_unique": "Cotton applicators, Disinfectant and Skin Cleansing Products, Chair visitors, Ortho: dressing, Gloves Latex Free, Powder Free S, Gloves (sterile), IV Pole, Obstetrical kit",
+        "total_item_quantity": "2114.0",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "",
+        "info_box_text": "",
+        "landing_page_link": "",
+        "date_last_updated_new_data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.0953,
+          48.315
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MUA36",
+        "cure_id_unique": "52510",
+        "freight_forwarder": "SEKO",
+        "donor_unique": "Porticus & B2C",
+        "donor_logos": "https://drive.google.com/file/d/1fuozKbX9i8gGst9fO4YbPo-ffDBJ1TLp/view?usp=sharing",
+        "country_unique": "Ukraine",
+        "distribution_number_unique": "235",
+        "distribution_id_unique": "Razom235_02/26",
+        "shipment_period_unique": "Feb-26",
+        "type_of_medical_institution_unique": "Hospital",
+        "unique_hospital_names_eng": "KNP \"Kosivskyi Central Medical Center\"",
+        "safe_hospital_names": "",
+        "region_unique": "",
+        "full_location_unique": "",
+        "number_of_beds_unique": "",
+        "item_name_engukr_unique": "Waste-Disposal Units, Sharps, Digital scale, Infant Diapers, Adult Pampers, Exam Table Paper Rolls, Gloves Latex Free, Powder Free S, Non Sterile Napkins, Tonometer, Disposable scalpels, Absorbent patient pads, infant scale",
+        "total_item_quantity": "12041.0",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "",
+        "info_box_text": "",
+        "landing_page_link": "",
+        "date_last_updated_new_data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.5948,
+          49.5535
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MUA36",
+        "cure_id_unique": "52510",
+        "freight_forwarder": "SEKO",
+        "donor_unique": "Porticus & B2C",
+        "donor_logos": "https://drive.google.com/file/d/1fuozKbX9i8gGst9fO4YbPo-ffDBJ1TLp/view?usp=sharing",
+        "country_unique": "Ukraine",
+        "distribution_number_unique": "236, 272, 306",
+        "distribution_id_unique": "Razom236_02/26",
+        "shipment_period_unique": "Feb-26",
+        "type_of_medical_institution_unique": "Blood Collection Center",
+        "unique_hospital_names_eng": "KNP \"Ternopil Regional Center for Blood Service\"",
+        "safe_hospital_names": "",
+        "region_unique": "",
+        "full_location_unique": "",
+        "number_of_beds_unique": "",
+        "item_name_engukr_unique": "Shoe covers, Gloves non-sterile, Biohazard Bags and boxes, Vital sign Monitor, Non Sterile Napkins, Gloves Latex Free, Powder Free S, stethoscope, Exam Table Paper Rolls, Waste-Disposal Units, Sharps, Lab supplies, IV Stand, Transpore tape, Alcohol wipes, Non sterile towels, Laboratory glassware, plastic, Desinfection wipes, Biohazard Bags and boxes, Figs tops, female, Figs pants, female, Voltage converter 1500W, Transpore tape",
+        "total_item_quantity": "4148.0",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "",
+        "info_box_text": "",
+        "landing_page_link": "",
+        "date_last_updated_new_data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.5534,
+          48.4489
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MUA36",
+        "cure_id_unique": "52510",
+        "freight_forwarder": "SEKO",
+        "donor_unique": "Porticus & B2C",
+        "donor_logos": "https://drive.google.com/file/d/1fuozKbX9i8gGst9fO4YbPo-ffDBJ1TLp/view?usp=sharing",
+        "country_unique": "Ukraine",
+        "distribution_number_unique": "237, 271, 307",
+        "distribution_id_unique": "Razom237_02/26",
+        "shipment_period_unique": "Feb-26",
+        "type_of_medical_institution_unique": "Hospital",
+        "unique_hospital_names_eng": "KNP \"Yaremcha Central City Hospital\"",
+        "safe_hospital_names": "",
+        "region_unique": "",
+        "full_location_unique": "",
+        "number_of_beds_unique": "",
+        "item_name_engukr_unique": "Defibrillator, Ð¡ontactless thermometer, Vital sign Monitor, Disposable scalpels, Gloves (sterile), Stethoscope, Thermometer digital, surgical blades, Orthopedic Instruments, Nebulizer kit, Shoe covers, Conmed foot controlled suction coagulator 10 fr, Laceration Tray, Endoscopy supplies and procedures, Surgical set (for hospitals), Laparoscopic supplies, Sutgical supplies - Arthrex, Irrigation Set, Piston Syringe",
+        "total_item_quantity": "556.0",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "",
+        "info_box_text": "",
+        "landing_page_link": "",
+        "date_last_updated_new_data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.5003,
+          48.6675
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MUA36",
+        "cure_id_unique": "52510",
+        "freight_forwarder": "SEKO",
+        "donor_unique": "Porticus & B2C",
+        "donor_logos": "https://drive.google.com/file/d/1fuozKbX9i8gGst9fO4YbPo-ffDBJ1TLp/view?usp=sharing",
+        "country_unique": "Ukraine",
+        "distribution_number_unique": "238, 242",
+        "distribution_id_unique": "Razom238_02/26",
+        "shipment_period_unique": "Feb-26",
+        "type_of_medical_institution_unique": "Hospital",
+        "unique_hospital_names_eng": "KNP \"Gorodenkivsk Multidisciplinary Hospital for Intensive Care\" OF Horodenkivsk City Council",
+        "safe_hospital_names": "",
+        "region_unique": "",
+        "full_location_unique": "",
+        "number_of_beds_unique": "",
+        "item_name_engukr_unique": "Mattress, Wheelchair, Transport chair, Commode Seats, Lift - Patient electro, Hospital Bed, Stretcher - Medical Positioning, Hospital Bed",
+        "total_item_quantity": "22.0",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "",
+        "info_box_text": "",
+        "landing_page_link": "",
+        "date_last_updated_new_data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.747,
+          47.806
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MUA36",
+        "cure_id_unique": "52510",
+        "freight_forwarder": "SEKO",
+        "donor_unique": "Porticus & B2C",
+        "donor_logos": "https://drive.google.com/file/d/1fuozKbX9i8gGst9fO4YbPo-ffDBJ1TLp/view?usp=sharing",
+        "country_unique": "Ukraine",
+        "distribution_number_unique": "239, 309",
+        "distribution_id_unique": "Razom239_03/26",
+        "shipment_period_unique": "Mar-26",
+        "type_of_medical_institution_unique": "Hospital",
+        "unique_hospital_names_eng": "MUNICIPAL ENTERPRISE \"TOMAKIV CENTRAL DISTRICT HOSPITAL\" OF TOMAKIV VILLAGE COUNCIL",
+        "safe_hospital_names": "",
+        "region_unique": "",
+        "full_location_unique": "",
+        "number_of_beds_unique": "",
+        "item_name_engukr_unique": "Suction machine, Stacking Storage Bins, General surgery kit, Nebuliser, Exam Table Paper Rolls, Hospital Clothes, Operating drape, Ortho: dressing, Voltage converter 2000W, Patient Transfer Sheet, Gloves Latex Free, Powder Free S, Gloves (sterile), Thermometer digital, Surgical Stapler, surgical blades, Head Lamp, laryngeal masks",
+        "total_item_quantity": "10374.0",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "",
+        "info_box_text": "",
+        "landing_page_link": "",
+        "date_last_updated_new_data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.6042,
+          47.6447
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MUA36",
+        "cure_id_unique": "52510",
+        "freight_forwarder": "SEKO",
+        "donor_unique": "Porticus & B2C",
+        "donor_logos": "https://drive.google.com/file/d/1fuozKbX9i8gGst9fO4YbPo-ffDBJ1TLp/view?usp=sharing",
+        "country_unique": "Ukraine",
+        "distribution_number_unique": "240",
+        "distribution_id_unique": "Razom240_03/26",
+        "shipment_period_unique": "Mar-26",
+        "type_of_medical_institution_unique": "Hospital",
+        "unique_hospital_names_eng": "MUNICIPAL ENTERPRISE \"MARHANETS CENTRAL CITY HOSPITAL OF MARHANETS CITY COUNCIL\"\"",
+        "safe_hospital_names": "",
+        "region_unique": "",
+        "full_location_unique": "",
+        "number_of_beds_unique": "",
+        "item_name_engukr_unique": "Hospital linens, Surgical clipper, Stacking Storage Bins, Wheelchair, Skin marker, General surgery kit, Nebuliser, Adult Pampers, Absorbent patient pads, Bandages and dressings, Voltage converter 2000W, Fleece Throw Blanket, Commode Seats, Enteral Feeding Supplies, Gloves (sterile), Sterile Gowns, Urological set, IV Pole, Orthopedic Instruments, Defibrillator, GI Nasogastric Tubes, Hospital clothes, Operating drape, Ortho: dressing, Gloves non-sterile, Sterilization Wrap, Surgical instruments",
+        "total_item_quantity": "375.0",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "",
+        "info_box_text": "",
+        "landing_page_link": "",
+        "date_last_updated_new_data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.3817,
+          49.0648
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MUA36",
+        "cure_id_unique": "52510",
+        "freight_forwarder": "SEKO",
+        "donor_unique": "Porticus & B2C",
+        "donor_logos": "https://drive.google.com/file/d/1fuozKbX9i8gGst9fO4YbPo-ffDBJ1TLp/view?usp=sharing",
+        "country_unique": "Ukraine",
+        "distribution_number_unique": "241, 311",
+        "distribution_id_unique": "Razom241_03/26",
+        "shipment_period_unique": "Mar-26",
+        "type_of_medical_institution_unique": "Hospital",
+        "unique_hospital_names_eng": "KNP \"Buchachka City Hospital\"",
+        "safe_hospital_names": "",
+        "region_unique": "",
+        "full_location_unique": "",
+        "number_of_beds_unique": "",
+        "item_name_engukr_unique": "Bandages and dressings, Surgical Stapler, Voltage converter 300W, Gloves Latex Free, Powder Free S, THERMOMETER DIGITAL, Suction kit, urological set, IV Pole, General surgery kit, Voltage converter 500W, Pillow, Enteral Feeding Supplies, Surgical clipper, Surgical blades, Foam refrigerant brick",
+        "total_item_quantity": "8150.0",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "",
+        "info_box_text": "",
+        "landing_page_link": "",
+        "date_last_updated_new_data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.4269,
+          51.2546
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MUA36",
+        "cure_id_unique": "52510",
+        "freight_forwarder": "SEKO",
+        "donor_unique": "Porticus & B2C",
+        "donor_logos": "https://drive.google.com/file/d/1fuozKbX9i8gGst9fO4YbPo-ffDBJ1TLp/view?usp=sharing",
+        "country_unique": "Ukraine",
+        "distribution_number_unique": "243",
+        "distribution_id_unique": "Razom243_03/26",
+        "shipment_period_unique": "Mar-26",
+        "type_of_medical_institution_unique": "Hospital",
+        "unique_hospital_names_eng": "KNP \"Borznyanska City Hospital\"",
+        "safe_hospital_names": "",
+        "region_unique": "",
+        "full_location_unique": "",
+        "number_of_beds_unique": "",
+        "item_name_engukr_unique": "Adult Pampers, Transport chair",
+        "total_item_quantity": "6.0",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "",
+        "info_box_text": "",
+        "landing_page_link": "",
+        "date_last_updated_new_data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.4,
+          47.567
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MUA36",
+        "cure_id_unique": "52510",
+        "freight_forwarder": "SEKO",
+        "donor_unique": "Porticus & B2C",
+        "donor_logos": "https://drive.google.com/file/d/1fuozKbX9i8gGst9fO4YbPo-ffDBJ1TLp/view?usp=sharing",
+        "country_unique": "Ukraine",
+        "distribution_number_unique": "244",
+        "distribution_id_unique": "Razom244_03/26",
+        "shipment_period_unique": "Mar-26",
+        "type_of_medical_institution_unique": "Hospital",
+        "unique_hospital_names_eng": "MUNICIPAL ENTERPRISE \"NIKOPOL CITY HOSPITAL No. 4\" OF THE NIKOPOL CITY COUNCIL\"",
+        "safe_hospital_names": "",
+        "region_unique": "",
+        "full_location_unique": "",
+        "number_of_beds_unique": "",
+        "item_name_engukr_unique": "Suction kit, Stretcher - Medical Positioning, Skin marker, Suture material, Vital sign Monitor, Infusion supplies pack, Tracheostomy set, Bandages and dressings, Adult Pampers, Gloves Latex Free, Powder Free S, Exam chair, Thermometer digital, Surgical blades, Orthopedic Instruments, Plastic bowl, Suction machine, Ð¡ontactless thermometer, Stacking Storage Bins, Mattress, Blood collection set, Linen kit, Nebuliser, Exam Table Paper Rolls, Absorbent patient pads, Gloves (sterile), Sterile Gowns",
+        "total_item_quantity": "14558.0",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "",
+        "info_box_text": "",
+        "landing_page_link": "",
+        "date_last_updated_new_data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.1546,
+          47.5535
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MUA36",
+        "cure_id_unique": "52510",
+        "freight_forwarder": "SEKO",
+        "donor_unique": "Porticus & B2C",
+        "donor_logos": "https://drive.google.com/file/d/1fuozKbX9i8gGst9fO4YbPo-ffDBJ1TLp/view?usp=sharing",
+        "country_unique": "Ukraine",
+        "distribution_number_unique": "245",
+        "distribution_id_unique": "Razom245_03/26",
+        "shipment_period_unique": "Mar-26",
+        "type_of_medical_institution_unique": "Hospital",
+        "unique_hospital_names_eng": "KP \"Nikopol Hospital\" of the Pokrovsk Village Council",
+        "safe_hospital_names": "",
+        "region_unique": "",
+        "full_location_unique": "",
+        "number_of_beds_unique": "",
+        "item_name_engukr_unique": "Surgical clipper, Stacking Storage Bins, Vital sign Monitor, Adult Pampers, Fleece Throw Blanket, Gloves Latex Free, Powder Free S, Gloves non-sterile, Thermometer digital, Trauma / orthopedics, Tonometer, Oxygen tank, Chair visitors, Z Flo fludized positioner",
+        "total_item_quantity": "6028.0",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "",
+        "info_box_text": "",
+        "landing_page_link": "",
+        "date_last_updated_new_data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.4,
+          47.567
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MUA36",
+        "cure_id_unique": "52510",
+        "freight_forwarder": "SEKO",
+        "donor_unique": "Porticus & B2C",
+        "donor_logos": "https://drive.google.com/file/d/1fuozKbX9i8gGst9fO4YbPo-ffDBJ1TLp/view?usp=sharing",
+        "country_unique": "Ukraine",
+        "distribution_number_unique": "246",
+        "distribution_id_unique": "Razom246_03/26",
+        "shipment_period_unique": "Mar-26",
+        "type_of_medical_institution_unique": "Hospital",
+        "unique_hospital_names_eng": "KP \"NIKOPOL CHILDREN'S CITY HOSPITAL\" NMR\"",
+        "safe_hospital_names": "",
+        "region_unique": "",
+        "full_location_unique": "",
+        "number_of_beds_unique": "",
+        "item_name_engukr_unique": "Defibrillator, Stacking Storage Bins, Blood collection set, Tracheostomy set, Nebuliser, Exam Table Paper Rolls, Adult Pampers, Absorbent patient pads, Bandages and dressings, Voltage converter 2000W, Cotton applicators, Biohazard Bags and boxes, Otolaryngology swabs, Patient Transfer Sheet, Tonometer",
+        "total_item_quantity": "1050.0",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "",
+        "info_box_text": "",
+        "landing_page_link": "",
+        "date_last_updated_new_data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.04,
+          48.4675
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MUA36",
+        "cure_id_unique": "52510",
+        "freight_forwarder": "SEKO",
+        "donor_unique": "Porticus & B2C",
+        "donor_logos": "https://drive.google.com/file/d/1fuozKbX9i8gGst9fO4YbPo-ffDBJ1TLp/view?usp=sharing",
+        "country_unique": "Ukraine",
+        "distribution_number_unique": "247",
+        "distribution_id_unique": "Razom247_03/26",
+        "shipment_period_unique": "Mar-26",
+        "type_of_medical_institution_unique": "Hospital",
+        "unique_hospital_names_eng": "KNP \"MUNICIPAL MULTIPROFILE CLINICAL HOSPITAL FOR MOTHER AND CHILDREN NAMED AFTER PROF. M. F. RUDNEV\" DNIPROV CITY COUNCIL",
+        "safe_hospital_names": "",
+        "region_unique": "",
+        "full_location_unique": "",
+        "number_of_beds_unique": "",
+        "item_name_engukr_unique": "Voltage converter 2000W, Voltage converter 300W, Voltage converter 200W, Gloves Latex Free, Powder Free S, Thermometer digital, Surgical sutures, Vital sign Monitor, Hats and caps",
+        "total_item_quantity": "4297.0",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "",
+        "info_box_text": "",
+        "landing_page_link": "",
+        "date_last_updated_new_data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.0,
+          50.3667
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MUA36",
+        "cure_id_unique": "52510",
+        "freight_forwarder": "SEKO",
+        "donor_unique": "Porticus & B2C",
+        "donor_logos": "https://drive.google.com/file/d/1fuozKbX9i8gGst9fO4YbPo-ffDBJ1TLp/view?usp=sharing",
+        "country_unique": "Ukraine",
+        "distribution_number_unique": "248",
+        "distribution_id_unique": "Razom248_03/26",
+        "shipment_period_unique": "Mar-26",
+        "type_of_medical_institution_unique": "Hospital",
+        "unique_hospital_names_eng": "MUNICIPAL NON-COMMERCIAL ENTERPRISE \"HADYATSK CITY CENTRAL HOSPITAL\" OF HADYATSK CITY COUNCIL",
+        "safe_hospital_names": "",
+        "region_unique": "",
+        "full_location_unique": "",
+        "number_of_beds_unique": "",
+        "item_name_engukr_unique": "Adult Pampers",
+        "total_item_quantity": "5.0",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "",
+        "info_box_text": "",
+        "landing_page_link": "",
+        "date_last_updated_new_data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.0,
+          50.3667
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MUA36",
+        "cure_id_unique": "52510",
+        "freight_forwarder": "SEKO",
+        "donor_unique": "Porticus & B2C",
+        "donor_logos": "https://drive.google.com/file/d/1fuozKbX9i8gGst9fO4YbPo-ffDBJ1TLp/view?usp=sharing",
+        "country_unique": "Ukraine",
+        "distribution_number_unique": "249",
+        "distribution_id_unique": "Razom249_03/26",
+        "shipment_period_unique": "Mar-26",
+        "type_of_medical_institution_unique": "Hospital",
+        "unique_hospital_names_eng": "KNP \"Hadyatsky Center for Primary of medical and sanitary assistance\" of Hadyatsk City Council",
+        "safe_hospital_names": "",
+        "region_unique": "",
+        "full_location_unique": "",
+        "number_of_beds_unique": "",
+        "item_name_engukr_unique": "Plastic bowl, Voltage converter 200W, Thermometer digital, Gloves Latex Free, Powder Free S, Therapeutic tool",
+        "total_item_quantity": "2030.0",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "",
+        "info_box_text": "",
+        "landing_page_link": "",
+        "date_last_updated_new_data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.5383,
+          48.8069
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MUA36",
+        "cure_id_unique": "52510",
+        "freight_forwarder": "SEKO",
+        "donor_unique": "Porticus & B2C",
+        "donor_logos": "https://drive.google.com/file/d/1fuozKbX9i8gGst9fO4YbPo-ffDBJ1TLp/view?usp=sharing",
+        "country_unique": "Ukraine",
+        "distribution_number_unique": "250, 317",
+        "distribution_id_unique": "Razom250_03/26",
+        "shipment_period_unique": "Mar-26",
+        "type_of_medical_institution_unique": "Hospital",
+        "unique_hospital_names_eng": "MUNICIPAL NON-COMMERCIAL ENTERPRISE \"BOGORODCHANSKA CENTRAL HOSPITAL\" OF BOGORODCHANSKA VILLAGE COUNCIL",
+        "safe_hospital_names": "",
+        "region_unique": "",
+        "full_location_unique": "",
+        "number_of_beds_unique": "",
+        "item_name_engukr_unique": "Oxygen cart, Crutches, Canes, Procedure light, Thermometer digital, Stylets, Intubating",
+        "total_item_quantity": "77.0",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "",
+        "info_box_text": "",
+        "landing_page_link": "",
+        "date_last_updated_new_data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.5234,
+          50.4501
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MUA36",
+        "cure_id_unique": "52510",
+        "freight_forwarder": "SEKO",
+        "donor_unique": "Porticus & B2C",
+        "donor_logos": "https://drive.google.com/file/d/1fuozKbX9i8gGst9fO4YbPo-ffDBJ1TLp/view?usp=sharing",
+        "country_unique": "Ukraine",
+        "distribution_number_unique": "251, 264, 283",
+        "distribution_id_unique": "Razom251_03/26",
+        "shipment_period_unique": "Mar-26",
+        "type_of_medical_institution_unique": "Hospital",
+        "unique_hospital_names_eng": "KNP \"Kyiv City Clinical Hospital No. 7\"",
+        "safe_hospital_names": "",
+        "region_unique": "",
+        "full_location_unique": "",
+        "number_of_beds_unique": "",
+        "item_name_engukr_unique": "Exam table, Laryngoscope handle, Nasal cannula, Figs tops, female, Figs top, male, Waste-Disposal Units, Sharps, Bandages and dressings, Sterile Gowns, Crutches, Gloves Latex Free, Powder Free S, Gloves (sterile), trauma / orthopedics, surgical sutures, Vital sign Monitor, High Temperature Cautery, Wheel chair",
+        "total_item_quantity": "5970.0",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "",
+        "info_box_text": "",
+        "landing_page_link": "",
+        "date_last_updated_new_data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.6169,
+          46.6354
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MUA36",
+        "cure_id_unique": "52510",
+        "freight_forwarder": "SEKO",
+        "donor_unique": "Porticus & B2C",
+        "donor_logos": "https://drive.google.com/file/d/1fuozKbX9i8gGst9fO4YbPo-ffDBJ1TLp/view?usp=sharing",
+        "country_unique": "Ukraine",
+        "distribution_number_unique": "252",
+        "distribution_id_unique": "Razom252_03/26",
+        "shipment_period_unique": "Mar-26",
+        "type_of_medical_institution_unique": "Hospital",
+        "unique_hospital_names_eng": "MUNICIPAL NON-COMMERCIAL ENTERPRISE \"Kherson Regional Clinical Hospital\" of Kherson Regional Council",
+        "safe_hospital_names": "",
+        "region_unique": "",
+        "full_location_unique": "",
+        "number_of_beds_unique": "",
+        "item_name_engukr_unique": "Shoe covers, Absorbent patient pads, Gloves Latex Free, Powder Free S, Sterile Gowns, IV Pole, Digital scale",
+        "total_item_quantity": "3091.0",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "",
+        "info_box_text": "",
+        "landing_page_link": "",
+        "date_last_updated_new_data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.4407,
+          48.4999
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MUA36",
+        "cure_id_unique": "52510",
+        "freight_forwarder": "SEKO",
+        "donor_unique": "Porticus & B2C",
+        "donor_logos": "https://drive.google.com/file/d/1fuozKbX9i8gGst9fO4YbPo-ffDBJ1TLp/view?usp=sharing",
+        "country_unique": "Ukraine",
+        "distribution_number_unique": "253",
+        "distribution_id_unique": "Razom253_03/26",
+        "shipment_period_unique": "Mar-26",
+        "type_of_medical_institution_unique": "Hospital",
+        "unique_hospital_names_eng": "KNP \"Novoukrainska City Hospital\"",
+        "safe_hospital_names": "",
+        "region_unique": "",
+        "full_location_unique": "",
+        "number_of_beds_unique": "",
+        "item_name_engukr_unique": "Surgical sutures, Exam table, Oxygen cart, Laryngoscope blade, Plastic bowl, Exam chair",
+        "total_item_quantity": "289.0",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "",
+        "info_box_text": "",
+        "landing_page_link": "",
+        "date_last_updated_new_data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2849,
+          51.5055
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MUA36",
+        "cure_id_unique": "52510",
+        "freight_forwarder": "SEKO",
+        "donor_unique": "Porticus & B2C",
+        "donor_logos": "https://drive.google.com/file/d/1fuozKbX9i8gGst9fO4YbPo-ffDBJ1TLp/view?usp=sharing",
+        "country_unique": "Ukraine",
+        "distribution_number_unique": "254, 256, 320, 322",
+        "distribution_id_unique": "Razom254_03/26",
+        "shipment_period_unique": "Mar-26",
+        "type_of_medical_institution_unique": "Hospital",
+        "unique_hospital_names_eng": "KNP \"Chernihiv Central District Hospital\"",
+        "safe_hospital_names": "",
+        "region_unique": "",
+        "full_location_unique": "",
+        "number_of_beds_unique": "",
+        "item_name_engukr_unique": "Syringes/needles, Surgical sutures, Voltage converter 2000W, Voltage converter 300W, Exam table, Syringes/needles, Irrigation Set, Piston Syringe, Irrigation syringe 60ml, supraglottic airway I-gel, Forcep electrosurgical",
+        "total_item_quantity": "198.0",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "",
+        "info_box_text": "",
+        "landing_page_link": "",
+        "date_last_updated_new_data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.58,
+          50.93
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MUA36",
+        "cure_id_unique": "52510",
+        "freight_forwarder": "SEKO",
+        "donor_unique": "Porticus & B2C",
+        "donor_logos": "https://drive.google.com/file/d/1fuozKbX9i8gGst9fO4YbPo-ffDBJ1TLp/view?usp=sharing",
+        "country_unique": "Ukraine",
+        "distribution_number_unique": "255",
+        "distribution_id_unique": "Razom255_03/26",
+        "shipment_period_unique": "Mar-26",
+        "type_of_medical_institution_unique": "Hospital",
+        "unique_hospital_names_eng": "KNP \"Nosivka City Hospital named after F.Ya. Primak\" Nosivka City Council",
+        "safe_hospital_names": "",
+        "region_unique": "",
+        "full_location_unique": "",
+        "number_of_beds_unique": "",
+        "item_name_engukr_unique": "Crutches",
+        "total_item_quantity": "5.0",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "",
+        "info_box_text": "",
+        "landing_page_link": "",
+        "date_last_updated_new_data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.598,
+          48.5094
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MUA36",
+        "cure_id_unique": "52510",
+        "freight_forwarder": "SEKO",
+        "donor_unique": "Porticus & B2C",
+        "donor_logos": "https://drive.google.com/file/d/1fuozKbX9i8gGst9fO4YbPo-ffDBJ1TLp/view?usp=sharing",
+        "country_unique": "Ukraine",
+        "distribution_number_unique": "257, 260, 287, 323, 325",
+        "distribution_id_unique": "Razom257_03/26",
+        "shipment_period_unique": "Mar-26",
+        "type_of_medical_institution_unique": "Hospital",
+        "unique_hospital_names_eng": "KNP of Kamianka City Council \"City Hospital No. 9\"",
+        "safe_hospital_names": "",
+        "region_unique": "",
+        "full_location_unique": "",
+        "number_of_beds_unique": "",
+        "item_name_engukr_unique": "Transport chair, Crutches, Plastic bowl, Vital sign Monitor, Adult Pampers, Voltage converter 200W, Voltage converter 300W, Gloves Latex Free, Powder Free S, Exam chair, THERMOMETER DIGITAL, Hats and caps, Syringes/needles, Rollator, hospital linens, Orthopedic Instruments, Infusion Pump, Suction kit, Stretcher - Medical Positioning, Skin marker, Suture material, Gowns/Drapes, CPAP Set, Blood collection set, Suture pack, Infusion supplies pack, Tracheostomy set, Welch Allyn Otoscope Ophthalmoscope, Bandages and dressings, Voltage converter 1500W, Fleece Throw Blanket, Commode Seats, Oxygen tank regulator, Respiratory Kit, Urological set, Surgical Stapler, Irrigation syringes, IV Pole, Walkers, Figs tops, female, Waste-Disposal Units, Sharps, Biohazard Bags and boxes, Hospital Bed, Tracheostomy set, Adult Pampers, Bandages and dressings, Voltage converter 300W, urological set, Laryngoscope, Bassinet, Stylets, Intubating, Irrigation syringe 60ml, Arthrex AR-8925SS, Crutches, Canes, Transpore tape, Oropharyngeal airway, Wheelchair cushion, Respiratory Kit, Stylets, Intubating",
+        "total_item_quantity": "6339.0",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "",
+        "info_box_text": "",
+        "landing_page_link": "",
+        "date_last_updated_new_data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3411,
+          46.1939
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MUA36",
+        "cure_id_unique": "52510",
+        "freight_forwarder": "SEKO",
+        "donor_unique": "Porticus & B2C",
+        "donor_logos": "https://drive.google.com/file/d/1fuozKbX9i8gGst9fO4YbPo-ffDBJ1TLp/view?usp=sharing",
+        "country_unique": "Ukraine",
+        "distribution_number_unique": "258, 270",
+        "distribution_id_unique": "Razom258_03/26",
+        "shipment_period_unique": "Mar-26",
+        "type_of_medical_institution_unique": "Hospital",
+        "unique_hospital_names_eng": "KNP \"Regional Psychiatric Hospital No. 4\" OOR",
+        "safe_hospital_names": "",
+        "region_unique": "",
+        "full_location_unique": "",
+        "number_of_beds_unique": "",
+        "item_name_engukr_unique": "Centrifuge, Adult Pampers, Gloves (sterile), Tonometer, Exam Table Paper Rolls, Waste-Disposal Units, Sharps, disposable cups, Hats and caps, Bed rail, Hospital Bed, Higiene kit, Commode Seats, Transpore tape, Antiseptic wipes, Alcohol wipes, Non sterile towels, Desinfection wipes, Biohazard Bags and boxes, Figs pants, male, Figs pants, female, Infusion Pump, Sterile tray liner",
+        "total_item_quantity": "645.0",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "",
+        "info_box_text": "",
+        "landing_page_link": "",
+        "date_last_updated_new_data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.0822,
+          48.6308
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MUA36",
+        "cure_id_unique": "52510",
+        "freight_forwarder": "SEKO",
+        "donor_unique": "Porticus & B2C",
+        "donor_logos": "https://drive.google.com/file/d/1fuozKbX9i8gGst9fO4YbPo-ffDBJ1TLp/view?usp=sharing",
+        "country_unique": "Ukraine",
+        "distribution_number_unique": "259, 324",
+        "distribution_id_unique": "Razom259_03/26",
+        "shipment_period_unique": "Mar-26",
+        "type_of_medical_institution_unique": "Hospital",
+        "unique_hospital_names_eng": "KNP \"Vilshanska Hospital\"",
+        "safe_hospital_names": "",
+        "region_unique": "",
+        "full_location_unique": "",
+        "number_of_beds_unique": "",
+        "item_name_engukr_unique": "Crutches, Walkers, Voltage converter 200W, Exam table, Bassinet",
+        "total_item_quantity": "11.0",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "",
+        "info_box_text": "",
+        "landing_page_link": "",
+        "date_last_updated_new_data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.9078,
+          51.6765
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MUA36",
+        "cure_id_unique": "52510",
+        "freight_forwarder": "SEKO",
+        "donor_unique": "Porticus & B2C",
+        "donor_logos": "https://drive.google.com/file/d/1fuozKbX9i8gGst9fO4YbPo-ffDBJ1TLp/view?usp=sharing",
+        "country_unique": "Ukraine",
+        "distribution_number_unique": "261",
+        "distribution_id_unique": "Razom261_03/26",
+        "shipment_period_unique": "Mar-26",
+        "type_of_medical_institution_unique": "Hospital",
+        "unique_hospital_names_eng": "MUNICIPAL NON-COMMERCIAL ENTERPRISE \"GLUKHIV CITY HOSPITAL\" OF GLUKHIV CITY COUNCIL",
+        "safe_hospital_names": "",
+        "region_unique": "",
+        "full_location_unique": "",
+        "number_of_beds_unique": "",
+        "item_name_engukr_unique": "Laryngoscope blade, syringes/needles, Laryngoscope, Canes, Trauma / orthopedics",
+        "total_item_quantity": "83.0",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "",
+        "info_box_text": "",
+        "landing_page_link": "",
+        "date_last_updated_new_data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9355,
+          48.3364
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MUA36",
+        "cure_id_unique": "52510",
+        "freight_forwarder": "SEKO",
+        "donor_unique": "Porticus & B2C",
+        "donor_logos": "https://drive.google.com/file/d/1fuozKbX9i8gGst9fO4YbPo-ffDBJ1TLp/view?usp=sharing",
+        "country_unique": "Ukraine",
+        "distribution_number_unique": "262",
+        "distribution_id_unique": "Razom262_03/26",
+        "shipment_period_unique": "Mar-26",
+        "type_of_medical_institution_unique": "Hospital",
+        "unique_hospital_names_eng": "MUNICIPAL NON-COMMERCIAL ENTERPRISE \"CENTER OF PRIMARY MEDICAL AND SANITARY ASSISTANCE OF THE SURSK-LITOV VILLAGE COUNCIL OF THE DNIPROV DISTRICT OF THE DNIPROPETROV REGION\"",
+        "safe_hospital_names": "",
+        "region_unique": "",
+        "full_location_unique": "",
+        "number_of_beds_unique": "",
+        "item_name_engukr_unique": "CPAP Machine",
+        "total_item_quantity": "2.0",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "",
+        "info_box_text": "",
+        "landing_page_link": "",
+        "date_last_updated_new_data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.3804,
+          47.9097
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MUA36",
+        "cure_id_unique": "52510",
+        "freight_forwarder": "SEKO",
+        "donor_unique": "Porticus & B2C",
+        "donor_logos": "https://drive.google.com/file/d/1fuozKbX9i8gGst9fO4YbPo-ffDBJ1TLp/view?usp=sharing",
+        "country_unique": "Ukraine",
+        "distribution_number_unique": "263, 300, 327",
+        "distribution_id_unique": "Razom263_03/26",
+        "shipment_period_unique": "Mar-26",
+        "type_of_medical_institution_unique": "Charitable Organization",
+        "unique_hospital_names_eng": "NGO \"Iron Angels\"",
+        "safe_hospital_names": "",
+        "region_unique": "",
+        "full_location_unique": "",
+        "number_of_beds_unique": "",
+        "item_name_engukr_unique": "Wheelchair, Crutches, Walkers, Irrigation syringe 60ml, Ear, nose and throat pack, ortho: dressing, Bandages and dressings, Lab supplies, Enteral Feeding Supplies, Insulin syringes, Irrigation syringes, Rollator, Catheters, Insyte Autoguard, syringes/needles, Welch Allyn KleenSpec Disposable Dispenser",
+        "total_item_quantity": "486.0",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "",
+        "info_box_text": "",
+        "landing_page_link": "",
+        "date_last_updated_new_data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7125,
+          48.9231
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MUA36",
+        "cure_id_unique": "52510",
+        "freight_forwarder": "SEKO",
+        "donor_unique": "Porticus & B2C",
+        "donor_logos": "https://drive.google.com/file/d/1fuozKbX9i8gGst9fO4YbPo-ffDBJ1TLp/view?usp=sharing",
+        "country_unique": "Ukraine",
+        "distribution_number_unique": "265, 299, 328",
+        "distribution_id_unique": "Razom265_04/26",
+        "shipment_period_unique": "Apr-26",
+        "type_of_medical_institution_unique": "Hospital",
+        "unique_hospital_names_eng": "KNP \"CENTRAL CITY CLINICAL HOSPITAL IFMR\"",
+        "safe_hospital_names": "",
+        "region_unique": "",
+        "full_location_unique": "",
+        "number_of_beds_unique": "",
+        "item_name_engukr_unique": "Sample container, ortho: dressing, Transpore tape, Lab supplies, Tegaderm Dressing, Sterile Gowns, IV Pole, Cardiology equipment (catheterization), Laparoscopic supplies, General surgery kit, Surgery pack, Surgical set (for hospitals), supraglottic airway I-gel, Stylets, Intubating",
+        "total_item_quantity": "268.0",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "",
+        "info_box_text": "",
+        "landing_page_link": "",
+        "date_last_updated_new_data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.0953,
+          48.315
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MUA36",
+        "cure_id_unique": "52510",
+        "freight_forwarder": "SEKO",
+        "donor_unique": "Porticus & B2C",
+        "donor_logos": "https://drive.google.com/file/d/1fuozKbX9i8gGst9fO4YbPo-ffDBJ1TLp/view?usp=sharing",
+        "country_unique": "Ukraine",
+        "distribution_number_unique": "266",
+        "distribution_id_unique": "Razom266_04/26",
+        "shipment_period_unique": "Apr-26",
+        "type_of_medical_institution_unique": "Hospital",
+        "unique_hospital_names_eng": "MUNICIPAL NON-COMMERCIAL ENTERPRISE KOSIV CENTRAL DISTRICT HOSPITAL OF THE KOSIV CITY COUNCIL OF THE KOSIV DISTRICT OF THE IVANO-FRANKIV REGION",
+        "safe_hospital_names": "",
+        "region_unique": "",
+        "full_location_unique": "",
+        "number_of_beds_unique": "",
+        "item_name_engukr_unique": "Voltage converter 2000W, Bandages and dressings, Fleece Throw Blanket, Z Flo fludized positioner, Patient Transfer Sheet, Enteral Feeding Supplies, Gloves Latex Free, Powder Free S, Gloves (sterile), Sterile Gowns, Thermometer digital, Urological set, Surgical blades, Orthopedic Instruments, Disinfectant and Skin Cleansing Products, Obstetric Surgical Instrument Set, Stethoscope, Gloves non-sterile, Oxygen tank, Cotton applicators, Defibrillator, Biohazard Bags and boxes, Chair visitors, Skin marker, Suture pack, Linen kit, Exam Table Paper Rolls, Operating drape, Ortho Dressing, Otolaryngology swabs, Adult Pampers",
+        "total_item_quantity": "8622.0",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "",
+        "info_box_text": "",
+        "landing_page_link": "",
+        "date_last_updated_new_data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.717,
+          48.533
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MUA35",
+        "cure_id_unique": "42503",
+        "freight_forwarder": "SEKO",
+        "donor_unique": "Porticus & B2C",
+        "donor_logos": "https://drive.google.com/file/d/1fuozKbX9i8gGst9fO4YbPo-ffDBJ1TLp/view?usp=sharing",
+        "country_unique": "Ukraine",
+        "distribution_number_unique": "268",
+        "distribution_id_unique": "Razom268_12/25",
+        "shipment_period_unique": "Dec-25",
+        "type_of_medical_institution_unique": "Hospital",
+        "unique_hospital_names_eng": "MUNICIPAL ENTERPRISE \"CENTER OF PRIMARY MEDICAL AND SANITARY AID OF KOSTIANTYNIVSK CITY COUNCIL\"",
+        "safe_hospital_names": "",
+        "region_unique": "",
+        "full_location_unique": "",
+        "number_of_beds_unique": "",
+        "item_name_engukr_unique": "Medical furniture and office equipment, Higiene kit, Patient Socks, Exam Table Paper Rolls, Desinfection wipes, Biohazard Bags and boxes, Non Sterile Napkins",
+        "total_item_quantity": "120.0",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "",
+        "info_box_text": "",
+        "landing_page_link": "",
+        "date_last_updated_new_data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.8813,
+          50.3852
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MUA35",
+        "cure_id_unique": "42503",
+        "freight_forwarder": "SEKO",
+        "donor_unique": "Porticus & B2C",
+        "donor_logos": "https://drive.google.com/file/d/1fuozKbX9i8gGst9fO4YbPo-ffDBJ1TLp/view?usp=sharing",
+        "country_unique": "Ukraine",
+        "distribution_number_unique": "269, 285",
+        "distribution_id_unique": "Razom269_12/25",
+        "shipment_period_unique": "Dec-25",
+        "type_of_medical_institution_unique": "Charitable Organization",
+        "unique_hospital_names_eng": "Charitable organization \"Charitable Foundation \"Elmur\"",
+        "safe_hospital_names": "",
+        "region_unique": "",
+        "full_location_unique": "",
+        "number_of_beds_unique": "",
+        "item_name_engukr_unique": "Prophy paste with fluoride, Dental supplies, Tracheostomy set, Electrosurgical electrodes",
+        "total_item_quantity": "46.0",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "",
+        "info_box_text": "",
+        "landing_page_link": "",
+        "date_last_updated_new_data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.0953,
+          48.315
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MUA35",
+        "cure_id_unique": "42503",
+        "freight_forwarder": "SEKO",
+        "donor_unique": "Porticus & B2C",
+        "donor_logos": "https://drive.google.com/file/d/1fuozKbX9i8gGst9fO4YbPo-ffDBJ1TLp/view?usp=sharing",
+        "country_unique": "Ukraine",
+        "distribution_number_unique": "273, 281, 294, 329",
+        "distribution_id_unique": "Razom273_12/25",
+        "shipment_period_unique": "Dec-25",
+        "type_of_medical_institution_unique": "Hospital",
+        "unique_hospital_names_eng": "MUNICIPAL NON-PROFIT ENTERPRISE KOSIV CENTRAL DISTRICT HOSPITAL OF KOSIV CITY COUNCIL OF KOSIV DISTRICT OF IVANO-FRANKIV REGION",
+        "safe_hospital_names": "",
+        "region_unique": "",
+        "full_location_unique": "",
+        "number_of_beds_unique": "",
+        "item_name_engukr_unique": "Suction kit, Conmed foot controlled suction coagulator 10 fr, Mattress, ortho: Positioning pillows, Ð¡ontactless thermometer, Commode Seats, Gloves Latex Free, Powder Free S, Adult Pampers, Gloves (sterile), Sterile Gowns, procedure drapes, Waste-Disposal Units, Sharps, Hats and caps, Anesthesiology kit, CPAP mask, Preoperative skin preparation, Bandages and dressings, Alcohol wipes, Desinfection wipes, Biohazard Bags and boxes, central venous catherization kits, Exam Table Paper Rolls, Oxygen Supply Tubing with Corrugations, Adult Pampers, AMBU mask, Nasal cannula, Transpore tape, surgical sutures, Irrigation syringe 60ml, trauma / orthopedics, Figs pants, female, Infusion supplies pack",
+        "total_item_quantity": "32665.0",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "",
+        "info_box_text": "",
+        "landing_page_link": "",
+        "date_last_updated_new_data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.9055,
+          51.4109
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MUA35",
+        "cure_id_unique": "42503",
+        "freight_forwarder": "SEKO",
+        "donor_unique": "Porticus & B2C",
+        "donor_logos": "https://drive.google.com/file/d/1fuozKbX9i8gGst9fO4YbPo-ffDBJ1TLp/view?usp=sharing",
+        "country_unique": "Ukraine",
+        "distribution_number_unique": "274",
+        "distribution_id_unique": "Razom274_12/25",
+        "shipment_period_unique": "Dec-25",
+        "type_of_medical_institution_unique": "Hospital",
+        "unique_hospital_names_eng": "KNP \"Luhansk Regional Clinical Oncology Dispensary\"",
+        "safe_hospital_names": "",
+        "region_unique": "",
+        "full_location_unique": "",
+        "number_of_beds_unique": "",
+        "item_name_engukr_unique": "Conmed foot controlled suction coagulator 10 fr, Surgical set (for hospitals), Laparoscopic supplies, Ear, nose and throat pack, central venous catherization kits, Infusion supplies pack, Stomach tube, Surgery pack, Gloves Latex Free, Powder Free S, Forcep electrosurgical, Endotracheal intubation supplies, Adult Pampers, Gloves (sterile), Surgical clipper, Ðir humidifier, urological set, GI Anoscopes, General surgery kit, Catheters, Insyte Autoguard, Higiene kit, Insulin syringes, Tegaderm Dressing, Patient Socks, Patient transfer board, VASELINE PETROLATUM GAUZE STRIP, Alcohol wipes, ELECTRODE, Blood pressure cuff for leg, procedure drapes, Gowns/Drapes, Suction catheter tray, Waste-Disposal Units, Sharps, Hats and caps, Anesthesiology kit, Oxygen Supply Tubing with Corrugations, supraglottic airway I-gel, laryngeal masks, Oropharyngeal airway, Tracheostomy set, Humanitarian kit Project C.U.R.E., Suction kit, Suction machine, Nasal cannula, ThermoScan, oxygen tank regulator, Medical masks, laparoscopy/pelviscopy pack II, STERILIZATION WRAP, Gynecological tools, Absorbent patient pads",
+        "total_item_quantity": "6962.0",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "",
+        "info_box_text": "",
+        "landing_page_link": "",
+        "date_last_updated_new_data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.6169,
+          46.6354
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MUA35",
+        "cure_id_unique": "42503",
+        "freight_forwarder": "SEKO",
+        "donor_unique": "Porticus & B2C",
+        "donor_logos": "https://drive.google.com/file/d/1fuozKbX9i8gGst9fO4YbPo-ffDBJ1TLp/view?usp=sharing",
+        "country_unique": "Ukraine",
+        "distribution_number_unique": "275, 318",
+        "distribution_id_unique": "Razom275_12/25",
+        "shipment_period_unique": "Dec-25",
+        "type_of_medical_institution_unique": "Hospital",
+        "unique_hospital_names_eng": "Communal Non-Profit Enterprise \"Kherson Regional Clinical Hospital\" of Kherson Regional Council",
+        "safe_hospital_names": "",
+        "region_unique": "",
+        "full_location_unique": "",
+        "number_of_beds_unique": "",
+        "item_name_engukr_unique": "Conmed foot controlled suction coagulator 10 fr, Sutgical supplies - Arthrex, Laceration Tray, Endoscopy supplies and procedures, Surgical set (for hospitals), Laparoscopic supplies, Irrigation Set, Piston Syringe, Irrigation syringe 60ml, Ear, nose and throat pack, central venous catherization kits, Stomach tube, Surgery pack, Gloves Latex Free, Powder Free S, Laryngoscope, Nebuliser, Infusion Pump, Forcep electrosurgical, Endotracheal intubation supplies, Sterile Gowns, Tonometer, Pulseoximeter stationary, stethoscope, Ðir humidifier, laparoscopy/pelviscopy pack II, surgical sutures, procedure drapes, Exam Table Paper Rolls, Gowns/Drapes, Gynecological tools, Suction catheter tray, Waste-Disposal Units, Sharps, disposable cups, Hats and caps, Anesthesiology kit, Oxygen Supply Tubing with Corrugations, ophthalmology supplies, supraglottic airway I-gel, Tracheostomy set, Humanitarian kit Project C.U.R.E., Suction kit, urological set, hospital clothes, maternity kit/gynecology, GI Anoscopes, calorimeter, Preoperative skin preparation, Bandages and dressings, Lab supplies, Catheters, Insyte Autoguard, Commode Seats, Tegaderm Dressing, Transpore tape, Patient Socks, Patient transfer board, Alcohol wipes, Blood pressure cuff for leg, Non sterile towels, Laboratory glassware, plastic, Nasal cannula, ortho: dressing, pulse oximeter, Pneumothorax Kit, Centrifuge, Non Sterile Napkins, nebulizer kit, adult blood pressure cuff, Body Bags, Voltage converter 1000W, reading glasses, Heparin lock flush solution",
+        "total_item_quantity": "31364.0",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "",
+        "info_box_text": "",
+        "landing_page_link": "",
+        "date_last_updated_new_data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8028,
+          50.9119
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MUA35",
+        "cure_id_unique": "42503",
+        "freight_forwarder": "SEKO",
+        "donor_unique": "Porticus & B2C",
+        "donor_logos": "https://drive.google.com/file/d/1fuozKbX9i8gGst9fO4YbPo-ffDBJ1TLp/view?usp=sharing",
+        "country_unique": "Ukraine",
+        "distribution_number_unique": "276",
+        "distribution_id_unique": "Razom276_12/25",
+        "shipment_period_unique": "Dec-25",
+        "type_of_medical_institution_unique": "Hospital",
+        "unique_hospital_names_eng": "KNP of Sumy Regional Council \"SUMY REGIONAL CENTER FOR EMERGENCY MEDICAL AID AND DISASTER MEDICINE\"",
+        "safe_hospital_names": "",
+        "region_unique": "",
+        "full_location_unique": "",
+        "number_of_beds_unique": "",
+        "item_name_engukr_unique": "Figs pants, female, Alcohol wipes, Gloves Latex Free, Powder Free S, Tonometer",
+        "total_item_quantity": "1053.0",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "",
+        "info_box_text": "",
+        "landing_page_link": "",
+        "date_last_updated_new_data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.1546,
+          47.5535
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MUA35",
+        "cure_id_unique": "42503",
+        "freight_forwarder": "SEKO",
+        "donor_unique": "Porticus & B2C",
+        "donor_logos": "https://drive.google.com/file/d/1fuozKbX9i8gGst9fO4YbPo-ffDBJ1TLp/view?usp=sharing",
+        "country_unique": "Ukraine",
+        "distribution_number_unique": "278, 313",
+        "distribution_id_unique": "Razom278_01/26",
+        "shipment_period_unique": "Jan-26",
+        "type_of_medical_institution_unique": "Hospital",
+        "unique_hospital_names_eng": "Communal Enterprise \"Nikopolska Hospital\" of Pokrovska Village Council",
+        "safe_hospital_names": "",
+        "region_unique": "",
+        "full_location_unique": "",
+        "number_of_beds_unique": "",
+        "item_name_engukr_unique": "Conmed foot controlled suction coagulator 10 fr, Surgical set (for hospitals), Laparoscopic supplies, Irrigation Set, Piston Syringe, Irrigation syringes, Irrigation syringe 60ml, Ear, nose and throat pack, central venous catherization kits, Surgery pack, Gloves Latex Free, Powder Free S, ThermoScan, Forcep electrosurgical, Adult Pampers, Ðir humidifier, laparoscopy/pelviscopy pack II, procedure drapes, Exam Table Paper Rolls, Venous compression units, Absorbent patient pads, Waste-Disposal Units, Sharps, Hats and caps, CPAP mask, ortho: Positioning pillows, Preoperative skin preparation, Bed rail, ortho: dressing, Lab supplies, Tegaderm Dressing, Patient Socks, VASELINE PETROLATUM GAUZE STRIP, Alcohol wipes, BIPAP Machine, Electric heating, Laboratory glassware, plastic, Nasal cannula, Desinfection wipes, Biohazard Bags and boxes, Voltage converter 300W, Figs pants, female, Pleurex Patient Starter Kit, Laceration Tray, epidural trays, female pads, Transport chair, Figs pants, male, Hats and caps, Suction catheter tray",
+        "total_item_quantity": "14445.0",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "",
+        "info_box_text": "",
+        "landing_page_link": "",
+        "date_last_updated_new_data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.04,
+          48.4675
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MUA35",
+        "cure_id_unique": "42503",
+        "freight_forwarder": "SEKO",
+        "donor_unique": "Porticus & B2C",
+        "donor_logos": "https://drive.google.com/file/d/1fuozKbX9i8gGst9fO4YbPo-ffDBJ1TLp/view?usp=sharing",
+        "country_unique": "Ukraine",
+        "distribution_number_unique": "279, 303",
+        "distribution_id_unique": "Razom279_01/26",
+        "shipment_period_unique": "Jan-26",
+        "type_of_medical_institution_unique": "Hospital",
+        "unique_hospital_names_eng": "MUNICIPAL NON-PROFIT COMPANY \"DNIPROPETROVSK REGIONAL HOSPITAL OF WAR VETERANS\" OF DNIPROPETROVSK REGION COUNCILÂ»",
+        "safe_hospital_names": "",
+        "region_unique": "",
+        "full_location_unique": "",
+        "number_of_beds_unique": "",
+        "item_name_engukr_unique": "Endoscopy supplies and procedures, central venous catherization kits, Stomach tube, stethoscope, Alcohol wipes, Non sterile towels, Electric heating, Nasal cannula, Desinfection wipes, Figs pants, female, Figs tops, female, Patient Lift, Antiseptic wipes, Figs pants, female",
+        "total_item_quantity": "188.0",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "",
+        "info_box_text": "",
+        "landing_page_link": "",
+        "date_last_updated_new_data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1396,
+          47.8388
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MUA35",
+        "cure_id_unique": "42503",
+        "freight_forwarder": "SEKO",
+        "donor_unique": "Porticus & B2C",
+        "donor_logos": "https://drive.google.com/file/d/1fuozKbX9i8gGst9fO4YbPo-ffDBJ1TLp/view?usp=sharing",
+        "country_unique": "Ukraine",
+        "distribution_number_unique": "280",
+        "distribution_id_unique": "Razom280_01/26",
+        "shipment_period_unique": "Jan-26",
+        "type_of_medical_institution_unique": "Hospital",
+        "unique_hospital_names_eng": "Zaporizhzhia Regional Clinical Hospital",
+        "safe_hospital_names": "",
+        "region_unique": "",
+        "full_location_unique": "",
+        "number_of_beds_unique": "",
+        "item_name_engukr_unique": "Sterile Gowns",
+        "total_item_quantity": "300.0",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "",
+        "info_box_text": "",
+        "landing_page_link": "",
+        "date_last_updated_new_data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.5948,
+          49.5535
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MUA35",
+        "cure_id_unique": "42503",
+        "freight_forwarder": "SEKO",
+        "donor_unique": "Porticus & B2C",
+        "donor_logos": "https://drive.google.com/file/d/1fuozKbX9i8gGst9fO4YbPo-ffDBJ1TLp/view?usp=sharing",
+        "country_unique": "Ukraine",
+        "distribution_number_unique": "282",
+        "distribution_id_unique": "Razom282_01/26",
+        "shipment_period_unique": "Jan-26",
+        "type_of_medical_institution_unique": "Hospital",
+        "unique_hospital_names_eng": "KNP VRV \"Ternopil Central District Hospital\"",
+        "safe_hospital_names": "",
+        "region_unique": "",
+        "full_location_unique": "",
+        "number_of_beds_unique": "",
+        "item_name_engukr_unique": "Heparin lock flush solution, Gowns/Drapes, Sterile Gowns, Canes, Adult Pampers, Bandages and dressings, Gloves Latex Free, Powder Free S, Gloves (sterile), trauma / orthopedics, Hats and caps, syringes/needles, GI Anoscopes, Suction machine, Ð¡ompression therapy device, Venous compression units, Wheelchair, Surgical headlights, Mattress, Patient monitor Welch Allyn, Humanitarian kit Project C.U.R.E., vacuum cleaner for plaster removal, pulse oximeter, Colostomy Supplies",
+        "total_item_quantity": "10611.0",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "",
+        "info_box_text": "",
+        "landing_page_link": "",
+        "date_last_updated_new_data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4566,
+          50.4741
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MUA35",
+        "cure_id_unique": "42503",
+        "freight_forwarder": "SEKO",
+        "donor_unique": "Porticus & B2C",
+        "donor_logos": "https://drive.google.com/file/d/1fuozKbX9i8gGst9fO4YbPo-ffDBJ1TLp/view?usp=sharing",
+        "country_unique": "Ukraine",
+        "distribution_number_unique": "284",
+        "distribution_id_unique": "Razom284_01/26",
+        "shipment_period_unique": "Jan-26",
+        "type_of_medical_institution_unique": "Charitable Organization",
+        "unique_hospital_names_eng": "Charitable Organization Charitable Foundation \"Svoi\"",
+        "safe_hospital_names": "",
+        "region_unique": "",
+        "full_location_unique": "",
+        "number_of_beds_unique": "",
+        "item_name_engukr_unique": "Walkers, Nasal cannula, Hospital Bed, CPAP mask, BIPAP Machine",
+        "total_item_quantity": "35.0",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "",
+        "info_box_text": "",
+        "landing_page_link": "",
+        "date_last_updated_new_data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.2527,
+          49.9808
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MUA35",
+        "cure_id_unique": "42503",
+        "freight_forwarder": "SEKO",
+        "donor_unique": "Porticus & B2C",
+        "donor_logos": "https://drive.google.com/file/d/1fuozKbX9i8gGst9fO4YbPo-ffDBJ1TLp/view?usp=sharing",
+        "country_unique": "Ukraine",
+        "distribution_number_unique": "286",
+        "distribution_id_unique": "Razom286_01/26",
+        "shipment_period_unique": "Jan-26",
+        "type_of_medical_institution_unique": "Hospital",
+        "unique_hospital_names_eng": "Kharkiv Regional Hospital of War Veterans",
+        "safe_hospital_names": "",
+        "region_unique": "",
+        "full_location_unique": "",
+        "number_of_beds_unique": "",
+        "item_name_engukr_unique": "Gloves (sterile), Sterile Gowns, procedure drapes, Exam Table Paper Rolls, Waste-Disposal Units, Sharps, Gloves Latex Free, Powder Free S, Preoperative skin preparation, Tegaderm Dressing, IV Stand, Alcohol wipes, Desinfection wipes",
+        "total_item_quantity": "5502.0",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "",
+        "info_box_text": "",
+        "landing_page_link": "",
+        "date_last_updated_new_data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.7461,
+          46.3848
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MUA35",
+        "cure_id_unique": "42503",
+        "freight_forwarder": "SEKO",
+        "donor_unique": "Porticus & B2C",
+        "donor_logos": "https://drive.google.com/file/d/1fuozKbX9i8gGst9fO4YbPo-ffDBJ1TLp/view?usp=sharing",
+        "country_unique": "Ukraine",
+        "distribution_number_unique": "288",
+        "distribution_id_unique": "Razom288_01/26",
+        "shipment_period_unique": "Jan-26",
+        "type_of_medical_institution_unique": "State Emergency Services",
+        "unique_hospital_names_eng": "MRC \"Odessky\"",
+        "safe_hospital_names": "",
+        "region_unique": "",
+        "full_location_unique": "",
+        "number_of_beds_unique": "",
+        "item_name_engukr_unique": "Gloves Latex Free, Powder Free S, High Temperature Cautery, Digital thermometer Welch Allyn, procedure drapes, Gowns/Drapes, Waste-Disposal Units, Sharps, Hats and caps, Transpore tape, VASELINE PETROLATUM GAUZE STRIP, Electric heating, THERMOMETER DIGITAL, Figs top, male, Nebuliser, Pulseoximeter stationary, stethoscope, Ðir humidifier, disposable cups, hospital clothes, Non sterile towels, Desinfection wipes",
+        "total_item_quantity": "3059.0",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "",
+        "info_box_text": "",
+        "landing_page_link": "",
+        "date_last_updated_new_data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.7326,
+          46.4775
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MUA35",
+        "cure_id_unique": "42503",
+        "freight_forwarder": "SEKO",
+        "donor_unique": "Porticus & B2C",
+        "donor_logos": "https://drive.google.com/file/d/1fuozKbX9i8gGst9fO4YbPo-ffDBJ1TLp/view?usp=sharing",
+        "country_unique": "Ukraine",
+        "distribution_number_unique": "289",
+        "distribution_id_unique": "Razom289_01/26",
+        "shipment_period_unique": "Jan-26",
+        "type_of_medical_institution_unique": "Hospital",
+        "unique_hospital_names_eng": "KNP \"City Clinical Hospital No. 10\" of the Odessa City Council",
+        "safe_hospital_names": "",
+        "region_unique": "",
+        "full_location_unique": "",
+        "number_of_beds_unique": "",
+        "item_name_engukr_unique": "Sterile Gowns, Gloves Latex Free, Powder Free S, Gloves (sterile), Hats and caps, Patient Socks",
+        "total_item_quantity": "10464.0",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "",
+        "info_box_text": "",
+        "landing_page_link": "",
+        "date_last_updated_new_data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.4407,
+          48.4999
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MUA35",
+        "cure_id_unique": "42503",
+        "freight_forwarder": "SEKO",
+        "donor_unique": "Porticus & B2C",
+        "donor_logos": "https://drive.google.com/file/d/1fuozKbX9i8gGst9fO4YbPo-ffDBJ1TLp/view?usp=sharing",
+        "country_unique": "Ukraine",
+        "distribution_number_unique": "290, 319",
+        "distribution_id_unique": "Razom290_01/26",
+        "shipment_period_unique": "Jan-26",
+        "type_of_medical_institution_unique": "Hospital",
+        "unique_hospital_names_eng": "KNP \"Novoukrainsk City Hospital\"",
+        "safe_hospital_names": "",
+        "region_unique": "",
+        "full_location_unique": "",
+        "number_of_beds_unique": "",
+        "item_name_engukr_unique": "Irrigation Set, Piston Syringe, Stomach tube, Surgery pack, Forcep electrosurgical, Gloves Latex Free, Powder Free S, Gloves (sterile), Sterile Gowns, ortho: dressing, Voltage converter 300W, Figs tops, female, Nellcor sensor for monitoring SpO2 for infants and adults, Welch Allyn Otoscope Ophthalmoscope, THERMOMETER DIGITAL, Hats and caps, trauma / orthopedics, supraglottic airway I-gel, urological set, Medical sucrose solution for infants, Canes, Preoperative skin preparation, Bandages and dressings, Hospital Bed, Heparin lock flush solution, Blood pressure cuff for leg, Liquid adhesive, ophthalmology supplies, Walkers, Patient Socks, Alcohol wipes, supraglottic airway I-gel, Forcep electrosurgical, Stylets, Intubating",
+        "total_item_quantity": "12562.0",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "",
+        "info_box_text": "",
+        "landing_page_link": "",
+        "date_last_updated_new_data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.5234,
+          50.4501
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MUA35",
+        "cure_id_unique": "42503",
+        "freight_forwarder": "SEKO",
+        "donor_unique": "Porticus & B2C",
+        "donor_logos": "https://drive.google.com/file/d/1fuozKbX9i8gGst9fO4YbPo-ffDBJ1TLp/view?usp=sharing",
+        "country_unique": "Ukraine",
+        "distribution_number_unique": "291",
+        "distribution_id_unique": "Razom291_01/26",
+        "shipment_period_unique": "Jan-26",
+        "type_of_medical_institution_unique": "Hospital",
+        "unique_hospital_names_eng": "KNP \"Kyiv City Clinical Hospital No. 18\"",
+        "safe_hospital_names": "",
+        "region_unique": "",
+        "full_location_unique": "",
+        "number_of_beds_unique": "",
+        "item_name_engukr_unique": "surgical sutures, Gloves Latex Free, Powder Free S, Gloves (sterile), Waste-Disposal Units, Sharps, Figs tops, female",
+        "total_item_quantity": "10717.0",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "",
+        "info_box_text": "",
+        "landing_page_link": "",
+        "date_last_updated_new_data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1167,
+          48.5833
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MUA35",
+        "cure_id_unique": "42503",
+        "freight_forwarder": "SEKO",
+        "donor_unique": "Porticus & B2C",
+        "donor_logos": "https://drive.google.com/file/d/1fuozKbX9i8gGst9fO4YbPo-ffDBJ1TLp/view?usp=sharing",
+        "country_unique": "Ukraine",
+        "distribution_number_unique": "292",
+        "distribution_id_unique": "Razom292_01/26",
+        "shipment_period_unique": "Jan-26",
+        "type_of_medical_institution_unique": "Hospital",
+        "unique_hospital_names_eng": "KNP \"Center for Primary Medical and Sanitary Aid\" of the Pidhorodna City Council",
+        "safe_hospital_names": "",
+        "region_unique": "",
+        "full_location_unique": "",
+        "number_of_beds_unique": "",
+        "item_name_engukr_unique": "Adult Pampers, Voltage converter 300W, Higiene kit, calorimeter, Waste-Disposal Units, Sharps, Gloves (sterile), IV Pole, Digital thermometer Welch Allyn",
+        "total_item_quantity": "130.0",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "",
+        "info_box_text": "",
+        "landing_page_link": "",
+        "date_last_updated_new_data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.0953,
+          48.315
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MUA35",
+        "cure_id_unique": "42503",
+        "freight_forwarder": "SEKO",
+        "donor_unique": "Porticus & B2C",
+        "donor_logos": "https://drive.google.com/file/d/1fuozKbX9i8gGst9fO4YbPo-ffDBJ1TLp/view?usp=sharing",
+        "country_unique": "Ukraine",
+        "distribution_number_unique": "295",
+        "distribution_id_unique": "Razom295_02/26",
+        "shipment_period_unique": "Feb-26",
+        "type_of_medical_institution_unique": "Hospital",
+        "unique_hospital_names_eng": "KNP \"Kosiv Central Medical Center\"",
+        "safe_hospital_names": "",
+        "region_unique": "",
+        "full_location_unique": "",
+        "number_of_beds_unique": "",
+        "item_name_engukr_unique": "Adult Pampers",
+        "total_item_quantity": "2.0",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "",
+        "info_box_text": "",
+        "landing_page_link": "",
+        "date_last_updated_new_data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.5948,
+          49.5535
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MUA35",
+        "cure_id_unique": "42503",
+        "freight_forwarder": "SEKO",
+        "donor_unique": "Porticus & B2C",
+        "donor_logos": "https://drive.google.com/file/d/1fuozKbX9i8gGst9fO4YbPo-ffDBJ1TLp/view?usp=sharing",
+        "country_unique": "Ukraine",
+        "distribution_number_unique": "296",
+        "distribution_id_unique": "Razom296_02/26",
+        "shipment_period_unique": "Feb-26",
+        "type_of_medical_institution_unique": "Hospital",
+        "unique_hospital_names_eng": "KNP \"TODKL\" TOR",
+        "safe_hospital_names": "",
+        "region_unique": "",
+        "full_location_unique": "",
+        "number_of_beds_unique": "",
+        "item_name_engukr_unique": "Figs pants, female, Suction kit, Transpore tape, Lab supplies, surgical sutures, IV Pole, Laboratory glassware, plastic, CPAP Machine, Figs tops, female, Figs top, male, ELECTRODE, Endoscopy supplies and procedures",
+        "total_item_quantity": "413.0",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "",
+        "info_box_text": "",
+        "landing_page_link": "",
+        "date_last_updated_new_data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.326,
+          48.6006
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MUA35",
+        "cure_id_unique": "42503",
+        "freight_forwarder": "SEKO",
+        "donor_unique": "Porticus & B2C",
+        "donor_logos": "https://drive.google.com/file/d/1fuozKbX9i8gGst9fO4YbPo-ffDBJ1TLp/view?usp=sharing",
+        "country_unique": "Ukraine",
+        "distribution_number_unique": "297",
+        "distribution_id_unique": "Razom297_02/26",
+        "shipment_period_unique": "Feb-26",
+        "type_of_medical_institution_unique": "Hospital",
+        "unique_hospital_names_eng": "KNP \"Center of Primary Medical and Sanitary Aid of Pishchanska Village Council\"",
+        "safe_hospital_names": "",
+        "region_unique": "",
+        "full_location_unique": "",
+        "number_of_beds_unique": "",
+        "item_name_engukr_unique": "Adult Pampers, Voltage converter 300W, Gloves (sterile)",
+        "total_item_quantity": "205.0",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "",
+        "info_box_text": "",
+        "landing_page_link": "",
+        "date_last_updated_new_data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9116,
+          48.9105
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MUA35",
+        "cure_id_unique": "42503",
+        "freight_forwarder": "SEKO",
+        "donor_unique": "Porticus & B2C",
+        "donor_logos": "https://drive.google.com/file/d/1fuozKbX9i8gGst9fO4YbPo-ffDBJ1TLp/view?usp=sharing",
+        "country_unique": "Ukraine",
+        "distribution_number_unique": "298",
+        "distribution_id_unique": "Razom298_02/26",
+        "shipment_period_unique": "Feb-26",
+        "type_of_medical_institution_unique": "Hospital",
+        "unique_hospital_names_eng": "MEBILE ENTERPRISE \"MAGDALYNIV CENTRAL HOSPITAL\" OF MAGDALYNIV VILLAGE COUNCIL OF DNIPROPETROVSK REGION\"",
+        "safe_hospital_names": "",
+        "region_unique": "",
+        "full_location_unique": "",
+        "number_of_beds_unique": "",
+        "item_name_engukr_unique": "Figs pants, female, Transpore tape, Adult Pampers, IV Pole",
+        "total_item_quantity": "38.0",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "",
+        "info_box_text": "",
+        "landing_page_link": "",
+        "date_last_updated_new_data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2589,
+          48.6289
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MUA35",
+        "cure_id_unique": "42503",
+        "freight_forwarder": "SEKO",
+        "donor_unique": "Porticus & B2C",
+        "donor_logos": "https://drive.google.com/file/d/1fuozKbX9i8gGst9fO4YbPo-ffDBJ1TLp/view?usp=sharing",
+        "country_unique": "Ukraine",
+        "distribution_number_unique": "302",
+        "distribution_id_unique": "Razom302_02/26",
+        "shipment_period_unique": "Feb-26",
+        "type_of_medical_institution_unique": "Hospital",
+        "unique_hospital_names_eng": "MEBILE ENTERPRISE \"CENTRAL \"REGIONAL HOSPITAL FOR INTENSIVE CARE OF THE SAMARIVSKY DISTRICT\"",
+        "safe_hospital_names": "",
+        "region_unique": "",
+        "full_location_unique": "",
+        "number_of_beds_unique": "",
+        "item_name_engukr_unique": "Figs pants, female, Heparin lock flush solution, Suction kit, Suction catheter tray, Tegaderm Dressing, urological set, Foam refrigerant brick, Infusion supplies pack, Oropharyngeal airway, surgical sutures, Hats and caps, Irrigation syringe 60ml, Electric heating, Stomach tube, Gowns/Drapes, Endotracheal intubation supplies, Skin protection/removal kit, Enteral Feeding Supplies, Lab supplies, Medical sucrose solution for infants, Sterile Gowns, ortho: dressing, Bed rail, Bathroom grab bars, Laboratory glassware, plastic, procedure drapes",
+        "total_item_quantity": "379.0",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "",
+        "info_box_text": "",
+        "landing_page_link": "",
+        "date_last_updated_new_data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8732,
+          48.204
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MUA35",
+        "cure_id_unique": "42503",
+        "freight_forwarder": "SEKO",
+        "donor_unique": "Porticus & B2C",
+        "donor_logos": "https://drive.google.com/file/d/1fuozKbX9i8gGst9fO4YbPo-ffDBJ1TLp/view?usp=sharing",
+        "country_unique": "Ukraine",
+        "distribution_number_unique": "304",
+        "distribution_id_unique": "Razom304_02/26",
+        "shipment_period_unique": "Feb-26",
+        "type_of_medical_institution_unique": "Hospital",
+        "unique_hospital_names_eng": "KNP \"Solonyanska Multi-Profile Hospital\"",
+        "safe_hospital_names": "",
+        "region_unique": "",
+        "full_location_unique": "",
+        "number_of_beds_unique": "",
+        "item_name_engukr_unique": "Figs tops, female, ELECTRODE, Stomach tube, Suction catheter tray, Endotracheal intubation supplies, General surgery kit, Tracheostomy set, ortho: dressing, Canes, Adult Pampers, Bandages and dressings, Transpore tape, Laboratory glassware, plastic, Sterile Gowns, procedure drapes, Hats and caps, Higiene kit, Patient transfer board, Conmed foot controlled suction coagulator 10 fr, calorimeter, Surgical clipper, Biohazard Bags and boxes, Hospital Bed, Blood pressure cuff for leg, maternity kit/gynecology, materials for vascular surgery, Anesthesiology kit, applicators with cotton swab, Insulin syringes",
+        "total_item_quantity": "255.0",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "",
+        "info_box_text": "",
+        "landing_page_link": "",
+        "date_last_updated_new_data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.8667,
+          48.5167
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MUA35",
+        "cure_id_unique": "42503",
+        "freight_forwarder": "SEKO",
+        "donor_unique": "Porticus & B2C",
+        "donor_logos": "https://drive.google.com/file/d/1fuozKbX9i8gGst9fO4YbPo-ffDBJ1TLp/view?usp=sharing",
+        "country_unique": "Ukraine",
+        "distribution_number_unique": "305",
+        "distribution_id_unique": "Razom305_02/26",
+        "shipment_period_unique": "Feb-26",
+        "type_of_medical_institution_unique": "Hospital",
+        "unique_hospital_names_eng": "KNP \"PAVLOGRAD CITY HOSPITAL No. 1\" OF THE PAVLOGRAD CITY COUNCIL",
+        "safe_hospital_names": "",
+        "region_unique": "",
+        "full_location_unique": "",
+        "number_of_beds_unique": "",
+        "item_name_engukr_unique": "Preoperative skin preparation, Tegaderm Dressing, urological set",
+        "total_item_quantity": "4.0",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "",
+        "info_box_text": "",
+        "landing_page_link": "",
+        "date_last_updated_new_data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.5003,
+          48.6675
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MUA35",
+        "cure_id_unique": "42503",
+        "freight_forwarder": "SEKO",
+        "donor_unique": "Porticus & B2C",
+        "donor_logos": "https://drive.google.com/file/d/1fuozKbX9i8gGst9fO4YbPo-ffDBJ1TLp/view?usp=sharing",
+        "country_unique": "Ukraine",
+        "distribution_number_unique": "308",
+        "distribution_id_unique": "Razom308_02/26",
+        "shipment_period_unique": "Feb-26",
+        "type_of_medical_institution_unique": "Hospital",
+        "unique_hospital_names_eng": "KNP \"Gorodenkivsk Multi-Profile Hospital of Intensive Care\" OF THE Horodenkivsk City Council",
+        "safe_hospital_names": "",
+        "region_unique": "",
+        "full_location_unique": "",
+        "number_of_beds_unique": "",
+        "item_name_engukr_unique": "Crutches",
+        "total_item_quantity": "10.0",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "",
+        "info_box_text": "",
+        "landing_page_link": "",
+        "date_last_updated_new_data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.6042,
+          47.6447
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MUA35",
+        "cure_id_unique": "42503",
+        "freight_forwarder": "SEKO",
+        "donor_unique": "Porticus & B2C",
+        "donor_logos": "https://drive.google.com/file/d/1fuozKbX9i8gGst9fO4YbPo-ffDBJ1TLp/view?usp=sharing",
+        "country_unique": "Ukraine",
+        "distribution_number_unique": "310",
+        "distribution_id_unique": "Razom310_03/26",
+        "shipment_period_unique": "Mar-26",
+        "type_of_medical_institution_unique": "Hospital",
+        "unique_hospital_names_eng": "MUNICIPAL ENTERPRISE \"MARHANETS CENTRAL CITY HOSPITAL\" OF MARHANETS CITY COUNCIL\"",
+        "safe_hospital_names": "",
+        "region_unique": "",
+        "full_location_unique": "",
+        "number_of_beds_unique": "",
+        "item_name_engukr_unique": "surgical sutures, surgical sutures, Irrigation syringe 60ml, Hats and caps",
+        "total_item_quantity": "732.0",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "",
+        "info_box_text": "",
+        "landing_page_link": "",
+        "date_last_updated_new_data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.4,
+          47.567
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MUA35",
+        "cure_id_unique": "42503",
+        "freight_forwarder": "SEKO",
+        "donor_unique": "Porticus & B2C",
+        "donor_logos": "https://drive.google.com/file/d/1fuozKbX9i8gGst9fO4YbPo-ffDBJ1TLp/view?usp=sharing",
+        "country_unique": "Ukraine",
+        "distribution_number_unique": "312",
+        "distribution_id_unique": "Razom312_03/26",
+        "shipment_period_unique": "Mar-26",
+        "type_of_medical_institution_unique": "Hospital",
+        "unique_hospital_names_eng": "MUNICIPAL ENTERPRISE \"NIKOPOL CITY HOSPITAL No. 4\" OF NIKOPOL CITY COUNCIL\"",
+        "safe_hospital_names": "",
+        "region_unique": "",
+        "full_location_unique": "",
+        "number_of_beds_unique": "",
+        "item_name_engukr_unique": "Suction kit",
+        "total_item_quantity": "2.0",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "",
+        "info_box_text": "",
+        "landing_page_link": "",
+        "date_last_updated_new_data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.4,
+          47.567
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MUA35",
+        "cure_id_unique": "42503",
+        "freight_forwarder": "SEKO",
+        "donor_unique": "Porticus & B2C",
+        "donor_logos": "https://drive.google.com/file/d/1fuozKbX9i8gGst9fO4YbPo-ffDBJ1TLp/view?usp=sharing",
+        "country_unique": "Ukraine",
+        "distribution_number_unique": "314",
+        "distribution_id_unique": "Razom314_03/26",
+        "shipment_period_unique": "Mar-26",
+        "type_of_medical_institution_unique": "Hospital",
+        "unique_hospital_names_eng": "MEBILE ENTERPRISE \"NIKOPOL CHILDREN'S CITY HOSPITAL\" NMR\"",
+        "safe_hospital_names": "",
+        "region_unique": "",
+        "full_location_unique": "",
+        "number_of_beds_unique": "",
+        "item_name_engukr_unique": "Transpore tape, Tracheostomy set",
+        "total_item_quantity": "4.0",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "",
+        "info_box_text": "",
+        "landing_page_link": "",
+        "date_last_updated_new_data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.04,
+          48.4675
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MUA35",
+        "cure_id_unique": "42503",
+        "freight_forwarder": "SEKO",
+        "donor_unique": "Porticus & B2C",
+        "donor_logos": "https://drive.google.com/file/d/1fuozKbX9i8gGst9fO4YbPo-ffDBJ1TLp/view?usp=sharing",
+        "country_unique": "Ukraine",
+        "distribution_number_unique": "315",
+        "distribution_id_unique": "Razom315_03/26",
+        "shipment_period_unique": "Mar-26",
+        "type_of_medical_institution_unique": "Hospital",
+        "unique_hospital_names_eng": "KNP \"MUNICIPAL MULTI-PROFILE CLINICAL HOSPITAL OF MOTHER AND CHILDREN NAMED AFTER PROF. M. F. RUDNIEV\" OF THE DNIPROVSK CITY COUNCIL",
+        "safe_hospital_names": "",
+        "region_unique": "",
+        "full_location_unique": "",
+        "number_of_beds_unique": "",
+        "item_name_engukr_unique": "Interpulse Handpiece Set",
+        "total_item_quantity": "1.0",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "",
+        "info_box_text": "",
+        "landing_page_link": "",
+        "date_last_updated_new_data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.0,
+          50.3667
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MUA35",
+        "cure_id_unique": "42503",
+        "freight_forwarder": "SEKO",
+        "donor_unique": "Porticus & B2C",
+        "donor_logos": "https://drive.google.com/file/d/1fuozKbX9i8gGst9fO4YbPo-ffDBJ1TLp/view?usp=sharing",
+        "country_unique": "Ukraine",
+        "distribution_number_unique": "316",
+        "distribution_id_unique": "Razom316_03/26",
+        "shipment_period_unique": "Mar-26",
+        "type_of_medical_institution_unique": "Hospital",
+        "unique_hospital_names_eng": "MUNICIPAL NON-COMMERCIAL ENTERPRISE \"HADYAT CITY CENTRAL HOSPITAL\" OF HADYAT CITY COUNCIL",
+        "safe_hospital_names": "",
+        "region_unique": "",
+        "full_location_unique": "",
+        "number_of_beds_unique": "",
+        "item_name_engukr_unique": "Stylets, Intubating",
+        "total_item_quantity": "100.0",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "",
+        "info_box_text": "",
+        "landing_page_link": "",
+        "date_last_updated_new_data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.58,
+          50.93
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MUA35",
+        "cure_id_unique": "42503",
+        "freight_forwarder": "SEKO",
+        "donor_unique": "Porticus & B2C",
+        "donor_logos": "https://drive.google.com/file/d/1fuozKbX9i8gGst9fO4YbPo-ffDBJ1TLp/view?usp=sharing",
+        "country_unique": "Ukraine",
+        "distribution_number_unique": "321",
+        "distribution_id_unique": "Razom321_03/26",
+        "shipment_period_unique": "Mar-26",
+        "type_of_medical_institution_unique": "Hospital",
+        "unique_hospital_names_eng": "KNP \"Nosivsk City Hospital named after F.Ya. Primak\" OF THE Nosivsk City Council",
+        "safe_hospital_names": "",
+        "region_unique": "",
+        "full_location_unique": "",
+        "number_of_beds_unique": "",
+        "item_name_engukr_unique": "Liquid adhesive",
+        "total_item_quantity": "1.0",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "",
+        "info_box_text": "",
+        "landing_page_link": "",
+        "date_last_updated_new_data": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9355,
+          48.3364
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MUA35",
+        "cure_id_unique": "42503",
+        "freight_forwarder": "SEKO",
+        "donor_unique": "Porticus & B2C",
+        "donor_logos": "https://drive.google.com/file/d/1fuozKbX9i8gGst9fO4YbPo-ffDBJ1TLp/view?usp=sharing",
+        "country_unique": "Ukraine",
+        "distribution_number_unique": "326",
+        "distribution_id_unique": "Razom326_03/26",
+        "shipment_period_unique": "Mar-26",
+        "type_of_medical_institution_unique": "Hospital",
+        "unique_hospital_names_eng": "MUNICIPAL NON-COMMERCIAL ENTERPRISE \"CENTER OF PRIMARY MEDICAL AND SANITARY AID OF SURSK-LITOVSK RURAL COUNCIL OF DNIPROVSK DISTRICT OF DNIPROPETROVSK REGIONÂ»",
+        "safe_hospital_names": "",
+        "region_unique": "",
+        "full_location_unique": "",
+        "number_of_beds_unique": "",
+        "item_name_engukr_unique": "Welch Allyn KleenSpec Disposable Dispenser, supraglottic airway I-gel, Stylets, Intubating, Nellcor sensor for monitoring SpO2 for infants and adults, VASELINE PETROLATUM GAUZE STRIP",
+        "total_item_quantity": "102.0",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "",
+        "info_box_text": "",
+        "landing_page_link": "",
+        "date_last_updated_new_data": ""
+      }
     }
   ]
 }
