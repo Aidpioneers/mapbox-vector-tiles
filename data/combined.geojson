@@ -1546,7 +1546,7 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MUA2",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "â¬362,221.82"
       }
     },
     {
@@ -2521,7 +2521,7 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MUA20",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "â¬352,698.56"
       }
     },
     {
@@ -6039,8 +6039,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          22.2997,
-          48.6194
+          31.3157,
+          47.5747
         ]
       },
       "properties": {
