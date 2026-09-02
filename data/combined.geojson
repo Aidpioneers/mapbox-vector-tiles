@@ -535,9 +535,9 @@
         "partner_org": "Weema",
         "country": "Ethiopia ðªð¹",
         "type_of_institution": "Hospital",
-        "total_investment": "72.626,12 â¬",
+        "total_investment": "72.642,17 â¬",
         "local_quote": "171.800,00 â¬",
-        "discount": "57,73%",
+        "discount": "57,72%",
         "system_size_kwp": "73,80",
         "battery_size_kwh": "104,66",
         "solar_surface_m2": "351,00",
@@ -649,7 +649,7 @@
         "partner_org": "ForAfrika",
         "country": "Ethiopia ðªð¹",
         "type_of_institution": "Hospital",
-        "total_investment": "99.627,00 â¬",
+        "total_investment": "99.627,13 â¬",
         "local_quote": "-",
         "discount": "",
         "system_size_kwp": "128,00",
@@ -1624,7 +1624,7 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MSY01",
-        "gikvalue_of_goods": "€137,280.51"
+        "gikvalue_of_goods": ""
       }
     },
     {
@@ -1663,7 +1663,7 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MSY02",
-        "gikvalue_of_goods": "€106,247.89"
+        "gikvalue_of_goods": ""
       }
     },
     {
@@ -1897,7 +1897,7 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MUA10",
-        "gikvalue_of_goods": "€403,251.44"
+        "gikvalue_of_goods": ""
       }
     },
     {
@@ -1975,7 +1975,7 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MUA12",
-        "gikvalue_of_goods": "€180,832.41"
+        "gikvalue_of_goods": ""
       }
     },
     {
@@ -2014,7 +2014,7 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MSY03",
-        "gikvalue_of_goods": "€128,631.09"
+        "gikvalue_of_goods": ""
       }
     },
     {
@@ -2170,7 +2170,7 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MLE02",
-        "gikvalue_of_goods": "€348,351.30"
+        "gikvalue_of_goods": ""
       }
     },
     {
@@ -2326,7 +2326,7 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MUA18",
-        "gikvalue_of_goods": "€445,467.66"
+        "gikvalue_of_goods": ""
       }
     },
     {
@@ -2365,7 +2365,7 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MUA19",
-        "gikvalue_of_goods": "€501,077.02"
+        "gikvalue_of_goods": ""
       }
     },
     {
@@ -2599,7 +2599,7 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MUA26",
-        "gikvalue_of_goods": "€229,481.68"
+        "gikvalue_of_goods": ""
       }
     },
     {
@@ -2716,7 +2716,7 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MUA22",
-        "gikvalue_of_goods": "€267,829.91"
+        "gikvalue_of_goods": ""
       }
     },
     {
@@ -23417,6 +23417,201 @@
         "number_of_beds_unique": "",
         "item_name_engukr_unique": "Welch Allyn KleenSpec Disposable Dispenser, supraglottic airway I-gel, Stylets, Intubating, Nellcor sensor for monitoring SpO2 for infants and adults, VASELINE PETROLATUM GAUZE STRIP",
         "total_item_quantity": "102.0",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "",
+        "unnamed_24": "",
+        "unnamed_25": "",
+        "unnamed_26": "",
+        "unique_shipment_ids": "",
+        "gikvalue_of_goods": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.57220123,
+          13.40332069
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MAG01",
+        "cure_id_unique": "307323",
+        "freight_forwarder": "Classic Cargo",
+        "donor_unique": "ForAfrika",
+        "donor_logos": "",
+        "country_unique": "Angola",
+        "distribution_number_unique": "1",
+        "distribution_id_unique": "ForAfrika1_08/26",
+        "shipment_period_unique": "Aug-26",
+        "type_of_medical_institution_unique": "Hospital",
+        "unique_hospital_names_eng": " Hospital Geral de Benguela",
+        "safe_hospital_names": "",
+        "region_unique": "Southern",
+        "full_location_unique": "",
+        "number_of_beds_unique": "670",
+        "item_name_engukr_unique": "Adaptor/Connector, Airway - Oral Pharyngeal, Alcohol Prep Pads, Amalgamator, Amniotic Membrane Perforator (hook), Anesthesia - Face Mask Adult, Anesthesia - Face Mask Infant, Anoscope, Reusable, Apexo Elevators, Applicator - Calcium Alginate Tipped, Applicator - Polyester Tipped, Applicator - Rayon Tipped OB/GYN), Applicator - Single Tipped Cotton, Applicator - Wooden Stick, Apron - General Purpose (Single Use), Arm Board, Arm Sling/Immobilizer, Arthrex Instrumentation, Articulating Reload Endo GIA - Tri-Staple, Baby/Infant Onesies/Gowns, Bag - Ice/Cold Pack, Bag - Reusable, Bakes Dilator, Bandage - Elastic/Two-Way Stretch(Ace), Bandaids, Basin Stand, Single w/ Bowl, Basin Stand, Single w/ Bowl, Bath/Wash Basin - Plastic, Bed - Hospital Grade Crib w/Mattress, Bed Pan - Fracture, Bib ** Adult, Bite Block - Oral, Bladder Protection Pad, Blade - Beaver, Blade - Surgical - Saw, Blanket - Bath, Blanket Baby, Blood Collection Tube Holder, Blood Pressure Monitor, Blood Pressure Unit/Sphygmomanometer w/Cuff, Bone Curette, Bone Hammer/Mallet, Bone preservation elevators, Bone Rasp, Books, Boot - Covers, Bottle Brush, Bottle w/ Dropper, Bowel Clamp, Brace - Ankle Support, Brace - Spinal Orthosis, Brace - Walking Boot, Bugby Electrode, Cabinet, Cameron root elevator, Cane - Quad, Cane - Straight, Cap - Bouffant, Cart - Crash, Cart - Multi Purpose, Cast - Ortho-Glass/Tape, Cast - Padding, Cast - Plaster, Cast - Rubber Heel for walking cast, Cast - Shoe, Catheter - Drainage, Catheter - Umbilical Vessel, Catheter guide/mandarin, Centrifuge, Chair - Blood Draw, Chair - Procedure Exam, Clavicle Strap / Splint, Cleanser - Skin, Clip Applier - Reusable, Cogswell elevators, Commode, Compression Sleeve, Cooler, Cotton Rolls/Sheets, Cotton/Prepping Balls, Coverall - Disposable, Crane pick elevator, Cross-bar elevators, Curtain ** Patient Privacy, Cytology Brush, Dermal Biospy Punch, Diaper - Brief - Adult, Diaper - Disposable Infant, Disposal Can Liners, Drape - Basic, Drape - Bilateral, Exam Table w/Stirrups, Fingertip Pulse Oximeter, Hospital Bed Mattress, Otoscope & Opthalmoscope, Oxygen Concentrator, Oxygen Nasal Cannula - Infant / Pediatric, Scale - Adult, Scale - Infant, Stool - Step, Stretcher - w/ mattress, Stryker Full Electric Hospital Bed w/o Mattress, Suction Canister w/Lid, Suction Catheter 10Fr, Suction Catheter 12Fr, Suction Catheter 8Fr, Suction Catheter w/ Glove, Suction Tubing Non-Conductive, Suction/Vacuum Pump, Voltage Converter, Walker - Adult, Walker - Adult, Walker - Hemi, Warmer - Blood/Fluid, X-Ray Apron",
+        "total_item_quantity": "223.0",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "",
+        "unnamed_24": "",
+        "unnamed_25": "",
+        "unnamed_26": "",
+        "unique_shipment_ids": "",
+        "gikvalue_of_goods": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.43256469,
+          13.54038585
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MAG01",
+        "cure_id_unique": "307323",
+        "freight_forwarder": "Classic Cargo",
+        "donor_unique": "ForAfrika",
+        "donor_logos": "",
+        "country_unique": "Angola",
+        "distribution_number_unique": "1",
+        "distribution_id_unique": "ForAfrika1_08/26",
+        "shipment_period_unique": "Aug-26",
+        "type_of_medical_institution_unique": "Hospital",
+        "unique_hospital_names_eng": "Catumbela Municipal Hospital",
+        "safe_hospital_names": "",
+        "region_unique": "Southern",
+        "full_location_unique": "",
+        "number_of_beds_unique": "256",
+        "item_name_engukr_unique": "Adaptor/Connector, Airway - Oral Pharyngeal, Alcohol Prep Pads, Anesthesia - Face Mask Adult, Applicator - Rayon Tipped OB/GYN), Applicator - Single Tipped Cotton, Arm Sling/Immobilizer, Arthrex Instrumentation, Articulating Reload Endo GIA - Tri-Staple, Bag - Ice/Cold Pack, Bandage - Elastic/Two-Way Stretch(Ace), Basin Stand, Single w/ Bowl, Bath/Wash Basin - Plastic, Bib ** Adult, Bite Block - Oral, Bladder Protection Pad, Blade - Beaver, Blanket, Blood Collection / Infusion Set 21G X 3/4\", Blood Collection Tube Holder, Blood Plumset Y-Type, Blood Pressure Monitor - Automatic Digital, Blood Pressure Unit/Sphygmomanometer w/Cuff, Brace - Ankle Support, Brace - Walking Boot, Cabinet, Cane - Straight, Cap - Bouffant, Cart for Medical Gas Cylinders, Cast - Ortho-Glass/Tape, Catheter - Drainage, Catheter - Umbilical Vessel, Chair - Blood Draw, Chair - Procedure Exam, Circumcision Clamp, Clip Applier - Reusable, Cooler, Cotton/Prepping Balls, Crane pick elevator, Cytology Brush, Diaper - Disposable Child, Disposal Can Liners, Drape - Basic, Drape - Bilateral, Exam Table w/Stirrups, Fingertip Pulse Oximeter, Hospital Bed Mattress, Infant Incubator, Oxygen Concentrator, Oxygen Nasal Cannula - Adult, Oxygen Nasal Cannula - Infant / Pediatric, Patient Monitoring System, Scale - Infant, Stool, Stool - Exam, Stool - Step, Stretcher - w/ mattress, Stryker Full Electric Hospital Bed w/o Mattress, Suction Canister w/Lid, Suction Catheter 10Fr, Suction Catheter 12Fr, Suction Catheter 8Fr, Suction/Vacuum Pump, Syringe - Slip Tip, Voltage Converter, Walker - Adult, Warmer - Blood/Fluid, X-Ray Apron",
+        "total_item_quantity": "106.0",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "",
+        "unnamed_24": "",
+        "unnamed_25": "",
+        "unnamed_26": "",
+        "unique_shipment_ids": "",
+        "gikvalue_of_goods": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.37988914,
+          13.57487172
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MAG01",
+        "cure_id_unique": "307323",
+        "freight_forwarder": "Classic Cargo",
+        "donor_unique": "ForAfrika",
+        "donor_logos": "",
+        "country_unique": "Angola",
+        "distribution_number_unique": "1",
+        "distribution_id_unique": "ForAfrika1_08/26",
+        "shipment_period_unique": "Aug-26",
+        "type_of_medical_institution_unique": "Hospital",
+        "unique_hospital_names_eng": "Maternal and Child Center - Lobito",
+        "safe_hospital_names": "",
+        "region_unique": "Southern",
+        "full_location_unique": "",
+        "number_of_beds_unique": "75",
+        "item_name_engukr_unique": "Adaptor/Connector, Alcohol Prep Pads, Anesthesia - Face Mask Infant, Applicator - Single Tipped Cotton, Baby/Infant Onesies/Gowns, Basin Stand, Single w/ Bowl, Bath/Wash Basin - Plastic, Bed Pan - Fracture, Bib ** Adult, Bite Block - Oral, Bladder Protection Pad, Blade - Beaver, Blood Collection Tube Holder, Cart - Multi Purpose, Chair - Procedure Exam, Clavicle Strap / Splint, Coverall - Disposable, Crane pick elevator, Cytology Brush, Diaper - Disposable Infant, Disposal Can Liners, Drape - Basic, Hospital Bed Mattress, Overbed Table - 60 Lbs, Scale - Adult, Stool - Exam, Stool - Step, Suction Catheter 12Fr, Suction Catheter w/ Glove, Suction/Vacuum Pump, Voltage Converter, Walker - Adult, Wheelchair",
+        "total_item_quantity": "60.0",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "",
+        "unnamed_24": "",
+        "unnamed_25": "",
+        "unnamed_26": "",
+        "unique_shipment_ids": "",
+        "gikvalue_of_goods": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.48345419,
+          14.13401916
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MAG01",
+        "cure_id_unique": "307323",
+        "freight_forwarder": "Classic Cargo",
+        "donor_unique": "ForAfrika",
+        "donor_logos": "",
+        "country_unique": "Angola",
+        "distribution_number_unique": "1",
+        "distribution_id_unique": "ForAfrika1_08/26",
+        "shipment_period_unique": "Aug-26",
+        "type_of_medical_institution_unique": "Hospital",
+        "unique_hospital_names_eng": "Bocoio Municipal Hospital",
+        "safe_hospital_names": "",
+        "region_unique": "Southern",
+        "full_location_unique": "",
+        "number_of_beds_unique": "70",
+        "item_name_engukr_unique": "Adaptor/Connector, Airway - Oral Pharyngeal, Alcohol Prep Pads, Amniotic Membrane Perforator (hook), Anesthesia - Face Mask Adult, Anoscope, Reusable, Applicator - Rayon Tipped OB/GYN), Applicator - Single Tipped Cotton, Arm Sling/Immobilizer, Arthrex Instrumentation, Articulating Reload Endo GIA - Tri-Staple, Bandaids, Basin Stand, Single w/ Bowl, Bath/Wash Basin - Plastic, Bib ** Adult, Bite Block - Oral, Bladder Protection Pad, Blade - Beaver, Blanket, Blood Collection Tube Holder, Blood Pressure Unit/Sphygmomanometer w/Cuff, Brace - Ankle Support, Brace - Walking Boot, Cane - Straight, Cap - Bouffant, Cart - Crash, Cast - Plaster, Catheter - Drainage, Circumcision Clamp, Clavicle Strap / Splint, Cogswell elevators, Cotton/Prepping Balls, Coverall - Disposable, Crane pick elevator, Cytology Brush, Diaper - Disposable Child, Disposal Can Liners, Drape - Basic, Drape - Bilateral, Fingertip Pulse Oximeter, Hospital Bed Mattress, Infant Incubator, Otoscope & Opthalmoscope, Oxygen Nasal Cannula - Adult, Stool - Step, Stretcher - w/ mattress, Stryker Full Electric Hospital Bed w/o Mattress, Suction Catheter 8Fr, Suction/Vacuum Pump, Syringe - Slip Tip, Walker - Hemi",
+        "total_item_quantity": "86.0",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "",
+        "unnamed_24": "",
+        "unnamed_25": "",
+        "unnamed_26": "",
+        "unique_shipment_ids": "",
+        "gikvalue_of_goods": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.35364891,
+          14.77246905
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MAG01",
+        "cure_id_unique": "307323",
+        "freight_forwarder": "Classic Cargo",
+        "donor_unique": "ForAfrika",
+        "donor_logos": "",
+        "country_unique": "Angola",
+        "distribution_number_unique": "1",
+        "distribution_id_unique": "ForAfrika1_08/26",
+        "shipment_period_unique": "Aug-26",
+        "type_of_medical_institution_unique": "Hospital",
+        "unique_hospital_names_eng": "Balombo Municipal Hospital",
+        "safe_hospital_names": "",
+        "region_unique": "Southern",
+        "full_location_unique": "",
+        "number_of_beds_unique": "250",
+        "item_name_engukr_unique": "Airway - Oral Pharyngeal, Alcohol Prep Pads, Anesthesia - Face Mask Adult, Applicator - Rayon Tipped OB/GYN), Applicator - Single Tipped Cotton, Arm Sling/Immobilizer, Bag - Reusable, Bakes Dilator, Basin Stand, Single w/ Bowl, Basin Stand, Single w/ Bowl, Bite Block - Oral, Bladder Protection Pad, Blanket Baby, Blanket, Blood Collection / Infusion Set 21G X 3/4\", Blood Pressure Monitor - Automatic Digital, Brace - Spinal Orthosis, Cane - Quad, Cane - Straight, Cap - Bouffant, Cast - Padding, Cast - Plaster, Cast - Shoe, Chair - Procedure Exam, Circumcision Clamp, Clip Applier - Reusable, Commode, Cotton Rolls/Sheets, Cotton/Prepping Balls, Coverall - Disposable, Curtain ** Patient Privacy, Diaper - Brief - Adult, Diaper - Disposable Infant, Exam Table w/Stirrups, Fingertip Pulse Oximeter, Hospital Bed Mattress, Mask - Face NonMedical, Overbed Table - 60 Lbs, Oxygen Concentrator, Stool - Exam, Stool - Step, Stretcher - w/ mattress, Suction Catheter 6Fr, Suction Tubing Non-Conductive, Suction/Vacuum Pump, Walker - Adult",
+        "total_item_quantity": "77.0",
         "handover_protocol_link_unique": "",
         "picture_link_unique": "",
         "item_list_eng_unique": "",
