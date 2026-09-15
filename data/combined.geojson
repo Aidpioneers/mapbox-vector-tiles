@@ -17,7 +17,7 @@
         "project_id": "SUG01",
         "project_name": "P4T",
         "responsible": "Alexis",
-        "status": "first very small project",
+        "status": "First very small project",
         "stage": "X. Post-Installation",
         "partner_org": "P4T",
         "country": "Uganda ðºð¬",
@@ -74,7 +74,7 @@
         "project_id": "SLE01",
         "project_name": "Tuyoor al Amal",
         "responsible": "Julian",
-        "status": "First repayment project at a Lebanese school with local procurement",
+        "status": "Complete",
         "stage": "X. Post-Installation",
         "partner_org": "Tuyoor al Amal",
         "country": "Lebanon ð±ð§",
@@ -131,7 +131,7 @@
         "project_id": "SLE02",
         "project_name": "MAPs HQs",
         "responsible": "Julian",
-        "status": "System was moved to Syria",
+        "status": "System was moved to Syria. Pending monitoring details",
         "stage": "X. Post-Installation",
         "partner_org": "MAPs",
         "country": "Lebanon ð±ð§",
@@ -188,7 +188,7 @@
         "project_id": "SLE03",
         "project_name": "Al Abrar",
         "responsible": "Julian",
-        "status": "First full grant project at a Lebanese school with local procurement",
+        "status": "Complete",
         "stage": "X. Post-Installation",
         "partner_org": "Al Manhaj",
         "country": "Lebanon ð±ð§",
@@ -535,7 +535,7 @@
         "partner_org": "Weema",
         "country": "Ethiopia ðªð¹",
         "type_of_institution": "Hospital",
-        "total_investment": "72.663,04 â¬",
+        "total_investment": "72.669,78 â¬",
         "local_quote": "171.800,00 â¬",
         "discount": "57,70%",
         "system_size_kwp": "73,80",
@@ -815,7 +815,7 @@
         "project_id": "SLE07",
         "project_name": "Elite School",
         "responsible": "RaphaÃ«l",
-        "status": "Project restarted: installation ongoing",
+        "status": "Complete",
         "stage": "IX. Post-Arrival",
         "partner_org": "Al Manhaj",
         "country": "Lebanon ð±ð§",
@@ -844,7 +844,7 @@
         "gross_cost_savings": "54.234,00 â¬",
         "co2_savings_t": "346,20",
         "geolocation": "34.39974980023008, 35.852329957877835",
-        "difference_to_envisioned_budget": "-8.867,14",
+        "difference_to_envisioned_budget": "1.632,86",
         "month_of_installation": "Aug.-2025",
         "project_name_mapping": "Al Manhaj Elite School",
         "landing_page_link": "",
@@ -872,7 +872,7 @@
         "project_id": "SUG02a",
         "project_name": "P4T Primary School",
         "responsible": "RaphaÃ«l",
-        "status": "Cargo released. Pending transport to site",
+        "status": "ETA on site Sept 16th",
         "stage": "VII. Shipping",
         "partner_org": "P4T",
         "country": "Uganda ðºð¬",
@@ -929,7 +929,7 @@
         "project_id": "SUG02b",
         "project_name": "P4T Secondary School",
         "responsible": "RaphaÃ«l",
-        "status": "Cargo released. Pending transport to site",
+        "status": "ETA on site Sept 16th",
         "stage": "VII. Shipping",
         "partner_org": "P4T",
         "country": "Uganda ðºð¬",
@@ -1043,7 +1043,7 @@
         "project_id": "SET07",
         "project_name": "Mudula High School",
         "responsible": "RaphaÃ«l",
-        "status": "Vessel departing Sept 16th",
+        "status": "Vessel departing Sept 16th. ETA Nov 10th",
         "stage": "VI. Documentation",
         "partner_org": "Weema International",
         "country": "Ethiopia ðªð¹",
@@ -1072,7 +1072,7 @@
         "gross_cost_savings": "84.875,00 â¬",
         "co2_savings_t": "257,00",
         "geolocation": "7.282644187911038, 37.54069537310809",
-        "difference_to_envisioned_budget": "11.439,40",
+        "difference_to_envisioned_budget": "11.008,29",
         "month_of_installation": "",
         "project_name_mapping": "Mudula High School",
         "landing_page_link": "",
@@ -3340,7 +3340,7 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MMZ01",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "13/03/2026"
       }
     },
     {
@@ -3418,7 +3418,7 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MUA36",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "24/02/2026"
       }
     },
     {
@@ -3457,7 +3457,7 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MSY06",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "17/02/2026"
       }
     },
     {
@@ -3496,7 +3496,7 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MUA37",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "25/02/2026"
       }
     },
     {
@@ -3535,7 +3535,7 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MUA38",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "31/03/2026"
       }
     },
     {
@@ -3574,7 +3574,7 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MUA39",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "20/03/2026"
       }
     },
     {
@@ -3613,7 +3613,7 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MUA40",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "12/03/2026"
       }
     },
     {
@@ -3652,7 +3652,7 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MUA41",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "23/04/2026"
       }
     },
     {
@@ -3730,7 +3730,7 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MAG01",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "10/04/2026"
       }
     },
     {
@@ -3769,7 +3769,7 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "14/04/2026"
       }
     },
     {
@@ -3808,7 +3808,7 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "14/04/2026"
       }
     },
     {
@@ -3925,7 +3925,7 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "30/06/2026"
       }
     },
     {
@@ -3964,7 +3964,7 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "12/06/2026"
       }
     },
     {
@@ -23691,6 +23691,864 @@
         "item_name_engukr_unique": "Airway - Oral Pharyngeal, Alcohol Prep Pads, Anesthesia - Face Mask Adult, Applicator - Rayon Tipped OB/GYN), Applicator - Single Tipped Cotton, Arm Sling/Immobilizer, Arthrex Instrumentation, Baby/Infant Onesies/Gowns, Basin Stand, Single w/ Bowl, Bath/Wash Basin - Plastic, Bladder Protection Pad, Blade - Beaver, Blood Collection Tube Holder, Blood Pressure Unit/Sphygmomanometer w/Cuff, Brace - Ankle Support, Brace - Walking Boot, Cabinet, Cane - Straight, Cap - Bouffant, Cart for Medical Gas Cylinders, Cast - Plaster, Catheter - Drainage, Chair - Blood Draw, Chair - Procedure Exam, Compression Sleeve, Cotton/Prepping Balls, Coverall - Disposable, Crane pick elevator, Cytology Brush, Diaper - Disposable Child, Disposal Can Liners, Fingertip Pulse Oximeter, Hospital Bed Mattress, Infant Incubator, Mask - Face NonMedical, Otoscope & Opthalmoscope, Oxygen Concentrator, Oxygen Nasal Cannula - Adult, Oxygen Nasal Cannula - Infant / Pediatric, Scale - Adult, Stool - Step, Stretcher - w/ mattress, Stryker Full Electric Hospital Bed w/o Mattress, Suction Catheter 10Fr, Suction Catheter 8Fr, Suction Catheter w/ Glove, Suction/Vacuum Pump, Syringe - Slip Tip, Walker - Hemi",
         "total_item_quantity": "81.0",
         "handover_protocol_link_unique": "https://drive.google.com/file/d/15faFZRfj_-Y0_v5x611-ZwhghB3iikzp/view",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "",
+        "unnamed_24": "",
+        "unnamed_25": "",
+        "unnamed_26": "",
+        "unique_shipment_ids": "",
+        "gikvalue_of_goods": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.6866,
+          48.9391
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MUA38",
+        "cure_id_unique": "42513",
+        "freight_forwarder": "Maersk",
+        "donor_unique": "CMA",
+        "donor_logos": "https://drive.google.com/file/d/17cKUH1MsUrpwYsRSgwxhB7wJec7gmZ4b/view",
+        "country_unique": "Ukraine",
+        "distribution_number_unique": "336",
+        "distribution_id_unique": "",
+        "shipment_period_unique": "Apr-26",
+        "type_of_medical_institution_unique": "Hospital",
+        "unique_hospital_names_eng": "Khmelnytskyi City Hospital",
+        "safe_hospital_names": "446",
+        "region_unique": "",
+        "full_location_unique": "",
+        "number_of_beds_unique": "",
+        "item_name_engukr_unique": "",
+        "total_item_quantity": "",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "",
+        "unnamed_24": "",
+        "unnamed_25": "",
+        "unnamed_26": "",
+        "unique_shipment_ids": "",
+        "gikvalue_of_goods": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.56316973,
+          49.9379
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MUA38",
+        "cure_id_unique": "42513",
+        "freight_forwarder": "Maersk",
+        "donor_unique": "CMA",
+        "donor_logos": "",
+        "country_unique": "Ukraine",
+        "distribution_number_unique": "337",
+        "distribution_id_unique": "",
+        "shipment_period_unique": "Apr-26",
+        "type_of_medical_institution_unique": "Hospital",
+        "unique_hospital_names_eng": "Novoyavorivsk District Hospital № 1",
+        "safe_hospital_names": "447",
+        "region_unique": "",
+        "full_location_unique": "",
+        "number_of_beds_unique": "",
+        "item_name_engukr_unique": "",
+        "total_item_quantity": "",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "",
+        "unnamed_24": "",
+        "unnamed_25": "",
+        "unnamed_26": "",
+        "unique_shipment_ids": "",
+        "gikvalue_of_goods": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.9008173,
+          49.7178
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MUA38",
+        "cure_id_unique": "42513",
+        "freight_forwarder": "Maersk",
+        "donor_unique": "CMA",
+        "donor_logos": "",
+        "country_unique": "Ukraine",
+        "distribution_number_unique": "338",
+        "distribution_id_unique": "",
+        "shipment_period_unique": "Apr-26",
+        "type_of_medical_institution_unique": "Hospital",
+        "unique_hospital_names_eng": "Pustomyty Hospital",
+        "safe_hospital_names": "448",
+        "region_unique": "",
+        "full_location_unique": "",
+        "number_of_beds_unique": "",
+        "item_name_engukr_unique": "",
+        "total_item_quantity": "",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "",
+        "unnamed_24": "",
+        "unnamed_25": "",
+        "unnamed_26": "",
+        "unique_shipment_ids": "",
+        "gikvalue_of_goods": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.50925821,
+          50.0011
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MUA38",
+        "cure_id_unique": "42513",
+        "freight_forwarder": "Maersk",
+        "donor_unique": "CMA",
+        "donor_logos": "",
+        "country_unique": "Ukraine",
+        "distribution_number_unique": "339",
+        "distribution_id_unique": "",
+        "shipment_period_unique": "Apr-26",
+        "type_of_medical_institution_unique": "Hospital",
+        "unique_hospital_names_eng": "Pochaiv District Municipal Hospital",
+        "safe_hospital_names": "449",
+        "region_unique": "",
+        "full_location_unique": "",
+        "number_of_beds_unique": "",
+        "item_name_engukr_unique": "",
+        "total_item_quantity": "",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "",
+        "unnamed_24": "",
+        "unnamed_25": "",
+        "unnamed_26": "",
+        "unique_shipment_ids": "",
+        "gikvalue_of_goods": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.0490918,
+          49.83647336
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MUA38",
+        "cure_id_unique": "42513",
+        "freight_forwarder": "Maersk",
+        "donor_unique": "CMA",
+        "donor_logos": "",
+        "country_unique": "Ukraine",
+        "distribution_number_unique": "340",
+        "distribution_id_unique": "",
+        "shipment_period_unique": "Apr-26",
+        "type_of_medical_institution_unique": "Hospital",
+        "unique_hospital_names_eng": "Danylo Halytsky Lviv National Medical University",
+        "safe_hospital_names": "450",
+        "region_unique": "",
+        "full_location_unique": "",
+        "number_of_beds_unique": "",
+        "item_name_engukr_unique": "",
+        "total_item_quantity": "",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "",
+        "unnamed_24": "",
+        "unnamed_25": "",
+        "unnamed_26": "",
+        "unique_shipment_ids": "",
+        "gikvalue_of_goods": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.85014847,
+          49.21554674
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MUA38",
+        "cure_id_unique": "42513",
+        "freight_forwarder": "Maersk",
+        "donor_unique": "CMA",
+        "donor_logos": "",
+        "country_unique": "Ukraine",
+        "distribution_number_unique": "341",
+        "distribution_id_unique": "",
+        "shipment_period_unique": "Apr-26",
+        "type_of_medical_institution_unique": "Hospital",
+        "unique_hospital_names_eng": "Kozelshchyna Central Hospital",
+        "safe_hospital_names": "451",
+        "region_unique": "",
+        "full_location_unique": "",
+        "number_of_beds_unique": "",
+        "item_name_engukr_unique": "",
+        "total_item_quantity": "",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "",
+        "unnamed_24": "",
+        "unnamed_25": "",
+        "unnamed_26": "",
+        "unique_shipment_ids": "",
+        "gikvalue_of_goods": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.03967821,
+          49.87376617
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MUA38",
+        "cure_id_unique": "42513",
+        "freight_forwarder": "Maersk",
+        "donor_unique": "CMA",
+        "donor_logos": "",
+        "country_unique": "Ukraine",
+        "distribution_number_unique": "342",
+        "distribution_id_unique": "",
+        "shipment_period_unique": "Apr-26",
+        "type_of_medical_institution_unique": "Hospital",
+        "unique_hospital_names_eng": "First Territorial Medical Association of Lviv",
+        "safe_hospital_names": "452",
+        "region_unique": "",
+        "full_location_unique": "",
+        "number_of_beds_unique": "",
+        "item_name_engukr_unique": "",
+        "total_item_quantity": "",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "",
+        "unnamed_24": "",
+        "unnamed_25": "",
+        "unnamed_26": "",
+        "unique_shipment_ids": "",
+        "gikvalue_of_goods": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.47048804,
+          48.3816826
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MUA38",
+        "cure_id_unique": "42513",
+        "freight_forwarder": "Maersk",
+        "donor_unique": "CMA",
+        "donor_logos": "",
+        "country_unique": "Ukraine",
+        "distribution_number_unique": "343",
+        "distribution_id_unique": "",
+        "shipment_period_unique": "Apr-26",
+        "type_of_medical_institution_unique": "Hospital",
+        "unique_hospital_names_eng": "Holovanivsʹka Tsentralʹna Rayonna Likarnya",
+        "safe_hospital_names": "453",
+        "region_unique": "",
+        "full_location_unique": "",
+        "number_of_beds_unique": "",
+        "item_name_engukr_unique": "",
+        "total_item_quantity": "",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "",
+        "unnamed_24": "",
+        "unnamed_25": "",
+        "unnamed_26": "",
+        "unique_shipment_ids": "",
+        "gikvalue_of_goods": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.24870194,
+          49.98536751
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MUA38",
+        "cure_id_unique": "42513",
+        "freight_forwarder": "Maersk",
+        "donor_unique": "CMA",
+        "donor_logos": "",
+        "country_unique": "Ukraine",
+        "distribution_number_unique": "344",
+        "distribution_id_unique": "",
+        "shipment_period_unique": "Apr-26",
+        "type_of_medical_institution_unique": "Hospital",
+        "unique_hospital_names_eng": "Kharkiv City Clinical Multidisciplinary Hospital No. 25",
+        "safe_hospital_names": "454",
+        "region_unique": "",
+        "full_location_unique": "",
+        "number_of_beds_unique": "",
+        "item_name_engukr_unique": "",
+        "total_item_quantity": "",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "",
+        "unnamed_24": "",
+        "unnamed_25": "",
+        "unnamed_26": "",
+        "unique_shipment_ids": "",
+        "gikvalue_of_goods": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.05649887,
+          48.46095147
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MUA38",
+        "cure_id_unique": "42513",
+        "freight_forwarder": "Maersk",
+        "donor_unique": "CMA",
+        "donor_logos": "",
+        "country_unique": "Ukraine",
+        "distribution_number_unique": "345",
+        "distribution_id_unique": "",
+        "shipment_period_unique": "Apr-26",
+        "type_of_medical_institution_unique": "Hospital",
+        "unique_hospital_names_eng": "Dnipro State Medical University",
+        "safe_hospital_names": "455",
+        "region_unique": "",
+        "full_location_unique": "",
+        "number_of_beds_unique": "",
+        "item_name_engukr_unique": "",
+        "total_item_quantity": "",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "",
+        "unnamed_24": "",
+        "unnamed_25": "",
+        "unnamed_26": "",
+        "unique_shipment_ids": "",
+        "gikvalue_of_goods": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.37794335,
+          50.45034882
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MUA44",
+        "cure_id_unique": "62526",
+        "freight_forwarder": "Maersk",
+        "donor_unique": "UHU",
+        "donor_logos": "",
+        "country_unique": "Ukraine",
+        "distribution_number_unique": "346",
+        "distribution_id_unique": "",
+        "shipment_period_unique": "Apr-26",
+        "type_of_medical_institution_unique": "Hospital",
+        "unique_hospital_names_eng": "Kyiv City Clinical Hospital #5",
+        "safe_hospital_names": "456",
+        "region_unique": "",
+        "full_location_unique": "",
+        "number_of_beds_unique": "",
+        "item_name_engukr_unique": "",
+        "total_item_quantity": "",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "",
+        "unnamed_24": "",
+        "unnamed_25": "",
+        "unnamed_26": "",
+        "unique_shipment_ids": "",
+        "gikvalue_of_goods": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.33890176,
+          51.50733495
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MUA41",
+        "cure_id_unique": "42518",
+        "freight_forwarder": "Maersk",
+        "donor_unique": "Razom",
+        "donor_logos": "",
+        "country_unique": "Ukraine",
+        "distribution_number_unique": "347",
+        "distribution_id_unique": "",
+        "shipment_period_unique": "May-26",
+        "type_of_medical_institution_unique": "Hospital",
+        "unique_hospital_names_eng": "Chernihiv Central District Hospital, Chernihiv Oblast",
+        "safe_hospital_names": "457",
+        "region_unique": "",
+        "full_location_unique": "",
+        "number_of_beds_unique": "",
+        "item_name_engukr_unique": "",
+        "total_item_quantity": "",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "",
+        "unnamed_24": "",
+        "unnamed_25": "",
+        "unnamed_26": "",
+        "unique_shipment_ids": "",
+        "gikvalue_of_goods": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.35364283,
+          50.4499392
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MUA40",
+        "cure_id_unique": "12537",
+        "freight_forwarder": "Maersk",
+        "donor_unique": "Razom",
+        "donor_logos": "",
+        "country_unique": "Ukraine",
+        "distribution_number_unique": "348",
+        "distribution_id_unique": "",
+        "shipment_period_unique": "May-26",
+        "type_of_medical_institution_unique": "Hospital",
+        "unique_hospital_names_eng": "Kyiv City Clinical Hospital No. 7, Kyiv",
+        "safe_hospital_names": "458",
+        "region_unique": "",
+        "full_location_unique": "",
+        "number_of_beds_unique": "",
+        "item_name_engukr_unique": "",
+        "total_item_quantity": "",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "",
+        "unnamed_24": "",
+        "unnamed_25": "",
+        "unnamed_26": "",
+        "unique_shipment_ids": "",
+        "gikvalue_of_goods": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.59854831,
+          48.50898413
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MUA43",
+        "cure_id_unique": "12547",
+        "freight_forwarder": "Maersk",
+        "donor_unique": "Razom",
+        "donor_logos": "",
+        "country_unique": "Ukraine",
+        "distribution_number_unique": "349",
+        "distribution_id_unique": "",
+        "shipment_period_unique": "Jun-26",
+        "type_of_medical_institution_unique": "Hospital",
+        "unique_hospital_names_eng": "City Hospital No. 9",
+        "safe_hospital_names": "459",
+        "region_unique": "",
+        "full_location_unique": "",
+        "number_of_beds_unique": "",
+        "item_name_engukr_unique": "",
+        "total_item_quantity": "",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "",
+        "unnamed_24": "",
+        "unnamed_25": "",
+        "unnamed_26": "",
+        "unique_shipment_ids": "",
+        "gikvalue_of_goods": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.99715818,
+          46.99699191
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MUA45",
+        "cure_id_unique": "12552",
+        "freight_forwarder": "Maersk",
+        "donor_unique": "Razom",
+        "donor_logos": "",
+        "country_unique": "Ukraine",
+        "distribution_number_unique": "350",
+        "distribution_id_unique": "",
+        "shipment_period_unique": "Jul-26",
+        "type_of_medical_institution_unique": "Hospital",
+        "unique_hospital_names_eng": "Mykolaiv Regional Base of Specialized Medical Support\r",
+        "safe_hospital_names": "460",
+        "region_unique": "",
+        "full_location_unique": "",
+        "number_of_beds_unique": "",
+        "item_name_engukr_unique": "",
+        "total_item_quantity": "",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "",
+        "unnamed_24": "",
+        "unnamed_25": "",
+        "unnamed_26": "",
+        "unique_shipment_ids": "",
+        "gikvalue_of_goods": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.94153965,
+          48.2655862
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MUA47",
+        "cure_id_unique": "22540",
+        "freight_forwarder": "Maersk",
+        "donor_unique": "UHU",
+        "donor_logos": "",
+        "country_unique": "Ukraine",
+        "distribution_number_unique": "351",
+        "distribution_id_unique": "",
+        "shipment_period_unique": "Sep-26",
+        "type_of_medical_institution_unique": "Hospital",
+        "unique_hospital_names_eng": "Chernivtsi Regional Psychiatric Hospital",
+        "safe_hospital_names": "461",
+        "region_unique": "",
+        "full_location_unique": "",
+        "number_of_beds_unique": "",
+        "item_name_engukr_unique": "",
+        "total_item_quantity": "",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "",
+        "unnamed_24": "",
+        "unnamed_25": "",
+        "unnamed_26": "",
+        "unique_shipment_ids": "",
+        "gikvalue_of_goods": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.27688444,
+          51.52711327
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MUA42",
+        "cure_id_unique": "12543",
+        "freight_forwarder": "Maersk",
+        "donor_unique": "UHU",
+        "donor_logos": "",
+        "country_unique": "Ukraine",
+        "distribution_number_unique": "352",
+        "distribution_id_unique": "",
+        "shipment_period_unique": "May-26",
+        "type_of_medical_institution_unique": "Hospital",
+        "unique_hospital_names_eng": "Chernihiv Regional Hospital",
+        "safe_hospital_names": "462",
+        "region_unique": "",
+        "full_location_unique": "",
+        "number_of_beds_unique": "",
+        "item_name_engukr_unique": "",
+        "total_item_quantity": "",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "",
+        "unnamed_24": "",
+        "unnamed_25": "",
+        "unnamed_26": "",
+        "unique_shipment_ids": "",
+        "gikvalue_of_goods": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.7891654,
+          46.58183922
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MUA42",
+        "cure_id_unique": "12543",
+        "freight_forwarder": "Maersk",
+        "donor_unique": "UHU",
+        "donor_logos": "",
+        "country_unique": "Ukraine",
+        "distribution_number_unique": "353",
+        "distribution_id_unique": "",
+        "shipment_period_unique": "May-26",
+        "type_of_medical_institution_unique": "Hospital",
+        "unique_hospital_names_eng": "Odesa Regional Clinical Hospital",
+        "safe_hospital_names": "463",
+        "region_unique": "",
+        "full_location_unique": "",
+        "number_of_beds_unique": "",
+        "item_name_engukr_unique": "",
+        "total_item_quantity": "",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "",
+        "unnamed_24": "",
+        "unnamed_25": "",
+        "unnamed_26": "",
+        "unique_shipment_ids": "",
+        "gikvalue_of_goods": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.52160456,
+          50.46485814
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MUA42",
+        "cure_id_unique": "12543",
+        "freight_forwarder": "Maersk",
+        "donor_unique": "UHU",
+        "donor_logos": "",
+        "country_unique": "Ukraine",
+        "distribution_number_unique": "354",
+        "distribution_id_unique": "",
+        "shipment_period_unique": "May-26",
+        "type_of_medical_institution_unique": "Hospital",
+        "unique_hospital_names_eng": "Clinical Hospital №15 of the Podilskyi District of Kyiv",
+        "safe_hospital_names": "464",
+        "region_unique": "",
+        "full_location_unique": "",
+        "number_of_beds_unique": "",
+        "item_name_engukr_unique": "",
+        "total_item_quantity": "",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "",
+        "unnamed_24": "",
+        "unnamed_25": "",
+        "unnamed_26": "",
+        "unique_shipment_ids": "",
+        "gikvalue_of_goods": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.48082005,
+          50.4509563
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MUA42",
+        "cure_id_unique": "12543",
+        "freight_forwarder": "Maersk",
+        "donor_unique": "UHU",
+        "donor_logos": "",
+        "country_unique": "Ukraine",
+        "distribution_number_unique": "355",
+        "distribution_id_unique": "",
+        "shipment_period_unique": "May-26",
+        "type_of_medical_institution_unique": "Hospital",
+        "unique_hospital_names_eng": "National Children's Specialized Hospital \"Okhmatdyt\"",
+        "safe_hospital_names": "465",
+        "region_unique": "",
+        "full_location_unique": "",
+        "number_of_beds_unique": "",
+        "item_name_engukr_unique": "",
+        "total_item_quantity": "",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "",
+        "unnamed_24": "",
+        "unnamed_25": "",
+        "unnamed_26": "",
+        "unique_shipment_ids": "",
+        "gikvalue_of_goods": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.81618074,
+          50.92468179
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MUA42",
+        "cure_id_unique": "12543",
+        "freight_forwarder": "Maersk",
+        "donor_unique": "UHU",
+        "donor_logos": "",
+        "country_unique": "Ukraine",
+        "distribution_number_unique": "356",
+        "distribution_id_unique": "",
+        "shipment_period_unique": "May-26",
+        "type_of_medical_institution_unique": "Hospital",
+        "unique_hospital_names_eng": "Sumy Regional Center for Emergency Medical Care and Disaster Medicine",
+        "safe_hospital_names": "466",
+        "region_unique": "",
+        "full_location_unique": "",
+        "number_of_beds_unique": "",
+        "item_name_engukr_unique": "",
+        "total_item_quantity": "",
+        "handover_protocol_link_unique": "",
+        "picture_link_unique": "",
+        "item_list_eng_unique": "",
+        "short_hospital_names_eng": "",
+        "unnamed_24": "",
+        "unnamed_25": "",
+        "unnamed_26": "",
+        "unique_shipment_ids": "",
+        "gikvalue_of_goods": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.37742836,
+          50.45036932
+        ]
+      },
+      "properties": {
+        "show": "TRUE",
+        "shipment_id_unique": "MUA42",
+        "cure_id_unique": "12543",
+        "freight_forwarder": "Maersk",
+        "donor_unique": "UHU",
+        "donor_logos": "",
+        "country_unique": "Ukraine",
+        "distribution_number_unique": "357",
+        "distribution_id_unique": "",
+        "shipment_period_unique": "May-26",
+        "type_of_medical_institution_unique": "Hospital",
+        "unique_hospital_names_eng": "Kyiv City Clinical Hospital No. 5",
+        "safe_hospital_names": "467",
+        "region_unique": "",
+        "full_location_unique": "",
+        "number_of_beds_unique": "",
+        "item_name_engukr_unique": "",
+        "total_item_quantity": "",
+        "handover_protocol_link_unique": "",
         "picture_link_unique": "",
         "item_list_eng_unique": "",
         "short_hospital_names_eng": "",
