@@ -156,7 +156,7 @@
         ]
       },
       "properties": {
-        "show?": "True",
+        "show?": "False",
         "Year": "2026.0",
         "Agency": "Run for Charity",
         "City": "Amsterdam",
@@ -165,7 +165,7 @@
         "Full / Half": "Full Marathon",
         "Date": "18 Oct 2026",
         "Sign up deadlines": "27/07/2026",
-        "Availability (Comments)": "tickets available ",
+        "Availability (Comments)": "not available ",
         "Google Ads": "",
         "Comments": "",
         "Total Purchased": "#REF!",
@@ -185,7 +185,7 @@
         ]
       },
       "properties": {
-        "show?": "True",
+        "show?": "False",
         "Year": "2026.0",
         "Agency": "Run for Charity",
         "City": "Amsterdam",
@@ -194,7 +194,7 @@
         "Full / Half": "Full Marathon",
         "Date": "18 Oct 2026",
         "Sign up deadlines": "27/07/2026",
-        "Availability (Comments)": "tickets available ",
+        "Availability (Comments)": "not available ",
         "Google Ads": "",
         "Comments": "",
         "Total Purchased": "#REF!",
@@ -214,7 +214,7 @@
         ]
       },
       "properties": {
-        "show?": "True",
+        "show?": "False",
         "Year": "2026.0",
         "Agency": "Run for Charity",
         "City": "Amsterdam",
@@ -223,7 +223,7 @@
         "Full / Half": "Half Marathon",
         "Date": "18 Oct 2026",
         "Sign up deadlines": "27/07/2026",
-        "Availability (Comments)": "tickets available ",
+        "Availability (Comments)": "not available ",
         "Google Ads": "",
         "Comments": "",
         "Total Purchased": "4",
@@ -243,7 +243,7 @@
         ]
       },
       "properties": {
-        "show?": "True",
+        "show?": "False",
         "Year": "2026.0",
         "Agency": "Run for Charity",
         "City": "Oxford",
@@ -252,7 +252,7 @@
         "Full / Half": "Half Marathon",
         "Date": "11 Oct 2026",
         "Sign up deadlines": "10/08/2026",
-        "Availability (Comments)": "tickets available ",
+        "Availability (Comments)": "not available ",
         "Google Ads": "",
         "Comments": "",
         "Total Purchased": "0",
@@ -272,7 +272,7 @@
         ]
       },
       "properties": {
-        "show?": "True",
+        "show?": "False",
         "Year": "2026.0",
         "Agency": "Realbuzz",
         "City": "Valencia",
@@ -281,7 +281,7 @@
         "Full / Half": "Half Marathon",
         "Date": "25 Oct 2026",
         "Sign up deadlines": "28/08/2026",
-        "Availability (Comments)": "tickets available ",
+        "Availability (Comments)": "not available ",
         "Google Ads": "",
         "Comments": "",
         "Total Purchased": "5",
@@ -301,7 +301,7 @@
         ]
       },
       "properties": {
-        "show?": "True",
+        "show?": "False",
         "Year": "2026.0",
         "Agency": "Realbuzz",
         "City": "Cardiff",
@@ -310,7 +310,7 @@
         "Full / Half": "Half Marathon",
         "Date": "4 Oct 2026",
         "Sign up deadlines": "03/08/2026",
-        "Availability (Comments)": "tickets available ",
+        "Availability (Comments)": "not available ",
         "Google Ads": "",
         "Comments": "",
         "Total Purchased": "5",
