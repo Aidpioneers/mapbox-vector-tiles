@@ -535,9 +535,9 @@
         "partner_org": "Weema",
         "country": "Ethiopia ðªð¹",
         "type_of_institution": "Hospital",
-        "total_investment": "72.774,45 â¬",
+        "total_investment": "72.808,36 â¬",
         "local_quote": "171.800,00 â¬",
-        "discount": "57,64%",
+        "discount": "57,62%",
         "system_size_kwp": "73,80",
         "battery_size_kwh": "104,66",
         "solar_surface_m2": "351,00",
@@ -649,7 +649,7 @@
         "partner_org": "ForAfrika",
         "country": "Ethiopia ðªð¹",
         "type_of_institution": "Hospital",
-        "total_investment": "99.633,62 â¬",
+        "total_investment": "99.631,95 â¬",
         "local_quote": "-",
         "discount": "",
         "system_size_kwp": "128,00",
@@ -958,7 +958,7 @@
         "gross_cost_savings": "71.414,00 â¬",
         "co2_savings_t": "364,10",
         "geolocation": "1.1907489324160314, 30.784884117910103",
-        "difference_to_envisioned_budget": "7.563,04",
+        "difference_to_envisioned_budget": "15.163,04",
         "month_of_installation": "",
         "project_name_mapping": "Qalamoun, School",
         "landing_page_link": "",
@@ -1429,7 +1429,7 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MUA0",
-        "gikvalue_of_goods": "€44,742.00"
+        "gikvalue_of_goods": "€141,489.32"
       }
     },
     {
@@ -1467,8 +1467,8 @@
         "unnamed_24": "",
         "unnamed_25": "",
         "unnamed_26": "",
-        "unique_shipment_ids": "MUA1",
-        "gikvalue_of_goods": "30/09/2022"
+        "unique_shipment_ids": "MUA01",
+        "gikvalue_of_goods": "€334,585.99"
       }
     },
     {
@@ -1506,8 +1506,8 @@
         "unnamed_24": "",
         "unnamed_25": "",
         "unnamed_26": "",
-        "unique_shipment_ids": "MUA3",
-        "gikvalue_of_goods": "24/01/2023"
+        "unique_shipment_ids": "MUA03",
+        "gikvalue_of_goods": "€472,075.96"
       }
     },
     {
@@ -1545,8 +1545,8 @@
         "unnamed_24": "",
         "unnamed_25": "",
         "unnamed_26": "",
-        "unique_shipment_ids": "MUA2",
-        "gikvalue_of_goods": "02/02/2023"
+        "unique_shipment_ids": "MUA02",
+        "gikvalue_of_goods": "€362,221.82"
       }
     },
     {
@@ -1584,8 +1584,8 @@
         "unnamed_24": "",
         "unnamed_25": "",
         "unnamed_26": "",
-        "unique_shipment_ids": "MUA4",
-        "gikvalue_of_goods": "01/04/2023"
+        "unique_shipment_ids": "MUA04",
+        "gikvalue_of_goods": "€441,846.67"
       }
     },
     {
@@ -1624,7 +1624,7 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MSY01",
-        "gikvalue_of_goods": "23/03/2023"
+        "gikvalue_of_goods": "€137,280.51"
       }
     },
     {
@@ -1663,7 +1663,7 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MSY02",
-        "gikvalue_of_goods": "20/03/2023"
+        "gikvalue_of_goods": "€106,247.89"
       }
     },
     {
@@ -1701,8 +1701,8 @@
         "unnamed_24": "",
         "unnamed_25": "",
         "unnamed_26": "",
-        "unique_shipment_ids": "MUA5",
-        "gikvalue_of_goods": "19/04/2023"
+        "unique_shipment_ids": "MUA05",
+        "gikvalue_of_goods": "€498,803.51"
       }
     },
     {
@@ -1741,7 +1741,7 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MUA07",
-        "gikvalue_of_goods": "25/05/2023"
+        "gikvalue_of_goods": "€305,367.87"
       }
     },
     {
@@ -1779,8 +1779,8 @@
         "unnamed_24": "",
         "unnamed_25": "",
         "unnamed_26": "",
-        "unique_shipment_ids": "MUA6",
-        "gikvalue_of_goods": "16/05/2023"
+        "unique_shipment_ids": "MUA06",
+        "gikvalue_of_goods": "€287,542.71"
       }
     },
     {
@@ -1819,7 +1819,7 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MUA08",
-        "gikvalue_of_goods": "12/06/2023"
+        "gikvalue_of_goods": "€366,469.34"
       }
     },
     {
@@ -1858,7 +1858,7 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MUA09",
-        "gikvalue_of_goods": "06/06/2023"
+        "gikvalue_of_goods": "€268,954.45"
       }
     },
     {
@@ -1897,7 +1897,7 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MUA10",
-        "gikvalue_of_goods": "26/07/2023"
+        "gikvalue_of_goods": "€403,251.44"
       }
     },
     {
@@ -1936,7 +1936,7 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MUA11",
-        "gikvalue_of_goods": "12/07/2023"
+        "gikvalue_of_goods": "€272,705.02"
       }
     },
     {
@@ -1975,7 +1975,7 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MUA12",
-        "gikvalue_of_goods": "26/07/2023"
+        "gikvalue_of_goods": "€180,832.41"
       }
     },
     {
@@ -2014,7 +2014,7 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MSY03",
-        "gikvalue_of_goods": "08/08/2023"
+        "gikvalue_of_goods": "€128,631.09"
       }
     },
     {
@@ -2053,7 +2053,7 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MSY04",
-        "gikvalue_of_goods": "11/09/2023"
+        "gikvalue_of_goods": "€211,104.76"
       }
     },
     {
@@ -2092,7 +2092,7 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MUA16",
-        "gikvalue_of_goods": "27/2/2024"
+        "gikvalue_of_goods": "€187,555.48"
       }
     },
     {
@@ -2131,7 +2131,7 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MUA13",
-        "gikvalue_of_goods": "21/02/2024"
+        "gikvalue_of_goods": "€441,447.46"
       }
     },
     {
@@ -2170,7 +2170,7 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MLE02",
-        "gikvalue_of_goods": "16/04/2024"
+        "gikvalue_of_goods": "€348,351.30"
       }
     },
     {
@@ -2209,7 +2209,7 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MUA15",
-        "gikvalue_of_goods": "03/05/2024"
+        "gikvalue_of_goods": "€391,993.62"
       }
     },
     {
@@ -2248,7 +2248,7 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MUA14",
-        "gikvalue_of_goods": "08/05/2024"
+        "gikvalue_of_goods": "€327,950.27"
       }
     },
     {
@@ -2287,7 +2287,7 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MUA17",
-        "gikvalue_of_goods": "12/06/2024"
+        "gikvalue_of_goods": "€277,517.17"
       }
     },
     {
@@ -2326,7 +2326,7 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MUA18",
-        "gikvalue_of_goods": "02/05/2024"
+        "gikvalue_of_goods": "€445,467.66"
       }
     },
     {
@@ -2365,7 +2365,7 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MUA19",
-        "gikvalue_of_goods": "25/09/2024"
+        "gikvalue_of_goods": "€501,077.02"
       }
     },
     {
@@ -2404,7 +2404,7 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MUA21",
-        "gikvalue_of_goods": "16/10/2024"
+        "gikvalue_of_goods": "€531,837.28"
       }
     },
     {
@@ -2443,7 +2443,7 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MSY05",
-        "gikvalue_of_goods": "26/11/2024"
+        "gikvalue_of_goods": "€293,983.96"
       }
     },
     {
@@ -2482,7 +2482,7 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MUA23",
-        "gikvalue_of_goods": "19/11/2024"
+        "gikvalue_of_goods": "€300,719.54"
       }
     },
     {
@@ -2521,7 +2521,7 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MUA20",
-        "gikvalue_of_goods": "31/10/2024"
+        "gikvalue_of_goods": "€352,698.56"
       }
     },
     {
@@ -2560,7 +2560,7 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MUA27",
-        "gikvalue_of_goods": "26/11/2024"
+        "gikvalue_of_goods": "€285,954.00"
       }
     },
     {
@@ -2599,7 +2599,7 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MUA26",
-        "gikvalue_of_goods": "04/12/2024"
+        "gikvalue_of_goods": "€229,481.68"
       }
     },
     {
@@ -2638,7 +2638,7 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MUA24",
-        "gikvalue_of_goods": "16/12/2024"
+        "gikvalue_of_goods": "€514,352.83"
       }
     },
     {
@@ -2677,7 +2677,7 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MUA25",
-        "gikvalue_of_goods": "20/11/2024"
+        "gikvalue_of_goods": "€547,189.12"
       }
     },
     {
@@ -2716,7 +2716,7 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MUA22",
-        "gikvalue_of_goods": "13/11/2024"
+        "gikvalue_of_goods": "€267,829.91"
       }
     },
     {
@@ -2755,7 +2755,7 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MSS01",
-        "gikvalue_of_goods": "09/05/2024"
+        "gikvalue_of_goods": "€323,611.34"
       }
     },
     {
@@ -2794,7 +2794,7 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MSL01",
-        "gikvalue_of_goods": "17/01/2024"
+        "gikvalue_of_goods": "€190,504.13"
       }
     },
     {
@@ -2833,7 +2833,7 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MLE01",
-        "gikvalue_of_goods": "30/1/2024"
+        "gikvalue_of_goods": "€346,028.56"
       }
     },
     {
@@ -2871,8 +2871,8 @@
         "unnamed_24": "",
         "unnamed_25": "",
         "unnamed_26": "",
-        "unique_shipment_ids": "SLE01",
-        "gikvalue_of_goods": "12/02/2025"
+        "unique_shipment_ids": "MET01",
+        "gikvalue_of_goods": "€150,943.24"
       }
     },
     {
@@ -2910,8 +2910,8 @@
         "unnamed_24": "",
         "unnamed_25": "",
         "unnamed_26": "",
-        "unique_shipment_ids": "MET01",
-        "gikvalue_of_goods": "31/03/2025"
+        "unique_shipment_ids": "MUA28",
+        "gikvalue_of_goods": "€299,013.08"
       }
     },
     {
@@ -2949,8 +2949,8 @@
         "unnamed_24": "",
         "unnamed_25": "",
         "unnamed_26": "",
-        "unique_shipment_ids": "MUA28",
-        "gikvalue_of_goods": "08/04/2025"
+        "unique_shipment_ids": "MUA29",
+        "gikvalue_of_goods": "€293,317.95"
       }
     },
     {
@@ -2988,8 +2988,8 @@
         "unnamed_24": "",
         "unnamed_25": "",
         "unnamed_26": "",
-        "unique_shipment_ids": "MUA29",
-        "gikvalue_of_goods": "16/04/2025"
+        "unique_shipment_ids": "MUA30",
+        "gikvalue_of_goods": "€336,181.48"
       }
     },
     {
@@ -3027,8 +3027,8 @@
         "unnamed_24": "",
         "unnamed_25": "",
         "unnamed_26": "",
-        "unique_shipment_ids": "MUA30",
-        "gikvalue_of_goods": "16/06/2025"
+        "unique_shipment_ids": "MUA31",
+        "gikvalue_of_goods": "€213,838.29"
       }
     },
     {
@@ -3066,8 +3066,8 @@
         "unnamed_24": "",
         "unnamed_25": "",
         "unnamed_26": "",
-        "unique_shipment_ids": "MUA31",
-        "gikvalue_of_goods": "19/08/2025"
+        "unique_shipment_ids": "MUA32",
+        "gikvalue_of_goods": "€355,461.47"
       }
     },
     {
@@ -3105,8 +3105,8 @@
         "unnamed_24": "",
         "unnamed_25": "",
         "unnamed_26": "",
-        "unique_shipment_ids": "MUA32",
-        "gikvalue_of_goods": "26/08/2025"
+        "unique_shipment_ids": "MUA33",
+        "gikvalue_of_goods": "€276,485.64"
       }
     },
     {
@@ -3144,8 +3144,8 @@
         "unnamed_24": "",
         "unnamed_25": "",
         "unnamed_26": "",
-        "unique_shipment_ids": "MUA33",
-        "gikvalue_of_goods": "27/08/2025"
+        "unique_shipment_ids": "MUA34",
+        "gikvalue_of_goods": "€483,193.08"
       }
     },
     {
@@ -3183,8 +3183,8 @@
         "unnamed_24": "",
         "unnamed_25": "",
         "unnamed_26": "",
-        "unique_shipment_ids": "MUA34",
-        "gikvalue_of_goods": "24/09/2025"
+        "unique_shipment_ids": "MUA35",
+        "gikvalue_of_goods": "€630,222.93"
       }
     },
     {
@@ -3222,8 +3222,8 @@
         "unnamed_24": "",
         "unnamed_25": "",
         "unnamed_26": "",
-        "unique_shipment_ids": "MUA35",
-        "gikvalue_of_goods": "18/03/2025"
+        "unique_shipment_ids": "MET02",
+        "gikvalue_of_goods": "€211,029.33"
       }
     },
     {
@@ -3261,8 +3261,8 @@
         "unnamed_24": "",
         "unnamed_25": "",
         "unnamed_26": "",
-        "unique_shipment_ids": "SLE04",
-        "gikvalue_of_goods": "29/01/2025"
+        "unique_shipment_ids": "MMZ01",
+        "gikvalue_of_goods": "€607,550.80"
       }
     },
     {
@@ -3300,8 +3300,8 @@
         "unnamed_24": "",
         "unnamed_25": "",
         "unnamed_26": "",
-        "unique_shipment_ids": "MET02",
-        "gikvalue_of_goods": "12/11/2025"
+        "unique_shipment_ids": "MUA36",
+        "gikvalue_of_goods": "€282,416.94"
       }
     },
     {
@@ -3339,8 +3339,8 @@
         "unnamed_24": "",
         "unnamed_25": "",
         "unnamed_26": "",
-        "unique_shipment_ids": "MMZ01",
-        "gikvalue_of_goods": "13/03/2026"
+        "unique_shipment_ids": "MSY06",
+        "gikvalue_of_goods": "€156,752.80"
       }
     },
     {
@@ -3378,8 +3378,8 @@
         "unnamed_24": "",
         "unnamed_25": "",
         "unnamed_26": "",
-        "unique_shipment_ids": "SET01",
-        "gikvalue_of_goods": "18/11/2025"
+        "unique_shipment_ids": "MUA37",
+        "gikvalue_of_goods": "€234,724.67"
       }
     },
     {
@@ -3417,8 +3417,8 @@
         "unnamed_24": "",
         "unnamed_25": "",
         "unnamed_26": "",
-        "unique_shipment_ids": "MUA36",
-        "gikvalue_of_goods": "24/02/2026"
+        "unique_shipment_ids": "MUA38",
+        "gikvalue_of_goods": "€588,670.24"
       }
     },
     {
@@ -3456,8 +3456,8 @@
         "unnamed_24": "",
         "unnamed_25": "",
         "unnamed_26": "",
-        "unique_shipment_ids": "MSY06",
-        "gikvalue_of_goods": "17/02/2026"
+        "unique_shipment_ids": "MUA39",
+        "gikvalue_of_goods": "€211,224.42"
       }
     },
     {
@@ -3495,8 +3495,8 @@
         "unnamed_24": "",
         "unnamed_25": "",
         "unnamed_26": "",
-        "unique_shipment_ids": "MUA37",
-        "gikvalue_of_goods": "25/02/2026"
+        "unique_shipment_ids": "MUA40",
+        "gikvalue_of_goods": "€330,846.06"
       }
     },
     {
@@ -3534,8 +3534,8 @@
         "unnamed_24": "",
         "unnamed_25": "",
         "unnamed_26": "",
-        "unique_shipment_ids": "MUA38",
-        "gikvalue_of_goods": "31/03/2026"
+        "unique_shipment_ids": "MUA41",
+        "gikvalue_of_goods": "€492,016.39"
       }
     },
     {
@@ -3573,8 +3573,8 @@
         "unnamed_24": "",
         "unnamed_25": "",
         "unnamed_26": "",
-        "unique_shipment_ids": "MUA39",
-        "gikvalue_of_goods": "20/03/2026"
+        "unique_shipment_ids": "MUA42",
+        "gikvalue_of_goods": "€364,037.90"
       }
     },
     {
@@ -3612,8 +3612,8 @@
         "unnamed_24": "",
         "unnamed_25": "",
         "unnamed_26": "",
-        "unique_shipment_ids": "MUA40",
-        "gikvalue_of_goods": "12/03/2026"
+        "unique_shipment_ids": "MAG01",
+        "gikvalue_of_goods": "€133,876.47"
       }
     },
     {
@@ -3651,8 +3651,8 @@
         "unnamed_24": "",
         "unnamed_25": "",
         "unnamed_26": "",
-        "unique_shipment_ids": "MUA41",
-        "gikvalue_of_goods": "23/04/2026"
+        "unique_shipment_ids": "MSY07",
+        "gikvalue_of_goods": "€9,564,150.03"
       }
     },
     {
@@ -3690,7 +3690,7 @@
         "unnamed_24": "",
         "unnamed_25": "",
         "unnamed_26": "",
-        "unique_shipment_ids": "MUA42",
+        "unique_shipment_ids": "MET03",
         "gikvalue_of_goods": ""
       }
     },
@@ -3729,8 +3729,8 @@
         "unnamed_24": "",
         "unnamed_25": "",
         "unnamed_26": "",
-        "unique_shipment_ids": "MAG01",
-        "gikvalue_of_goods": "10/04/2026"
+        "unique_shipment_ids": "MUA43",
+        "gikvalue_of_goods": "€335,533.06"
       }
     },
     {
@@ -3768,8 +3768,8 @@
         "unnamed_24": "",
         "unnamed_25": "",
         "unnamed_26": "",
-        "unique_shipment_ids": "",
-        "gikvalue_of_goods": "14/04/2026"
+        "unique_shipment_ids": "MUA44",
+        "gikvalue_of_goods": "€159,580.86"
       }
     },
     {
@@ -3807,8 +3807,8 @@
         "unnamed_24": "",
         "unnamed_25": "",
         "unnamed_26": "",
-        "unique_shipment_ids": "",
-        "gikvalue_of_goods": "14/04/2026"
+        "unique_shipment_ids": "MUA45",
+        "gikvalue_of_goods": "€226,759.64"
       }
     },
     {
@@ -3846,7 +3846,7 @@
         "unnamed_24": "",
         "unnamed_25": "",
         "unnamed_26": "",
-        "unique_shipment_ids": "",
+        "unique_shipment_ids": "MML01",
         "gikvalue_of_goods": ""
       }
     },
@@ -3885,7 +3885,7 @@
         "unnamed_24": "",
         "unnamed_25": "",
         "unnamed_26": "",
-        "unique_shipment_ids": "",
+        "unique_shipment_ids": "MUA46",
         "gikvalue_of_goods": ""
       }
     },
@@ -3924,8 +3924,8 @@
         "unnamed_24": "",
         "unnamed_25": "",
         "unnamed_26": "",
-        "unique_shipment_ids": "",
-        "gikvalue_of_goods": "30/06/2026"
+        "unique_shipment_ids": "MUA47",
+        "gikvalue_of_goods": "€250,695.99"
       }
     },
     {
@@ -3963,8 +3963,8 @@
         "unnamed_24": "",
         "unnamed_25": "",
         "unnamed_26": "",
-        "unique_shipment_ids": "",
-        "gikvalue_of_goods": "12/06/2026"
+        "unique_shipment_ids": "MUA48",
+        "gikvalue_of_goods": "€90,694.68"
       }
     },
     {
@@ -4002,7 +4002,7 @@
         "unnamed_24": "",
         "unnamed_25": "",
         "unnamed_26": "",
-        "unique_shipment_ids": "",
+        "unique_shipment_ids": "MUA49",
         "gikvalue_of_goods": ""
       }
     },
@@ -4041,7 +4041,7 @@
         "unnamed_24": "",
         "unnamed_25": "",
         "unnamed_26": "",
-        "unique_shipment_ids": "",
+        "unique_shipment_ids": "MET04",
         "gikvalue_of_goods": ""
       }
     },
@@ -4080,7 +4080,7 @@
         "unnamed_24": "",
         "unnamed_25": "",
         "unnamed_26": "",
-        "unique_shipment_ids": "",
+        "unique_shipment_ids": "MUA50",
         "gikvalue_of_goods": ""
       }
     },
@@ -4119,7 +4119,7 @@
         "unnamed_24": "",
         "unnamed_25": "",
         "unnamed_26": "",
-        "unique_shipment_ids": "",
+        "unique_shipment_ids": "MET05",
         "gikvalue_of_goods": ""
       }
     },
@@ -4158,7 +4158,7 @@
         "unnamed_24": "",
         "unnamed_25": "",
         "unnamed_26": "",
-        "unique_shipment_ids": "",
+        "unique_shipment_ids": "MET06",
         "gikvalue_of_goods": ""
       }
     },
@@ -4197,7 +4197,7 @@
         "unnamed_24": "",
         "unnamed_25": "",
         "unnamed_26": "",
-        "unique_shipment_ids": "",
+        "unique_shipment_ids": "MUA51",
         "gikvalue_of_goods": ""
       }
     },
@@ -4236,7 +4236,7 @@
         "unnamed_24": "",
         "unnamed_25": "",
         "unnamed_26": "",
-        "unique_shipment_ids": "",
+        "unique_shipment_ids": "MLE03",
         "gikvalue_of_goods": ""
       }
     },
@@ -4275,7 +4275,7 @@
         "unnamed_24": "",
         "unnamed_25": "",
         "unnamed_26": "",
-        "unique_shipment_ids": "",
+        "unique_shipment_ids": "MSD01",
         "gikvalue_of_goods": ""
       }
     },
@@ -4314,7 +4314,7 @@
         "unnamed_24": "",
         "unnamed_25": "",
         "unnamed_26": "",
-        "unique_shipment_ids": "",
+        "unique_shipment_ids": "MET07",
         "gikvalue_of_goods": ""
       }
     },
@@ -4353,7 +4353,7 @@
         "unnamed_24": "",
         "unnamed_25": "",
         "unnamed_26": "",
-        "unique_shipment_ids": "",
+        "unique_shipment_ids": "MET08",
         "gikvalue_of_goods": ""
       }
     },
@@ -4392,7 +4392,7 @@
         "unnamed_24": "",
         "unnamed_25": "",
         "unnamed_26": "",
-        "unique_shipment_ids": "",
+        "unique_shipment_ids": "MCG01",
         "gikvalue_of_goods": ""
       }
     },
@@ -23716,7 +23716,7 @@
         "cure_id_unique": "42513",
         "freight_forwarder": "Maersk",
         "donor_unique": "CMA",
-        "donor_logos": "https://drive.google.com/file/d/17cKUH1MsUrpwYsRSgwxhB7wJec7gmZ4b/view",
+        "donor_logos": "https://drive.google.com/file/d/1fuozKbX9i8gGst9fO4YbPo-ffDBJ1TLp/view?usp=sharing https://drive.google.com/file/d/17cKUH1MsUrpwYsRSgwxhB7wJec7gmZ4b/view",
         "country_unique": "Ukraine",
         "distribution_number_unique": "336",
         "distribution_id_unique": "",
@@ -23755,7 +23755,7 @@
         "cure_id_unique": "42513",
         "freight_forwarder": "Maersk",
         "donor_unique": "CMA",
-        "donor_logos": "https://drive.google.com/file/d/17cKUH1MsUrpwYsRSgwxhB7wJec7gmZ4b/view",
+        "donor_logos": "https://drive.google.com/file/d/1fuozKbX9i8gGst9fO4YbPo-ffDBJ1TLp/view?usp=sharing https://drive.google.com/file/d/17cKUH1MsUrpwYsRSgwxhB7wJec7gmZ4b/view",
         "country_unique": "Ukraine",
         "distribution_number_unique": "337",
         "distribution_id_unique": "",
@@ -23794,7 +23794,7 @@
         "cure_id_unique": "42513",
         "freight_forwarder": "Maersk",
         "donor_unique": "CMA",
-        "donor_logos": "https://drive.google.com/file/d/17cKUH1MsUrpwYsRSgwxhB7wJec7gmZ4b/view",
+        "donor_logos": "https://drive.google.com/file/d/1fuozKbX9i8gGst9fO4YbPo-ffDBJ1TLp/view?usp=sharing",
         "country_unique": "Ukraine",
         "distribution_number_unique": "338",
         "distribution_id_unique": "",
@@ -23833,7 +23833,7 @@
         "cure_id_unique": "42513",
         "freight_forwarder": "Maersk",
         "donor_unique": "CMA",
-        "donor_logos": "https://drive.google.com/file/d/17cKUH1MsUrpwYsRSgwxhB7wJec7gmZ4b/view",
+        "donor_logos": "https://drive.google.com/file/d/1fuozKbX9i8gGst9fO4YbPo-ffDBJ1TLp/view?usp=sharing",
         "country_unique": "Ukraine",
         "distribution_number_unique": "339",
         "distribution_id_unique": "",
@@ -23872,7 +23872,7 @@
         "cure_id_unique": "42513",
         "freight_forwarder": "Maersk",
         "donor_unique": "CMA",
-        "donor_logos": "https://drive.google.com/file/d/17cKUH1MsUrpwYsRSgwxhB7wJec7gmZ4b/view",
+        "donor_logos": "https://drive.google.com/file/d/1fuozKbX9i8gGst9fO4YbPo-ffDBJ1TLp/view?usp=sharing",
         "country_unique": "Ukraine",
         "distribution_number_unique": "340",
         "distribution_id_unique": "",
@@ -23911,7 +23911,7 @@
         "cure_id_unique": "42513",
         "freight_forwarder": "Maersk",
         "donor_unique": "CMA",
-        "donor_logos": "https://drive.google.com/file/d/17cKUH1MsUrpwYsRSgwxhB7wJec7gmZ4b/view",
+        "donor_logos": "https://drive.google.com/file/d/1fuozKbX9i8gGst9fO4YbPo-ffDBJ1TLp/view?usp=sharing",
         "country_unique": "Ukraine",
         "distribution_number_unique": "341",
         "distribution_id_unique": "",
@@ -23950,7 +23950,7 @@
         "cure_id_unique": "42513",
         "freight_forwarder": "Maersk",
         "donor_unique": "CMA",
-        "donor_logos": "https://drive.google.com/file/d/17cKUH1MsUrpwYsRSgwxhB7wJec7gmZ4b/view",
+        "donor_logos": "https://drive.google.com/file/d/1fuozKbX9i8gGst9fO4YbPo-ffDBJ1TLp/view?usp=sharing",
         "country_unique": "Ukraine",
         "distribution_number_unique": "342",
         "distribution_id_unique": "",
@@ -23989,7 +23989,7 @@
         "cure_id_unique": "42513",
         "freight_forwarder": "Maersk",
         "donor_unique": "CMA",
-        "donor_logos": "https://drive.google.com/file/d/17cKUH1MsUrpwYsRSgwxhB7wJec7gmZ4b/view",
+        "donor_logos": "https://drive.google.com/file/d/1fuozKbX9i8gGst9fO4YbPo-ffDBJ1TLp/view?usp=sharing",
         "country_unique": "Ukraine",
         "distribution_number_unique": "343",
         "distribution_id_unique": "",
@@ -24028,7 +24028,7 @@
         "cure_id_unique": "42513",
         "freight_forwarder": "Maersk",
         "donor_unique": "CMA",
-        "donor_logos": "https://drive.google.com/file/d/17cKUH1MsUrpwYsRSgwxhB7wJec7gmZ4b/view",
+        "donor_logos": "https://drive.google.com/file/d/1fuozKbX9i8gGst9fO4YbPo-ffDBJ1TLp/view?usp=sharing",
         "country_unique": "Ukraine",
         "distribution_number_unique": "344",
         "distribution_id_unique": "",
@@ -24067,7 +24067,7 @@
         "cure_id_unique": "42513",
         "freight_forwarder": "Maersk",
         "donor_unique": "CMA",
-        "donor_logos": "https://drive.google.com/file/d/17cKUH1MsUrpwYsRSgwxhB7wJec7gmZ4b/view",
+        "donor_logos": "https://drive.google.com/file/d/1fuozKbX9i8gGst9fO4YbPo-ffDBJ1TLp/view?usp=sharing",
         "country_unique": "Ukraine",
         "distribution_number_unique": "345",
         "distribution_id_unique": "",
@@ -24135,45 +24135,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          31.33890176,
-          51.50733495
-        ]
-      },
-      "properties": {
-        "show": "TRUE",
-        "shipment_id_unique": "MUA41",
-        "cure_id_unique": "42518",
-        "freight_forwarder": "Maersk",
-        "donor_unique": "Razom",
-        "donor_logos": "https://drive.google.com/file/d/17cKUH1MsUrpwYsRSgwxhB7wJec7gmZ4b/view",
-        "country_unique": "Ukraine",
-        "distribution_number_unique": "347",
-        "distribution_id_unique": "",
-        "shipment_period_unique": "May-26",
-        "type_of_medical_institution_unique": "Hospital",
-        "unique_hospital_names_eng": "Chernihiv Central District Hospital, Chernihiv Oblast",
-        "safe_hospital_names": "Hospital 457",
-        "region_unique": "",
-        "full_location_unique": "",
-        "number_of_beds_unique": "",
-        "item_name_engukr_unique": "",
-        "total_item_quantity": "",
-        "handover_protocol_link_unique": "",
-        "picture_link_unique": "",
-        "item_list_eng_unique": "",
-        "short_hospital_names_eng": "",
-        "unnamed_24": "",
-        "unnamed_25": "",
-        "unnamed_26": "",
-        "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           30.35364283,
           50.4499392
         ]
@@ -24184,7 +24145,7 @@
         "cure_id_unique": "12537",
         "freight_forwarder": "Maersk",
         "donor_unique": "Razom",
-        "donor_logos": "https://drive.google.com/file/d/17cKUH1MsUrpwYsRSgwxhB7wJec7gmZ4b/view",
+        "donor_logos": "https://drive.google.com/file/d/1fuozKbX9i8gGst9fO4YbPo-ffDBJ1TLp/view?usp=sharing https://drive.google.com/file/d/17cKUH1MsUrpwYsRSgwxhB7wJec7gmZ4b/view",
         "country_unique": "Ukraine",
         "distribution_number_unique": "348",
         "distribution_id_unique": "",
@@ -24192,45 +24153,6 @@
         "type_of_medical_institution_unique": "Hospital",
         "unique_hospital_names_eng": "Kyiv City Clinical Hospital No. 7, Kyiv",
         "safe_hospital_names": "Hospital 458",
-        "region_unique": "",
-        "full_location_unique": "",
-        "number_of_beds_unique": "",
-        "item_name_engukr_unique": "",
-        "total_item_quantity": "",
-        "handover_protocol_link_unique": "",
-        "picture_link_unique": "",
-        "item_list_eng_unique": "",
-        "short_hospital_names_eng": "",
-        "unnamed_24": "",
-        "unnamed_25": "",
-        "unnamed_26": "",
-        "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.59854831,
-          48.50898413
-        ]
-      },
-      "properties": {
-        "show": "TRUE",
-        "shipment_id_unique": "MUA43",
-        "cure_id_unique": "12547",
-        "freight_forwarder": "Maersk",
-        "donor_unique": "Razom",
-        "donor_logos": "https://drive.google.com/file/d/17cKUH1MsUrpwYsRSgwxhB7wJec7gmZ4b/view",
-        "country_unique": "Ukraine",
-        "distribution_number_unique": "349",
-        "distribution_id_unique": "",
-        "shipment_period_unique": "Jun-26",
-        "type_of_medical_institution_unique": "Hospital",
-        "unique_hospital_names_eng": "City Hospital No. 9",
-        "safe_hospital_names": "Hospital 459",
         "region_unique": "",
         "full_location_unique": "",
         "number_of_beds_unique": "",
@@ -24262,7 +24184,7 @@
         "cure_id_unique": "12552",
         "freight_forwarder": "Maersk",
         "donor_unique": "Razom",
-        "donor_logos": "https://drive.google.com/file/d/17cKUH1MsUrpwYsRSgwxhB7wJec7gmZ4b/view",
+        "donor_logos": "https://drive.google.com/file/d/1fuozKbX9i8gGst9fO4YbPo-ffDBJ1TLp/view?usp=sharing, https://drive.google.com/file/d/17cKUH1MsUrpwYsRSgwxhB7wJec7gmZ4b/view",
         "country_unique": "Ukraine",
         "distribution_number_unique": "350",
         "distribution_id_unique": "",
@@ -24574,7 +24496,7 @@
         "cure_id_unique": "12547",
         "freight_forwarder": "Maersk",
         "donor_unique": "Razom",
-        "donor_logos": "",
+        "donor_logos": "https://drive.google.com/file/d/1fuozKbX9i8gGst9fO4YbPo-ffDBJ1TLp/view?usp=sharing https://drive.google.com/file/d/17cKUH1MsUrpwYsRSgwxhB7wJec7gmZ4b/view",
         "country_unique": "Ukraine",
         "distribution_number_unique": "339",
         "distribution_id_unique": "Razom339_06/26",
@@ -24613,7 +24535,7 @@
         "cure_id_unique": "42518",
         "freight_forwarder": "Maersk",
         "donor_unique": "Razom",
-        "donor_logos": "",
+        "donor_logos": "https://drive.google.com/file/d/1fuozKbX9i8gGst9fO4YbPo-ffDBJ1TLp/view?usp=sharing https://drive.google.com/file/d/17cKUH1MsUrpwYsRSgwxhB7wJec7gmZ4b/view",
         "country_unique": "Ukraine",
         "distribution_number_unique": "340",
         "distribution_id_unique": "Razom340_05/26",
