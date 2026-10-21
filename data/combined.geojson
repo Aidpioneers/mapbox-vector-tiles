@@ -188,7 +188,7 @@
         "project_id": "SET10",
         "project_name": "Lemlem",
         "responsible": "Girmay",
-        "status": "Pending cable/roof assessments",
+        "status": "Roof assessment received. Pending MFM contract to start procurement",
         "stage": "I. Initial Conversation",
         "partner_org": "THB",
         "country": "Ethiopia 🇪🇹",
@@ -245,7 +245,7 @@
         "project_id": "SUG02a",
         "project_name": "P4T Primary School",
         "responsible": "Raphaël",
-        "status": "Installation complete. Final audit and payments pending (SolarNation and P4T)",
+        "status": "Installation complete. Final audit pending",
         "stage": "X. Post-Installation",
         "partner_org": "P4T",
         "country": "Uganda 🇺🇬",
@@ -302,7 +302,7 @@
         "project_id": "SUG02b",
         "project_name": "P4T Secondary School",
         "responsible": "Raphaël",
-        "status": "Installation complete. Final audit and payments pending (SolarNation and P4T)",
+        "status": "Installation complete. Final audit pending",
         "stage": "X. Post-Installation",
         "partner_org": "P4T",
         "country": "Uganda 🇺🇬",
@@ -473,7 +473,7 @@
         "project_id": "SLE02",
         "project_name": "MAPs HQs",
         "responsible": "Julian",
-        "status": "System was moved to Syria, without PV. Serves as battery back-up",
+        "status": "System was moved to Syria, without PV. Serves as battery back-up.",
         "stage": "X. Post-Installation",
         "partner_org": "MAPs",
         "country": "Lebanon 🇱🇧",
@@ -877,7 +877,7 @@
         "partner_org": "Weema",
         "country": "Ethiopia 🇪🇹",
         "type_of_institution": "Hospital",
-        "total_investment": "72.923,05 €",
+        "total_investment": "72.924,76 €",
         "local_quote": "171.800,00 €",
         "discount": "57,55%",
         "system_size_kwp": "73,80",
@@ -1006,12 +1006,12 @@
         "number_of_patients_per_month": "20.000,00",
         "number_of_students_pa": "not applicable",
         "number_of_beds": "500",
-        "average_treatment_cost_per_patient": "3,11",
+        "average_treatment_cost_per_patient": "3,07",
         "average_tuition_cost_per_student": "No",
         "annual_diesel_cost": "7.052,77 €",
         "devices_burnt_previously": "",
         "medicine_not_cooled": "No",
-        "additional_treatments_students": "154.55",
+        "additional_treatments_students": "156.455",
         "gross_cost_savings": "480.266,00 €",
         "co2_savings_t": "718,80",
         "geolocation": "13.509654857772222, 39.46842481803925",
@@ -1879,7 +1879,7 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MUA11",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "€272,705.02"
       }
     },
     {
@@ -3478,7 +3478,7 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MUA41",
-        "gikvalue_of_goods": "€492,016.39"
+        "gikvalue_of_goods": ""
       }
     },
     {
