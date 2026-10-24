@@ -877,7 +877,7 @@
         "partner_org": "Weema",
         "country": "Ethiopia 🇪🇹",
         "type_of_institution": "Hospital",
-        "total_investment": "72.951,83 €",
+        "total_investment": "72.947,87 €",
         "local_quote": "171.800,00 €",
         "discount": "57,54%",
         "system_size_kwp": "73,80",
@@ -1006,12 +1006,12 @@
         "number_of_patients_per_month": "20.000,00",
         "number_of_students_pa": "not applicable",
         "number_of_beds": "500",
-        "average_treatment_cost_per_patient": "3,06",
+        "average_treatment_cost_per_patient": "3,08",
         "average_tuition_cost_per_student": "No",
         "annual_diesel_cost": "7.052,77 €",
         "devices_burnt_previously": "",
         "medicine_not_cooled": "No",
-        "additional_treatments_students": "157.101",
+        "additional_treatments_students": "155.969",
         "gross_cost_savings": "480.266,00 €",
         "co2_savings_t": "718,80",
         "geolocation": "13.509654857772222, 39.46842481803925",
@@ -1372,7 +1372,7 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MUA0",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "€141,489.32"
       }
     },
     {
@@ -1411,7 +1411,7 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MUA01",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "€334,585.99"
       }
     },
     {
@@ -1450,7 +1450,7 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MUA03",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "€472,075.96"
       }
     },
     {
@@ -1489,7 +1489,7 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MUA02",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "€362,221.82"
       }
     },
     {
@@ -2074,7 +2074,7 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MUA13",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "€441,447.46"
       }
     },
     {
@@ -2191,7 +2191,7 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MUA14",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "€327,950.27"
       }
     },
     {
@@ -2659,7 +2659,7 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MUA22",
-        "gikvalue_of_goods": "€267,829.91"
+        "gikvalue_of_goods": ""
       }
     },
     {
@@ -3595,7 +3595,7 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MSY07",
-        "gikvalue_of_goods": "€9,564,150.03"
+        "gikvalue_of_goods": ""
       }
     },
     {
