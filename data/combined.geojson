@@ -193,10 +193,10 @@
         "partner_org": "THB",
         "country": "Ethiopia 🇪🇹",
         "type_of_institution": "Hospital",
-        "total_investment": "133.601,72 €",
+        "total_investment": "",
         "local_quote": "",
         "discount": "",
-        "system_size_kwp": "130,00",
+        "system_size_kwp": "132,40",
         "battery_size_kwh": "184,40",
         "solar_surface_m2": "575,00",
         "solar_surface_tennis_courts": "2,75",
@@ -283,7 +283,7 @@
         "uganda_info_box_text": "",
         "uganda_extra_metric": "",
         "uganda_patient_numbers": "",
-        "photos": "https://drive.google.com/file/d/1saPhmyvfIUkl4u7VuDdYQq2YzGI4xCJf/view?usp=sharing"
+        "photos": "https://drive.google.com/file/d/199MIhih8URY_zluHqqiexUPqOQ5gWrSx/view?usp=sharing"
       }
     },
     {
@@ -340,7 +340,7 @@
         "uganda_info_box_text": "",
         "uganda_extra_metric": "",
         "uganda_patient_numbers": "",
-        "photos": "https://drive.google.com/file/d/199MIhih8URY_zluHqqiexUPqOQ5gWrSx/view?usp=sharing"
+        "photos": "https://drive.google.com/file/d/1Yr-bqEkSDfHwIk6tmdZLIdil_fFJAHFS/view?usp=sharing"
       }
     },
     {
@@ -397,7 +397,7 @@
         "uganda_info_box_text": "",
         "uganda_extra_metric": "",
         "uganda_patient_numbers": "",
-        "photos": "https://drive.google.com/file/d/1Yr-bqEkSDfHwIk6tmdZLIdil_fFJAHFS/view?usp=sharing"
+        "photos": "https://drive.google.com/file/d/16fAb1LUsxLzWvfb2oJYr45ikkdHLoMTz/view?usp=sharing"
       }
     },
     {
@@ -454,7 +454,7 @@
         "uganda_info_box_text": "",
         "uganda_extra_metric": "",
         "uganda_patient_numbers": "",
-        "photos": "https://drive.google.com/file/d/16fAb1LUsxLzWvfb2oJYr45ikkdHLoMTz/view?usp=sharing"
+        "photos": "https://drive.google.com/file/d/1_HqX7Jojwk1h8pBWmGRgo7UgSSynJ3ef/view?usp=drive_link"
       }
     },
     {
@@ -511,7 +511,7 @@
         "uganda_info_box_text": "",
         "uganda_extra_metric": "",
         "uganda_patient_numbers": "",
-        "photos": "https://drive.google.com/file/d/1_HqX7Jojwk1h8pBWmGRgo7UgSSynJ3ef/view?usp=drive_link"
+        "photos": "https://drive.google.com/file/d/1Fp_IthUqHQuHIutZRtymEGeipbcF5U2X/view?usp=sharing"
       }
     },
     {
@@ -568,7 +568,7 @@
         "uganda_info_box_text": "",
         "uganda_extra_metric": "",
         "uganda_patient_numbers": "",
-        "photos": "https://drive.google.com/file/d/1Fp_IthUqHQuHIutZRtymEGeipbcF5U2X/view?usp=sharing"
+        "photos": "https://drive.google.com/file/d/1xMvSJkbLi6_rtsNVwIZgRMMOoSwy1k_a/view?usp=sharing"
       }
     },
     {
@@ -625,7 +625,7 @@
         "uganda_info_box_text": "",
         "uganda_extra_metric": "",
         "uganda_patient_numbers": "",
-        "photos": "https://drive.google.com/file/d/1xMvSJkbLi6_rtsNVwIZgRMMOoSwy1k_a/view?usp=sharing"
+        "photos": ""
       }
     },
     {
@@ -633,56 +633,56 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.84909,
-          34.400036
+          35.949247,
+          34.495883
         ]
       },
       "properties": {
         "show": "TRUE",
         "necessary_to_fundraise": "False",
         "likelihood_of_completion": "Installed",
-        "project_id": "SLE05a",
-        "project_name": "Ability Center",
+        "project_id": "SLE05b",
+        "project_name": "Lycée Modern",
         "responsible": "Julian",
         "status": "Complete",
         "stage": "X. Post-Installation",
         "partner_org": "Al Manhaj",
         "country": "Lebanon 🇱🇧",
         "type_of_institution": "School",
-        "total_investment": "24.486,16 €",
+        "total_investment": "15.931,16 €",
         "local_quote": "",
         "discount": "",
-        "system_size_kwp": "28,00",
-        "battery_size_kwh": "30,00",
-        "solar_surface_m2": "239,52",
-        "solar_surface_tennis_courts": "1,22",
-        "annual_electricity_demand_mwh": "17.000,00",
-        "annual_electricity_yield_mwh": "45,46",
+        "system_size_kwp": "15,00",
+        "battery_size_kwh": "20,00",
+        "solar_surface_m2": "128,31",
+        "solar_surface_tennis_courts": "0,66",
+        "annual_electricity_demand_mwh": "13.800,00",
+        "annual_electricity_yield_mwh": "23.523,00",
         "solar_ratio_": "100,00",
         "final_design": "Not available yet",
         "catchment": "",
         "number_of_patients_per_month": "",
-        "number_of_students_pa": "80",
+        "number_of_students_pa": "800",
         "number_of_beds": "not applicable",
         "average_treatment_cost_per_patient": "",
         "average_tuition_cost_per_student": "14,62",
-        "annual_diesel_cost": "6.800,00 €",
+        "annual_diesel_cost": "5.520,00 €",
         "devices_burnt_previously": "No",
         "medicine_not_cooled": "",
-        "additional_treatments_students": "6.137",
-        "gross_cost_savings": "89.715,07 €",
-        "co2_savings_t": "498,63",
-        "geolocation": "34.40003627272474, 35.84709036346461",
-        "difference_to_envisioned_budget": "238,47 €",
+        "additional_treatments_students": "3.288",
+        "gross_cost_savings": "48.061,64 €",
+        "co2_savings_t": "267,12",
+        "geolocation": "34.495883, 35.948647",
+        "difference_to_envisioned_budget": "",
         "month_of_installation": "Juli-2025",
-        "project_name_mapping": "Al Manhaj Ability Centre, Schools",
+        "project_name_mapping": "Lycée Modern, School",
         "landing_page_link": "",
         "wechselrichter": "",
         "info_box_text": "",
         "uganda_info_box_text": "",
         "uganda_extra_metric": "",
         "uganda_patient_numbers": "",
-        "photos": ""
+        "photos": "https://drive.google.com/file/d/1Y3TuURQOZoM2W46kGWk2JdzrwQQMTVWG/view?usp=sharing"
       }
     },
     {
@@ -739,7 +739,7 @@
         "uganda_info_box_text": "",
         "uganda_extra_metric": "",
         "uganda_patient_numbers": "",
-        "photos": "https://drive.google.com/file/d/1Y3TuURQOZoM2W46kGWk2JdzrwQQMTVWG/view?usp=sharing"
+        "photos": ""
       }
     },
     {
@@ -796,7 +796,7 @@
         "uganda_info_box_text": "",
         "uganda_extra_metric": "",
         "uganda_patient_numbers": "",
-        "photos": ""
+        "photos": "https://drive.google.com/file/d/1lHG3CpbAmfRrBcqYelvt1uGF6uQK6e4-/view?usp=sharing"
       }
     },
     {
@@ -853,7 +853,7 @@
         "uganda_info_box_text": "",
         "uganda_extra_metric": "",
         "uganda_patient_numbers": "",
-        "photos": "https://drive.google.com/file/d/1lHG3CpbAmfRrBcqYelvt1uGF6uQK6e4-/view?usp=sharing"
+        "photos": "https://drive.google.com/file/d/1fInOUpmoKVSlsE3gRnnuKFHhBxIZTIwh/view?usp=sharing"
       }
     },
     {
@@ -877,9 +877,9 @@
         "partner_org": "Weema",
         "country": "Ethiopia 🇪🇹",
         "type_of_institution": "Hospital",
-        "total_investment": "72.964,14 €",
+        "total_investment": "72.893,19 €",
         "local_quote": "171.800,00 €",
-        "discount": "57,53%",
+        "discount": "57,57%",
         "system_size_kwp": "73,80",
         "battery_size_kwh": "104,66",
         "solar_surface_m2": "351,00",
@@ -910,7 +910,7 @@
         "uganda_info_box_text": "",
         "uganda_extra_metric": "",
         "uganda_patient_numbers": "",
-        "photos": "https://drive.google.com/file/d/1fInOUpmoKVSlsE3gRnnuKFHhBxIZTIwh/view?usp=sharing"
+        "photos": ""
       }
     },
     {
@@ -918,49 +918,49 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          20.834932581311904,
-          13.837336
+          30.092374100251003,
+          -2.182006206748872
         ]
       },
       "properties": {
         "show": "TRUE",
         "necessary_to_fundraise": "False",
-        "likelihood_of_completion": "Installed",
-        "project_id": "STD01",
-        "project_name": "VDF",
-        "responsible": "Jonas",
-        "status": "Complete",
-        "stage": "X. Post-Installation",
-        "partner_org": "Women Hope Intl",
-        "country": "Chad 🇹🇩",
-        "type_of_institution": "Hospital",
-        "total_investment": "41.704,28 €",
-        "local_quote": "-",
+        "likelihood_of_completion": "Low",
+        "project_id": "SRW01a",
+        "project_name": "Ntare Classrooms",
+        "responsible": "Julian",
+        "status": "Waiting feedback from School dean about buget availalbe",
+        "stage": "I. Initial Conversation",
+        "partner_org": "Ntare School",
+        "country": "Rwanda 🇷🇼",
+        "type_of_institution": "School",
+        "total_investment": "",
+        "local_quote": "",
         "discount": "",
-        "system_size_kwp": "27,06",
-        "battery_size_kwh": "42,13",
-        "solar_surface_m2": "129,00",
-        "solar_surface_tennis_courts": "0,62",
-        "annual_electricity_demand_mwh": "33,26",
-        "annual_electricity_yield_mwh": "48,22",
-        "solar_ratio_": "93,87",
-        "final_design": "27kWp VDF PV_Project-Report.pdf",
+        "system_size_kwp": "111,00",
+        "battery_size_kwh": "",
+        "solar_surface_m2": "486,00",
+        "solar_surface_tennis_courts": "2,33",
+        "annual_electricity_demand_mwh": "404,60",
+        "annual_electricity_yield_mwh": "179,56",
+        "solar_ratio_": "3435,00%",
+        "final_design": "01062026_Ntare International School Classes 111kW PV Project-Report.pdf",
         "catchment": "",
-        "number_of_patients_per_month": "32,00",
-        "number_of_students_pa": "not applicable",
-        "number_of_beds": "",
-        "average_treatment_cost_per_patient": "120,00",
+        "number_of_patients_per_month": "",
+        "number_of_students_pa": "",
+        "number_of_beds": "not applicable",
+        "average_treatment_cost_per_patient": "",
         "average_tuition_cost_per_student": "",
-        "annual_diesel_cost": "8.040,00 €",
-        "devices_burnt_previously": "No",
+        "annual_diesel_cost": "36.347,37 €",
+        "devices_burnt_previously": "",
         "medicine_not_cooled": "",
-        "additional_treatments_students": "1.199",
-        "gross_cost_savings": "51.918,00 €",
-        "co2_savings_t": "390,30",
-        "geolocation": "13.836056, 20.837634",
+        "additional_treatments_students": "0.0",
+        "gross_cost_savings": "126.054,00 €",
+        "co2_savings_t": "938,30",
+        "geolocation": "-2.182006206748872, 30.092374100251003",
         "difference_to_envisioned_budget": "0,00 €",
-        "month_of_installation": "Nov.-2025",
-        "project_name_mapping": "Village des Femmes Clinic (VDF), Hospital",
+        "month_of_installation": "",
+        "project_name_mapping": "Ntare School",
         "landing_page_link": "",
         "wechselrichter": "",
         "info_box_text": "",
@@ -1011,7 +1011,7 @@
         "annual_diesel_cost": "7.052,77 €",
         "devices_burnt_previously": "",
         "medicine_not_cooled": "No",
-        "additional_treatments_students": "157.528",
+        "additional_treatments_students": "157.445",
         "gross_cost_savings": "480.266,00 €",
         "co2_savings_t": "718,80",
         "geolocation": "13.509654857772222, 39.46842481803925",
@@ -1040,38 +1040,38 @@
         "show": "TRUE",
         "necessary_to_fundraise": "True",
         "likelihood_of_completion": "Low",
-        "project_id": "SET09",
+        "project_id": "SET11",
         "project_name": "Bona Daye",
-        "responsible": "Girmay",
+        "responsible": "",
         "status": "Honnold grant application pending (feedback until 20th Mar)",
-        "stage": "I. Initial Conversation",
-        "partner_org": "SEF",
-        "country": "Ethiopia 🇪🇹",
+        "stage": "",
+        "partner_org": "",
+        "country": "",
         "type_of_institution": "Hospital",
-        "total_investment": "120.344,00 €",
+        "total_investment": "",
         "local_quote": "",
         "discount": "",
-        "system_size_kwp": "130,00",
-        "battery_size_kwh": "120,00",
-        "solar_surface_m2": "720,00",
-        "solar_surface_tennis_courts": "3,68",
-        "annual_electricity_demand_mwh": "0,00",
-        "annual_electricity_yield_mwh": "255,00",
-        "solar_ratio_": "54,00%",
-        "final_design": "130kW- Bona Daye Primary Hospital PV Project Design-Report.pdf",
+        "system_size_kwp": "",
+        "battery_size_kwh": "",
+        "solar_surface_m2": "",
+        "solar_surface_tennis_courts": "",
+        "annual_electricity_demand_mwh": "",
+        "annual_electricity_yield_mwh": "",
+        "solar_ratio_": "",
+        "final_design": "",
         "catchment": "",
         "number_of_patients_per_month": "",
-        "number_of_students_pa": "not applicable",
+        "number_of_students_pa": "",
         "number_of_beds": "",
-        "average_treatment_cost_per_patient": "25,00",
+        "average_treatment_cost_per_patient": "",
         "average_tuition_cost_per_student": "",
-        "annual_diesel_cost": "3.085,00 €",
-        "devices_burnt_previously": "Yes",
-        "medicine_not_cooled": "Yes",
-        "additional_treatments_students": "15.394",
-        "gross_cost_savings": "192.427,00 €",
-        "co2_savings_t": "1.019,95",
-        "geolocation": "6°31'58\"N 38°42'43\"E",
+        "annual_diesel_cost": "",
+        "devices_burnt_previously": "",
+        "medicine_not_cooled": "",
+        "additional_treatments_students": "0.0",
+        "gross_cost_savings": "",
+        "co2_savings_t": "",
+        "geolocation": "",
         "difference_to_envisioned_budget": "",
         "month_of_installation": "",
         "project_name_mapping": "Bona Daye Hospital",
@@ -1097,25 +1097,25 @@
         "show": "TRUE",
         "necessary_to_fundraise": "True",
         "likelihood_of_completion": "Medium",
-        "project_id": "SET08",
+        "project_id": "SET12",
         "project_name": "Damboya",
-        "responsible": "Girmay",
+        "responsible": "",
         "status": "Honnold grant application pending (feedback until 20th Mar)",
-        "stage": "I. Initial Conversation",
-        "partner_org": "Weema",
-        "country": "Ethiopia 🇪🇹",
+        "stage": "",
+        "partner_org": "",
+        "country": "",
         "type_of_institution": "Hospital",
-        "total_investment": "137.936,83 €",
+        "total_investment": "",
         "local_quote": "",
         "discount": "",
-        "system_size_kwp": "130,00",
-        "battery_size_kwh": "122,80",
-        "solar_surface_m2": "575,00",
-        "solar_surface_tennis_courts": "2,75",
-        "annual_electricity_demand_mwh": "360,00",
-        "annual_electricity_yield_mwh": "226,02",
-        "solar_ratio_": "54,15",
-        "final_design": "130kW- Bona Daye Primary Hospital PV Project Design-Report.pdf",
+        "system_size_kwp": "",
+        "battery_size_kwh": "",
+        "solar_surface_m2": "",
+        "solar_surface_tennis_courts": "",
+        "annual_electricity_demand_mwh": "",
+        "annual_electricity_yield_mwh": "",
+        "solar_ratio_": "",
+        "final_design": "",
         "catchment": "",
         "number_of_patients_per_month": "",
         "number_of_students_pa": "",
@@ -1126,10 +1126,10 @@
         "devices_burnt_previously": "",
         "medicine_not_cooled": "",
         "additional_treatments_students": "0.0",
-        "gross_cost_savings": "326.863,00 €",
-        "co2_savings_t": "1.023,75",
+        "gross_cost_savings": "",
+        "co2_savings_t": "",
         "geolocation": "",
-        "difference_to_envisioned_budget": "0,00 €",
+        "difference_to_envisioned_budget": "",
         "month_of_installation": "",
         "project_name_mapping": "Damboya Hospital",
         "landing_page_link": "",
@@ -1489,7 +1489,7 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MUA02",
-        "gikvalue_of_goods": "€362,221.82"
+        "gikvalue_of_goods": ""
       }
     },
     {
@@ -1840,7 +1840,7 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MUA10",
-        "gikvalue_of_goods": "€403,251.44"
+        "gikvalue_of_goods": ""
       }
     },
     {
@@ -1918,7 +1918,7 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MUA12",
-        "gikvalue_of_goods": "€180,832.41"
+        "gikvalue_of_goods": ""
       }
     },
     {
@@ -2113,7 +2113,7 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MLE02",
-        "gikvalue_of_goods": "€348,351.30"
+        "gikvalue_of_goods": ""
       }
     },
     {
@@ -2230,7 +2230,7 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MUA17",
-        "gikvalue_of_goods": "€277,517.17"
+        "gikvalue_of_goods": ""
       }
     },
     {
@@ -2269,7 +2269,7 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MUA18",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "€445,467.66"
       }
     },
     {
@@ -3517,7 +3517,7 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MUA42",
-        "gikvalue_of_goods": "€364,037.90"
+        "gikvalue_of_goods": ""
       }
     },
     {
@@ -3673,7 +3673,7 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MUA43",
-        "gikvalue_of_goods": "€335,533.06"
+        "gikvalue_of_goods": ""
       }
     },
     {
