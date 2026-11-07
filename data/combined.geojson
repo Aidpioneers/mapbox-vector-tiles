@@ -877,9 +877,9 @@
         "partner_org": "Weema",
         "country": "Ethiopia 🇪🇹",
         "type_of_institution": "Hospital",
-        "total_investment": "72.982,43 €",
+        "total_investment": "72.992,06 €",
         "local_quote": "171.800,00 €",
-        "discount": "57,52%",
+        "discount": "57,51%",
         "system_size_kwp": "73,80",
         "battery_size_kwh": "104,66",
         "solar_surface_m2": "351,00",
@@ -1006,12 +1006,12 @@
         "number_of_patients_per_month": "20.000,00",
         "number_of_students_pa": "not applicable",
         "number_of_beds": "500",
-        "average_treatment_cost_per_patient": "3,05",
+        "average_treatment_cost_per_patient": "3,10",
         "average_tuition_cost_per_student": "No",
         "annual_diesel_cost": "7.052,77 €",
         "devices_burnt_previously": "",
         "medicine_not_cooled": "No",
-        "additional_treatments_students": "157.486",
+        "additional_treatments_students": "154.838",
         "gross_cost_savings": "480.266,00 €",
         "co2_savings_t": "718,80",
         "geolocation": "13.509654857772222, 39.46842481803925",
@@ -1177,7 +1177,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "Pre-Oct 2023 / MUA0-MUA09",
-        "gikvalue_of_goods": "€3,479,357.64"
+        "gikvalue_of_goods": "€3,479,357.64",
+        "blogpost": ""
       }
     },
     {
@@ -1216,7 +1217,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MUA10, MUA11, MUA12",
-        "gikvalue_of_goods": "€856,788.87"
+        "gikvalue_of_goods": "€856,788.87",
+        "blogpost": ""
       }
     },
     {
@@ -1255,7 +1257,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MUA14, MUA15",
-        "gikvalue_of_goods": "€719,943.89"
+        "gikvalue_of_goods": "€719,943.89",
+        "blogpost": ""
       }
     },
     {
@@ -1294,7 +1297,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MUA17, MUA18",
-        "gikvalue_of_goods": "€722,984.82"
+        "gikvalue_of_goods": "€722,984.82",
+        "blogpost": ""
       }
     },
     {
@@ -1333,7 +1337,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MUA24, MUA25, MUA27",
-        "gikvalue_of_goods": "€1,347,495.95"
+        "gikvalue_of_goods": "€1,347,495.95",
+        "blogpost": ""
       }
     },
     {
@@ -1372,7 +1377,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MUA0",
-        "gikvalue_of_goods": "€141,489.32"
+        "gikvalue_of_goods": "€141,489.32",
+        "blogpost": ""
       }
     },
     {
@@ -1411,7 +1417,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MUA01",
-        "gikvalue_of_goods": "€334,585.99"
+        "gikvalue_of_goods": "€334,585.99",
+        "blogpost": ""
       }
     },
     {
@@ -1450,7 +1457,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MUA03",
-        "gikvalue_of_goods": "€472,075.96"
+        "gikvalue_of_goods": "€472,075.96",
+        "blogpost": ""
       }
     },
     {
@@ -1489,7 +1497,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MUA02",
-        "gikvalue_of_goods": "€362,221.82"
+        "gikvalue_of_goods": "€362,221.82",
+        "blogpost": ""
       }
     },
     {
@@ -1528,7 +1537,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MUA04",
-        "gikvalue_of_goods": "€441,846.67"
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -1567,7 +1577,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MSY01",
-        "gikvalue_of_goods": "€137,280.51"
+        "gikvalue_of_goods": "€137,280.51",
+        "blogpost": ""
       }
     },
     {
@@ -1606,7 +1617,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MSY02",
-        "gikvalue_of_goods": "€106,247.89"
+        "gikvalue_of_goods": "€106,247.89",
+        "blogpost": ""
       }
     },
     {
@@ -1645,7 +1657,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MUA05",
-        "gikvalue_of_goods": "€498,803.51"
+        "gikvalue_of_goods": "€498,803.51",
+        "blogpost": ""
       }
     },
     {
@@ -1684,7 +1697,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MUA07",
-        "gikvalue_of_goods": "€305,367.87"
+        "gikvalue_of_goods": "€305,367.87",
+        "blogpost": ""
       }
     },
     {
@@ -1723,7 +1737,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MUA06",
-        "gikvalue_of_goods": "€287,542.71"
+        "gikvalue_of_goods": "€287,542.71",
+        "blogpost": ""
       }
     },
     {
@@ -1762,7 +1777,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MUA08",
-        "gikvalue_of_goods": "€366,469.34"
+        "gikvalue_of_goods": "€366,469.34",
+        "blogpost": ""
       }
     },
     {
@@ -1801,7 +1817,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MUA09",
-        "gikvalue_of_goods": "€268,954.45"
+        "gikvalue_of_goods": "€268,954.45",
+        "blogpost": ""
       }
     },
     {
@@ -1840,7 +1857,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MUA10",
-        "gikvalue_of_goods": "€403,251.44"
+        "gikvalue_of_goods": "€403,251.44",
+        "blogpost": ""
       }
     },
     {
@@ -1879,7 +1897,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MUA11",
-        "gikvalue_of_goods": "€272,705.02"
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -1918,7 +1937,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MUA12",
-        "gikvalue_of_goods": "€180,832.41"
+        "gikvalue_of_goods": "€180,832.41",
+        "blogpost": ""
       }
     },
     {
@@ -1957,7 +1977,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MSY03",
-        "gikvalue_of_goods": "€128,631.09"
+        "gikvalue_of_goods": "€128,631.09",
+        "blogpost": ""
       }
     },
     {
@@ -1996,7 +2017,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MSY04",
-        "gikvalue_of_goods": "€211,104.76"
+        "gikvalue_of_goods": "€211,104.76",
+        "blogpost": ""
       }
     },
     {
@@ -2035,7 +2057,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MUA16",
-        "gikvalue_of_goods": "€187,555.48"
+        "gikvalue_of_goods": "€187,555.48",
+        "blogpost": ""
       }
     },
     {
@@ -2074,7 +2097,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MUA13",
-        "gikvalue_of_goods": "€441,447.46"
+        "gikvalue_of_goods": "€441,447.46",
+        "blogpost": ""
       }
     },
     {
@@ -2113,7 +2137,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MLE02",
-        "gikvalue_of_goods": "€348,351.30"
+        "gikvalue_of_goods": "€348,351.30",
+        "blogpost": ""
       }
     },
     {
@@ -2152,7 +2177,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MUA15",
-        "gikvalue_of_goods": "€391,993.62"
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -2191,7 +2217,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MUA14",
-        "gikvalue_of_goods": "€327,950.27"
+        "gikvalue_of_goods": "€327,950.27",
+        "blogpost": ""
       }
     },
     {
@@ -2230,7 +2257,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MUA17",
-        "gikvalue_of_goods": "€277,517.17"
+        "gikvalue_of_goods": "€277,517.17",
+        "blogpost": ""
       }
     },
     {
@@ -2269,7 +2297,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MUA18",
-        "gikvalue_of_goods": "€445,467.66"
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -2308,7 +2337,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MUA19",
-        "gikvalue_of_goods": "€501,077.02"
+        "gikvalue_of_goods": "€501,077.02",
+        "blogpost": ""
       }
     },
     {
@@ -2347,7 +2377,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MUA21",
-        "gikvalue_of_goods": "€531,837.28"
+        "gikvalue_of_goods": "€531,837.28",
+        "blogpost": ""
       }
     },
     {
@@ -2386,7 +2417,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MSY05",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "€293,983.96",
+        "blogpost": ""
       }
     },
     {
@@ -2425,7 +2457,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MUA23",
-        "gikvalue_of_goods": "€300,719.54"
+        "gikvalue_of_goods": "€300,719.54",
+        "blogpost": ""
       }
     },
     {
@@ -2464,7 +2497,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MUA20",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "€352,698.56",
+        "blogpost": ""
       }
     },
     {
@@ -2503,7 +2537,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MUA27",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "€285,954.00",
+        "blogpost": ""
       }
     },
     {
@@ -2542,7 +2577,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MUA26",
-        "gikvalue_of_goods": "€229,481.68"
+        "gikvalue_of_goods": "€229,481.68",
+        "blogpost": ""
       }
     },
     {
@@ -2581,7 +2617,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MUA24",
-        "gikvalue_of_goods": "€514,352.83"
+        "gikvalue_of_goods": "€514,352.83",
+        "blogpost": ""
       }
     },
     {
@@ -2620,7 +2657,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MUA25",
-        "gikvalue_of_goods": "€547,189.12"
+        "gikvalue_of_goods": "€547,189.12",
+        "blogpost": ""
       }
     },
     {
@@ -2659,7 +2697,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MUA22",
-        "gikvalue_of_goods": "€267,829.91"
+        "gikvalue_of_goods": "€267,829.91",
+        "blogpost": ""
       }
     },
     {
@@ -2698,7 +2737,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MSS01",
-        "gikvalue_of_goods": "€323,611.34"
+        "gikvalue_of_goods": "€323,611.34",
+        "blogpost": ""
       }
     },
     {
@@ -2737,7 +2777,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MSL01",
-        "gikvalue_of_goods": "€190,504.13"
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -2776,7 +2817,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MLE01",
-        "gikvalue_of_goods": "€346,028.56"
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -2815,7 +2857,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MET01",
-        "gikvalue_of_goods": "€150,943.24"
+        "gikvalue_of_goods": "€150,943.24",
+        "blogpost": ""
       }
     },
     {
@@ -2854,7 +2897,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MUA28",
-        "gikvalue_of_goods": "€299,013.08"
+        "gikvalue_of_goods": "€299,013.08",
+        "blogpost": ""
       }
     },
     {
@@ -2893,7 +2937,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MUA29",
-        "gikvalue_of_goods": "€293,317.95"
+        "gikvalue_of_goods": "€293,317.95",
+        "blogpost": ""
       }
     },
     {
@@ -2932,7 +2977,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MUA30",
-        "gikvalue_of_goods": "€336,181.48"
+        "gikvalue_of_goods": "€336,181.48",
+        "blogpost": ""
       }
     },
     {
@@ -2971,7 +3017,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MUA31",
-        "gikvalue_of_goods": "€213,838.29"
+        "gikvalue_of_goods": "€213,838.29",
+        "blogpost": ""
       }
     },
     {
@@ -3010,7 +3057,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MUA32",
-        "gikvalue_of_goods": "€355,461.47"
+        "gikvalue_of_goods": "€355,461.47",
+        "blogpost": ""
       }
     },
     {
@@ -3049,7 +3097,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MUA33",
-        "gikvalue_of_goods": "€276,485.64"
+        "gikvalue_of_goods": "€276,485.64",
+        "blogpost": ""
       }
     },
     {
@@ -3088,7 +3137,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MUA34",
-        "gikvalue_of_goods": "€483,193.08"
+        "gikvalue_of_goods": "€483,193.08",
+        "blogpost": ""
       }
     },
     {
@@ -3127,7 +3177,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MUA35",
-        "gikvalue_of_goods": "€630,222.93"
+        "gikvalue_of_goods": "€630,222.93",
+        "blogpost": ""
       }
     },
     {
@@ -3166,7 +3217,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MET02",
-        "gikvalue_of_goods": "€211,029.33"
+        "gikvalue_of_goods": "€211,029.33",
+        "blogpost": ""
       }
     },
     {
@@ -3205,7 +3257,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MMZ01",
-        "gikvalue_of_goods": "€607,550.80"
+        "gikvalue_of_goods": "€607,550.80",
+        "blogpost": ""
       }
     },
     {
@@ -3244,7 +3297,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MUA36",
-        "gikvalue_of_goods": "€282,416.94"
+        "gikvalue_of_goods": "€282,416.94",
+        "blogpost": ""
       }
     },
     {
@@ -3283,7 +3337,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MSY06",
-        "gikvalue_of_goods": "€156,752.80"
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -3322,7 +3377,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MUA37",
-        "gikvalue_of_goods": "€234,724.67"
+        "gikvalue_of_goods": "€234,724.67",
+        "blogpost": ""
       }
     },
     {
@@ -3361,7 +3417,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MUA38",
-        "gikvalue_of_goods": "€588,670.24"
+        "gikvalue_of_goods": "€588,670.24",
+        "blogpost": ""
       }
     },
     {
@@ -3400,7 +3457,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MUA39",
-        "gikvalue_of_goods": "€211,224.42"
+        "gikvalue_of_goods": "€211,224.42",
+        "blogpost": ""
       }
     },
     {
@@ -3439,7 +3497,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MUA40",
-        "gikvalue_of_goods": "€330,846.06"
+        "gikvalue_of_goods": "€330,846.06",
+        "blogpost": ""
       }
     },
     {
@@ -3478,7 +3537,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MUA41",
-        "gikvalue_of_goods": "€492,016.39"
+        "gikvalue_of_goods": "€492,016.39",
+        "blogpost": ""
       }
     },
     {
@@ -3517,7 +3577,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MUA42",
-        "gikvalue_of_goods": "€364,037.90"
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -3556,7 +3617,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MAG01",
-        "gikvalue_of_goods": "€133,876.47"
+        "gikvalue_of_goods": "€133,876.47",
+        "blogpost": ""
       }
     },
     {
@@ -3595,7 +3657,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MSY07",
-        "gikvalue_of_goods": "€9,564,150.03"
+        "gikvalue_of_goods": "€9,564,150.03",
+        "blogpost": ""
       }
     },
     {
@@ -3634,7 +3697,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MET03",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -3673,7 +3737,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MUA43",
-        "gikvalue_of_goods": "€335,533.06"
+        "gikvalue_of_goods": "€335,533.06",
+        "blogpost": ""
       }
     },
     {
@@ -3712,7 +3777,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MUA44",
-        "gikvalue_of_goods": "€159,580.86"
+        "gikvalue_of_goods": "€159,580.86",
+        "blogpost": ""
       }
     },
     {
@@ -3751,7 +3817,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MUA45",
-        "gikvalue_of_goods": "€226,759.64"
+        "gikvalue_of_goods": "€226,759.64",
+        "blogpost": ""
       }
     },
     {
@@ -3790,7 +3857,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MML01",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -3829,7 +3897,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MUA46",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -3868,7 +3937,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MUA47",
-        "gikvalue_of_goods": "€250,695.99"
+        "gikvalue_of_goods": "€250,695.99",
+        "blogpost": ""
       }
     },
     {
@@ -3907,7 +3977,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MUA48",
-        "gikvalue_of_goods": "€90,694.68"
+        "gikvalue_of_goods": "€90,694.68",
+        "blogpost": ""
       }
     },
     {
@@ -3946,7 +4017,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MUA49",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -3985,7 +4057,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MET04",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -4024,7 +4097,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MUA50",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -4063,7 +4137,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MET05",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -4102,7 +4177,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MET06",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -4141,7 +4217,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MUA51",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -4180,7 +4257,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MLE03",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -4219,7 +4297,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MSD01",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -4258,7 +4337,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MET07",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -4297,7 +4377,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MET08",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -4336,7 +4417,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MCG01",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -4375,7 +4457,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MET09",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -4414,7 +4497,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MUA52",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -4453,7 +4537,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MUA53",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -4492,7 +4577,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MUA54",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -4531,7 +4617,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "MUA55",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -4570,7 +4657,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -4609,7 +4697,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -4648,7 +4737,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -4687,7 +4777,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -4726,7 +4817,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -4765,7 +4857,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -4804,7 +4897,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -4843,7 +4937,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -4882,7 +4977,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -4921,7 +5017,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -4960,7 +5057,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -4999,7 +5097,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -5038,7 +5137,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -5077,7 +5177,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -5116,7 +5217,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -5155,7 +5257,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -5194,7 +5297,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -5233,7 +5337,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -5272,7 +5377,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -5311,7 +5417,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -5350,7 +5457,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -5389,7 +5497,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -5428,7 +5537,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -5467,7 +5577,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -5506,7 +5617,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -5545,7 +5657,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -5584,7 +5697,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -5623,7 +5737,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -5662,7 +5777,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -5701,7 +5817,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -5740,7 +5857,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -5779,7 +5897,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -5818,7 +5937,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -5857,7 +5977,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -5896,7 +6017,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -5935,7 +6057,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -5974,7 +6097,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -6013,7 +6137,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -6052,7 +6177,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -6091,7 +6217,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -6130,7 +6257,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -6169,7 +6297,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -6208,7 +6337,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -6247,7 +6377,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -6286,7 +6417,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -6325,7 +6457,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -6364,7 +6497,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -6403,7 +6537,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -6442,7 +6577,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -6481,7 +6617,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -6520,7 +6657,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -6559,7 +6697,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -6598,7 +6737,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -6637,7 +6777,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -6676,7 +6817,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -6715,7 +6857,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -6754,7 +6897,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -6793,7 +6937,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -6832,7 +6977,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -6871,7 +7017,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -6910,7 +7057,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -6949,7 +7097,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -6988,7 +7137,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -7027,7 +7177,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -7066,7 +7217,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -7105,7 +7257,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -7144,7 +7297,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -7183,7 +7337,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -7222,7 +7377,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -7261,7 +7417,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -7300,7 +7457,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -7339,7 +7497,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -7378,7 +7537,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -7417,7 +7577,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -7456,7 +7617,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -7495,7 +7657,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -7534,7 +7697,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -7573,7 +7737,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -7612,7 +7777,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -7651,7 +7817,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -7690,7 +7857,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -7729,7 +7897,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -7768,7 +7937,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -7807,7 +7977,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -7846,7 +8017,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -7885,7 +8057,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -7924,7 +8097,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -7963,7 +8137,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -8002,7 +8177,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -8041,7 +8217,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -8080,7 +8257,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -8119,7 +8297,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -8158,7 +8337,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -8197,7 +8377,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -8236,7 +8417,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -8275,7 +8457,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -8314,7 +8497,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -8353,7 +8537,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -8392,7 +8577,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -8431,7 +8617,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -8470,7 +8657,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -8509,7 +8697,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -8548,7 +8737,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -8587,7 +8777,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -8626,7 +8817,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -8665,7 +8857,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -8704,7 +8897,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -8743,7 +8937,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -8782,7 +8977,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -8821,7 +9017,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -8860,7 +9057,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -8899,7 +9097,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -8938,7 +9137,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -8977,7 +9177,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -9016,7 +9217,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -9055,7 +9257,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -9094,7 +9297,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -9133,7 +9337,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -9172,7 +9377,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -9211,7 +9417,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -9250,7 +9457,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -9289,7 +9497,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -9328,7 +9537,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -9367,7 +9577,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -9406,7 +9617,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -9445,7 +9657,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -9484,7 +9697,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -9523,7 +9737,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -9562,7 +9777,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -9601,7 +9817,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -9640,7 +9857,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -9679,7 +9897,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -9718,7 +9937,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -9757,7 +9977,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -9796,7 +10017,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -9835,7 +10057,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -9874,7 +10097,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -9913,7 +10137,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -9952,7 +10177,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -9991,7 +10217,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -10030,7 +10257,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -10069,7 +10297,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -10108,7 +10337,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -10147,7 +10377,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -10186,7 +10417,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -10225,7 +10457,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -10264,7 +10497,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -10303,7 +10537,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -10342,7 +10577,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -10381,7 +10617,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -10420,7 +10657,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -10459,7 +10697,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -10498,7 +10737,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -10537,7 +10777,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -10576,7 +10817,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -10615,7 +10857,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -10654,7 +10897,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -10693,7 +10937,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -10732,7 +10977,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -10771,7 +11017,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -10810,7 +11057,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -10849,7 +11097,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -10888,7 +11137,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -10927,7 +11177,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -10966,7 +11217,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -11005,7 +11257,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -11044,7 +11297,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -11083,7 +11337,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -11122,7 +11377,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -11161,7 +11417,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -11200,7 +11457,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -11239,7 +11497,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -11278,7 +11537,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -11317,7 +11577,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -11356,7 +11617,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -11395,7 +11657,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -11434,7 +11697,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -11473,7 +11737,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -11512,7 +11777,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -11551,7 +11817,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -11590,7 +11857,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -11629,7 +11897,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -11668,7 +11937,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -11707,7 +11977,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -11746,7 +12017,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -11785,7 +12057,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -11824,7 +12097,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -11863,7 +12137,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -11902,7 +12177,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -11941,7 +12217,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -11980,7 +12257,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -12019,7 +12297,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -12058,7 +12337,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -12097,7 +12377,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -12136,7 +12417,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -12175,7 +12457,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -12214,7 +12497,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -12253,7 +12537,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -12292,7 +12577,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -12331,7 +12617,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -12370,7 +12657,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -12409,7 +12697,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -12448,7 +12737,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -12487,7 +12777,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -12526,7 +12817,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -12565,7 +12857,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -12604,7 +12897,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -12643,7 +12937,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -12682,7 +12977,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -12721,7 +13017,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -12760,7 +13057,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -12799,7 +13097,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -12838,7 +13137,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -12877,7 +13177,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -12916,7 +13217,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -12955,7 +13257,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -12994,7 +13297,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -13033,7 +13337,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -13072,7 +13377,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -13111,7 +13417,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -13150,7 +13457,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -13189,7 +13497,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -13228,7 +13537,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -13267,7 +13577,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -13306,7 +13617,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -13345,7 +13657,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -13384,7 +13697,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -13423,7 +13737,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -13462,7 +13777,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -13501,7 +13817,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -13540,7 +13857,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -13579,7 +13897,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -13618,7 +13937,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -13657,7 +13977,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -13696,7 +14017,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -13735,7 +14057,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -13774,7 +14097,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -13813,7 +14137,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -13852,7 +14177,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -13891,7 +14217,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -13930,7 +14257,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -13969,7 +14297,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -14008,7 +14337,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -14047,7 +14377,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -14086,7 +14417,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -14125,7 +14457,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -14164,7 +14497,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -14203,7 +14537,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -14242,7 +14577,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -14281,7 +14617,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -14320,7 +14657,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -14359,7 +14697,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -14398,7 +14737,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -14437,7 +14777,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -14476,7 +14817,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -14515,7 +14857,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -14554,7 +14897,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -14593,7 +14937,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -14632,7 +14977,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": "https://www.aidpioneers.com/blog-news/syrias-health-crisis"
       }
     },
     {
@@ -14671,7 +15017,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": "https://www.aidpioneers.com/blog-news/syrias-health-crisis"
       }
     },
     {
@@ -14710,7 +15057,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": "https://www.aidpioneers.com/blog-news/syrias-health-crisis"
       }
     },
     {
@@ -14749,7 +15097,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": "https://www.aidpioneers.com/blog-news/syrias-health-crisis"
       }
     },
     {
@@ -14788,7 +15137,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": "https://www.aidpioneers.com/blog-news/syrias-health-crisis"
       }
     },
     {
@@ -14827,7 +15177,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": "https://www.aidpioneers.com/blog-news/syrias-health-crisis"
       }
     },
     {
@@ -14866,7 +15217,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": "https://www.aidpioneers.com/blog-news/syrias-health-crisis"
       }
     },
     {
@@ -14905,7 +15257,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": "https://www.aidpioneers.com/blog-news/syrias-health-crisis"
       }
     },
     {
@@ -14944,7 +15297,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": "https://www.aidpioneers.com/blog-news/syrias-health-crisis"
       }
     },
     {
@@ -14983,7 +15337,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": "https://www.aidpioneers.com/blog-news/syrias-health-crisis"
       }
     },
     {
@@ -15015,14 +15370,15 @@
         "item_name_engukr_unique": "Latex gloves Nitrile Large, Alcohol Swab",
         "total_item_quantity": "6808",
         "handover_protocol_link_unique": "",
-        "picture_link_unique": "",
+        "picture_link_unique": "https://drive.google.com/file/d/1HHduIpiI66blq3Wru8aX7l5j-lq91k9R/view?usp=sharing",
         "item_list_eng_unique": "Latex gloves, Alcohol Swab",
         "short_hospital_names_eng": "Al Amal, Douma",
         "unnamed_24": "",
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": "https://www.aidpioneers.com/blog-news/syrias-health-crisis"
       }
     },
     {
@@ -15061,7 +15417,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": "https://www.aidpioneers.com/blog-news/syrias-health-crisis"
       }
     },
     {
@@ -15100,7 +15457,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": "https://www.aidpioneers.com/blog-news/syrias-health-crisis"
       }
     },
     {
@@ -15139,7 +15497,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": "https://www.aidpioneers.com/blog-news/syrias-health-crisis"
       }
     },
     {
@@ -15178,7 +15537,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": "https://www.aidpioneers.com/blog-news/syrias-health-crisis"
       }
     },
     {
@@ -15217,7 +15577,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": "https://www.aidpioneers.com/blog-news/syrias-health-crisis"
       }
     },
     {
@@ -15256,7 +15617,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": "https://www.aidpioneers.com/blog-news/syrias-health-crisis"
       }
     },
     {
@@ -15295,7 +15657,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": "https://www.aidpioneers.com/blog-news/syrias-health-crisis"
       }
     },
     {
@@ -15334,7 +15697,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": "https://www.aidpioneers.com/blog-news/syrias-health-crisis"
       }
     },
     {
@@ -15373,7 +15737,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": "https://www.aidpioneers.com/blog-news/syrias-health-crisis"
       }
     },
     {
@@ -15412,7 +15777,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": "https://www.aidpioneers.com/blog-news/syrias-health-crisis"
       }
     },
     {
@@ -15451,7 +15817,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": "https://www.aidpioneers.com/blog-news/syrias-health-crisis"
       }
     },
     {
@@ -15490,7 +15857,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": "https://www.aidpioneers.com/blog-news/syrias-health-crisis"
       }
     },
     {
@@ -15529,7 +15897,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": "https://www.aidpioneers.com/blog-news/syrias-health-crisis"
       }
     },
     {
@@ -15561,14 +15930,15 @@
         "item_name_engukr_unique": "Gloves Examination_Small_Nitrile Non Sterile, Gown Isolation_Size L_Disposable Non-Sterile, Gown Isolation_Size L_Disposable Non-Sterile, Gown Isolation_Size M_Disposable Non-Sterile, Gown Isolation_Size XL_Disposable Non-Sterile, Gown Isolation_Size XL_Disposable Non-Sterile, Gown Surgical_Size M_Disposable Non Sterile, Padding Bandage_10 CM × 2.7 M_, Padding Bandage_15 CM × 3 M_, Syringe-Without Needle_20 ML_, Walking Aid With Wheels_Tekerlekli Yürüme Yardımcısı_اداة مساعدة للمشي مزودة بعجلات, Trash Bags_Çöp Torbaları_أكياس بلاستيك, Towels_Havlu_مناشف, Toilet Chair_Tuvalet Sandalyesi_كرسي مرحاض, Table paper smooth_Tablo kağıdı pürüzsüz_ورق طاولة, Pillow Cover_Yastık Kılıfı_غطاء وسادة, Patient transfer mattress_Hasta transfer yatağı_مرتبة نقل مريض, Newborn baby essentials_Yenidoğan bebek temel ihtiyaçları_لوازم الطفل, Examination Bed_Muayene Yatağı_سرير معاينة مريض, Birthing chair_Doğum Sandalyesi_كرسي مخاض, Bedpan_Hastalar Için Pisuar_مبولة للمرضى, Bed Sheet_Yatak Çarşafı_شرشف سرير, Back Brace_Bel Desteği_دعامة ظهر",
         "total_item_quantity": "7872",
         "handover_protocol_link_unique": "BAHMC-D 25-00079, BAHMC-D 25-00079, BAHMC-D 25-00079, BAHMC-D 25-00079, BAHMC-D 25-00079, BAHMC-D 25-00079, BAHMC-D 25-00079, BAHMC-D 25-00079, BAHMC-D 25-00079, BAHMC-D 25-00079, BAHN-D 25-00102, BAHN-D 25-00102, BAHN-D 25-00102, BAHN-D 25-00102, BAHN-D 25-00102, BAHN-D 25-00102, BAHN-D 25-00102, BAHN-D 25-00102, BAHN-D 25-00102, BAHN-D 25-00102, BAHN-D 25-00102, BAHN-D 25-00102, BAHN-D 25-00102",
-        "picture_link_unique": "",
+        "picture_link_unique": "https://drive.google.com/file/d/1J6Rea08QoYf_DF-MzVWQ12lHcNM-RBna/view?usp=sharing",
         "item_list_eng_unique": "Small Nitrile non-sterile examination gloves, Non-sterile isolation gowns + 10",
         "short_hospital_names_eng": "Lattakia maternity hospital warehouse",
         "unnamed_24": "",
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": "https://www.aidpioneers.com/blog-news/syrias-health-crisis"
       }
     },
     {
@@ -15607,7 +15977,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": "https://www.aidpioneers.com/blog-news/syrias-health-crisis"
       }
     },
     {
@@ -15646,7 +16017,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": "https://www.aidpioneers.com/blog-news/syrias-health-crisis"
       }
     },
     {
@@ -15670,22 +16042,23 @@
         "distribution_id_unique": "HiH38_05/25",
         "shipment_period_unique": "May-25",
         "type_of_medical_institution_unique": "Hospital",
-        "unique_hospital_names_eng": "Ibn Al Waleed Hospital Warehouse",
+        "unique_hospital_names_eng": "Ibn Al Waleed Hospital",
         "safe_hospital_names": "Hospital 373",
         "region_unique": "",
-        "full_location_unique": "Ibn Al Waleed Hospital Warehouse",
+        "full_location_unique": "Ibn Al Waleed Hospital",
         "number_of_beds_unique": "92",
         "item_name_engukr_unique": "Walking Aid With Wheels_Tekerlekli Yürüme Yardımcısı_اداة مساعدة للمشي مزودة بعجلات, Trash Bags_Çöp Torbaları_أكياس بلاستيك, Trash Bags_Çöp Torbaları_أكياس بلاستيك, Intensive care bed_yoğun bakım yatağı_سرير عناية, Towels_Havlu_مناشف, Patient Transfer and Repositioning Stretcher_Hasta Transferi ve Yeniden Konumlandırma Sedye_نقالة نقل المريض وإعادة تموضعه, Bed Ambulance_Ambulans Yatağı_سرير إسعاف, Shoulder brace_Omuzluk_مثبت كتف, Toilet Chair_Tuvalet Sandalyesi_كرسي مرحاض, Table paper smooth_Tablo kağıdı pürüzsüz_ورق طاولة, Pillow Cover_Yastık Kılıfı_غطاء وسادة, Patient transfer mattress_Hasta transfer yatağı_مرتبة نقل مريض, Neck Stabilizer_Boyun Sabitleyici_مثبت رقبة, Newborn baby essentials_Yenidoğan bebek temel ihtiyaçları_لوازم الطفل, Examination Bed_Muayene Yatağı_سرير معاينة مريض, Birthing chair_Doğum Sandalyesi_كرسي مخاض, Bedpan_Hastalar Için Pisuar_مبولة للمرضى, Bed Sheet_Yatak Çarşafı_شرشف سرير, Back Brace_Bel Desteği_دعامة ظهر",
         "total_item_quantity": "423",
         "handover_protocol_link_unique": "BAHN-D 25-00104, BAHN-D 25-00104, BAHN-D 25-00104, BAHN-D 25-00104, BAHN-D 25-00104, BAHN-D 25-00104, BAHN-D 25-00104, BAHN-D 25-00104, BAHN-D 25-00104, BAHN-D 25-00104, BAHN-D 25-00104, BAHN-D 25-00104, BAHN-D 25-00104, BAHN-D 25-00104, BAHN-D 25-00104, BAHN-D 25-00104, BAHN-D 25-00104, BAHN-D 25-00104, BAHN-D 25-00104",
-        "picture_link_unique": "",
+        "picture_link_unique": "https://drive.google.com/file/d/12hHcVDU5QyZRPbF4DHjbTELa2VTwvQB2/view?usp=sharing",
         "item_list_eng_unique": "Walking Aid With Wheels, Trash Bags, Intensive care bed, Towels, Patient Transfer and Repositioning Stretcher + 7",
         "short_hospital_names_eng": "Ibn Al Waleed Hospital Warehouse, Aleppo",
         "unnamed_24": "",
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": "https://www.aidpioneers.com/blog-news/syrias-health-crisis"
       }
     },
     {
@@ -15717,14 +16090,15 @@
         "item_name_engukr_unique": "Bed linens and towels, Gowns, surgical, sterile, Gauze and all non-sterile dressing, Liners Trash can, laundry & plastic Bag, Mophaed, Nasal cannulas, Epidural spinal needles and kits, OB/GYN Surgery Supplies, Drapes , non-sterile, Centrifuge lab, Oxygen concentrator, Laryngoscope, Monitor, clinical machine ( NIPB,PULSE,Optional Temp & SPO2), Monitor, vital signs ( NIBP , pulse, optional Temp,SPO2, ECG), Oximeter, pulse, battery operated, Transformers all categories 100watt,200watt,300watt,1000watt, Surgical instruments kit, General surgical instrument, Examination table, Wheel chairs, pediatric, special need, adult & transport unit, IV Pools, Chair for ENT Surgical procedure, ICU Bed, Electrical bed, Weighing scale adult, Bedpans and urinal, Gloves Non sterile, Minor surgical kit, Crutches, Assorted surgical Cap and Hat, Cover shoes, Goggle , mask and face protection, Goggle and face protection, Sharp containers, IV extension and secondary tubing, IV Primary Tubing plus blood tubing, Blood drawing supplies( vacutainer holder & needle, Container and labels, Feminine supplies, Syringes 20 cc, Syringes 5 & 6cc, Syringes 3cc, Assorted needles, Underpaid, Nebulizer supplies, Respiratory supplies , other, Anesthesia facemask, Speculum, non-disposable, vaginal, Vinyl bed surface, General surgery pack and supplies, Urinary catheter, trays & insertion Sets, 2x2,4x4, Abd Sterile Dressing, Dental supplies, Syringes 10 ml, Kit for kids, Mattress, Delivery comfort set, Empty bottle for sterile fluid storage, General set of ENT, complete delivery system, Douglas examination gloves, Single crutches, Infant resustation equipment, Hurry cane, Orthopedic supplies ( support to knees & other accessories), Isolation gowns, TAP ( Turn & position system), Marry cup, Tooth brush for kids, T-shirt for health workers, Disinfectant and skin Cleaning product, Transformer, Shocks, Assorted iv cannulas, Strawberry, Dental exposure supplies, Film gowns, Standard cone mask, Resustation mask aerosol adult, Urinary catheter Pediatric",
         "total_item_quantity": "64272",
         "handover_protocol_link_unique": "https://jamintsa-my.sharepoint.com/personal/a_ewoku_forafrika_org/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fa%5Fewoku%5Fforafrika%5Forg%2FDocuments%2FProject%20Cure%20Pictures&p=14&ct=1753348257287&or=OWA%2DNT%2DMail&ga=1, https://jamintsa-my.sharepoint.com/personal/a_ewoku_forafrika_org/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fa%5Fewoku%5Fforafrika%5Forg%2FDocuments%2FProject%20Cure%20Pictures&p=14&ct=1753348257287&or=OWA%2DNT%2DMail&ga=2, https://jamintsa-my.sharepoint.com/personal/a_ewoku_forafrika_org/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fa%5Fewoku%5Fforafrika%5Forg%2FDocuments%2FProject%20Cure%20Pictures&p=14&ct=1753348257287&or=OWA%2DNT%2DMail&ga=3, https://jamintsa-my.sharepoint.com/personal/a_ewoku_forafrika_org/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fa%5Fewoku%5Fforafrika%5Forg%2FDocuments%2FProject%20Cure%20Pictures&p=14&ct=1753348257287&or=OWA%2DNT%2DMail&ga=4, https://jamintsa-my.sharepoint.com/personal/a_ewoku_forafrika_org/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fa%5Fewoku%5Fforafrika%5Forg%2FDocuments%2FProject%20Cure%20Pictures&p=14&ct=1753348257287&or=OWA%2DNT%2DMail&ga=5, https://jamintsa-my.sharepoint.com/personal/a_ewoku_forafrika_org/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fa%5Fewoku%5Fforafrika%5Forg%2FDocuments%2FProject%20Cure%20Pictures&p=14&ct=1753348257287&or=OWA%2DNT%2DMail&ga=6, https://jamintsa-my.sharepoint.com/personal/a_ewoku_forafrika_org/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fa%5Fewoku%5Fforafrika%5Forg%2FDocuments%2FProject%20Cure%20Pictures&p=14&ct=1753348257287&or=OWA%2DNT%2DMail&ga=7, https://jamintsa-my.sharepoint.com/personal/a_ewoku_forafrika_org/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fa%5Fewoku%5Fforafrika%5Forg%2FDocuments%2FProject%20Cure%20Pictures&p=14&ct=1753348257287&or=OWA%2DNT%2DMail&ga=8, https://jamintsa-my.sharepoint.com/personal/a_ewoku_forafrika_org/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fa%5Fewoku%5Fforafrika%5Forg%2FDocuments%2FProject%20Cure%20Pictures&p=14&ct=1753348257287&or=OWA%2DNT%2DMail&ga=9, https://jamintsa-my.sharepoint.com/personal/a_ewoku_forafrika_org/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fa%5Fewoku%5Fforafrika%5Forg%2FDocuments%2FProject%20Cure%20Pictures&p=14&ct=1753348257287&or=OWA%2DNT%2DMail&ga=10, https://jamintsa-my.sharepoint.com/personal/a_ewoku_forafrika_org/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fa%5Fewoku%5Fforafrika%5Forg%2FDocuments%2FProject%20Cure%20Pictures&p=14&ct=1753348257287&or=OWA%2DNT%2DMail&ga=11, https://jamintsa-my.sharepoint.com/personal/a_ewoku_forafrika_org/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fa%5Fewoku%5Fforafrika%5Forg%2FDocuments%2FProject%20Cure%20Pictures&p=14&ct=1753348257287&or=OWA%2DNT%2DMail&ga=12, https://jamintsa-my.sharepoint.com/personal/a_ewoku_forafrika_org/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fa%5Fewoku%5Fforafrika%5Forg%2FDocuments%2FProject%20Cure%20Pictures&p=14&ct=1753348257287&or=OWA%2DNT%2DMail&ga=13, https://jamintsa-my.sharepoint.com/personal/a_ewoku_forafrika_org/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fa%5Fewoku%5Fforafrika%5Forg%2FDocuments%2FProject%20Cure%20Pictures&p=14&ct=1753348257287&or=OWA%2DNT%2DMail&ga=14, https://jamintsa-my.sharepoint.com/personal/a_ewoku_forafrika_org/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fa%5Fewoku%5Fforafrika%5Forg%2FDocuments%2FProject%20Cure%20Pictures&p=14&ct=1753348257287&or=OWA%2DNT%2DMail&ga=15, https://jamintsa-my.sharepoint.com/personal/a_ewoku_forafrika_org/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fa%5Fewoku%5Fforafrika%5Forg%2FDocuments%2FProject%20Cure%20Pictures&p=14&ct=1753348257287&or=OWA%2DNT%2DMail&ga=16, https://jamintsa-my.sharepoint.com/personal/a_ewoku_forafrika_org/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fa%5Fewoku%5Fforafrika%5Forg%2FDocuments%2FProject%20Cure%20Pictures&p=14&ct=1753348257287&or=OWA%2DNT%2DMail&ga=17, https://jamintsa-my.sharepoint.com/personal/a_ewoku_forafrika_org/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fa%5Fewoku%5Fforafrika%5Forg%2FDocuments%2FProject%20Cure%20Pictures&p=14&ct=1753348257287&or=OWA%2DNT%2DMail&ga=18, https://jamintsa-my.sharepoint.com/personal/a_ewoku_forafrika_org/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fa%5Fewoku%5Fforafrika%5Forg%2FDocuments%2FProject%20Cure%20Pictures&p=14&ct=1753348257287&or=OWA%2DNT%2DMail&ga=19, https://jamintsa-my.sharepoint.com/personal/a_ewoku_forafrika_org/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fa%5Fewoku%5Fforafrika%5Forg%2FDocuments%2FProject%20Cure%20Pictures&p=14&ct=1753348257287&or=OWA%2DNT%2DMail&ga=20, https://jamintsa-my.sharepoint.com/personal/a_ewoku_forafrika_org/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fa%5Fewoku%5Fforafrika%5Forg%2FDocuments%2FProject%20Cure%20Pictures&p=14&ct=1753348257287&or=OWA%2DNT%2DMail&ga=21, https://jamintsa-my.sharepoint.com/personal/a_ewoku_forafrika_org/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fa%5Fewoku%5Fforafrika%5Forg%2FDocuments%2FProject%20Cure%20Pictures&p=14&ct=1753348257287&or=OWA%2DNT%2DMail&ga=22, https://jamintsa-my.sharepoint.com/personal/a_ewoku_forafrika_org/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fa%5Fewoku%5Fforafrika%5Forg%2FDocuments%2FProject%20Cure%20Pictures&p=14&ct=1753348257287&or=OWA%2DNT%2DMail&ga=23, https://jamintsa-my.sharepoint.com/personal/a_ewoku_forafrika_org/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fa%5Fewoku%5Fforafrika%5Forg%2FDocuments%2FProject%20Cure%20Pictures&p=14&ct=1753348257287&or=OWA%2DNT%2DMail&ga=24, https://jamintsa-my.sharepoint.com/personal/a_ewoku_forafrika_org/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fa%5Fewoku%5Fforafrika%5Forg%2FDocuments%2FProject%20Cure%20Pictures&p=14&ct=1753348257287&or=OWA%2DNT%2DMail&ga=25, https://jamintsa-my.sharepoint.com/personal/a_ewoku_forafrika_org/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fa%5Fewoku%5Fforafrika%5Forg%2FDocuments%2FProject%20Cure%20Pictures&p=14&ct=1753348257287&or=OWA%2DNT%2DMail&ga=26, https://jamintsa-my.sharepoint.com/personal/a_ewoku_forafrika_org/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fa%5Fewoku%5Fforafrika%5Forg%2FDocuments%2FProject%20Cure%20Pictures&p=14&ct=1753348257287&or=OWA%2DNT%2DMail&ga=27, https://jamintsa-my.sharepoint.com/personal/a_ewoku_forafrika_org/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fa%5Fewoku%5Fforafrika%5Forg%2FDocuments%2FProject%20Cure%20Pictures&p=14&ct=1753348257287&or=OWA%2DNT%2DMail&ga=28, https://jamintsa-my.sharepoint.com/personal/a_ewoku_forafrika_org/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fa%5Fewoku%5Fforafrika%5Forg%2FDocuments%2FProject%20Cure%20Pictures&p=14&ct=1753348257287&or=OWA%2DNT%2DMail&ga=29, https://jamintsa-my.sharepoint.com/personal/a_ewoku_forafrika_org/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fa%5Fewoku%5Fforafrika%5Forg%2FDocuments%2FProject%20Cure%20Pictures&p=14&ct=1753348257287&or=OWA%2DNT%2DMail&ga=30, https://jamintsa-my.sharepoint.com/personal/a_ewoku_forafrika_org/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fa%5Fewoku%5Fforafrika%5Forg%2FDocuments%2FProject%20Cure%20Pictures&p=14&ct=1753348257287&or=OWA%2DNT%2DMail&ga=31, https://jamintsa-my.sharepoint.com/personal/a_ewoku_forafrika_org/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fa%5Fewoku%5Fforafrika%5Forg%2FDocuments%2FProject%20Cure%20Pictures&p=14&ct=1753348257287&or=OWA%2DNT%2DMail&ga=32, https://jamintsa-my.sharepoint.com/personal/a_ewoku_forafrika_org/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fa%5Fewoku%5Fforafrika%5Forg%2FDocuments%2FProject%20Cure%20Pictures&p=14&ct=1753348257287&or=OWA%2DNT%2DMail&ga=33, https://jamintsa-my.sharepoint.com/personal/a_ewoku_forafrika_org/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fa%5Fewoku%5Fforafrika%5Forg%2FDocuments%2FProject%20Cure%20Pictures&p=14&ct=1753348257287&or=OWA%2DNT%2DMail&ga=34, https://jamintsa-my.sharepoint.com/personal/a_ewoku_forafrika_org/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fa%5Fewoku%5Fforafrika%5Forg%2FDocuments%2FProject%20Cure%20Pictures&p=14&ct=1753348257287&or=OWA%2DNT%2DMail&ga=35, https://jamintsa-my.sharepoint.com/personal/a_ewoku_forafrika_org/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fa%5Fewoku%5Fforafrika%5Forg%2FDocuments%2FProject%20Cure%20Pictures&p=14&ct=1753348257287&or=OWA%2DNT%2DMail&ga=36, https://jamintsa-my.sharepoint.com/personal/a_ewoku_forafrika_org/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fa%5Fewoku%5Fforafrika%5Forg%2FDocuments%2FProject%20Cure%20Pictures&p=14&ct=1753348257287&or=OWA%2DNT%2DMail&ga=37, https://jamintsa-my.sharepoint.com/personal/a_ewoku_forafrika_org/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fa%5Fewoku%5Fforafrika%5Forg%2FDocuments%2FProject%20Cure%20Pictures&p=14&ct=1753348257287&or=OWA%2DNT%2DMail&ga=38, https://jamintsa-my.sharepoint.com/personal/a_ewoku_forafrika_org/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fa%5Fewoku%5Fforafrika%5Forg%2FDocuments%2FProject%20Cure%20Pictures&p=14&ct=1753348257287&or=OWA%2DNT%2DMail&ga=39, https://jamintsa-my.sharepoint.com/personal/a_ewoku_forafrika_org/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fa%5Fewoku%5Fforafrika%5Forg%2FDocuments%2FProject%20Cure%20Pictures&p=14&ct=1753348257287&or=OWA%2DNT%2DMail&ga=40, https://jamintsa-my.sharepoint.com/personal/a_ewoku_forafrika_org/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fa%5Fewoku%5Fforafrika%5Forg%2FDocuments%2FProject%20Cure%20Pictures&p=14&ct=1753348257287&or=OWA%2DNT%2DMail&ga=41, https://jamintsa-my.sharepoint.com/personal/a_ewoku_forafrika_org/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fa%5Fewoku%5Fforafrika%5Forg%2FDocuments%2FProject%20Cure%20Pictures&p=14&ct=1753348257287&or=OWA%2DNT%2DMail&ga=42, https://jamintsa-my.sharepoint.com/personal/a_ewoku_forafrika_org/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fa%5Fewoku%5Fforafrika%5Forg%2FDocuments%2FProject%20Cure%20Pictures&p=14&ct=1753348257287&or=OWA%2DNT%2DMail&ga=43, https://jamintsa-my.sharepoint.com/personal/a_ewoku_forafrika_org/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fa%5Fewoku%5Fforafrika%5Forg%2FDocuments%2FProject%20Cure%20Pictures&p=14&ct=1753348257287&or=OWA%2DNT%2DMail&ga=44, https://jamintsa-my.sharepoint.com/personal/a_ewoku_forafrika_org/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fa%5Fewoku%5Fforafrika%5Forg%2FDocuments%2FProject%20Cure%20Pictures&p=14&ct=1753348257287&or=OWA%2DNT%2DMail&ga=45, https://jamintsa-my.sharepoint.com/personal/a_ewoku_forafrika_org/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fa%5Fewoku%5Fforafrika%5Forg%2FDocuments%2FProject%20Cure%20Pictures&p=14&ct=1753348257287&or=OWA%2DNT%2DMail&ga=46, https://jamintsa-my.sharepoint.com/personal/a_ewoku_forafrika_org/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fa%5Fewoku%5Fforafrika%5Forg%2FDocuments%2FProject%20Cure%20Pictures&p=14&ct=1753348257287&or=OWA%2DNT%2DMail&ga=47, https://jamintsa-my.sharepoint.com/personal/a_ewoku_forafrika_org/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fa%5Fewoku%5Fforafrika%5Forg%2FDocuments%2FProject%20Cure%20Pictures&p=14&ct=1753348257287&or=OWA%2DNT%2DMail&ga=48, https://jamintsa-my.sharepoint.com/personal/a_ewoku_forafrika_org/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fa%5Fewoku%5Fforafrika%5Forg%2FDocuments%2FProject%20Cure%20Pictures&p=14&ct=1753348257287&or=OWA%2DNT%2DMail&ga=49, https://jamintsa-my.sharepoint.com/personal/a_ewoku_forafrika_org/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fa%5Fewoku%5Fforafrika%5Forg%2FDocuments%2FProject%20Cure%20Pictures&p=14&ct=1753348257287&or=OWA%2DNT%2DMail&ga=50, https://jamintsa-my.sharepoint.com/personal/a_ewoku_forafrika_org/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fa%5Fewoku%5Fforafrika%5Forg%2FDocuments%2FProject%20Cure%20Pictures&p=14&ct=1753348257287&or=OWA%2DNT%2DMail&ga=51, https://jamintsa-my.sharepoint.com/personal/a_ewoku_forafrika_org/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fa%5Fewoku%5Fforafrika%5Forg%2FDocuments%2FProject%20Cure%20Pictures&p=14&ct=1753348257287&or=OWA%2DNT%2DMail&ga=52, https://jamintsa-my.sharepoint.com/personal/a_ewoku_forafrika_org/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fa%5Fewoku%5Fforafrika%5Forg%2FDocuments%2FProject%20Cure%20Pictures&p=14&ct=1753348257287&or=OWA%2DNT%2DMail&ga=53, https://jamintsa-my.sharepoint.com/personal/a_ewoku_forafrika_org/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fa%5Fewoku%5Fforafrika%5Forg%2FDocuments%2FProject%20Cure%20Pictures&p=14&ct=1753348257287&or=OWA%2DNT%2DMail&ga=54, https://jamintsa-my.sharepoint.com/personal/a_ewoku_forafrika_org/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fa%5Fewoku%5Fforafrika%5Forg%2FDocuments%2FProject%20Cure%20Pictures&p=14&ct=1753348257287&or=OWA%2DNT%2DMail&ga=55, https://jamintsa-my.sharepoint.com/personal/a_ewoku_forafrika_org/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fa%5Fewoku%5Fforafrika%5Forg%2FDocuments%2FProject%20Cure%20Pictures&p=14&ct=1753348257287&or=OWA%2DNT%2DMail&ga=56, https://jamintsa-my.sharepoint.com/personal/a_ewoku_forafrika_org/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fa%5Fewoku%5Fforafrika%5Forg%2FDocuments%2FProject%20Cure%20Pictures&p=14&ct=1753348257287&or=OWA%2DNT%2DMail&ga=57, https://jamintsa-my.sharepoint.com/personal/a_ewoku_forafrika_org/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fa%5Fewoku%5Fforafrika%5Forg%2FDocuments%2FProject%20Cure%20Pictures&p=14&ct=1753348257287&or=OWA%2DNT%2DMail&ga=58, https://jamintsa-my.sharepoint.com/personal/a_ewoku_forafrika_org/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fa%5Fewoku%5Fforafrika%5Forg%2FDocuments%2FProject%20Cure%20Pictures&p=14&ct=1753348257287&or=OWA%2DNT%2DMail&ga=59, https://jamintsa-my.sharepoint.com/personal/a_ewoku_forafrika_org/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fa%5Fewoku%5Fforafrika%5Forg%2FDocuments%2FProject%20Cure%20Pictures&p=14&ct=1753348257287&or=OWA%2DNT%2DMail&ga=60, https://jamintsa-my.sharepoint.com/personal/a_ewoku_forafrika_org/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fa%5Fewoku%5Fforafrika%5Forg%2FDocuments%2FProject%20Cure%20Pictures&p=14&ct=1753348257287&or=OWA%2DNT%2DMail&ga=61, https://jamintsa-my.sharepoint.com/personal/a_ewoku_forafrika_org/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fa%5Fewoku%5Fforafrika%5Forg%2FDocuments%2FProject%20Cure%20Pictures&p=14&ct=1753348257287&or=OWA%2DNT%2DMail&ga=62, https://jamintsa-my.sharepoint.com/personal/a_ewoku_forafrika_org/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fa%5Fewoku%5Fforafrika%5Forg%2FDocuments%2FProject%20Cure%20Pictures&p=14&ct=1753348257287&or=OWA%2DNT%2DMail&ga=63, https://jamintsa-my.sharepoint.com/personal/a_ewoku_forafrika_org/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fa%5Fewoku%5Fforafrika%5Forg%2FDocuments%2FProject%20Cure%20Pictures&p=14&ct=1753348257287&or=OWA%2DNT%2DMail&ga=64, https://jamintsa-my.sharepoint.com/personal/a_ewoku_forafrika_org/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fa%5Fewoku%5Fforafrika%5Forg%2FDocuments%2FProject%20Cure%20Pictures&p=14&ct=1753348257287&or=OWA%2DNT%2DMail&ga=65, https://jamintsa-my.sharepoint.com/personal/a_ewoku_forafrika_org/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fa%5Fewoku%5Fforafrika%5Forg%2FDocuments%2FProject%20Cure%20Pictures&p=14&ct=1753348257287&or=OWA%2DNT%2DMail&ga=66, https://jamintsa-my.sharepoint.com/personal/a_ewoku_forafrika_org/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fa%5Fewoku%5Fforafrika%5Forg%2FDocuments%2FProject%20Cure%20Pictures&p=14&ct=1753348257287&or=OWA%2DNT%2DMail&ga=67, https://jamintsa-my.sharepoint.com/personal/a_ewoku_forafrika_org/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fa%5Fewoku%5Fforafrika%5Forg%2FDocuments%2FProject%20Cure%20Pictures&p=14&ct=1753348257287&or=OWA%2DNT%2DMail&ga=68, https://jamintsa-my.sharepoint.com/personal/a_ewoku_forafrika_org/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fa%5Fewoku%5Fforafrika%5Forg%2FDocuments%2FProject%20Cure%20Pictures&p=14&ct=1753348257287&or=OWA%2DNT%2DMail&ga=69, https://jamintsa-my.sharepoint.com/personal/a_ewoku_forafrika_org/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fa%5Fewoku%5Fforafrika%5Forg%2FDocuments%2FProject%20Cure%20Pictures&p=14&ct=1753348257287&or=OWA%2DNT%2DMail&ga=70, https://jamintsa-my.sharepoint.com/personal/a_ewoku_forafrika_org/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fa%5Fewoku%5Fforafrika%5Forg%2FDocuments%2FProject%20Cure%20Pictures&p=14&ct=1753348257287&or=OWA%2DNT%2DMail&ga=71, https://jamintsa-my.sharepoint.com/personal/a_ewoku_forafrika_org/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fa%5Fewoku%5Fforafrika%5Forg%2FDocuments%2FProject%20Cure%20Pictures&p=14&ct=1753348257287&or=OWA%2DNT%2DMail&ga=72, https://jamintsa-my.sharepoint.com/personal/a_ewoku_forafrika_org/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fa%5Fewoku%5Fforafrika%5Forg%2FDocuments%2FProject%20Cure%20Pictures&p=14&ct=1753348257287&or=OWA%2DNT%2DMail&ga=73, https://jamintsa-my.sharepoint.com/personal/a_ewoku_forafrika_org/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fa%5Fewoku%5Fforafrika%5Forg%2FDocuments%2FProject%20Cure%20Pictures&p=14&ct=1753348257287&or=OWA%2DNT%2DMail&ga=74, https://jamintsa-my.sharepoint.com/personal/a_ewoku_forafrika_org/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fa%5Fewoku%5Fforafrika%5Forg%2FDocuments%2FProject%20Cure%20Pictures&p=14&ct=1753348257287&or=OWA%2DNT%2DMail&ga=75, https://jamintsa-my.sharepoint.com/personal/a_ewoku_forafrika_org/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fa%5Fewoku%5Fforafrika%5Forg%2FDocuments%2FProject%20Cure%20Pictures&p=14&ct=1753348257287&or=OWA%2DNT%2DMail&ga=76, https://jamintsa-my.sharepoint.com/personal/a_ewoku_forafrika_org/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fa%5Fewoku%5Fforafrika%5Forg%2FDocuments%2FProject%20Cure%20Pictures&p=14&ct=1753348257287&or=OWA%2DNT%2DMail&ga=77, https://jamintsa-my.sharepoint.com/personal/a_ewoku_forafrika_org/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fa%5Fewoku%5Fforafrika%5Forg%2FDocuments%2FProject%20Cure%20Pictures&p=14&ct=1753348257287&or=OWA%2DNT%2DMail&ga=78",
-        "picture_link_unique": "",
+        "picture_link_unique": "https://drive.google.com/file/d/1Sbm--3xoGea7_unN4Xt5UnVrtEwOAzlU/view?usp=sharing",
         "item_list_eng_unique": "Alcohol Swab, Bags, Bandaids, Crutches, Stethoscope + 14",
         "short_hospital_names_eng": "Pibor Civil Hospital, Greater Upper Nile",
         "unnamed_24": "",
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": "https://www.aidpioneers.com/blog-news/improving-maternity-care-in-south-sudan"
       }
     },
     {
@@ -15763,7 +16137,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": "https://www.aidpioneers.com/blog-news/improving-maternity-care-in-south-sudan"
       }
     },
     {
@@ -15802,7 +16177,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": "https://www.aidpioneers.com/blog-news/improving-maternity-care-in-south-sudan"
       }
     },
     {
@@ -15841,7 +16217,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": "https://www.aidpioneers.com/blog-news/improving-maternity-care-in-south-sudan"
       }
     },
     {
@@ -15880,7 +16257,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": "https://www.aidpioneers.com/blog-news/improving-maternity-care-in-south-sudan"
       }
     },
     {
@@ -15919,7 +16297,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": "https://www.aidpioneers.com/blog-news/improving-maternity-care-in-south-sudan"
       }
     },
     {
@@ -15958,7 +16337,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -15997,7 +16377,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -16036,7 +16417,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -16075,7 +16457,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -16114,7 +16497,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -16153,7 +16537,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -16192,7 +16577,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -16231,7 +16617,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -16270,7 +16657,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -16309,7 +16697,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -16348,7 +16737,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -16387,7 +16777,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -16426,7 +16817,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -16465,7 +16857,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -16504,7 +16897,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -16536,14 +16930,15 @@
         "item_name_engukr_unique": "ICU Beds",
         "total_item_quantity": "2",
         "handover_protocol_link_unique": "",
-        "picture_link_unique": "",
+        "picture_link_unique": "https://drive.google.com/file/d/1H198C0d5OxJ_X2MW9woXeW-d9zkTY0er/view?usp=sharing",
         "item_list_eng_unique": "",
         "short_hospital_names_eng": "Suhul Shire GH",
         "unnamed_24": "",
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": "https://www.aidpioneers.com/blog-news/restoring-icu-care-in-tigray"
       }
     },
     {
@@ -16567,7 +16962,7 @@
         "distribution_id_unique": "",
         "shipment_period_unique": "Aug-25",
         "type_of_medical_institution_unique": "General Hospital",
-        "unique_hospital_names_eng": "St.Marry Axum GH",
+        "unique_hospital_names_eng": "St.Marry Axum General Hospital",
         "safe_hospital_names": "Hospital 23",
         "region_unique": "Shire, Shire Town, Northwestern Zone",
         "full_location_unique": "St.Marry Axum GH, Shire, Shire Town, Northwestern Zone",
@@ -16575,14 +16970,15 @@
         "item_name_engukr_unique": "ICU Beds",
         "total_item_quantity": "5",
         "handover_protocol_link_unique": "",
-        "picture_link_unique": "",
+        "picture_link_unique": "https://drive.google.com/file/d/1zk0VZKXRsT3eZbyVlorexMUMyWMYqLhI/view?usp=sharing",
         "item_list_eng_unique": "",
         "short_hospital_names_eng": "St.Marry Axum GH",
         "unnamed_24": "",
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": "https://www.aidpioneers.com/blog-news/restoring-icu-care-in-tigray"
       }
     },
     {
@@ -16606,22 +17002,23 @@
         "distribution_id_unique": "",
         "shipment_period_unique": "Aug-25",
         "type_of_medical_institution_unique": "General Hospital",
-        "unique_hospital_names_eng": "Adwa GH",
+        "unique_hospital_names_eng": "Adwa General Hospital",
         "safe_hospital_names": "Hospital 24",
         "region_unique": "Tabya Kendeya, Adwa, Adwa Town, Central Zone,",
-        "full_location_unique": "Adwa GH, Tabya Kendeya, Adwa, Adwa Town, Central Zone,",
+        "full_location_unique": "Adwa General Hospital, Tabya Kendeya, Adwa, Adwa Town, Central Zone,",
         "number_of_beds_unique": "",
         "item_name_engukr_unique": "ICU Beds",
         "total_item_quantity": "3",
         "handover_protocol_link_unique": "",
-        "picture_link_unique": "",
+        "picture_link_unique": "https://drive.google.com/file/d/1nF-lYGuIxsHGtj5_bhLMdoSEZBJOaUVy/view?usp=sharing",
         "item_list_eng_unique": "",
         "short_hospital_names_eng": "Adwa GH",
         "unnamed_24": "",
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": "https://www.aidpioneers.com/blog-news/restoring-icu-care-in-tigray"
       }
     },
     {
@@ -16645,22 +17042,23 @@
         "distribution_id_unique": "",
         "shipment_period_unique": "Aug-25",
         "type_of_medical_institution_unique": "General Hospital",
-        "unique_hospital_names_eng": "Adigrat GH",
+        "unique_hospital_names_eng": "Adigrat General Hospital",
         "safe_hospital_names": "Hospital 25",
         "region_unique": "Adigrat, Adigrat Town, Eastern Zone",
-        "full_location_unique": "Adigrat GH, Adigrat, Adigrat Town, Eastern Zone",
+        "full_location_unique": "Adigrat General Hospital, Adigrat, Adigrat Town, Eastern Zone",
         "number_of_beds_unique": "",
         "item_name_engukr_unique": "ICU Beds",
         "total_item_quantity": "3",
         "handover_protocol_link_unique": "",
-        "picture_link_unique": "",
+        "picture_link_unique": "https://drive.google.com/file/d/1zk0VZKXRsT3eZbyVlorexMUMyWMYqLhI/view?usp=sharing",
         "item_list_eng_unique": "",
         "short_hospital_names_eng": "Adigrat GH",
         "unnamed_24": "",
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": "https://www.aidpioneers.com/blog-news/restoring-icu-care-in-tigray"
       }
     },
     {
@@ -16684,22 +17082,23 @@
         "distribution_id_unique": "",
         "shipment_period_unique": "Aug-25",
         "type_of_medical_institution_unique": "General Hospital",
-        "unique_hospital_names_eng": "Abiadi GH",
+        "unique_hospital_names_eng": "Abiadi General Hospital",
         "safe_hospital_names": "Hospital 26",
         "region_unique": "Abyi Adi Town, Central Zone,",
-        "full_location_unique": "Abiadi GH, Abyi Adi Town, Central Zone,",
+        "full_location_unique": "Abiadi General Hospital, Abyi Adi Town, Central Zone,",
         "number_of_beds_unique": "",
         "item_name_engukr_unique": "ICU Beds",
         "total_item_quantity": "3",
         "handover_protocol_link_unique": "",
-        "picture_link_unique": "",
+        "picture_link_unique": "https://drive.google.com/file/d/1CEX23hnobOJY36R7lBYMW5t0yQ1GzIKG/view?usp=sharing",
         "item_list_eng_unique": "",
         "short_hospital_names_eng": "Abiadi GH",
         "unnamed_24": "",
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": "https://www.aidpioneers.com/blog-news/restoring-icu-care-in-tigray"
       }
     },
     {
@@ -16723,22 +17122,23 @@
         "distribution_id_unique": "",
         "shipment_period_unique": "Aug-25",
         "type_of_medical_institution_unique": "General Hospital",
-        "unique_hospital_names_eng": "Wukro GH",
+        "unique_hospital_names_eng": "Wukro General Hospital",
         "safe_hospital_names": "Hospital 27",
         "region_unique": "Wukro Town, Easetern ZOne",
-        "full_location_unique": "Wukro GH, Wukro Town, Easetern ZOne",
+        "full_location_unique": "Wukro General Hospital, Wukro Town, Easetern ZOne",
         "number_of_beds_unique": "",
         "item_name_engukr_unique": "ICU Beds",
         "total_item_quantity": "5",
         "handover_protocol_link_unique": "",
-        "picture_link_unique": "",
+        "picture_link_unique": "https://drive.google.com/file/d/1H198C0d5OxJ_X2MW9woXeW-d9zkTY0er/view?usp=sharing",
         "item_list_eng_unique": "",
         "short_hospital_names_eng": "Wukro GH",
         "unnamed_24": "",
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": "https://www.aidpioneers.com/blog-news/restoring-icu-care-in-tigray"
       }
     },
     {
@@ -16762,7 +17162,7 @@
         "distribution_id_unique": "",
         "shipment_period_unique": "Aug-25",
         "type_of_medical_institution_unique": "General Hospital",
-        "unique_hospital_names_eng": "Lemlem Karl Maychew GH",
+        "unique_hospital_names_eng": "Lemlem Karl Maychew General Hospital",
         "safe_hospital_names": "Hospital 28",
         "region_unique": "Maychwe Town, Southern Zone",
         "full_location_unique": "Lemlem Karl Maychew GH, Maychwe Town, Southern Zone",
@@ -16770,14 +17170,15 @@
         "item_name_engukr_unique": "ICU Beds",
         "total_item_quantity": "4",
         "handover_protocol_link_unique": "",
-        "picture_link_unique": "",
+        "picture_link_unique": "https://drive.google.com/file/d/1nF-lYGuIxsHGtj5_bhLMdoSEZBJOaUVy/view?usp=sharing",
         "item_list_eng_unique": "",
         "short_hospital_names_eng": "Lemlem Karl Maychew GH",
         "unnamed_24": "",
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": "https://www.aidpioneers.com/blog-news/restoring-icu-care-in-tigray"
       }
     },
     {
@@ -16809,14 +17210,15 @@
         "item_name_engukr_unique": "ICU Beds",
         "total_item_quantity": "3",
         "handover_protocol_link_unique": "",
-        "picture_link_unique": "",
+        "picture_link_unique": "https://drive.google.com/file/d/1nF-lYGuIxsHGtj5_bhLMdoSEZBJOaUVy/view?usp=sharing",
         "item_list_eng_unique": "",
         "short_hospital_names_eng": "Mayani Sheraro GH",
         "unnamed_24": "",
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": "https://www.aidpioneers.com/blog-news/restoring-icu-care-in-tigray"
       }
     },
     {
@@ -16848,14 +17250,15 @@
         "item_name_engukr_unique": "ICU Beds",
         "total_item_quantity": "7",
         "handover_protocol_link_unique": "",
-        "picture_link_unique": "",
+        "picture_link_unique": "https://drive.google.com/file/d/1f-6vTqoivbKANM6LL4pqqFiUWbNAZ6cA/view?usp=sharing",
         "item_list_eng_unique": "",
         "short_hospital_names_eng": "Ayder Comprehensive specialized hospital",
         "unnamed_24": "",
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": "https://www.aidpioneers.com/blog-news/restoring-icu-care-in-tigray"
       }
     },
     {
@@ -16887,14 +17290,15 @@
         "item_name_engukr_unique": "ICU Beds",
         "total_item_quantity": "5",
         "handover_protocol_link_unique": "",
-        "picture_link_unique": "",
+        "picture_link_unique": "https://drive.google.com/file/d/1CEX23hnobOJY36R7lBYMW5t0yQ1GzIKG/view?usp=sharing",
         "item_list_eng_unique": "",
         "short_hospital_names_eng": "Axum specialized hospital",
         "unnamed_24": "",
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": "https://www.aidpioneers.com/blog-news/restoring-icu-care-in-tigray"
       }
     },
     {
@@ -16926,14 +17330,15 @@
         "item_name_engukr_unique": "ICU Beds, Dressings/ Перев'язка, Gowns, Isolation Level 1 and Level 2/ Халати, рівень ізоляції 1 і рівень 2, Surgical Instrument Kit/ Хірургічний інструмент, Medical suit/Медичний комбінезон жовтий",
         "total_item_quantity": "166",
         "handover_protocol_link_unique": "",
-        "picture_link_unique": "",
+        "picture_link_unique": "https://drive.google.com/file/d/1H198C0d5OxJ_X2MW9woXeW-d9zkTY0er/view?usp=sharing",
         "item_list_eng_unique": "",
         "short_hospital_names_eng": "Mekelle General Hospital",
         "unnamed_24": "",
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": "https://www.aidpioneers.com/blog-news/restoring-icu-care-in-tigray"
       }
     },
     {
@@ -16972,7 +17377,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -17011,7 +17417,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -17050,7 +17457,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -17089,7 +17497,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -17128,7 +17537,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -17167,7 +17577,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -17206,7 +17617,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -17245,7 +17657,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -17284,7 +17697,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -17323,7 +17737,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -17362,7 +17777,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -17401,7 +17817,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -17440,7 +17857,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -17479,7 +17897,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -17518,7 +17937,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -17557,7 +17977,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -17596,7 +18017,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -17635,7 +18057,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -17674,7 +18097,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -17713,7 +18137,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -17752,7 +18177,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -17791,7 +18217,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -17830,7 +18257,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -17869,7 +18297,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -17908,7 +18337,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -17947,7 +18377,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -17986,7 +18417,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -18025,7 +18457,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -18064,7 +18497,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -18103,7 +18537,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -18142,7 +18577,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -18181,7 +18617,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -18220,7 +18657,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -18259,7 +18697,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -18298,7 +18737,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -18337,7 +18777,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -18376,7 +18817,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -18415,7 +18857,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -18454,7 +18897,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -18493,7 +18937,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -18532,7 +18977,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -18571,7 +19017,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -18610,7 +19057,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -18649,7 +19097,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -18688,7 +19137,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -18727,7 +19177,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -18766,7 +19217,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -18805,7 +19257,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -18837,14 +19290,15 @@
         "item_name_engukr_unique": "Office Supplies, ALL, Bed Linens And Towels, Cloth Products Not Fitting In Other Items, Cubical Curtains, Gloves, Non-sterile, Gloves, Sterile, Gloves, Sterile, Masks, surgical, Goggles and Face Protection, N-95 Masks, N-95 Masks, KN95 - Masks, 2x2, 4x4, Abd Sterile Dressings, 2x2, 4x4, Abd Sterile Dressings, Bandaids, Steristrips, Tape, Transparent Dressings (tegaderm), Kerlix/kling Dressings, Kerlix/Kling Dressing, Specialty Dressings (and All Other Dressings Not Fitting In Other Categories), Bags, Red, Spill Kits And Isolyszer, Liners, Trash Can, Laundry & Plastic Bags, Mopheads, Sterilization, Tapes, Indicators, Wraps & Pouches, Syringes, 1 cc/tb, Syringes, 3cc, Syringes, 3cc, Syringes, 5cc & 6cc, Medication Cups, Spoons and Labels, Pill Crushers, Counters, Holders for Tubex Syringes, Feminine Supplies - (including Pads, Belts, Perineal Wash, Sitz Baths), Activities Of Daily Living Aids (including Dressing Aids), Pt Supplies, Applicator Swabs (Q-Tips), Tongue Depressors, Cotton Balls, Bedpans And Urinals, Containers, Basins, Emesis, Water Mugs, Pitchers, Glassware, Diapers, Adult, Paper Supplies, Towels, Cups, Napkins, Toilet Paper, Dishes, Underpads, (Chux and Blue Pads), Alcohol and Betadine Pads & Swabs, Scalpels/Blades, Surgical Marking Pens, Sutures and Suture Removal Kit, Urinary Catheters, Trays & Insertion Sets, Concentrator, Oxygen, Stryker Head Lamp, Battery Operated, Speculum, Non Disposable, Vaginal, Sphygmomanometer, Aneroid, Hand Held, Disposable Speculum, Stethoscope, Transformer, 1,000 Watt, Chair, Office, Mayo Stand, Pillow, Scale, Infant, Stretcher, Surgical Instrument Kit, Delivery, Table, Treatment, Wheelchair Transport Unit, Wheelchair, Adult",
         "total_item_quantity": "72252",
         "handover_protocol_link_unique": "",
-        "picture_link_unique": "",
+        "picture_link_unique": "https://drive.google.com/file/d/1A0cJcQIG-eFMDGcmec53_yYVm7jDrmU1/view?usp=sharing",
         "item_list_eng_unique": "",
         "short_hospital_names_eng": "Nanhala health center, northwest region",
         "unnamed_24": "",
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": "https://www.aidpioneers.com/blog-news/many-times-we-had-to-improvise-supporting-healthcare-in-mozambique"
       }
     },
     {
@@ -18883,7 +19337,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": "https://www.aidpioneers.com/blog-news/many-times-we-had-to-improvise-supporting-healthcare-in-mozambique"
       }
     },
     {
@@ -18922,7 +19377,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": "https://www.aidpioneers.com/blog-news/many-times-we-had-to-improvise-supporting-healthcare-in-mozambique"
       }
     },
     {
@@ -18961,7 +19417,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": "https://www.aidpioneers.com/blog-news/many-times-we-had-to-improvise-supporting-healthcare-in-mozambique"
       }
     },
     {
@@ -19000,7 +19457,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": "https://www.aidpioneers.com/blog-news/many-times-we-had-to-improvise-supporting-healthcare-in-mozambique"
       }
     },
     {
@@ -19039,7 +19497,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -19078,7 +19537,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -19117,7 +19577,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -19156,7 +19617,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -19195,7 +19657,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -19234,7 +19697,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -19273,7 +19737,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -19312,7 +19777,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -19351,7 +19817,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -19390,7 +19857,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -19429,7 +19897,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -19468,7 +19937,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -19507,7 +19977,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -19546,7 +20017,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -19585,7 +20057,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -19624,7 +20097,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -19663,7 +20137,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -19702,7 +20177,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -19741,7 +20217,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -19780,7 +20257,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -19819,7 +20297,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -19858,7 +20337,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -19897,7 +20377,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -19936,7 +20417,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -19975,7 +20457,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -20014,7 +20497,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -20053,7 +20537,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -20092,7 +20577,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -20131,7 +20617,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -20170,7 +20657,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -20209,7 +20697,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -20248,7 +20737,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -20287,7 +20777,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -20326,7 +20817,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -20365,7 +20857,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -20404,7 +20897,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -20443,7 +20937,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -20482,7 +20977,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -20521,7 +21017,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -20560,7 +21057,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -20599,7 +21097,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -20638,7 +21137,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -20677,7 +21177,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -20716,7 +21217,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -20755,7 +21257,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -20794,7 +21297,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -20833,7 +21337,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -20872,7 +21377,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -20911,7 +21417,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -20950,7 +21457,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -20989,7 +21497,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -21028,7 +21537,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -21067,7 +21577,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -21106,7 +21617,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -21145,7 +21657,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -21184,7 +21697,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -21223,7 +21737,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -21262,7 +21777,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -21301,7 +21817,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -21340,7 +21857,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -21379,7 +21897,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -21418,7 +21937,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -21457,7 +21977,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -21496,7 +22017,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -21535,7 +22057,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -21574,7 +22097,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -21613,7 +22137,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -21652,7 +22177,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -21691,7 +22217,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -21730,7 +22257,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -21769,7 +22297,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -21808,7 +22337,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -21847,7 +22377,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -21886,7 +22417,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -21925,7 +22457,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -21964,7 +22497,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -22003,7 +22537,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -22042,7 +22577,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -22081,7 +22617,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -22120,7 +22657,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -22159,7 +22697,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -22198,7 +22737,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -22237,7 +22777,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -22276,7 +22817,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -22315,7 +22857,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -22354,7 +22897,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -22393,7 +22937,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -22432,7 +22977,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -22471,7 +23017,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -22510,7 +23057,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -22549,7 +23097,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -22588,7 +23137,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -22627,7 +23177,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -22666,7 +23217,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -22705,7 +23257,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -22744,7 +23297,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -22783,7 +23337,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -22822,7 +23377,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -22861,7 +23417,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -22900,7 +23457,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -22939,7 +23497,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -22978,7 +23537,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -23017,7 +23577,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -23056,7 +23617,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -23095,7 +23657,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -23134,7 +23697,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -23173,7 +23737,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -23212,7 +23777,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -23251,7 +23817,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -23290,7 +23857,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -23329,7 +23897,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -23368,7 +23937,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -23386,7 +23956,7 @@
         "cure_id_unique": "307323",
         "freight_forwarder": "Classic Cargo",
         "donor_unique": "ForAfrika",
-        "donor_logos": "https://drive.google.com/file/d/1fkoZlQu7dVUAD9IDY4n-8qIzvtgKOy7J/view?usp=drive_link",
+        "donor_logos": "https://drive.google.com/file/d/16gpK95tEOw4_Cs2eKjyBFUKCpyLRY4tj/view?usp=sharing",
         "country_unique": "Angola",
         "distribution_number_unique": "1",
         "distribution_id_unique": "ForAfrika1_08/26",
@@ -23400,14 +23970,15 @@
         "item_name_engukr_unique": "Adaptor/Connector, Airway - Oral Pharyngeal, Alcohol Prep Pads, Amalgamator, Amniotic Membrane Perforator (hook), Anesthesia - Face Mask Adult, Anesthesia - Face Mask Infant, Anoscope, Reusable, Apexo Elevators, Applicator - Calcium Alginate Tipped, Applicator - Polyester Tipped, Applicator - Rayon Tipped OB/GYN), Applicator - Single Tipped Cotton, Applicator - Wooden Stick, Apron - General Purpose (Single Use), Arm Board, Arm Sling/Immobilizer, Arthrex Instrumentation, Articulating Reload Endo GIA - Tri-Staple, Baby/Infant Onesies/Gowns, Bag - Ice/Cold Pack, Bag - Reusable, Bakes Dilator, Bandage - Elastic/Two-Way Stretch(Ace), Bandaids, Basin Stand, Single w/ Bowl, Basin Stand, Single w/ Bowl, Bath/Wash Basin - Plastic, Bed - Hospital Grade Crib w/Mattress, Bed Pan - Fracture, Bib ** Adult, Bite Block - Oral, Bladder Protection Pad, Blade - Beaver, Blade - Surgical - Saw, Blanket - Bath, Blanket Baby, Blood Collection Tube Holder, Blood Pressure Monitor, Blood Pressure Unit/Sphygmomanometer w/Cuff, Bone Curette, Bone Hammer/Mallet, Bone preservation elevators, Bone Rasp, Books, Boot - Covers, Bottle Brush, Bottle w/ Dropper, Bowel Clamp, Brace - Ankle Support, Brace - Spinal Orthosis, Brace - Walking Boot, Bugby Electrode, Cabinet, Cameron root elevator, Cane - Quad, Cane - Straight, Cap - Bouffant, Cart - Crash, Cart - Multi Purpose, Cast - Ortho-Glass/Tape, Cast - Padding, Cast - Plaster, Cast - Rubber Heel for walking cast, Cast - Shoe, Catheter - Drainage, Catheter - Umbilical Vessel, Catheter guide/mandarin, Centrifuge, Chair - Blood Draw, Chair - Procedure Exam, Clavicle Strap / Splint, Cleanser - Skin, Clip Applier - Reusable, Cogswell elevators, Commode, Compression Sleeve, Cooler, Cotton Rolls/Sheets, Cotton/Prepping Balls, Coverall - Disposable, Crane pick elevator, Cross-bar elevators, Curtain ** Patient Privacy, Cytology Brush, Dermal Biospy Punch, Diaper - Brief - Adult, Diaper - Disposable Infant, Disposal Can Liners, Drape - Basic, Drape - Bilateral, Exam Table w/Stirrups, Fingertip Pulse Oximeter, Hospital Bed Mattress, Otoscope & Opthalmoscope, Oxygen Concentrator, Oxygen Nasal Cannula - Infant / Pediatric, Scale - Adult, Scale - Infant, Stool - Step, Stretcher - w/ mattress, Stryker Full Electric Hospital Bed w/o Mattress, Suction Canister w/Lid, Suction Catheter 10Fr, Suction Catheter 12Fr, Suction Catheter 8Fr, Suction Catheter w/ Glove, Suction Tubing Non-Conductive, Suction/Vacuum Pump, Voltage Converter, Walker - Adult, Walker - Adult, Walker - Hemi, Warmer - Blood/Fluid, X-Ray Apron",
         "total_item_quantity": "223",
         "handover_protocol_link_unique": "https://drive.google.com/file/d/15whyv7_UzGxGPfUJdrx_pE4uI6SfJLLG/view",
-        "picture_link_unique": "",
+        "picture_link_unique": "https://drive.google.com/file/d/13GmqltKXveDQiE4SunO6ILV1_d2v9sHX/view?usp=sharing",
         "item_list_eng_unique": "",
         "short_hospital_names_eng": "",
         "unnamed_24": "",
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": "https://www.aidpioneers.com/blog-news/equipping-seven-hospitals-across-benguela-province"
       }
     },
     {
@@ -23425,7 +23996,7 @@
         "cure_id_unique": "307323",
         "freight_forwarder": "Classic Cargo",
         "donor_unique": "ForAfrika",
-        "donor_logos": "https://drive.google.com/file/d/1fkoZlQu7dVUAD9IDY4n-8qIzvtgKOy7J/view?usp=drive_link",
+        "donor_logos": "https://drive.google.com/file/d/16gpK95tEOw4_Cs2eKjyBFUKCpyLRY4tj/view?usp=sharing",
         "country_unique": "Angola",
         "distribution_number_unique": "1",
         "distribution_id_unique": "ForAfrika1_08/26",
@@ -23439,14 +24010,15 @@
         "item_name_engukr_unique": "Adaptor/Connector, Airway - Oral Pharyngeal, Alcohol Prep Pads, Anesthesia - Face Mask Adult, Applicator - Rayon Tipped OB/GYN), Applicator - Single Tipped Cotton, Arm Sling/Immobilizer, Arthrex Instrumentation, Articulating Reload Endo GIA - Tri-Staple, Bag - Ice/Cold Pack, Bandage - Elastic/Two-Way Stretch(Ace), Basin Stand, Single w/ Bowl, Bath/Wash Basin - Plastic, Bib ** Adult, Bite Block - Oral, Bladder Protection Pad, Blade - Beaver, Blanket, Blood Collection / Infusion Set 21G X 3/4\", Blood Collection Tube Holder, Blood Plumset Y-Type, Blood Pressure Monitor - Automatic Digital, Blood Pressure Unit/Sphygmomanometer w/Cuff, Brace - Ankle Support, Brace - Walking Boot, Cabinet, Cane - Straight, Cap - Bouffant, Cart for Medical Gas Cylinders, Cast - Ortho-Glass/Tape, Catheter - Drainage, Catheter - Umbilical Vessel, Chair - Blood Draw, Chair - Procedure Exam, Circumcision Clamp, Clip Applier - Reusable, Cooler, Cotton/Prepping Balls, Crane pick elevator, Cytology Brush, Diaper - Disposable Child, Disposal Can Liners, Drape - Basic, Drape - Bilateral, Exam Table w/Stirrups, Fingertip Pulse Oximeter, Hospital Bed Mattress, Infant Incubator, Oxygen Concentrator, Oxygen Nasal Cannula - Adult, Oxygen Nasal Cannula - Infant / Pediatric, Patient Monitoring System, Scale - Infant, Stool, Stool - Exam, Stool - Step, Stretcher - w/ mattress, Stryker Full Electric Hospital Bed w/o Mattress, Suction Canister w/Lid, Suction Catheter 10Fr, Suction Catheter 12Fr, Suction Catheter 8Fr, Suction/Vacuum Pump, Syringe - Slip Tip, Voltage Converter, Walker - Adult, Warmer - Blood/Fluid, X-Ray Apron",
         "total_item_quantity": "106",
         "handover_protocol_link_unique": "https://drive.google.com/file/d/1BokTuzz-zzMWWc1l0Up_2qIe8tz1Jfgc/view",
-        "picture_link_unique": "",
+        "picture_link_unique": "https://drive.google.com/file/d/157xANfSgECToMP3V5aJxFIV9sL2dLSOZ/view?usp=sharing",
         "item_list_eng_unique": "",
         "short_hospital_names_eng": "",
         "unnamed_24": "",
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": "https://www.aidpioneers.com/blog-news/equipping-seven-hospitals-across-benguela-province"
       }
     },
     {
@@ -23464,7 +24036,7 @@
         "cure_id_unique": "307323",
         "freight_forwarder": "Classic Cargo",
         "donor_unique": "ForAfrika",
-        "donor_logos": "https://drive.google.com/file/d/1fkoZlQu7dVUAD9IDY4n-8qIzvtgKOy7J/view?usp=drive_link",
+        "donor_logos": "https://drive.google.com/file/d/16gpK95tEOw4_Cs2eKjyBFUKCpyLRY4tj/view?usp=sharing",
         "country_unique": "Angola",
         "distribution_number_unique": "1",
         "distribution_id_unique": "ForAfrika1_08/26",
@@ -23485,7 +24057,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": "https://www.aidpioneers.com/blog-news/equipping-seven-hospitals-across-benguela-province"
       }
     },
     {
@@ -23503,7 +24076,7 @@
         "cure_id_unique": "307323",
         "freight_forwarder": "Classic Cargo",
         "donor_unique": "ForAfrika",
-        "donor_logos": "https://drive.google.com/file/d/1fkoZlQu7dVUAD9IDY4n-8qIzvtgKOy7J/view?usp=drive_link",
+        "donor_logos": "https://drive.google.com/file/d/16gpK95tEOw4_Cs2eKjyBFUKCpyLRY4tj/view?usp=sharing",
         "country_unique": "Angola",
         "distribution_number_unique": "1",
         "distribution_id_unique": "ForAfrika1_08/26",
@@ -23524,7 +24097,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": "https://www.aidpioneers.com/blog-news/equipping-seven-hospitals-across-benguela-province"
       }
     },
     {
@@ -23542,7 +24116,7 @@
         "cure_id_unique": "307323",
         "freight_forwarder": "Classic Cargo",
         "donor_unique": "ForAfrika",
-        "donor_logos": "https://drive.google.com/file/d/1fkoZlQu7dVUAD9IDY4n-8qIzvtgKOy7J/view?usp=drive_link",
+        "donor_logos": "https://drive.google.com/file/d/16gpK95tEOw4_Cs2eKjyBFUKCpyLRY4tj/view?usp=sharing",
         "country_unique": "Angola",
         "distribution_number_unique": "1",
         "distribution_id_unique": "ForAfrika1_08/26",
@@ -23563,7 +24137,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": "https://www.aidpioneers.com/blog-news/equipping-seven-hospitals-across-benguela-province"
       }
     },
     {
@@ -23581,7 +24156,7 @@
         "cure_id_unique": "307323",
         "freight_forwarder": "Classic Cargo",
         "donor_unique": "ForAfrika",
-        "donor_logos": "https://drive.google.com/file/d/1fkoZlQu7dVUAD9IDY4n-8qIzvtgKOy7J/view?usp=drive_link",
+        "donor_logos": "https://drive.google.com/file/d/16gpK95tEOw4_Cs2eKjyBFUKCpyLRY4tj/view?usp=sharing",
         "country_unique": "Angola",
         "distribution_number_unique": "1",
         "distribution_id_unique": "ForAfrika1_08/26",
@@ -23602,7 +24177,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": "https://www.aidpioneers.com/blog-news/equipping-seven-hospitals-across-benguela-province"
       }
     },
     {
@@ -23620,7 +24196,7 @@
         "cure_id_unique": "307323",
         "freight_forwarder": "Classic Cargo",
         "donor_unique": "ForAfrika",
-        "donor_logos": "https://drive.google.com/file/d/1fkoZlQu7dVUAD9IDY4n-8qIzvtgKOy7J/view?usp=drive_link",
+        "donor_logos": "https://drive.google.com/file/d/16gpK95tEOw4_Cs2eKjyBFUKCpyLRY4tj/view?usp=sharing",
         "country_unique": "Angola",
         "distribution_number_unique": "1",
         "distribution_id_unique": "ForAfrika1_08/26",
@@ -23641,7 +24217,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": "https://www.aidpioneers.com/blog-news/equipping-seven-hospitals-across-benguela-province"
       }
     },
     {
@@ -23680,7 +24257,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -23719,7 +24297,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -23758,7 +24337,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -23797,7 +24377,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -23836,7 +24417,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -23875,7 +24457,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -23914,7 +24497,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -23953,7 +24537,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -23992,7 +24577,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -24031,7 +24617,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -24070,7 +24657,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -24109,7 +24697,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -24148,7 +24737,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -24187,7 +24777,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -24226,7 +24817,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -24265,7 +24857,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -24304,7 +24897,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -24343,7 +24937,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -24382,7 +24977,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -24421,7 +25017,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -24460,7 +25057,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -24499,7 +25097,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -24538,7 +25137,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     },
     {
@@ -24577,7 +25177,8 @@
         "unnamed_25": "",
         "unnamed_26": "",
         "unique_shipment_ids": "",
-        "gikvalue_of_goods": ""
+        "gikvalue_of_goods": "",
+        "blogpost": ""
       }
     }
   ]
